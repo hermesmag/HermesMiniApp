@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1" />
+  <title>HERMES — مجلهٔ ادبی هنری هرمس</title>
+  <meta name="description" content="مجلهٔ ادبی هنری هرمس: شعر جهان، اخبار ادبی، نقاشی و ادبیات فارسی." />
+  <meta name="theme-color" content="#050508" />
+  <link rel="stylesheet" href="css/main.css" />
+</head>
+<body>
+
+  <!-- ==================== PARTICLE BURST INTRO ==================== -->
+  <div id="intro" aria-hidden="true">
+    <canvas id="intro-canvas"></canvas>
+    
+    <div class="intro__stage">
+      <div class="intro__burst-glow"></div>
+      
+      <div class="intro__header">
+        <span class="intro__vol">VOL. I · NO. 1</span>
+        <h1 class="intro__brand">HERMES</h1>
+        <div class="intro__gold-line"></div>
+      </div>
+
+      <div class="intro__realms">
+        <span class="intro__realm-item">WORLD POETRY</span>
+        <span class="intro__dot">·</span>
+        <span class="intro__realm-item">LITERARY NEWS</span>
+        <span class="intro__dot">·</span>
+        <span class="intro__realm-item">PAINTING</span>
+        <span class="intro__dot">·</span>
+        <span class="intro__realm-item">PERSIAN LITERATURE</span>
+      </div>
+
+      <div class="intro__signature">
+        <span class="intro__sig-fa">مجلهٔ ادبی هنری <strong class="intro__sig-gold">هرمس</strong></span>
+      </div>
+    </div>
+
+    <button id="intro-skip" class="intro__skip" type="button" aria-label="Skip intro">SKIP</button>
+  </div>
+
+  <!-- ==================== APP ROOT ==================== -->
+  <div id="app-root">
+    <header class="topbar">
+      <button id="topbar-back" class="topbar__back" type="button" aria-label="بازگشت">
+        <span aria-hidden="true">←</span> بازگشت
+      </button>
+      <span id="topbar-crumb" class="topbar__crumb"></span>
+      <a href="#/" class="topbar__brand" aria-label="HERMES — صفحهٔ اصلی">HERMES</a>
+    </header>
+
+    <main id="view" role="main"></main>
+  </div>
+
+  <script src="js/router.js"></script>
+  <script src="js/intro.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,189 @@
+{
+  "authors": [
+    {
+      "name": "ناصرخسرو",
+      "item_count": 3,
+      "items": [
+        {
+          "id": "h-4c28f1c6ea79",
+          "title": "قصیدهٔ شمارهٔ ۲۴۹",
+          "author": "ناصر خسرو",
+          "book": "",
+          "form": "",
+          "century": null,
+          "char_count": null,
+          "familiarity_tier": "",
+          "day_of_year": null,
+          "published": "2026-08-10T11:27:57+03:30",
+          "post_id": ""
+        },
+        {
+          "id": "h-c560ad3d2cf5",
+          "title": "قصیدهٔ شمارهٔ ۲۲",
+          "author": "ناصر خسرو",
+          "book": "",
+          "form": "",
+          "century": null,
+          "char_count": null,
+          "familiarity_tier": "",
+          "day_of_year": null,
+          "published": "2026-08-12T02:11:09+03:30",
+          "post_id": ""
+        },
+        {
+          "id": "h-d2f24b9e5a8a",
+          "title": "قصیدهٔ شمارهٔ ۱۳۴",
+          "author": "ناصرخسرو",
+          "book": "",
+          "form": "",
+          "century": null,
+          "char_count": null,
+          "familiarity_tier": "",
+          "day_of_year": null,
+          "published": "2026-08-16T10:27:52+03:30",
+          "post_id": ""
+        }
+      ]
+    },
+    {
+      "name": "سنایی",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "h-9495cdf2d0a1",
+          "title": "شمارهٔ  ۷",
+          "author": "سنایی",
+          "book": "",
+          "form": "",
+          "century": null,
+          "char_count": null,
+          "familiarity_tier": "",
+          "day_of_year": null,
+          "published": "2026-08-10T11:27:19+03:30",
+          "post_id": ""
+        },
+        {
+          "id": "h-84d94bf6b0d7",
+          "title": "شمارهٔ  ۲۱",
+          "author": "سنایی",
+          "book": "",
+          "form": "",
+          "century": null,
+          "char_count": null,
+          "familiarity_tier": "",
+          "day_of_year": null,
+          "published": "2026-08-11T15:13:35+03:30",
+          "post_id": ""
+        }
+      ]
+    },
+    {
+      "name": "مرصادالعباد",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "h-b397a3e44c71",
+          "title": "فصل شانزدهم",
+          "author": "مرصادالعباد",
+          "book": "",
+          "form": "",
+          "century": null,
+          "char_count": null,
+          "familiarity_tier": "",
+          "day_of_year": null,
+          "published": "2026-08-10T11:26:32+03:30",
+          "post_id": ""
+        },
+        {
+          "id": "h-46263c37a16d",
+          "title": "مقدمه",
+          "author": "مرصادالعباد",
+          "book": "",
+          "form": "",
+          "century": null,
+          "char_count": null,
+          "familiarity_tier": "",
+          "day_of_year": null,
+          "published": "2026-08-12T01:46:44+03:30",
+          "post_id": ""
+        }
+      ]
+    },
+    {
+      "name": "رودکی",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "local://roodaki_qasida/10",
+          "title": "شمارهٔ ۱۰",
+          "author": "رودکی",
+          "book": "دیوان رودکی",
+          "form": "qasida",
+          "century": 4,
+          "char_count": 1228,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 2,
+          "published": "2026-08-15T19:41:08+03:30",
+          "post_id": ""
+        }
+      ]
+    },
+    {
+      "name": "سعدی شیرازی",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "local://golestan/121",
+          "title": "حکایت شمارهٔ ۵",
+          "author": "سعدی شیرازی",
+          "book": "گلستان",
+          "form": "prose",
+          "century": 7,
+          "char_count": 474,
+          "familiarity_tier": "Known Masterpiece",
+          "day_of_year": 1,
+          "published": "2026-08-14T20:56:02+03:30",
+          "post_id": ""
+        }
+      ]
+    },
+    {
+      "name": "صائب تبریزی",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "h-a69ed90a2bd2",
+          "title": "غزل شمارهٔ ۲۸۷۱",
+          "author": "صائب تبریزی",
+          "book": "",
+          "form": "",
+          "century": null,
+          "char_count": null,
+          "familiarity_tier": "",
+          "day_of_year": null,
+          "published": "2026-08-16T10:26:08+03:30",
+          "post_id": ""
+        }
+      ]
+    },
+    {
+      "name": "منوچهری",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "h-97fee95911e8",
+          "title": "شمارهٔ ۴۹ - در وصف شراب فرماید",
+          "author": "منوچهری",
+          "book": "",
+          "form": "",
+          "century": null,
+          "char_count": null,
+          "familiarity_tier": "",
+          "day_of_year": null,
+          "published": "2026-08-12T04:00:17+03:30",
+          "post_id": ""
+        }
+      ]
+    }
+  ]
+}

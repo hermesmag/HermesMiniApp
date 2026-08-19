@@ -1,0 +1,975 @@
+/* ==========================================================================
+   HERMES Mini App — Unified Stylesheet & Editorial Typography System
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. FONT DECLARATIONS (@font-face)
+   -------------------------------------------------------------------------- */
+
+/* --- Humane (Intro Wordmark Only) --- */
+@font-face {
+  font-family: "Humane";
+  src: url("../assets/fonts/Humane-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- MADE Kenfolg (English Editorial Serif) --- */
+@font-face {
+  font-family: "MADE Kenfolg";
+  src: url("../assets/fonts/MADE Kenfolg v2 PERSONAL USE.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- Geist (English Metadata & Numbers) --- */
+@font-face {
+  font-family: "Geist";
+  src: url("../assets/fonts/Geist-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Geist";
+  src: url("../assets/fonts/Geist-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- W_badr (Classical Literature / Metadata) --- */
+@font-face {
+  font-family: "Badr";
+  src: url("../assets/fonts/W_badr.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Badr";
+  src: url("../assets/fonts/W_badr Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- XB Niloofar (Literary & Poetry Family) --- */
+@font-face {
+  font-family: "XB Niloofar";
+  src: url("../assets/fonts/XB Niloofar.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "XB Niloofar";
+  src: url("../assets/fonts/XB NiloofarBd.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "XB Niloofar";
+  src: url("../assets/fonts/XB NiloofarIt.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "XB Niloofar";
+  src: url("../assets/fonts/XB NiloofarBdIt.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* --- Vazirmatn (UI & Clean Reading Font) --- */
+@font-face {
+  font-family: "Vazirmatn";
+  src: url("../assets/fonts/Vazirmatn-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vazirmatn";
+  src: url("../assets/fonts/Vazirmatn-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --------------------------------------------------------------------------
+   2. SYSTEM VARIABLES & BASE RESET
+   -------------------------------------------------------------------------- */
+:root {
+  --bg: #050508;
+  --bg-card: #0c0c12;
+  --bg-card-hover: #12121a;
+  --border: rgba(233, 230, 221, 0.08);
+  --border-gold: rgba(201, 179, 126, 0.45);
+  --ink: #f2efe9;
+  --ink-dim: #a5a29c;
+  --ink-muted: #605e69;
+  --gold: #c9b37e;
+  --gold-glow: rgba(201, 179, 126, 0.25);
+
+  /* Strictly Defined Typography Stacks */
+  --font-ui: "Vazirmatn", -apple-system, BlinkMacSystemFont, Tahoma, sans-serif;
+  --font-niloofar: "XB Niloofar", "Vazirmatn", serif;
+  --font-badr: "Badr", "XB Niloofar", "Vazirmatn", serif;
+  --font-kenfolg: "MADE Kenfolg", "Georgia", serif;
+  --font-geist: "Geist", -apple-system, sans-serif;
+  --font-humane: "Humane", sans-serif;
+
+  --ease-cinematic: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html, body {
+  width: 100%;
+  min-height: 100%;
+  background-color: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-ui);
+  direction: rtl;
+  overflow-x: hidden;
+}
+
+.latin {
+  font-family: var(--font-kenfolg);
+  direction: ltr;
+  display: inline-block;
+}
+
+.font-geist {
+  font-family: var(--font-geist);
+  direction: ltr;
+  display: inline-block;
+}
+
+.font-niloofar { font-family: var(--font-niloofar); }
+.font-niloofar-bold { font-family: var(--font-niloofar); font-weight: 700; }
+.font-niloofar-italic { font-family: var(--font-niloofar); font-style: italic; }
+.font-badr { font-family: var(--font-badr); }
+.font-badr-bold { font-family: var(--font-badr); font-weight: 700; }
+.font-vazir-bold { font-family: var(--font-ui); font-weight: 700; }
+.font-kenfolg { font-family: var(--font-kenfolg); }
+.font-ui { font-family: var(--font-ui); }
+
+/* --------------------------------------------------------------------------
+   3. INTRO SYSTEM (Humane-SemiBold Logo Only)
+   -------------------------------------------------------------------------- */
+
+#intro {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background-color: var(--bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 1;
+  transition: opacity 0.65s var(--ease-cinematic), visibility 0.65s;
+}
+
+#intro.intro--leaving { opacity: 0; }
+#intro.intro--hidden { display: none !important; opacity: 0; visibility: hidden; pointer-events: none; }
+
+#intro-canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.intro__stage {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+  max-width: 500px;
+}
+
+.intro__burst-glow {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.2);
+  width: 320px;
+  height: 320px;
+  background: radial-gradient(circle, var(--gold-glow) 0%, transparent 70%);
+  opacity: 0;
+  pointer-events: none;
+  transition: transform 1.2s var(--ease-cinematic), opacity 1.2s ease;
+}
+
+.intro__header {
+  opacity: 0;
+  transform: scale(0.85);
+  filter: blur(8px);
+  transition: transform 0.9s var(--ease-cinematic), opacity 0.9s ease, filter 0.9s ease;
+}
+
+.intro__vol {
+  display: block;
+  font-family: var(--font-geist);
+  font-size: 11px;
+  letter-spacing: 4px;
+  color: var(--gold);
+  margin-bottom: 4px;
+}
+
+/* HERMES Wordmark in Intro — ONLY place with Humane-SemiBold */
+.intro__brand {
+  font-family: "Humane", sans-serif;
+  font-weight: 600;
+  font-size: clamp(80px, 22vw, 120px);
+  letter-spacing: 8px;
+  line-height: 0.85;
+  color: var(--ink);
+  text-shadow: 0 0 35px rgba(201, 179, 126, 0.45);
+}
+
+.intro__gold-line {
+  width: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+  margin: 14px auto 0;
+  transition: width 1s var(--ease-cinematic);
+}
+
+.intro__realms {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 24px;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: all 0.6s var(--ease-cinematic);
+}
+
+.intro__realm-item {
+  font-family: var(--font-kenfolg);
+  font-size: 10px;
+  letter-spacing: 1.5px;
+  color: var(--ink-dim);
+}
+
+.intro__dot { color: var(--gold); font-size: 12px; }
+
+.intro__signature {
+  position: absolute;
+  bottom: -40px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  opacity: 0;
+  transition: all 0.6s var(--ease-cinematic);
+}
+
+.intro__sig-fa {
+  font-family: var(--font-niloofar);
+  font-size: 18px;
+  color: var(--ink);
+  letter-spacing: 1px;
+}
+
+.intro__sig-gold {
+  color: var(--gold);
+  font-weight: 700;
+}
+
+.intro--burst .intro__burst-glow { transform: translate(-50%, -50%) scale(1.6); opacity: 1; }
+.intro--burst .intro__header { opacity: 1; transform: scale(1); filter: blur(0); }
+.intro--burst .intro__gold-line { width: 160px; }
+.intro--show-realms .intro__realms { opacity: 1; transform: translateY(0); }
+.intro--show-sig .intro__realms { opacity: 0; transform: translateY(-8px); }
+.intro--show-sig .intro__signature { opacity: 1; bottom: -20px; }
+
+.intro__skip {
+  position: absolute;
+  bottom: 24px;
+  inset-inline-end: 24px;
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--ink-muted);
+  font-family: var(--font-geist);
+  font-size: 11px;
+  letter-spacing: 2px;
+  padding: 6px 14px;
+  cursor: pointer;
+  z-index: 10;
+  transition: all 0.3s ease;
+}
+
+.intro__skip:hover { color: var(--gold); border-color: var(--border-gold); }
+
+/* --------------------------------------------------------------------------
+   4. APP SHELL & TOPBAR
+   -------------------------------------------------------------------------- */
+
+#app-root {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.5s ease;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#app-root.visible { opacity: 1; visibility: visible; }
+
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: rgba(5, 5, 8, 0.88);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--border);
+  height: 58px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 22px;
+}
+
+.topbar__brand {
+  color: var(--ink);
+  font-family: var(--font-kenfolg);
+  font-size: 18px;
+  letter-spacing: 4px;
+  text-decoration: none;
+}
+
+.topbar__crumb {
+  font-family: var(--font-niloofar);
+  font-size: 14px;
+  color: var(--ink-dim);
+  max-width: 180px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.topbar__back {
+  background: transparent;
+  border: none;
+  color: var(--ink-dim);
+  font-family: var(--font-ui);
+  font-size: 13px;
+  cursor: pointer;
+  display: none;
+  align-items: center;
+  gap: 6px;
+  transition: color 0.2s;
+}
+
+.topbar__back:hover { color: var(--gold); }
+.topbar__back.is-visible { display: inline-flex; }
+
+/* --------------------------------------------------------------------------
+   5. HOME VIEW (Unified XB Niloofar Titles for All 4 Cards)
+   -------------------------------------------------------------------------- */
+
+.home-stage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding-bottom: 30px;
+}
+
+.stage-header {
+  padding: 34px 20px 18px;
+  text-align: center;
+}
+
+.stage-header__eyebrow {
+  font-family: var(--font-geist);
+  font-size: 10px;
+  letter-spacing: 3px;
+  color: var(--gold);
+  display: block;
+  margin-bottom: 6px;
+}
+
+.stage-header__logo {
+  font-family: var(--font-kenfolg);
+  font-size: clamp(34px, 8vw, 48px);
+  letter-spacing: 6px;
+  line-height: 1.1;
+  margin-bottom: 8px;
+  color: var(--ink);
+  text-shadow: 0 4px 24px rgba(0,0,0,0.8);
+}
+
+.stage-header__sub {
+  font-family: var(--font-niloofar);
+  font-size: 14px;
+  color: var(--ink-dim);
+  letter-spacing: 0.5px;
+}
+
+.showcase-wrapper {
+  width: 100%;
+  max-width: 1100px;
+  position: relative;
+  margin: 8px 0 24px;
+}
+
+.showcase-track {
+  display: flex;
+  gap: 20px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  padding: 20px calc(50vw - min(43vw, 175px)) 30px;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+
+.showcase-track::-webkit-scrollbar { display: none; }
+
+.showcase-card {
+  flex: 0 0 min(86vw, 350px);
+  scroll-snap-align: center;
+  height: 480px;
+  background-color: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 28px;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 26px 24px;
+  cursor: pointer;
+  outline: none;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.7);
+  transition: transform 0.45s var(--ease-cinematic), border-color 0.45s ease, box-shadow 0.45s ease;
+}
+
+.showcase-card:hover,
+.showcase-card.is-active {
+  border-color: var(--border-gold);
+  transform: translateY(-6px);
+  box-shadow: 0 30px 70px rgba(0, 0, 0, 0.95), 0 0 35px var(--gold-glow);
+}
+
+.showcase-card__image {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  transition: transform 0.7s var(--ease-cinematic);
+  z-index: 1;
+}
+
+.showcase-card:hover .showcase-card__image,
+.showcase-card.is-active .showcase-card__image {
+  transform: scale(1.06);
+}
+
+.showcase-card__scrim {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(7,7,10,0.15) 0%, rgba(7,7,10,0.5) 45%, rgba(5,5,8,0.95) 85%);
+  z-index: 2;
+}
+
+.showcase-card__badge {
+  position: relative;
+  z-index: 3;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.showcase-card__badge-icon {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: rgba(7, 7, 10, 0.6);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(233, 230, 221, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--gold);
+}
+
+.showcase-card__badge-sub {
+  font-family: var(--font-geist);
+  font-size: 10px;
+  letter-spacing: 2px;
+  color: var(--ink-dim);
+  text-shadow: 0 1px 4px rgba(0,0,0,0.8);
+}
+
+.showcase-card__bottom {
+  position: relative;
+  z-index: 3;
+}
+
+.showcase-card__latin-tag {
+  font-family: var(--font-kenfolg);
+  font-size: 13px;
+  letter-spacing: 2px;
+  color: var(--gold);
+  margin-bottom: 6px;
+}
+
+/* عناوین یکدست ۴ بخش اصلی با فونت نیلوفر بولد */
+.showcase-card__fa-title {
+  font-family: "XB Niloofar", serif;
+  font-weight: 700;
+  font-size: 30px;
+  color: var(--ink);
+  line-height: 1.25;
+  margin-bottom: 16px;
+  text-shadow: 0 3px 16px rgba(0,0,0,0.9);
+}
+
+.showcase-card__footer {
+  border-top: 1px solid rgba(233, 230, 221, 0.1);
+  padding-top: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.showcase-card__cta {
+  font-family: var(--font-niloofar);
+  font-size: 14px;
+  color: var(--ink-dim);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: color 0.3s;
+}
+
+.showcase-card__cta-arrow {
+  font-size: 15px;
+  transition: transform 0.3s;
+}
+
+.showcase-card:hover .showcase-card__cta,
+.showcase-card.is-active .showcase-card__cta {
+  color: var(--gold);
+}
+
+.showcase-card:hover .showcase-card__cta-arrow,
+.showcase-card.is-active .showcase-card__cta-arrow {
+  transform: translateX(-5px);
+}
+
+.showcase-card__num {
+  font-family: var(--font-geist);
+  font-size: 13px;
+  letter-spacing: 2px;
+  color: var(--ink-muted);
+}
+
+.showcase-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+.carousel-pill {
+  width: 14px;
+  height: 3px;
+  border-radius: 2px;
+  background: rgba(233, 230, 221, 0.12);
+  transition: all 0.35s var(--ease-cinematic);
+}
+
+.carousel-pill.is-active {
+  background: var(--gold);
+  width: 32px;
+  box-shadow: 0 0 10px var(--gold-glow);
+}
+
+.stage-footer {
+  text-align: center;
+  font-family: var(--font-geist);
+  font-size: 10px;
+  letter-spacing: 3px;
+  color: var(--ink-muted);
+  padding: 16px 0 24px;
+}
+
+/* --------------------------------------------------------------------------
+   6. LISTS & CATEGORY HEADERS
+   -------------------------------------------------------------------------- */
+
+.list-header {
+  padding: 26px 20px 18px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 18px;
+}
+
+.list-header__title-en {
+  font-family: var(--font-kenfolg);
+  font-size: 14px;
+  letter-spacing: 2px;
+  color: var(--gold);
+  margin-bottom: 4px;
+}
+
+.list-header__title-fa {
+  font-family: "XB Niloofar", serif;
+  font-weight: 700;
+  font-size: 26px;
+  color: var(--ink);
+}
+
+.author-list, .news-list, .item-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 0 18px 36px;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.author-card, .news-card, .item-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 18px 20px;
+  display: block;
+  width: 100%;
+  text-align: right;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  font-family: inherit;
+  color: inherit;
+}
+
+.author-card:hover, .news-card:hover, .item-card:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--border-gold);
+  transform: translateY(-2px);
+}
+
+.author-card__name {
+  font-family: var(--font-kenfolg);
+  font-size: 16px;
+  letter-spacing: 1px;
+  color: var(--ink);
+  margin-bottom: 4px;
+}
+
+.author-card__bio {
+  font-family: var(--font-niloofar);
+  font-size: 14px;
+  color: var(--ink-dim);
+  margin-bottom: 6px;
+}
+
+.author-card__count {
+  font-family: var(--font-geist);
+  font-size: 11px;
+  letter-spacing: 1.5px;
+  color: var(--gold);
+}
+
+/* --------------------------------------------------------------------------
+   7. POETRY DETAIL & AUTHOR PROFILE (XB Niloofar & MADE Kenfolg)
+   -------------------------------------------------------------------------- */
+
+.profile {
+  padding: 28px 20px 24px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 24px;
+  max-width: 640px;
+  margin-inline: auto;
+}
+
+.profile__name-en {
+  font-family: var(--font-kenfolg);
+  font-size: 24px;
+  letter-spacing: 2px;
+  color: var(--ink);
+  margin-bottom: 6px;
+}
+
+.profile__name-fa {
+  font-family: "XB Niloofar", serif;
+  font-size: 16px;
+  color: var(--ink-dim);
+  line-height: 1.8;
+  margin-bottom: 12px;
+}
+
+.profile__meta {
+  font-family: var(--font-geist);
+  font-size: 11px;
+  letter-spacing: 2px;
+  color: var(--gold);
+}
+
+.poem-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 0 18px 48px;
+  max-width: 640px;
+  margin-inline: auto;
+}
+
+.poem-list__label {
+  font-family: var(--font-geist);
+  font-size: 11px;
+  letter-spacing: 2.5px;
+  color: var(--ink-muted);
+  margin-bottom: 8px;
+  border-bottom: 1px solid rgba(233, 230, 221, 0.05);
+  padding-bottom: 8px;
+}
+
+.poem-list__item {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 16px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  text-align: right;
+  width: 100%;
+  cursor: pointer;
+  outline: none;
+  font-family: inherit;
+  color: var(--ink);
+  transition: all 0.25s var(--ease-cinematic);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+.poem-list__item:hover,
+.poem-list__item:active {
+  background: var(--bg-card-hover);
+  border-color: var(--border-gold);
+  transform: translateY(-2px);
+}
+
+.poem-list__item span.latin {
+  font-family: var(--font-kenfolg);
+  font-size: 15px;
+  letter-spacing: 0.5px;
+  color: var(--ink);
+  text-align: left;
+}
+
+.poem-list__item-title-fa {
+  font-family: "XB Niloofar", serif;
+  font-size: 15px;
+  color: var(--ink-dim);
+}
+
+.poem-list__item-date {
+  font-family: var(--font-ui);
+  font-size: 11px;
+  color: var(--gold);
+  margin-top: 4px;
+  text-align: left;
+}
+
+/* --------------------------------------------------------------------------
+   8. PERSIAN LITERATURE (Titles with XB Niloofar, Metadata with W_badr)
+   -------------------------------------------------------------------------- */
+
+.item-card--persian .item-card__title {
+  font-family: "XB Niloofar", serif;
+  font-weight: 700;
+  font-size: 18px;
+  color: var(--ink);
+  margin-bottom: 6px;
+}
+
+.item-card--persian .item-card__meta,
+.item-card--persian .item-card__author {
+  font-family: "Badr", serif;
+  font-size: 14px;
+  color: var(--ink-dim);
+  margin-bottom: 4px;
+}
+
+.item-card--persian .item-card__date {
+  font-family: var(--font-ui);
+  font-size: 11px;
+  color: var(--gold);
+}
+
+/* --------------------------------------------------------------------------
+   9. PAINTING & NEWS & DETAIL PAGES
+   -------------------------------------------------------------------------- */
+
+.item-list--wide {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 16px;
+}
+
+.item-card__media {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  background: #000;
+  border-radius: 10px;
+  margin-bottom: 12px;
+  overflow: hidden;
+}
+
+.item-card__media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.img-fallback {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-geist);
+  color: var(--ink-muted);
+  font-size: 12px;
+  border: 1px dashed var(--border);
+}
+
+.item-card__title {
+  font-family: "XB Niloofar", serif;
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+
+.item-card__meta {
+  font-family: var(--font-geist);
+  font-size: 11px;
+  color: var(--ink-muted);
+}
+
+.news-card__source {
+  font-family: var(--font-kenfolg);
+  font-size: 12px;
+  letter-spacing: 1.5px;
+  color: var(--gold);
+  margin-bottom: 4px;
+}
+
+.news-card__title {
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1.6;
+  margin-bottom: 6px;
+}
+
+.news-card__date {
+  font-family: var(--font-ui);
+  font-size: 11px;
+  color: var(--ink-muted);
+}
+
+.detail-page {
+  padding: 24px 20px 48px;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.detail-page__eyebrow {
+  font-family: var(--font-kenfolg);
+  font-size: 12px;
+  letter-spacing: 2px;
+  color: var(--gold);
+  margin-bottom: 6px;
+}
+
+.detail-page__title {
+  font-family: "XB Niloofar", serif;
+  font-weight: 700;
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+.detail-page__meta {
+  font-family: "Badr", serif;
+  font-size: 14px;
+  color: var(--ink-dim);
+  margin-bottom: 16px;
+}
+
+.detail-page__media {
+  width: 100%;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  margin: 16px 0;
+  overflow: hidden;
+}
+
+.detail-page__media img {
+  width: 100%;
+  display: block;
+}
+
+.detail-page__link {
+  margin-top: 24px;
+}
+
+.detail-page__link-btn {
+  display: inline-block;
+  background: transparent;
+  border: 1px solid var(--gold);
+  color: var(--gold);
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-family: var(--font-geist);
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  transition: all 0.25s;
+}
+
+.detail-page__link-btn:hover {
+  background: var(--gold);
+  color: var(--bg);
+}
+
+.state-message {
+  padding: 40px 20px;
+  text-align: center;
+  font-family: var(--font-niloofar);
+  color: var(--ink-dim);
+  font-size: 15px;
+}
