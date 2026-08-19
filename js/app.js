@@ -131,7 +131,8 @@
 
   async function fetchJSON(path) {
     if (cache.has(path)) return cache.get(path);
-    const res = await fetch(path, { cache: "force-cache" });
+    // Use no-cache to avoid aggressive locking on empty payloads in Telegram Desktop
+    const res = await fetch(path, { cache: "no-cache" });
     if (!res.ok) throw new Error("Failed to load " + path);
     const json = await res.json();
     cache.set(path, json);
@@ -570,7 +571,7 @@
   }
 
   function openPostLink(link, postId) {
-    const id = (postId || "").trim();
+    const id = postId ? String(postId).trim() : "";
     const channel = id ? TELEGRAM_CHANNEL + "/" + id : null;
 
     // Channel post link: first-class, always stays inside Telegram.

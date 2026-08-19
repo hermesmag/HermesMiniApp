@@ -444,13 +444,18 @@ html, body {
 
 .showcase-track {
   display: flex;
-  gap: 20px;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
   scroll-behavior: smooth;
-  padding: 20px calc(50vw - min(43vw, 175px)) 30px;
+  padding: 20px 0 30px;
   -webkit-overflow-scrolling: touch;
   scrollbar-width: none;
+}
+
+.showcase-track::before,
+.showcase-track::after {
+  content: "";
+  flex: 0 0 calc(50vw - min(43vw, 175px));
 }
 
 .showcase-track::-webkit-scrollbar { display: none; }
@@ -458,6 +463,7 @@ html, body {
 .showcase-card {
   flex: 0 0 min(86vw, 350px);
   scroll-snap-align: center;
+  margin-left: 20px;
   height: 480px;
   background-color: var(--bg-card);
   border: 1px solid var(--border);
