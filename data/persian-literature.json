@@ -110,25 +110,6 @@
       ]
     },
     {
-      "name": "اسرارالتوحید",
-      "item_count": 1,
-      "items": [
-        {
-          "id": "local://asrar_altowhid/387",
-          "title": "شمارهٔ  ۱۳۷",
-          "author": "اسرارالتوحید",
-          "book": "",
-          "form": "",
-          "century": null,
-          "char_count": 335,
-          "familiarity_tier": "",
-          "day_of_year": null,
-          "published": "2026-08-12T08:52:59+03:30",
-          "post_id": 72
-        }
-      ]
-    },
-    {
       "name": "رودکی",
       "item_count": 1,
       "items": [

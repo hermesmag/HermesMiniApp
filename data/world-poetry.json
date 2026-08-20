@@ -149,6 +149,25 @@
       ]
     },
     {
+      "name": "Charles Baudelaire",
+      "name_fa": "شاعر فرانسوی (۱۸۲۱–۱۸۶۷)، شاعر تأثیرگذار مدرنیسم",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-004",
+          "title": "Dance of Death",
+          "title_original": "Danse Macabre",
+          "original_language": "French",
+          "epoch": "19th Century",
+          "book": "The Poems and Prose Poems of Charles Baudelaire / with an Introductory Preface by James Huneker",
+          "translator": "F.P. Sturm",
+          "published": "2026-08-19T14:03:00+03:30",
+          "telegraph_url": null,
+          "post_id": 155
+        }
+      ]
+    },
+    {
       "name": "Emily Dickinson",
       "name_fa": "شاعر آمریکایی (۱۸۳۰–۱۸۸۶)، از بزرگ‌ترین شاعران تاریخ ادبیات جهان",
       "poem_count": 1,
@@ -187,25 +206,6 @@
       ]
     },
     {
-      "name": "Jane Kenyon",
-      "name_fa": null,
-      "poem_count": 1,
-      "poems": [
-        {
-          "id": "h-wp-august-morning",
-          "title": "August Morning",
-          "title_original": "",
-          "original_language": "English",
-          "epoch": "Contemporary",
-          "book": "",
-          "translator": "",
-          "published": "2026-08-18T08:09:51+03:30",
-          "telegraph_url": null,
-          "post_id": 141
-        }
-      ]
-    },
-    {
       "name": "Johann Wolfgang von Goethe",
       "name_fa": "شاعر، نویسنده و فیلسوف آلمانی (۱۷۴۹–۱۸۳۲)، غول ادبیات جهان",
       "poem_count": 1,
@@ -225,25 +225,6 @@
       ]
     },
     {
-      "name": "Mark Doty",
-      "name_fa": null,
-      "poem_count": 1,
-      "poems": [
-        {
-          "id": "h-wp-golden-retrievals",
-          "title": "Golden Retrievals",
-          "title_original": "",
-          "original_language": "English",
-          "epoch": "Contemporary",
-          "book": "",
-          "translator": "",
-          "published": "2026-08-12T06:49:26+03:30",
-          "telegraph_url": null,
-          "post_id": 56
-        }
-      ]
-    },
-    {
       "name": "T. S. Eliot",
       "name_fa": "شاعر و منتقد آمریکایی-بریتانیایی (۱۸۸۸–۱۹۶۵)، برنده نوبل ادبیات ۱۹۴۸",
       "poem_count": 1,
@@ -259,25 +240,6 @@
           "published": "2026-08-12T19:26:43+03:30",
           "telegraph_url": null,
           "post_id": 76
-        }
-      ]
-    },
-    {
-      "name": "World Poetry",
-      "name_fa": null,
-      "poem_count": 1,
-      "poems": [
-        {
-          "id": "h-wp-057e1e8c3b",
-          "title": "جهان",
-          "title_original": "",
-          "original_language": "",
-          "epoch": "",
-          "book": "",
-          "translator": "",
-          "published": "2026-08-14T10:22:48+03:30",
-          "telegraph_url": null,
-          "post_id": 85
         }
       ]
     }
