@@ -81,21 +81,21 @@
       ]
     },
     {
-      "name": "Marcel Duchamp",
+      "name": "Gustav Klimt",
       "painting_count": 1,
       "paintings": [
         {
-          "id": "artic_47141",
-          "title": "Nude Seated in a Bathtub",
-          "artist": "Marcel Duchamp",
+          "id": "artic_180671",
+          "title": "Seated Woman from the Front with Hat, Face Hooded",
+          "artist": "Gustav Klimt",
           "year": "1910",
           "museum": "Art Institute of Chicago",
-          "movement": "Modernism",
-          "medium": "Oil on canvas",
-          "country": "France",
-          "image_url": "https://www.artic.edu/iiif/2/e438d818-9c7b-824a-74f9-5b1e663ad7a4/full/900,/0/default.jpg",
-          "published": "2026-08-10T10:00:00+03:30",
-          "original_url": "https://www.artic.edu/iiif/2/e438d818-9c7b-824a-74f9-5b1e663ad7a4/full/900,/0/default.jpg",
+          "movement": "Art Nouveau",
+          "medium": "Graphite on paper",
+          "country": "Austria",
+          "image_url": "https://www.artic.edu/iiif/2/7936867b-74ab-7347-51f0-9ab14d050e9d/full/900,/0/default.jpg",
+          "published": "2026-08-18T21:05:40+03:30",
+          "original_url": "https://www.artic.edu/iiif/2/7936867b-74ab-7347-51f0-9ab14d050e9d/full/900,/0/default.jpg",
           "post_id": 143
         }
       ]
