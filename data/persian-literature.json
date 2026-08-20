@@ -46,6 +46,38 @@
       ]
     },
     {
+      "name": "بیدل دهلوی",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "local://bidel/1458",
+          "title": "غزل شمارهٔ ۱۴۵۸",
+          "author": "بیدل دهلوی",
+          "book": "دیوان بیدل",
+          "form": "ghazal",
+          "century": 12,
+          "char_count": 526,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 6,
+          "published": "2026-08-18T06:54:10+03:30",
+          "post_id": 138
+        },
+        {
+          "id": "local://bidel/1092",
+          "title": "غزل شمارهٔ ۱۰۹۲",
+          "author": "بیدل دهلوی",
+          "book": "دیوان بیدل",
+          "form": "ghazal",
+          "century": 12,
+          "char_count": 508,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 10,
+          "published": "2026-08-20T03:25:43.496180",
+          "post_id": 157
+        }
+      ]
+    },
+    {
       "name": "سنایی غزنوی",
       "item_count": 2,
       "items": [
@@ -93,25 +125,6 @@
           "day_of_year": null,
           "published": "2026-08-12T08:52:59+03:30",
           "post_id": 72
-        }
-      ]
-    },
-    {
-      "name": "بیدل دهلوی",
-      "item_count": 1,
-      "items": [
-        {
-          "id": "local://bidel/1458",
-          "title": "غزل شمارهٔ ۱۴۵۸",
-          "author": "بیدل دهلوی",
-          "book": "دیوان بیدل",
-          "form": "ghazal",
-          "century": 12,
-          "char_count": 526,
-          "familiarity_tier": "Rediscovery Masterpiece",
-          "day_of_year": 6,
-          "published": "2026-08-18T06:54:10+03:30",
-          "post_id": 138
         }
       ]
     },
