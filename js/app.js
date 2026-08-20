@@ -534,26 +534,62 @@
   }
 
   function renderNewsList(cat, data) {
-    const items = data.items || [];
+    const categories = data.categories || [];
     const header = el("div", { class: "list-header" }, [
       el("div", { class: "list-header__title-en latin" }, cat.title_en),
       el("div", { class: "list-header__title-fa font-niloofar-bold" }, cat.title_fa),
     ]);
 
-    const list = el("div", { class: "news-list" });
-    items.forEach((item) => {
-      const card = el("button", {
-        class: "news-card",
-        onclick: () => openPostLink(item.original_url, item.post_id),
-      }, [
-        el("div", { class: "news-card__source font-kenfolg" }, item.source),
-        el("div", { class: "news-card__title font-ui" }, item.title),
-        el("div", { class: "news-card__date font-ui" }, formatDate(item.published)),
-      ]);
-      list.appendChild(card);
+    const list = el("div", { class: "author-list" }); // Reusing author-list styles for categories
+    categories.forEach((c) => {
+      list.appendChild(
+        el("button", {
+          class: "author-card",
+          onclick: () => Router.navigate(`/i/literary-news/${encodeURIComponent(c.id)}`),
+        }, [
+          el("div", { class: "author-card__name latin" }, c.title_en),
+          el("div", { class: "author-card__bio font-niloofar" }, c.title_fa),
+          el("div", { class: "author-card__count font-geist" }, `${c.item_count} ITEMS`),
+        ])
+      );
     });
 
     mount(el("div", {}, [header, list]));
+  }
+
+  async function renderNewsCategoryDetail(cat, categoryId) {
+    try {
+      const { data } = await getCategoryData("literary-news");
+      const newsCat = (data.categories || []).find((c) => c.id === categoryId);
+      if (!newsCat) return renderState("پیدا نشد", "");
+
+      setChrome({ crumb: newsCat.title_fa, showBack: true });
+
+      const header = el("div", { class: "profile" }, [
+        el("div", { class: "profile__name-en latin" }, newsCat.title_en),
+        el("div", { class: "profile__name-fa font-niloofar" }, newsCat.title_fa),
+        el("div", { class: "profile__meta font-geist" }, `${newsCat.item_count} POSTS`),
+      ]);
+
+      const items = newsCat.items || [];
+      const list = el("div", { class: "news-list" });
+      
+      items.forEach((item) => {
+        const card = el("button", {
+          class: "news-card",
+          onclick: () => openPostLink(item.original_url, item.post_id),
+        }, [
+          el("div", { class: "news-card__source font-kenfolg" }, item.source),
+          el("div", { class: "news-card__title font-ui" }, item.title), // Font weight handled in CSS, Vazirmatn is font-ui
+          el("div", { class: "news-card__date font-ui" }, formatDate(item.published)),
+        ]);
+        list.appendChild(card);
+      });
+
+      mount(el("div", {}, [header, list]));
+    } catch (err) {
+      renderState("خطا در دریافت اطلاعات", "");
+    }
   }
 
   /* ------------------------------------------------------------------ *
@@ -631,9 +667,7 @@
       }
     }
     if (slug === "persian-literature") return renderPersianDetail(null, decodeURIComponent(id));
-    if (slug === "literary-news") {
-      window.location.hash = "#/c/literary-news";
-    }
+    if (slug === "literary-news") return renderNewsCategoryDetail(null, decodeURIComponent(id));
   }
 
   backBtn.addEventListener("click", () => Router.back());
