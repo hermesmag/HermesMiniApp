@@ -979,3 +979,140 @@ html, body {
   color: var(--ink-dim);
   font-size: 15px;
 }
+/* ==========================================================================
+   News Storefront (Magazine Layout)
+   ========================================================================== */
+.storefront {
+  padding: 0 16px 24px;
+}
+
+.storefront-main-title {
+  font-family: var(--font-ui);
+  font-weight: bold;
+}
+
+.storefront-section-title {
+  font-weight: bold;
+  font-size: 14px;
+  color: var(--ink-dim);
+  margin: 32px 0 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+  text-align: right;
+}
+
+.storefront-hero-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.storefront-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-align: right;
+  width: 100%;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+.storefront-card:active {
+  opacity: 0.7;
+}
+.storefront-card__title {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--ink);
+  margin-bottom: 12px;
+}
+.storefront-card__meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  color: var(--ink-dim);
+}
+
+.storefront-archive-btn {
+  display: block;
+  width: 100%;
+  padding: 14px;
+  margin-top: 16px;
+  background: transparent;
+  border: 1px dashed var(--border);
+  border-radius: 8px;
+  font-family: var(--font-ui);
+  font-size: 13px;
+  color: var(--ink);
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.storefront-archive-btn:active {
+  background: var(--surface);
+}
+
+.storefront-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.storefront-tile {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 20px 12px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+.storefront-tile:active {
+  opacity: 0.7;
+}
+.storefront-tile__fa {
+  font-weight: bold;
+  font-size: 14px;
+  color: var(--ink);
+}
+.storefront-tile__en {
+  font-size: 20px;
+  color: var(--ink-dim);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.storefront-tile__count {
+  font-size: 11px;
+  color: var(--ink-dim);
+  text-transform: uppercase;
+}
+
+.load-more-btn {
+  display: block;
+  width: 100%;
+  margin: 24px 0;
+  padding: 14px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--ink);
+  font-weight: bold;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+.load-more-btn:active {
+  opacity: 0.7;
+}
+
+.vazirmatn-title {
+  font-family: var(--font-ui) !important;
+  font-weight: bold;
+}
+
