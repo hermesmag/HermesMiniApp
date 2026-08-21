@@ -476,7 +476,7 @@
     const authors = data.authors || [];
     const header = el("div", { class: "list-header" }, [
       el("div", { class: "list-header__title-en latin" }, cat.title_en),
-      el("div", { class: "list-header__title-fa font-niloofar-bold" }, cat.title_fa),
+      el("div", { class: "list-header__title-fa font-badr-bold" }, cat.title_fa),
     ]);
 
     const list = el("div", { class: "author-list" });
@@ -486,7 +486,7 @@
           class: "author-card",
           onclick: () => Router.navigate(`/i/persian-literature/${encodeURIComponent(author.name)}`),
         }, [
-          el("div", { class: "author-card__name font-niloofar-bold" }, author.name),
+          el("div", { class: "author-card__name font-badr-bold" }, author.name),
           el("div", { class: "author-card__count font-geist" }, `${author.item_count} WORKS`),
         ])
       );
@@ -505,7 +505,7 @@
       setChrome({ crumb: author.name, showBack: true });
 
       const profile = el("div", { class: "profile" }, [
-        el("div", { class: "profile__name-en font-niloofar-bold" }, author.name),
+        el("div", { class: "profile__name-fa font-badr-bold", style: "font-size: 24px; color: var(--ink); margin-bottom: 6px;" }, author.name),
         el("div", { class: "profile__meta font-geist" }, `${author.item_count} PUBLISHED WORKS`),
       ]);
 
@@ -520,7 +520,7 @@
               item.post_id
             ),
           }, [
-            el("span", {}, item.title),
+            el("span", { class: "font-badr-bold" }, item.title),
             item.book ? el("span", { class: "poem-list__item-title-fa font-ui" }, item.book) : null,
             el("span", { class: "poem-list__item-date font-ui" }, formatDate(item.published)),
           ])
@@ -716,6 +716,9 @@
       if (!tg) return;
       tg.ready();
       tg.expand();
+      if (typeof tg.disableVerticalSwipes === "function") {
+        tg.disableVerticalSwipes();
+      }
     } catch (e) {}
   }
 

@@ -52,7 +52,7 @@
 
 @font-face {
   font-family: "Badr";
-  src: url("../assets/fonts/W_badr Bold.ttf") format("truetype");
+  src: url("../assets/fonts/W_badr%20Bold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -115,6 +115,7 @@
   --bg: #050508;
   --bg-card: #0c0c12;
   --bg-card-hover: #12121a;
+  --surface: #0c0c12;
   --border: rgba(233, 230, 221, 0.08);
   --border-gold: rgba(201, 179, 126, 0.45);
   --ink: #f2efe9;
@@ -122,6 +123,9 @@
   --ink-muted: #605e69;
   --gold: #c9b37e;
   --gold-glow: rgba(201, 179, 126, 0.25);
+
+  /* Viewport Height for Telegram & Mobile Web */
+  --app-height: var(--tg-viewport-stable-height, 100dvh);
 
   /* Strictly Defined Typography Stacks */
   --font-ui: "Vazirmatn", -apple-system, BlinkMacSystemFont, Tahoma, sans-serif;
@@ -400,37 +404,40 @@ html, body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: space-between;
   width: 100%;
-  padding-bottom: 30px;
+  min-height: calc(var(--app-height) - 58px);
+  padding-bottom: 12px;
+  box-sizing: border-box;
 }
 
 .stage-header {
-  padding: 34px 20px 18px;
+  padding: 18px 20px 8px;
   text-align: center;
 }
 
 .stage-header__eyebrow {
   font-family: var(--font-geist);
-  font-size: 10px;
-  letter-spacing: 3px;
+  font-size: 9px;
+  letter-spacing: 2.5px;
   color: var(--gold);
   display: block;
-  margin-bottom: 6px;
+  margin-bottom: 4px;
 }
 
 .stage-header__logo {
   font-family: var(--font-kenfolg);
-  font-size: clamp(34px, 8vw, 48px);
-  letter-spacing: 6px;
+  font-size: clamp(30px, 7vw, 42px);
+  letter-spacing: 5px;
   line-height: 1.1;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
   color: var(--ink);
   text-shadow: 0 4px 24px rgba(0,0,0,0.8);
 }
 
 .stage-header__sub {
   font-family: var(--font-niloofar);
-  font-size: 14px;
+  font-size: 13px;
   color: var(--ink-dim);
   letter-spacing: 0.5px;
 }
@@ -439,7 +446,7 @@ html, body {
   width: 100%;
   max-width: 1100px;
   position: relative;
-  margin: 8px 0 24px;
+  margin: 4px 0 10px;
 }
 
 .showcase-track {
@@ -447,7 +454,7 @@ html, body {
   overflow-x: auto;
   scroll-snap-type: x mandatory;
   scroll-behavior: smooth;
-  padding: 20px 0 30px;
+  padding: 12px 0 16px;
   -webkit-overflow-scrolling: touch;
   scrollbar-width: none;
 }
@@ -455,16 +462,16 @@ html, body {
 .showcase-track::before,
 .showcase-track::after {
   content: "";
-  flex: 0 0 calc(50vw - min(43vw, 175px));
+  flex: 0 0 calc(50% - min(42vw, 165px));
 }
 
 .showcase-track::-webkit-scrollbar { display: none; }
 
 .showcase-card {
-  flex: 0 0 min(86vw, 350px);
+  flex: 0 0 min(84vw, 340px);
   scroll-snap-align: center;
-  margin-left: 20px;
-  height: 480px;
+  margin-left: 16px;
+  height: clamp(340px, 49vh, 440px);
   background-color: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: 28px;
@@ -473,18 +480,18 @@ html, body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding: 26px 24px;
+  padding: 22px 20px;
   cursor: pointer;
   outline: none;
-  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.7);
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.7);
   transition: transform 0.45s var(--ease-cinematic), border-color 0.45s ease, box-shadow 0.45s ease;
 }
 
 .showcase-card:hover,
 .showcase-card.is-active {
   border-color: var(--border-gold);
-  transform: translateY(-6px);
-  box-shadow: 0 30px 70px rgba(0, 0, 0, 0.95), 0 0 35px var(--gold-glow);
+  transform: translateY(-4px);
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.95), 0 0 30px var(--gold-glow);
 }
 
 .showcase-card__image {
@@ -494,6 +501,7 @@ html, body {
   background-position: center;
   transition: transform 0.7s var(--ease-cinematic);
   z-index: 1;
+  pointer-events: none;
 }
 
 .showcase-card:hover .showcase-card__image,
@@ -506,11 +514,12 @@ html, body {
   inset: 0;
   background: linear-gradient(180deg, rgba(7,7,10,0.15) 0%, rgba(7,7,10,0.5) 45%, rgba(5,5,8,0.95) 85%);
   z-index: 2;
+  pointer-events: none;
 }
 
 .showcase-card__badge {
   position: relative;
-  z-index: 3;
+  z-index: 5;
   display: flex;
   align-items: center;
   gap: 10px;
@@ -540,7 +549,9 @@ html, body {
 
 .showcase-card__bottom {
   position: relative;
-  z-index: 3;
+  z-index: 5;
+  display: flex;
+  flex-direction: column;
 }
 
 .showcase-card__latin-tag {
@@ -548,23 +559,23 @@ html, body {
   font-size: 13px;
   letter-spacing: 2px;
   color: var(--gold);
-  margin-bottom: 6px;
+  margin-bottom: 4px;
 }
 
 /* عناوین یکدست ۴ بخش اصلی با فونت نیلوفر بولد */
 .showcase-card__fa-title {
   font-family: "XB Niloofar", serif;
   font-weight: 700;
-  font-size: 30px;
+  font-size: clamp(22px, 5.5vw, 28px);
   color: var(--ink);
   line-height: 1.25;
-  margin-bottom: 16px;
+  margin-bottom: 12px;
   text-shadow: 0 3px 16px rgba(0,0,0,0.9);
 }
 
 .showcase-card__footer {
   border-top: 1px solid rgba(233, 230, 221, 0.1);
-  padding-top: 16px;
+  padding-top: 12px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -627,10 +638,10 @@ html, body {
 .stage-footer {
   text-align: center;
   font-family: var(--font-geist);
-  font-size: 10px;
-  letter-spacing: 3px;
+  font-size: 9px;
+  letter-spacing: 2.5px;
   color: var(--ink-muted);
-  padding: 16px 0 24px;
+  padding: 6px 0 10px;
 }
 
 /* --------------------------------------------------------------------------
@@ -695,6 +706,16 @@ html, body {
   margin-bottom: 4px;
 }
 
+.author-card__name.font-badr,
+.author-card__name.font-badr-bold,
+.author-card__name.font-niloofar,
+.author-card__name.font-niloofar-bold,
+.author-card__name--fa {
+  font-family: var(--font-badr);
+  font-weight: 700;
+  letter-spacing: normal;
+}
+
 .author-card__bio {
   font-family: var(--font-niloofar);
   font-size: 14px;
@@ -730,11 +751,19 @@ html, body {
 }
 
 .profile__name-fa {
-  font-family: "XB Niloofar", serif;
+  font-family: var(--font-niloofar);
   font-size: 16px;
   color: var(--ink-dim);
   line-height: 1.8;
   margin-bottom: 12px;
+}
+
+.profile__name-fa.font-badr,
+.profile__name-fa.font-badr-bold,
+.profile__name-fa.font-niloofar-bold {
+  font-family: var(--font-badr);
+  font-weight: 700;
+  letter-spacing: normal;
 }
 
 .profile__meta {
@@ -1056,42 +1085,61 @@ html, body {
 
 .storefront-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 12px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .storefront-tile {
-  background: var(--surface);
+  background: var(--bg-card);
   border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 20px 12px;
+  border-radius: 12px;
+  padding: 16px 8px;
   text-align: center;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 8px;
+  gap: 6px;
   width: 100%;
+  min-width: 0;
+  overflow: hidden;
+  box-sizing: border-box;
   cursor: pointer;
-  transition: opacity 0.2s;
+  transition: opacity 0.2s, border-color 0.2s;
 }
 .storefront-tile:active {
   opacity: 0.7;
 }
+.storefront-tile:hover {
+  border-color: var(--border-gold);
+}
 .storefront-tile__fa {
   font-weight: bold;
-  font-size: 14px;
+  font-size: 13px;
   color: var(--ink);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
 }
 .storefront-tile__en {
-  font-size: 20px;
+  font-size: clamp(10.5px, 2.8vw, 12.5px);
   color: var(--ink-dim);
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+  display: block;
+  line-height: 1.2;
 }
 .storefront-tile__count {
-  font-size: 11px;
-  color: var(--ink-dim);
+  font-size: 10px;
+  color: var(--ink-muted);
   text-transform: uppercase;
+  white-space: nowrap;
 }
 
 .load-more-btn {
