@@ -953,6 +953,60 @@ body::after {
    9. PAINTING & NEWS & DETAIL PAGES
    -------------------------------------------------------------------------- */
 
+.filter-tabs {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 8px;
+}
+
+.filter-tab {
+  background: none;
+  border: none;
+  color: var(--ink-dim);
+  font-size: 13px;
+  cursor: pointer;
+  padding: 4px 8px;
+  transition: color 0.3s;
+  font-family: var(--font-ui);
+}
+
+.filter-tab.is-active {
+  color: var(--gold);
+  border-bottom: 2px solid var(--gold);
+  font-weight: bold;
+}
+
+.filter-item {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 16px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  margin-bottom: 8px;
+  color: var(--ink);
+  cursor: pointer;
+  text-align: right;
+  font-family: var(--font-ui);
+}
+
+.filter-back-btn {
+  display: block;
+  width: 100%;
+  padding: 12px;
+  color: var(--gold);
+  background: transparent;
+  border: 1px dashed var(--gold);
+  border-radius: 8px;
+  margin-bottom: 16px;
+  cursor: pointer;
+  text-align: center;
+  font-family: var(--font-ui);
+}
+
 .item-list--wide {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));

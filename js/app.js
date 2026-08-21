@@ -417,19 +417,111 @@
 
   function renderPaintingList(cat, data) {
     const artists = data.artists || [];
+    
+    const allPaintings = [];
+    artists.forEach(a => {
+      a.paintings.forEach(p => {
+        allPaintings.push({ ...p, artist: a.name });
+      });
+    });
+    
+    // Sort reverse chronological if post_id exists, otherwise default
+    allPaintings.sort((a, b) => (b.post_id || 0) - (a.post_id || 0));
+
     const header = el("div", { class: "list-header" }, [
       el("div", { class: "list-header__title-en latin" }, cat.title_en),
       el("div", { class: "list-header__title-fa font-niloofar-bold" }, cat.title_fa),
     ]);
 
+    const tabsContainer = el("div", { class: "filter-tabs" });
+    const tabAll = el("button", { class: "filter-tab is-active" }, "همه آثار");
+    const tabArtists = el("button", { class: "filter-tab" }, "هنرمندان");
+    const tabMovements = el("button", { class: "filter-tab" }, "مکاتب هنری");
+    tabsContainer.append(tabAll, tabArtists, tabMovements);
+
     const list = el("div", { class: "item-list item-list--wide" });
-    artists.forEach((artist) => {
-      artist.paintings.forEach((painting) => {
+    const loadMoreBtn = el("button", { class: "load-more-btn font-ui", style: "display: none;" }, "بارگذاری بیشتر");
+
+    let currentMode = 'all';
+    let currentFilter = null;
+    let loaded = 0;
+    const chunk = 15;
+    let currentItems = allPaintings;
+
+    function switchTab(mode) {
+      currentMode = mode;
+      currentFilter = null;
+      [tabAll, tabArtists, tabMovements].forEach(t => t.classList.remove("is-active"));
+      if(mode === 'all') tabAll.classList.add("is-active");
+      if(mode === 'artists') tabArtists.classList.add("is-active");
+      if(mode === 'movements') tabMovements.classList.add("is-active");
+      
+      renderView();
+    }
+    
+    tabAll.onclick = () => switchTab('all');
+    tabArtists.onclick = () => switchTab('artists');
+    tabMovements.onclick = () => switchTab('movements');
+
+    function renderView() {
+      list.innerHTML = "";
+      loaded = 0;
+      loadMoreBtn.style.display = "none";
+      
+      if (currentMode === 'all') {
+        currentItems = allPaintings;
+        renderNextChunk();
+        list.appendChild(loadMoreBtn);
+      } else if (currentMode === 'artists') {
+        if (!currentFilter) {
+           artists.forEach(a => {
+             list.appendChild(el("button", { class: "filter-item", onclick: () => { currentFilter = a.name; renderFiltered(); } }, [
+               el("span", {}, a.name),
+               el("span", { class: "font-geist" }, `${a.paintings.length} آثار`)
+             ]));
+           });
+        }
+      } else if (currentMode === 'movements') {
+        if (!currentFilter) {
+           const movements = {};
+           allPaintings.forEach(p => {
+             if(p.movement) {
+               movements[p.movement] = (movements[p.movement] || 0) + 1;
+             }
+           });
+           Object.keys(movements).sort().forEach(m => {
+             list.appendChild(el("button", { class: "filter-item", onclick: () => { currentFilter = m; renderFiltered(); } }, [
+               el("span", {}, m),
+               el("span", { class: "font-geist" }, `${movements[m]} آثار`)
+             ]));
+           });
+        }
+      }
+    }
+
+    function renderFiltered() {
+      list.innerHTML = "";
+      loaded = 0;
+      if (currentMode === 'artists') {
+         currentItems = allPaintings.filter(p => p.artist === currentFilter);
+      } else {
+         currentItems = allPaintings.filter(p => p.movement === currentFilter);
+      }
+      
+      const backBtn = el("button", { class: "filter-back-btn", onclick: () => renderView() }, `← بازگشت به لیست ${currentMode === 'artists' ? 'هنرمندان' : 'مکاتب'}`);
+      list.appendChild(backBtn);
+      
+      renderNextChunk();
+      list.appendChild(loadMoreBtn);
+    }
+
+    function renderNextChunk() {
+      const slice = currentItems.slice(loaded, loaded + chunk);
+      slice.forEach((painting) => {
         const meta = [painting.year, painting.movement, painting.museum].filter(Boolean).join(" · ");
-        list.appendChild(
-          el("button", {
+        const card = el("button", {
             class: "item-card",
-            onclick: () => Router.navigate(`/i/painting/${encodeURIComponent(artist.name)}/${encodeURIComponent(painting.id)}`),
+            onclick: () => Router.navigate(`/i/painting/${encodeURIComponent(painting.artist)}/${encodeURIComponent(painting.id)}`),
           }, [
             el("div", { class: "item-card__media" }, lazyImg(painting.image_url, painting.title, cat.title_en)),
             el("div", { class: "item-card__body" }, [
@@ -437,12 +529,17 @@
               el("div", { class: "item-card__meta latin" }, painting.artist),
               meta ? el("div", { class: "item-card__meta font-geist" }, meta) : null,
             ]),
-          ])
-        );
+          ]);
+        list.insertBefore(card, loadMoreBtn);
       });
-    });
+      loaded += slice.length;
+      loadMoreBtn.style.display = loaded < currentItems.length ? "block" : "none";
+    }
 
-    mount(el("div", {}, [header, list]));
+    loadMoreBtn.onclick = renderNextChunk;
+    switchTab('all');
+
+    mount(el("div", {}, [header, tabsContainer, list]));
   }
 
   async function renderPaintingDetail(cat, artistName, paintingId) {
