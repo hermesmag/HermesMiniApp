@@ -4,8 +4,36 @@
       "id": "latest",
       "title_en": "Latest Updates",
       "title_fa": "آخرین مطالب",
-      "items": [],
-      "item_count": 0
+      "items": [
+        {
+          "id": "انتشار گزیده‌ای از اشعار دانیلا دانز در آستانهٔ چاپ کتاب «پورتولان»",
+          "title": "انتشار گزیده‌ای از اشعار دانیلا دانز در آستانهٔ چاپ کتاب «پورتولان»",
+          "source": "Words Without Borders",
+          "published": "2026-08-21T04:43:16.105872",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-08/one-glance-is-enough-for-us-to-know-three-poems/",
+          "subcategory": "world_lit",
+          "post_id": 8
+        },
+        {
+          "id": "تونی تولاتیموت برنده یکی از بزرگ‌ترین جوایز ادبی جدید آمریکا شد",
+          "title": "تونی تولاتیموت برنده یکی از بزرگ‌ترین جوایز ادبی جدید آمریکا شد",
+          "source": "Literary Hub",
+          "published": "2026-08-21T04:43:15.463649",
+          "original_url": "https://lithub.com/tony-tulathimutte-has-won-one-americas-largest-and-newest-literary-prizes/",
+          "subcategory": "essay",
+          "post_id": 7
+        },
+        {
+          "id": "Noise, Not Just Voice: Marjane Satrapi and the Politics of Being Heard by Mahdiyeh Ezzati",
+          "title": "Noise, Not Just Voice: Marjane Satrapi and the Politics of Being Heard by Mahdiyeh Ezzati",
+          "source": "World Literature Today",
+          "published": "2026-08-21T04:43:14.895116",
+          "original_url": "https://worldliteraturetoday.org/blog/essay/noise-not-just-voice-marjane-satrapi-and-politics-being-heard-mahdiyeh-ezzati",
+          "subcategory": "world_lit",
+          "post_id": 6
+        }
+      ],
+      "item_count": 3
     },
     {
       "id": "report",
@@ -39,16 +67,45 @@
       "id": "world_lit",
       "title_en": "World Literature",
       "title_fa": "✦ ادبیات جهان",
-      "items": [],
-      "item_count": 0
+      "items": [
+        {
+          "id": "انتشار گزیده‌ای از اشعار دانیلا دانز در آستانهٔ چاپ کتاب «پورتولان»",
+          "title": "انتشار گزیده‌ای از اشعار دانیلا دانز در آستانهٔ چاپ کتاب «پورتولان»",
+          "source": "Words Without Borders",
+          "published": "2026-08-21T04:43:16.105872",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-08/one-glance-is-enough-for-us-to-know-three-poems/",
+          "subcategory": "world_lit",
+          "post_id": 8
+        },
+        {
+          "id": "Noise, Not Just Voice: Marjane Satrapi and the Politics of Being Heard by Mahdiyeh Ezzati",
+          "title": "Noise, Not Just Voice: Marjane Satrapi and the Politics of Being Heard by Mahdiyeh Ezzati",
+          "source": "World Literature Today",
+          "published": "2026-08-21T04:43:14.895116",
+          "original_url": "https://worldliteraturetoday.org/blog/essay/noise-not-just-voice-marjane-satrapi-and-politics-being-heard-mahdiyeh-ezzati",
+          "subcategory": "world_lit",
+          "post_id": 6
+        }
+      ],
+      "item_count": 2
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
-      "items": [],
-      "item_count": 0
+      "items": [
+        {
+          "id": "تونی تولاتیموت برنده یکی از بزرگ‌ترین جوایز ادبی جدید آمریکا شد",
+          "title": "تونی تولاتیموت برنده یکی از بزرگ‌ترین جوایز ادبی جدید آمریکا شد",
+          "source": "Literary Hub",
+          "published": "2026-08-21T04:43:15.463649",
+          "original_url": "https://lithub.com/tony-tulathimutte-has-won-one-americas-largest-and-newest-literary-prizes/",
+          "subcategory": "essay",
+          "post_id": 7
+        }
+      ],
+      "item_count": 1
     }
   ],
-  "total_items": 0
+  "total_items": 3
 }
