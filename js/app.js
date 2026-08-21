@@ -265,7 +265,8 @@
         return el(
           "div",
           {
-            class: `showcase-card ${i === 0 ? "is-active" : ""}`,
+            class: `showcase-card ${i === 0 ? "is-active" : "is-next"}`,
+            style: `animation-delay: ${i * 0.15}s`,
             onclick: () => Router.navigate(`/c/${cat.slug}`),
             tabindex: "0",
             "aria-label": `${cat.title_fa} — ${cat.title_en}`,
@@ -284,7 +285,7 @@
               el("div", { class: "showcase-card__latin-tag font-kenfolg" }, cat.title_en),
               el("h2", { class: "showcase-card__fa-title font-niloofar-bold" }, cat.title_fa),
               el("div", { class: "showcase-card__footer" }, [
-                el("span", { class: "showcase-card__cta font-niloofar" }, [
+                el("span", { class: "showcase-card__cta font-badr-bold" }, [
                   "ورود به مجموعه ",
                   el("span", { class: "showcase-card__cta-arrow" }, "←"),
                 ]),
@@ -295,30 +296,34 @@
         );
       });
 
-      const dots = manifest.categories.map((_, i) =>
-        el("div", { class: `carousel-pill ${i === 0 ? "is-active" : ""}` })
-      );
+      const total = manifest.categories.length;
+      const progressText = el("span", { class: "carousel-numbers font-geist" }, `01 — 0${total}`);
 
       const track = el("div", { class: "showcase-track" }, cards);
-      const pagination = el("div", { class: "showcase-pagination" }, dots);
+      const pagination = el("div", { class: "showcase-pagination" }, [progressText]);
 
       track.addEventListener("scroll", () => {
         const scrollLeft = Math.abs(track.scrollLeft);
         const cardWidth = track.firstElementChild ? track.firstElementChild.offsetWidth + 20 : 330;
         const activeIndex = Math.min(
-          manifest.categories.length - 1,
+          total - 1,
           Math.max(0, Math.round(scrollLeft / cardWidth))
         );
 
-        dots.forEach((d, idx) => d.classList.toggle("is-active", idx === activeIndex));
-        cards.forEach((c, idx) => c.classList.toggle("is-active", idx === activeIndex));
+        progressText.textContent = `0${activeIndex + 1} — 0${total}`;
+        cards.forEach((c, idx) => {
+          c.classList.remove("is-active", "is-prev", "is-next");
+          if (idx === activeIndex) c.classList.add("is-active");
+          else if (idx < activeIndex) c.classList.add("is-prev");
+          else c.classList.add("is-next");
+        });
       }, { passive: true });
 
       const wrap = el("div", { class: "home-stage" }, [
         el("header", { class: "stage-header" }, [
-          el("span", { class: "stage-header__eyebrow font-geist" }, "EST. 2026 · ISSUE NO. 1"),
+          el("span", { class: "stage-header__eyebrow font-geist" }, "SUMMER & AUTUMN 2026"),
           el("h1", { class: "stage-header__logo latin" }, "HERMES"),
-          el("div", { class: "stage-header__sub font-niloofar" }, "مجلهٔ ادبیات، اندیشه و هنرهای دیداری"),
+          el("div", { class: "stage-header__sub font-badr" }, "مجلهٔ ادبیات، اندیشه و هنرهای دیداری"),
         ]),
         el("div", { class: "showcase-wrapper" }, [track, pagination]),
         el("footer", { class: "stage-footer font-geist" }, "HERMES LITERARY & ART JOURNAL"),
