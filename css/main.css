@@ -189,11 +189,21 @@ html, body {
   align-items: center;
   justify-content: center;
   opacity: 1;
-  transition: opacity 0.65s var(--ease-cinematic), visibility 0.65s;
+  transition: opacity 0.75s var(--ease-cinematic), transform 0.75s var(--ease-cinematic), visibility 0.75s;
 }
 
-#intro.intro--leaving { opacity: 0; }
-#intro.intro--hidden { display: none !important; opacity: 0; visibility: hidden; pointer-events: none; }
+#intro.intro--leaving {
+  opacity: 0;
+  transform: scale(1.03);
+  pointer-events: none;
+}
+
+#intro.intro--hidden {
+  display: none !important;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
 
 #intro-canvas {
   position: absolute;
@@ -211,9 +221,9 @@ html, body {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  padding: 20px;
+  padding: 24px;
   width: 100%;
-  max-width: 500px;
+  max-width: 520px;
 }
 
 .intro__burst-glow {
@@ -221,47 +231,55 @@ html, body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%) scale(0.2);
-  width: 320px;
-  height: 320px;
-  background: radial-gradient(circle, var(--gold-glow) 0%, transparent 70%);
+  width: 360px;
+  height: 360px;
+  background: radial-gradient(circle, rgba(201, 179, 126, 0.35) 0%, rgba(201, 179, 126, 0.08) 45%, transparent 70%);
   opacity: 0;
   pointer-events: none;
-  transition: transform 1.2s var(--ease-cinematic), opacity 1.2s ease;
+  transition: transform 1.4s var(--ease-cinematic), opacity 1.4s ease;
 }
 
 .intro__header {
   opacity: 0;
-  transform: scale(0.85);
-  filter: blur(8px);
-  transition: transform 0.9s var(--ease-cinematic), opacity 0.9s ease, filter 0.9s ease;
+  transform: scale(0.92);
+  filter: blur(10px);
+  transition: transform 1s var(--ease-cinematic), opacity 1s ease, filter 1s ease;
 }
 
+/* Seasonal Period / Subtitle */
 .intro__vol {
   display: block;
   font-family: var(--font-geist);
-  font-size: 11px;
-  letter-spacing: 4px;
+  font-size: 10.5px;
+  font-weight: 500;
+  letter-spacing: 4.5px;
   color: var(--gold);
-  margin-bottom: 4px;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  opacity: 0.9;
 }
 
-/* HERMES Wordmark in Intro — ONLY place with Humane-SemiBold */
+/* HERMES Wordmark in Intro — ONLY place with Humane-SemiBold (Untouched Font) */
 .intro__brand {
   font-family: "Humane", sans-serif;
   font-weight: 600;
-  font-size: clamp(80px, 22vw, 120px);
-  letter-spacing: 8px;
-  line-height: 0.85;
+  font-size: clamp(84px, 24vw, 132px);
+  letter-spacing: 10px;
+  line-height: 0.82;
   color: var(--ink);
-  text-shadow: 0 0 35px rgba(201, 179, 126, 0.45);
+  background: linear-gradient(180deg, #ffffff 15%, #ece7dc 60%, #c9b37e 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 35px rgba(201, 179, 126, 0.5));
+  margin: 0;
 }
 
 .intro__gold-line {
   width: 0;
   height: 1px;
-  background: linear-gradient(90deg, transparent, var(--gold), transparent);
-  margin: 14px auto 0;
-  transition: width 1s var(--ease-cinematic);
+  background: linear-gradient(90deg, transparent, rgba(201, 179, 126, 0.8), transparent);
+  margin: 16px auto 0;
+  transition: width 1.1s var(--ease-cinematic);
 }
 
 .intro__realms {
@@ -269,37 +287,41 @@ html, body {
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 10px;
-  margin-top: 24px;
+  gap: 12px;
+  margin-top: 26px;
   opacity: 0;
-  transform: translateY(10px);
-  transition: all 0.6s var(--ease-cinematic);
+  transform: translateY(12px);
+  transition: all 0.7s var(--ease-cinematic);
 }
 
 .intro__realm-item {
   font-family: var(--font-kenfolg);
-  font-size: 10px;
-  letter-spacing: 1.5px;
+  font-size: 9.5px;
+  letter-spacing: 2px;
   color: var(--ink-dim);
 }
 
-.intro__dot { color: var(--gold); font-size: 12px; }
+.intro__dot {
+  color: var(--gold);
+  font-size: 11px;
+  opacity: 0.6;
+}
 
 .intro__signature {
   position: absolute;
-  bottom: -40px;
+  bottom: -45px;
   left: 50%;
   transform: translateX(-50%);
   width: 100%;
   opacity: 0;
-  transition: all 0.6s var(--ease-cinematic);
+  transition: all 0.7s var(--ease-cinematic);
 }
 
 .intro__sig-fa {
   font-family: var(--font-niloofar);
-  font-size: 18px;
+  font-size: 19px;
   color: var(--ink);
-  letter-spacing: 1px;
+  letter-spacing: 1.5px;
 }
 
 .intro__sig-gold {
@@ -309,28 +331,35 @@ html, body {
 
 .intro--burst .intro__burst-glow { transform: translate(-50%, -50%) scale(1.6); opacity: 1; }
 .intro--burst .intro__header { opacity: 1; transform: scale(1); filter: blur(0); }
-.intro--burst .intro__gold-line { width: 160px; }
+.intro--burst .intro__gold-line { width: 180px; }
 .intro--show-realms .intro__realms { opacity: 1; transform: translateY(0); }
 .intro--show-sig .intro__realms { opacity: 0; transform: translateY(-8px); }
-.intro--show-sig .intro__signature { opacity: 1; bottom: -20px; }
+.intro--show-sig .intro__signature { opacity: 1; bottom: -22px; }
 
 .intro__skip {
   position: absolute;
   bottom: 24px;
   inset-inline-end: 24px;
-  background: transparent;
+  background: rgba(12, 12, 18, 0.6);
+  backdrop-filter: blur(8px);
   border: 1px solid var(--border);
   color: var(--ink-muted);
   font-family: var(--font-geist);
-  font-size: 11px;
-  letter-spacing: 2px;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 2.5px;
   padding: 6px 14px;
+  border-radius: 4px;
   cursor: pointer;
   z-index: 10;
   transition: all 0.3s ease;
 }
 
-.intro__skip:hover { color: var(--gold); border-color: var(--border-gold); }
+.intro__skip:hover {
+  color: var(--gold);
+  border-color: var(--border-gold);
+  background: rgba(20, 20, 30, 0.8);
+}
 
 /* --------------------------------------------------------------------------
    4. APP SHELL & TOPBAR
