@@ -1,3 +1,23 @@
 {
-  "authors": []
+  "authors": [
+    {
+      "name": "Heinrich Heine",
+      "name_fa": "شاعر و نویسنده آلمانی (۱۷۹۷–۱۸۵۶)، شاعر رمانتیک آلمان",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-001",
+          "title": "The Grenadiers",
+          "title_original": "Die Grenadiere",
+          "original_language": "German",
+          "epoch": "19th Century",
+          "book": "Buch der Lieder (Book of Songs)",
+          "translator": "Edgar Alfred Bowring",
+          "published": "2026-08-21T14:36:26.878286",
+          "telegraph_url": "https://telegra.ph/The-Grenadiers-08-21",
+          "post_id": 11
+        }
+      ]
+    }
+  ]
 }
