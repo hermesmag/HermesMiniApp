@@ -1,3 +1,24 @@
 {
-  "artists": []
+  "artists": [
+    {
+      "name": "Shunk-Kender",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_281302",
+          "title": "Yves Klein, Leap into the Void (Saut dans le vide)",
+          "artist": "Shunk-Kender",
+          "year": "1960",
+          "museum": "Art Institute of Chicago",
+          "movement": "Conceptual Art",
+          "medium": "Gelatin silver print",
+          "country": "France",
+          "image_url": "https://www.artic.edu/iiif/2/007e9b4c-07df-5b4c-c795-67f602b0de49/full/900,/0/default.jpg",
+          "published": "2026-08-21T21:07:07.429418",
+          "original_url": "https://www.artic.edu/iiif/2/007e9b4c-07df-5b4c-c795-67f602b0de49/full/900,/0/default.jpg",
+          "post_id": 12
+        }
+      ]
+    }
+  ]
 }
