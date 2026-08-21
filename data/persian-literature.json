@@ -1,3 +1,23 @@
 {
-  "authors": []
+  "authors": [
+    {
+      "name": "سعدی شیرازی",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "local://golestan/121",
+          "title": "حکایت شمارهٔ ۵",
+          "author": "سعدی شیرازی",
+          "book": "گلستان",
+          "form": "prose",
+          "century": 7,
+          "char_count": 474,
+          "familiarity_tier": "Known Masterpiece",
+          "day_of_year": 1,
+          "published": "2026-08-21T03:30:57.985449",
+          "post_id": 5
+        }
+      ]
+    }
+  ]
 }

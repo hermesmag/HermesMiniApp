@@ -1,4 +1,54 @@
 {
-  "categories": [],
+  "categories": [
+    {
+      "id": "latest",
+      "title_en": "Latest Updates",
+      "title_fa": "آخرین مطالب",
+      "items": [],
+      "item_count": 0
+    },
+    {
+      "id": "report",
+      "title_en": "Literary Reports",
+      "title_fa": "✦ گزارش ادبی",
+      "items": [],
+      "item_count": 0
+    },
+    {
+      "id": "interview",
+      "title_en": "Interviews",
+      "title_fa": "✦ گفت‌وگو",
+      "items": [],
+      "item_count": 0
+    },
+    {
+      "id": "poetry",
+      "title_en": "Contemporary Poetry",
+      "title_fa": "✦ شعر امروز",
+      "items": [],
+      "item_count": 0
+    },
+    {
+      "id": "review",
+      "title_en": "Book Reviews",
+      "title_fa": "✦ معرفی کتاب",
+      "items": [],
+      "item_count": 0
+    },
+    {
+      "id": "world_lit",
+      "title_en": "World Literature",
+      "title_fa": "✦ ادبیات جهان",
+      "items": [],
+      "item_count": 0
+    },
+    {
+      "id": "essay",
+      "title_en": "Essays & Criticism",
+      "title_fa": "✦ نقد و جستار",
+      "items": [],
+      "item_count": 0
+    }
+  ],
   "total_items": 0
 }
