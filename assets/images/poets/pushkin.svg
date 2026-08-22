@@ -1,0 +1,18 @@
+<svg viewBox="0 0 400 500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Alexander Pushkin placeholder portrait">
+  <defs>
+    <linearGradient id="bgP" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#14131a"/>
+      <stop offset="100%" stop-color="#060608"/>
+    </linearGradient>
+    <filter id="grainP">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+  <rect width="400" height="500" fill="url(#bgP)"/>
+  <rect width="400" height="500" filter="url(#grainP)"/>
+  <circle cx="200" cy="200" r="90" fill="none" stroke="#c9b37e" stroke-width="1" opacity="0.5"/>
+  <path d="M140 330 Q200 250 260 330 L260 430 L140 430 Z" fill="none" stroke="#c9b37e" stroke-width="1" opacity="0.5"/>
+  <text x="200" y="225" text-anchor="middle" font-family="Georgia, serif" font-size="64" fill="#c9b37e" opacity="0.85">A</text>
+  <text x="200" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="16" letter-spacing="3" fill="#8a8a95">PUSHKIN</text>
+</svg>

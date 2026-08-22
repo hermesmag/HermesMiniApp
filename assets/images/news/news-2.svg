@@ -1,0 +1,8 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="News placeholder">
+  <rect width="400" height="300" fill="#0c0c10"/>
+  <rect x="40" y="60" width="320" height="2" fill="#c9b37e" opacity="0.5"/>
+  <rect x="40" y="90" width="260" height="2" fill="#4a4a52"/>
+  <rect x="40" y="110" width="200" height="2" fill="#4a4a52"/>
+  <rect x="40" y="130" width="240" height="2" fill="#4a4a52"/>
+  <text x="40" y="220" font-family="Georgia, serif" font-size="14" letter-spacing="2" fill="#8a8a95">LITERARY NEWS — SAMPLE</text>
+</svg>

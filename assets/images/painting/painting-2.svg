@@ -1,0 +1,6 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Painting placeholder">
+  <rect width="400" height="300" fill="#100e14"/>
+  <circle cx="260" cy="100" r="50" fill="#4a3f55" opacity="0.5"/>
+  <path d="M0 280 L140 190 L260 250 L400 170 L400 300 L0 300 Z" fill="#1d1a28" opacity="0.8"/>
+  <text x="40" y="270" font-family="Georgia, serif" font-size="14" letter-spacing="2" fill="#8a8a95">PAINTING — SAMPLE</text>
+</svg>
