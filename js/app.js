@@ -357,27 +357,72 @@
 
   function renderWorldPoetryList(cat, data) {
     const authors = data.authors || [];
+    const dailyPoems = data.daily_poems || [];
+
     const header = el("div", { class: "list-header" }, [
       el("div", { class: "list-header__title-en latin" }, cat.title_en),
       el("div", { class: "list-header__title-fa font-niloofar-bold" }, cat.title_fa),
     ]);
 
-    const list = el("div", { class: "author-list" });
-    authors.forEach((author) => {
-      const bio = author.name_fa ? el("div", { class: "author-card__bio font-niloofar" }, author.name_fa) : null;
-      list.appendChild(
-        el("button", {
-          class: "author-card",
-          onclick: () => Router.navigate(`/i/world-poetry/${encodeURIComponent(author.name)}`),
-        }, [
-          el("div", { class: "author-card__name latin" }, author.name),
-          bio,
-          el("div", { class: "author-card__count font-geist" }, `${author.poem_count} POEMS`),
-        ])
-      );
-    });
+    const tabsContainer = el("div", { class: "filter-tabs" });
+    const tabWorld = el("button", { class: "filter-tab is-active" }, "شعر جهان");
+    const tabDaily = el("button", { class: "filter-tab" }, "شعر روز");
+    tabsContainer.append(tabWorld, tabDaily);
 
-    mount(el("div", {}, [header, list]));
+    const container = el("div", {});
+
+    function renderTab(mode) {
+      container.innerHTML = "";
+      if (mode === "world") {
+        tabWorld.classList.add("is-active");
+        tabDaily.classList.remove("is-active");
+
+        const list = el("div", { class: "author-list" });
+        authors.forEach((author) => {
+          const bio = author.name_fa ? el("div", { class: "author-card__bio font-niloofar" }, author.name_fa) : null;
+          list.appendChild(
+            el("button", {
+              class: "author-card",
+              onclick: () => Router.navigate(`/i/world-poetry/${encodeURIComponent(author.name)}`),
+            }, [
+              el("div", { class: "author-card__name latin" }, author.name),
+              bio,
+              el("div", { class: "author-card__count font-geist" }, `${author.poem_count} POEMS`),
+            ])
+          );
+        });
+        container.appendChild(list);
+      } else {
+        tabDaily.classList.add("is-active");
+        tabWorld.classList.remove("is-active");
+
+        const list = el("div", { class: "poem-list" });
+        if (dailyPoems.length === 0) {
+          list.appendChild(el("div", { class: "state-box__title font-ui", style: "padding: 32px 0; text-align: center; color: var(--ink-muted);" }, "هنوز شعری در این بخش منتشر نشده است."));
+        } else {
+          dailyPoems.forEach((poem) => {
+            list.appendChild(
+              el("button", {
+                class: "poem-list__item font-niloofar",
+                onclick: () => openPostLink(poem.telegraph_url, poem.post_id),
+              }, [
+                el("span", { class: "latin", style: "font-weight: bold; font-size: 15px;" }, poem.title),
+                poem.author && poem.author !== "World Poetry" ? el("span", { class: "poem-list__item-title-fa font-ui" }, poem.author) : (poem.source ? el("span", { class: "poem-list__item-title-fa font-ui" }, poem.source) : null),
+                el("span", { class: "poem-list__item-date font-ui" }, formatDate(poem.published)),
+              ])
+            );
+          });
+        }
+        container.appendChild(list);
+      }
+    }
+
+    tabWorld.onclick = () => renderTab("world");
+    tabDaily.onclick = () => renderTab("daily");
+
+    renderTab("world");
+
+    mount(el("div", {}, [header, tabsContainer, container]));
   }
 
   async function renderWorldPoetryDetail(cat, authorName) {

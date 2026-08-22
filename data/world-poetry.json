@@ -38,5 +38,19 @@
         }
       ]
     }
+  ],
+  "daily_poems": [
+    {
+      "id": "Old Men Pitching Horseshoes",
+      "kind": "poem_of_day",
+      "title": "Old Men Pitching Horseshoes",
+      "author": "World Poetry",
+      "source": "",
+      "published": "2026-08-22T04:37:51.101770",
+      "telegraph_url": "https://telegra.ph/Old-Men-Pitching-Horseshoes-08-22",
+      "post_id": 16,
+      "persian_translation": "",
+      "original_lines": ""
+    }
   ]
 }
