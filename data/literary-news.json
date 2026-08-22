@@ -6,6 +6,24 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "سومیا بالاسوبرامانیام از نوشتن درباره غربت، خانه و اندوه می‌گوید",
+          "title": "سومیا بالاسوبرامانیام از نوشتن درباره غربت، خانه و اندوه می‌گوید",
+          "source": "World Literature Today",
+          "published": "2026-08-22T04:37:50.285967",
+          "original_url": "https://worldliteraturetoday.org/blog/interviews/light-here-and-it-you-saumiya-balasubramaniam-writing-distance-home-and-grief",
+          "subcategory": "interview",
+          "post_id": 15
+        },
+        {
+          "id": "شبح سیلویا پلات و مواجهه با اندوه؛ روایتی از پیوند ادبیات و فقدان در رمان «خرگوش سفید»",
+          "title": "شبح سیلویا پلات و مواجهه با اندوه؛ روایتی از پیوند ادبیات و فقدان در رمان «خرگوش سفید»",
+          "source": "Literary Hub",
+          "published": "2026-08-22T04:37:49.785963",
+          "original_url": "https://lithub.com/a-literary-haunting-what-the-ghost-of-sylvia-plath-taught-me-about-grief/",
+          "subcategory": "essay",
+          "post_id": 14
+        },
+        {
           "id": "Noise, Not Just Voice: Marjane Satrapi and the Politics of Being Heard by Mahdiyeh Ezzati",
           "title": "هیاهو، نه فقط صدا: مرجان ساتراپی و سیاستِ شنیده شدن",
           "source": "World Literature Today",
@@ -33,7 +51,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 3
+      "item_count": 5
     },
     {
       "id": "report",
@@ -56,8 +74,18 @@
       "id": "interview",
       "title_en": "Interviews",
       "title_fa": "✦ گفت‌وگو",
-      "items": [],
-      "item_count": 0
+      "items": [
+        {
+          "id": "سومیا بالاسوبرامانیام از نوشتن درباره غربت، خانه و اندوه می‌گوید",
+          "title": "سومیا بالاسوبرامانیام از نوشتن درباره غربت، خانه و اندوه می‌گوید",
+          "source": "World Literature Today",
+          "published": "2026-08-22T04:37:50.285967",
+          "original_url": "https://worldliteraturetoday.org/blog/interviews/light-here-and-it-you-saumiya-balasubramaniam-writing-distance-home-and-grief",
+          "subcategory": "interview",
+          "post_id": 15
+        }
+      ],
+      "item_count": 1
     },
     {
       "id": "poetry",
@@ -96,6 +124,15 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "شبح سیلویا پلات و مواجهه با اندوه؛ روایتی از پیوند ادبیات و فقدان در رمان «خرگوش سفید»",
+          "title": "شبح سیلویا پلات و مواجهه با اندوه؛ روایتی از پیوند ادبیات و فقدان در رمان «خرگوش سفید»",
+          "source": "Literary Hub",
+          "published": "2026-08-22T04:37:49.785963",
+          "original_url": "https://lithub.com/a-literary-haunting-what-the-ghost-of-sylvia-plath-taught-me-about-grief/",
+          "subcategory": "essay",
+          "post_id": 14
+        },
+        {
           "id": "Noise, Not Just Voice: Marjane Satrapi and the Politics of Being Heard by Mahdiyeh Ezzati",
           "title": "هیاهو، نه فقط صدا: مرجان ساتراپی و سیاستِ شنیده شدن",
           "source": "World Literature Today",
@@ -105,8 +142,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 1
+      "item_count": 2
     }
   ],
-  "total_items": 3
+  "total_items": 5
 }
