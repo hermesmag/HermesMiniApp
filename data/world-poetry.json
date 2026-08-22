@@ -1,6 +1,25 @@
 {
   "authors": [
     {
+      "name": "Arthur Rimbaud",
+      "name_fa": "شاعر فرانسوی (۱۸۵۴–۱۸۹۱)، پیشگام شعر نوین فرانسه",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-002",
+          "title": "Vowels",
+          "title_original": "Voyelles",
+          "original_language": "French",
+          "epoch": "19th Century",
+          "book": "Poésies complètes, / avec préface de Paul Verlaine et notes de l'éditeur",
+          "translator": "Wallace Fowlie",
+          "published": "2026-08-22T14:22:23.463440",
+          "telegraph_url": "https://telegra.ph/Vowels-08-22",
+          "post_id": 19
+        }
+      ]
+    },
+    {
       "name": "Heinrich Heine",
       "name_fa": "شاعر و نویسنده آلمانی (۱۷۹۷–۱۸۵۶)، شاعر رمانتیک آلمان",
       "poem_count": 1,
