@@ -6,8 +6,8 @@
 const Intro = (() => {
   "use strict";
 
-  const TOTAL_DURATION = 4800; // ms
-  const BURST_TIMESTAMP = 600;  // ms
+  const TOTAL_DURATION = 3200; // ms (smooth and crisp)
+  const BURST_TIMESTAMP = 350;  // ms
 
   let canvas, ctx;
   let width = 0, height = 0, dpr = 1;
@@ -133,10 +133,10 @@ const Intro = (() => {
 
     const introEl = document.getElementById("intro");
     if (introEl) {
-      if (elapsed >= BURST_TIMESTAMP + 100) introEl.classList.add("intro--burst");
-      if (elapsed >= 2200) introEl.classList.add("intro--show-realms");
-      if (elapsed >= 3400) introEl.classList.add("intro--show-sig");
-      if (elapsed >= 4200) introEl.classList.add("intro--leaving");
+      if (elapsed >= BURST_TIMESTAMP + 50) introEl.classList.add("intro--burst");
+      if (elapsed >= 1150) introEl.classList.add("intro--show-realms");
+      if (elapsed >= 1950) introEl.classList.add("intro--show-sig");
+      if (elapsed >= 2650) introEl.classList.add("intro--leaving");
     }
 
     if (elapsed < TOTAL_DURATION && !isFinished) {

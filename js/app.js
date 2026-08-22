@@ -129,10 +129,15 @@
    * Data Loading
    * ------------------------------------------------------------------ */
 
+  const APP_VERSION = "1.0.1";
+  let manifestVersion = null;
+
   async function fetchJSON(path) {
     if (cache.has(path)) return cache.get(path);
-    // Use no-cache to avoid aggressive locking on empty payloads in Telegram Desktop
-    const res = await fetch(path, { cache: "no-cache" });
+    const v = manifestVersion || APP_VERSION;
+    const sep = path.includes("?") ? "&" : "?";
+    const url = `${path}${sep}v=${encodeURIComponent(v)}`;
+    const res = await fetch(url, { cache: "no-cache" });
     if (!res.ok) throw new Error("Failed to load " + path);
     const json = await res.json();
     cache.set(path, json);
@@ -140,7 +145,13 @@
   }
 
   async function getManifest() {
-    return fetchJSON("data/manifest.json");
+    const manifest = await fetchJSON("data/manifest.json");
+    if (manifest && manifest.updated) {
+      manifestVersion = manifest.updated;
+    } else if (manifest && manifest.version) {
+      manifestVersion = manifest.version;
+    }
+    return manifest;
   }
 
   async function getCategoryData(slug) {
