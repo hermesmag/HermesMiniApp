@@ -526,8 +526,8 @@
       
       if (currentMode === 'all') {
         currentItems = allPaintings;
-        renderNextChunk();
         list.appendChild(loadMoreBtn);
+        renderNextChunk();
       } else if (currentMode === 'artists') {
         if (!currentFilter) {
            artists.forEach(a => {
@@ -566,9 +566,9 @@
       
       const backBtn = el("button", { class: "filter-back-btn", onclick: () => renderView() }, `← بازگشت به لیست ${currentMode === 'artists' ? 'هنرمندان' : 'مکاتب'}`);
       list.appendChild(backBtn);
+      list.appendChild(loadMoreBtn);
       
       renderNextChunk();
-      list.appendChild(loadMoreBtn);
     }
 
     function renderNextChunk() {
