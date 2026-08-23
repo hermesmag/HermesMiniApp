@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "از میکروسکوپ لیوونهوک تا جام جهانی «مسابقهٔ اسپرم‌ها» در سیلیکون ولی",
+          "title": "از میکروسکوپ لیوونهوک تا جام جهانی «مسابقهٔ اسپرم‌ها» در سیلیکون ولی",
+          "source": "The Paris Review",
+          "published": "2026-08-23T04:41:01.842967",
+          "original_url": "https://www.theparisreview.org/blog/2026/08/21/if-you-build-it-will-they-come-on-the-sperm-racing-world-cup/",
+          "subcategory": "essay",
+          "post_id": 25
+        },
+        {
+          "id": "گفتگوی دیمون گالگوت و فراز محمد؛ پیوند روان‌شناسی، سیاست و تاریخ شخصی در رمان «سرزمین/مادر»",
+          "title": "گفتگوی دیمون گالگوت و فراز محمد؛ پیوند روان‌شناسی، سیاست و تاریخ شخصی در رمان «سرزمین/مادر»",
+          "source": "Literary Hub",
+          "published": "2026-08-23T04:40:59.763323",
+          "original_url": "https://lithub.com/ways-of-connecting-on-writing-that-marries-the-psychological-the-personal-and-the-political/",
+          "subcategory": "interview",
+          "post_id": 24
+        },
+        {
+          "id": "«پیکر هولناک من»: روایتی از غربت، بیماری و سرکوب نسلی در شبه‌زندگینامهٔ یگانه جباروا",
+          "title": "«پیکر هولناک من»: روایتی از غربت، بیماری و سرکوب نسلی در شبه‌زندگینامهٔ یگانه جباروا",
+          "source": "World Literature Today",
+          "published": "2026-08-23T04:40:57.000435",
+          "original_url": "https://worldliteraturetoday.org/blog/book-reviews/bearer-inherited-stigmas-egana-djabbarovas-my-dreadful-body-candice-louisa-daquin",
+          "subcategory": "world_lit",
+          "post_id": 23
+        },
+        {
           "id": "سومیا بالاسوبرامانیام از نوشتن درباره غربت، خانه و اندوه می‌گوید",
           "title": "سومیا بالاسوبرامانیام از نوشتن درباره غربت، خانه و اندوه می‌گوید",
           "source": "World Literature Today",
@@ -51,7 +78,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 5
+      "item_count": 8
     },
     {
       "id": "report",
@@ -76,6 +103,15 @@
       "title_fa": "✦ گفت‌وگو",
       "items": [
         {
+          "id": "گفتگوی دیمون گالگوت و فراز محمد؛ پیوند روان‌شناسی، سیاست و تاریخ شخصی در رمان «سرزمین/مادر»",
+          "title": "گفتگوی دیمون گالگوت و فراز محمد؛ پیوند روان‌شناسی، سیاست و تاریخ شخصی در رمان «سرزمین/مادر»",
+          "source": "Literary Hub",
+          "published": "2026-08-23T04:40:59.763323",
+          "original_url": "https://lithub.com/ways-of-connecting-on-writing-that-marries-the-psychological-the-personal-and-the-political/",
+          "subcategory": "interview",
+          "post_id": 24
+        },
+        {
           "id": "سومیا بالاسوبرامانیام از نوشتن درباره غربت، خانه و اندوه می‌گوید",
           "title": "سومیا بالاسوبرامانیام از نوشتن درباره غربت، خانه و اندوه می‌گوید",
           "source": "World Literature Today",
@@ -85,7 +121,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 1
+      "item_count": 2
     },
     {
       "id": "review",
@@ -100,6 +136,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "«پیکر هولناک من»: روایتی از غربت، بیماری و سرکوب نسلی در شبه‌زندگینامهٔ یگانه جباروا",
+          "title": "«پیکر هولناک من»: روایتی از غربت، بیماری و سرکوب نسلی در شبه‌زندگینامهٔ یگانه جباروا",
+          "source": "World Literature Today",
+          "published": "2026-08-23T04:40:57.000435",
+          "original_url": "https://worldliteraturetoday.org/blog/book-reviews/bearer-inherited-stigmas-egana-djabbarovas-my-dreadful-body-candice-louisa-daquin",
+          "subcategory": "world_lit",
+          "post_id": 23
+        },
+        {
           "id": "انتشار گزیده‌ای از اشعار دانیلا دانز در آستانهٔ چاپ کتاب «پورتولان»",
           "title": "انتشار گزیده‌ای از اشعار دانیلا دانز در آستانهٔ چاپ کتاب «پورتولان»",
           "source": "Words Without Borders",
@@ -109,13 +154,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 1
+      "item_count": 2
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "از میکروسکوپ لیوونهوک تا جام جهانی «مسابقهٔ اسپرم‌ها» در سیلیکون ولی",
+          "title": "از میکروسکوپ لیوونهوک تا جام جهانی «مسابقهٔ اسپرم‌ها» در سیلیکون ولی",
+          "source": "The Paris Review",
+          "published": "2026-08-23T04:41:01.842967",
+          "original_url": "https://www.theparisreview.org/blog/2026/08/21/if-you-build-it-will-they-come-on-the-sperm-racing-world-cup/",
+          "subcategory": "essay",
+          "post_id": 25
+        },
         {
           "id": "شبح سیلویا پلات و مواجهه با اندوه؛ روایتی از پیوند ادبیات و فقدان در رمان «خرگوش سفید»",
           "title": "شبح سیلویا پلات و مواجهه با اندوه؛ روایتی از پیوند ادبیات و فقدان در رمان «خرگوش سفید»",
@@ -135,8 +189,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 2
+      "item_count": 3
     }
   ],
-  "total_items": 5
+  "total_items": 8
 }
