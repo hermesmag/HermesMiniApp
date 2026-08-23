@@ -1,6 +1,37 @@
 {
   "authors": [
     {
+      "name": "Heinrich Heine",
+      "name_fa": "شاعر و نویسندهٔ آلمانی (۱۷۹۷–۱۸۵۶)؛ با تلفیق ترانه‌های ظریف غنایی و چرخش‌های طنزآمیز کنایی، رنج‌های عاشقانه را با نقد رادیکال سیاست و تعصبات عصر درهم‌می‌آمیزد.",
+      "poem_count": 2,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-001",
+          "title": "The Grenadiers",
+          "title_original": "Die Grenadiere",
+          "original_language": "German",
+          "epoch": "19th Century",
+          "book": "Buch der Lieder (Book of Songs)",
+          "translator": "Edgar Alfred Bowring",
+          "published": "2026-08-21T14:36:26.878286",
+          "telegraph_url": "https://telegra.ph/The-Grenadiers-08-21",
+          "post_id": 11
+        },
+        {
+          "id": "WP-Y1-DAY-003",
+          "title": "Belshazzar",
+          "title_original": "Belsatzar",
+          "original_language": "German",
+          "epoch": "19th Century",
+          "book": "Buch der Lieder (Book of Songs)",
+          "translator": "Edgar Alfred Bowring",
+          "published": "2026-08-23T14:24:51.958109",
+          "telegraph_url": "https://telegra.ph/Belshazzar-08-23",
+          "post_id": 27
+        }
+      ]
+    },
+    {
       "name": "Arthur Rimbaud",
       "name_fa": "شاعر عصیانگر فرانسوی (۱۸۵۴–۱۸۹۱)؛ با زبانی سرکش و تصاویری هذیانی-اشراقی، سامان قراردادی حواس را برهم می‌زند و از مرزهای عقلانیت مستقر فراتر می‌رود.",
       "poem_count": 1,
@@ -16,25 +47,6 @@
           "published": "2026-08-22T14:22:23.463440",
           "telegraph_url": "https://telegra.ph/Vowels-08-22",
           "post_id": 19
-        }
-      ]
-    },
-    {
-      "name": "Heinrich Heine",
-      "name_fa": "شاعر و نویسندهٔ آلمانی (۱۷۹۷–۱۸۵۶)؛ با تلفیق ترانه‌های ظریف غنایی و چرخش‌های طنزآمیز کنایی، رنج‌های عاشقانه را با نقد رادیکال سیاست و تعصبات عصر درهم‌می‌آمیزد.",
-      "poem_count": 1,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-001",
-          "title": "The Grenadiers",
-          "title_original": "Die Grenadiere",
-          "original_language": "German",
-          "epoch": "19th Century",
-          "book": "Buch der Lieder (Book of Songs)",
-          "translator": "Edgar Alfred Bowring",
-          "published": "2026-08-21T14:36:26.878286",
-          "telegraph_url": "https://telegra.ph/The-Grenadiers-08-21",
-          "post_id": 11
         }
       ]
     }
