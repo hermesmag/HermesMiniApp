@@ -21,6 +21,26 @@
       ]
     },
     {
+      "name": "Paul Cezanne",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_16487",
+          "title": "The Bay of Marseille, Seen from L'Estaque",
+          "artist": "Paul Cezanne",
+          "year": "c. 1885",
+          "museum": "Art Institute of Chicago",
+          "movement": "Post-Impressionism",
+          "medium": "Oil on canvas",
+          "country": "France",
+          "image_url": "https://lh3.googleusercontent.com/d/13tLePK28JpSiwF4gjYswDTHX-909Kkor",
+          "published": "2026-08-23T20:57:54.373500",
+          "original_url": "https://www.artic.edu/iiif/2/d4ca6321-8656-3d3f-a362-2ee297b2b813/full/900,/0/default.jpg",
+          "post_id": 29
+        }
+      ]
+    },
+    {
       "name": "Shunk-Kender",
       "painting_count": 1,
       "paintings": [
