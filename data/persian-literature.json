@@ -50,6 +50,25 @@
           "post_id": 13
         }
       ]
+    },
+    {
+      "name": "صائب تبریزی",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "local://saeb/1497",
+          "title": "غزل شمارهٔ ۱۴۹۷",
+          "author": "صائب تبریزی",
+          "book": "دیوان صائب تبریزی",
+          "form": "ghazal",
+          "century": 11,
+          "char_count": 487,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 4,
+          "published": "2026-08-24T03:32:45.161623",
+          "post_id": 36
+        }
+      ]
     }
   ]
 }
