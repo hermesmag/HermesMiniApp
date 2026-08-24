@@ -21,6 +21,26 @@
       ]
     },
     {
+      "name": "Georges Braque",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_109330",
+          "title": "Little Harbor in Normandy",
+          "artist": "Georges Braque",
+          "year": "spring 1909",
+          "museum": "Art Institute of Chicago",
+          "movement": "Cubism",
+          "medium": "Oil on canvas",
+          "country": "France",
+          "image_url": "https://lh3.googleusercontent.com/d/1mKxrLxc95GiQ-Vjb5DxTrzdP1VK5FXJ5",
+          "published": "2026-08-24T21:08:01.758458",
+          "original_url": "https://www.artic.edu/iiif/2/f521e7ef-2732-88b0-30e1-24353308c297/full/900,/0/default.jpg",
+          "post_id": 41
+        }
+      ]
+    },
+    {
       "name": "Paul Cezanne",
       "painting_count": 1,
       "paintings": [
