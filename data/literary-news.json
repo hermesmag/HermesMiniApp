@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "اقتباس سینمایی ریدلی اسکات از رمان آخرالزمانی «ستاره‌های سگ» اثر پیتر هلر",
+          "title": "اقتباس سینمایی ریدلی اسکات از رمان آخرالزمانی «ستاره‌های سگ» اثر پیتر هلر",
+          "source": "NPR Books",
+          "published": "2026-08-24T04:50:04.915293",
+          "original_url": "https://www.npr.org/2026/08/21/nx-s1-5940646/the-dog-stars-novelist-peter-heller-drew-on-real-life-survival-skills",
+          "subcategory": "essay",
+          "post_id": 39
+        },
+        {
+          "id": "رابطهٔ شبه‌اجتماعی میان نویسنده و مخاطب؛ واکاوی پیوند عاطفی خوانندگان با خالقان آثار ادبی",
+          "title": "رابطهٔ شبه‌اجتماعی میان نویسنده و مخاطب؛ واکاوی پیوند عاطفی خوانندگان با خالقان آثار ادبی",
+          "source": "The Guardian Books",
+          "published": "2026-08-24T04:50:02.991480",
+          "original_url": "https://www.theguardian.com/books/2026/aug/23/meg-mason-author-literary-parasocial-relationships-sorrow-bliss-books-nancy-mitford",
+          "subcategory": "interview",
+          "post_id": 38
+        },
+        {
+          "id": "بازسازی حافظه و هویت؛ رمان‌های گرافیکی که با کلاژ و تصویرسازی داستان می‌گویند",
+          "title": "بازسازی حافظه و هویت؛ رمان‌های گرافیکی که با کلاژ و تصویرسازی داستان می‌گویند",
+          "source": "Electric Literature",
+          "published": "2026-08-24T04:50:00.889237",
+          "original_url": "https://electricliterature.com/7-graphic-novels-that-build-stories-from-fragments/",
+          "subcategory": "essay",
+          "post_id": 37
+        },
+        {
           "id": "از میکروسکوپ لیوونهوک تا جام جهانی «مسابقهٔ اسپرم‌ها» در سیلیکون ولی",
           "title": "از میکروسکوپ لیوونهوک تا جام جهانی «مسابقهٔ اسپرم‌ها» در سیلیکون ولی",
           "source": "The Paris Review",
@@ -78,7 +105,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 8
+      "item_count": 11
     },
     {
       "id": "report",
@@ -103,6 +130,15 @@
       "title_fa": "✦ گفت‌وگو",
       "items": [
         {
+          "id": "رابطهٔ شبه‌اجتماعی میان نویسنده و مخاطب؛ واکاوی پیوند عاطفی خوانندگان با خالقان آثار ادبی",
+          "title": "رابطهٔ شبه‌اجتماعی میان نویسنده و مخاطب؛ واکاوی پیوند عاطفی خوانندگان با خالقان آثار ادبی",
+          "source": "The Guardian Books",
+          "published": "2026-08-24T04:50:02.991480",
+          "original_url": "https://www.theguardian.com/books/2026/aug/23/meg-mason-author-literary-parasocial-relationships-sorrow-bliss-books-nancy-mitford",
+          "subcategory": "interview",
+          "post_id": 38
+        },
+        {
           "id": "گفتگوی دیمون گالگوت و فراز محمد؛ پیوند روان‌شناسی، سیاست و تاریخ شخصی در رمان «سرزمین/مادر»",
           "title": "گفتگوی دیمون گالگوت و فراز محمد؛ پیوند روان‌شناسی، سیاست و تاریخ شخصی در رمان «سرزمین/مادر»",
           "source": "Literary Hub",
@@ -121,7 +157,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 2
+      "item_count": 3
     },
     {
       "id": "review",
@@ -162,6 +198,24 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "اقتباس سینمایی ریدلی اسکات از رمان آخرالزمانی «ستاره‌های سگ» اثر پیتر هلر",
+          "title": "اقتباس سینمایی ریدلی اسکات از رمان آخرالزمانی «ستاره‌های سگ» اثر پیتر هلر",
+          "source": "NPR Books",
+          "published": "2026-08-24T04:50:04.915293",
+          "original_url": "https://www.npr.org/2026/08/21/nx-s1-5940646/the-dog-stars-novelist-peter-heller-drew-on-real-life-survival-skills",
+          "subcategory": "essay",
+          "post_id": 39
+        },
+        {
+          "id": "بازسازی حافظه و هویت؛ رمان‌های گرافیکی که با کلاژ و تصویرسازی داستان می‌گویند",
+          "title": "بازسازی حافظه و هویت؛ رمان‌های گرافیکی که با کلاژ و تصویرسازی داستان می‌گویند",
+          "source": "Electric Literature",
+          "published": "2026-08-24T04:50:00.889237",
+          "original_url": "https://electricliterature.com/7-graphic-novels-that-build-stories-from-fragments/",
+          "subcategory": "essay",
+          "post_id": 37
+        },
+        {
           "id": "از میکروسکوپ لیوونهوک تا جام جهانی «مسابقهٔ اسپرم‌ها» در سیلیکون ولی",
           "title": "از میکروسکوپ لیوونهوک تا جام جهانی «مسابقهٔ اسپرم‌ها» در سیلیکون ولی",
           "source": "The Paris Review",
@@ -189,8 +243,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 3
+      "item_count": 5
     }
   ],
-  "total_items": 8
+  "total_items": 11
 }
