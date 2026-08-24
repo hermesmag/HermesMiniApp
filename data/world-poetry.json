@@ -49,6 +49,25 @@
           "post_id": 19
         }
       ]
+    },
+    {
+      "name": "Charles Baudelaire",
+      "name_fa": "شاعر و نظریه‌پرداز فرانسوی (۱۸۲۱–۱۸۶۷)؛ در بستر قالب‌های استوار کلاسیک، ملال جان‌کاه مدرنیته، زوال شهری و زایش زیبایی از دل شر و تباهی را عیان می‌سازد.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-004",
+          "title": "Dance of Death",
+          "title_original": "Danse Macabre",
+          "original_language": "French",
+          "epoch": "19th Century",
+          "book": "The Poems and Prose Poems of Charles Baudelaire / with an Introductory Preface by James Huneker",
+          "translator": "F.P. Sturm",
+          "published": "2026-08-24T14:44:04.591739",
+          "telegraph_url": "https://telegra.ph/Dance-of-Death-08-24",
+          "post_id": 40
+        }
+      ]
     }
   ],
   "daily_poems": [
