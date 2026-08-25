@@ -3,7 +3,7 @@
     {
       "name": "Heinrich Heine",
       "name_fa": "شاعر و نویسندهٔ آلمانی (۱۷۹۷–۱۸۵۶)؛ با تلفیق ترانه‌های ظریف غنایی و چرخش‌های طنزآمیز کنایی، رنج‌های عاشقانه را با نقد رادیکال سیاست و تعصبات عصر درهم‌می‌آمیزد.",
-      "poem_count": 2,
+      "poem_count": 3,
       "poems": [
         {
           "id": "WP-Y1-DAY-001",
@@ -28,6 +28,18 @@
           "published": "2026-08-23T14:24:51.958109",
           "telegraph_url": "https://telegra.ph/Belshazzar-08-23",
           "post_id": 27
+        },
+        {
+          "id": "WP-Y1-DAY-005",
+          "title": "Lyrical Interlude. 1",
+          "title_original": "Im wunderschönen Monat Mai",
+          "original_language": "German",
+          "epoch": "19th Century",
+          "book": "Buch der Lieder (Book of Songs)",
+          "translator": "Edgar Alfred Bowring",
+          "published": "2026-08-25T14:46:32.550416",
+          "telegraph_url": "https://telegra.ph/Lyrical-Interlude-1-08-25",
+          "post_id": 45
         }
       ]
     },
