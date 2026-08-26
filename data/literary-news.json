@@ -11,7 +11,7 @@
           "source": "Literary Hub",
           "published": "2026-08-26T03:05:14.237041",
           "original_url": "https://lithub.com/a-poem-by-antonella-anedda/",
-          "subcategory": "poetry",
+          "subcategory": "review",
           "post_id": 49
         },
         {
@@ -190,8 +190,18 @@
       "id": "review",
       "title_en": "Book Reviews",
       "title_fa": "✦ معرفی کتاب",
-      "items": [],
-      "item_count": 0
+      "items": [
+        {
+          "id": "انتشار شعری از آنتونلا آنِدا؛ روایتی از دلتنگی و طوفان در مجموعهٔ جدید شاعر ایتالیایی",
+          "title": "انتشار شعری از آنتونلا آنِدا؛ روایتی از دلتنگی و طوفان در مجموعهٔ جدید شاعر ایتالیایی",
+          "source": "Literary Hub",
+          "published": "2026-08-26T03:05:14.237041",
+          "original_url": "https://lithub.com/a-poem-by-antonella-anedda/",
+          "subcategory": "review",
+          "post_id": 49
+        }
+      ],
+      "item_count": 1
     },
     {
       "id": "world_lit",
