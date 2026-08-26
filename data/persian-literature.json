@@ -33,6 +33,25 @@
       ]
     },
     {
+      "name": "بیدل دهلوی",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "local://bidel/1458",
+          "title": "غزل شمارهٔ ۱۴۵۸",
+          "author": "بیدل دهلوی",
+          "book": "دیوان بیدل",
+          "form": "ghazal",
+          "century": 12,
+          "char_count": 526,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 6,
+          "published": "2026-08-26T03:34:12.934211",
+          "post_id": 50
+        }
+      ]
+    },
+    {
       "name": "رودکی",
       "item_count": 1,
       "items": [
