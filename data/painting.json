@@ -1,6 +1,26 @@
 {
   "artists": [
     {
+      "name": "Clyfford Still",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_146991",
+          "title": "PH-774",
+          "artist": "Clyfford Still",
+          "year": "1958",
+          "museum": "Art Institute of Chicago",
+          "movement": "Abstract Expressionism",
+          "medium": "Oil on canvas",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/16QHqhYUb2GsanCARWNlHOyFZzd5M3vD1",
+          "published": "2026-08-26T22:42:44.211979",
+          "original_url": "https://www.artic.edu/iiif/2/ba0756fd-837e-224d-1711-f6486ed2335d/full/900,/0/default.jpg",
+          "post_id": 55
+        }
+      ]
+    },
+    {
       "name": "El Greco",
       "painting_count": 1,
       "paintings": [
