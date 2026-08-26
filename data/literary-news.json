@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "انتشار شعری از آنتونلا آنِدا؛ روایتی از دلتنگی و طوفان در مجموعهٔ جدید شاعر ایتالیایی",
+          "title": "انتشار شعری از آنتونلا آنِدا؛ روایتی از دلتنگی و طوفان در مجموعهٔ جدید شاعر ایتالیایی",
+          "source": "Literary Hub",
+          "published": "2026-08-26T03:05:14.237041",
+          "original_url": "https://lithub.com/a-poem-by-antonella-anedda/",
+          "subcategory": "poetry",
+          "post_id": 49
+        },
+        {
+          "id": "انتشار کتاب «منتقد بدون مجسمه»؛ دفاع کریستوفر دومینگز مایکل از ارزش‌های سنتی نقد ادبی",
+          "title": "انتشار کتاب «منتقد بدون مجسمه»؛ دفاع کریستوفر دومینگز مایکل از ارزش‌های سنتی نقد ادبی",
+          "source": "World Literature Today",
+          "published": "2026-08-26T03:05:12.503263",
+          "original_url": "https://worldliteraturetoday.org/2026/september/el-critico-sin-estatua-christopher-dominguez-michael",
+          "subcategory": "world_lit",
+          "post_id": 48
+        },
+        {
+          "id": "شهر و نویسنده: در جاکارتا همراه با خیرانی باروکا",
+          "title": "شهر و نویسنده: در جاکارتا همراه با خیرانی باروکا",
+          "source": "Words Without Borders",
+          "published": "2026-08-26T03:05:10.749022",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-08/the-city-and-the-writer-in-jakarta-with-khairani-barokka-nathalie-handal/",
+          "subcategory": "world_lit",
+          "post_id": 47
+        },
+        {
           "id": "اقتباس سینمایی ریدلی اسکات از رمان آخرالزمانی «ستاره‌های سگ» اثر پیتر هلر",
           "title": "اقتباس سینمایی ریدلی اسکات از رمان آخرالزمانی «ستاره‌های سگ» اثر پیتر هلر",
           "source": "NPR Books",
@@ -105,7 +132,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 11
+      "item_count": 14
     },
     {
       "id": "report",
@@ -172,6 +199,24 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "انتشار کتاب «منتقد بدون مجسمه»؛ دفاع کریستوفر دومینگز مایکل از ارزش‌های سنتی نقد ادبی",
+          "title": "انتشار کتاب «منتقد بدون مجسمه»؛ دفاع کریستوفر دومینگز مایکل از ارزش‌های سنتی نقد ادبی",
+          "source": "World Literature Today",
+          "published": "2026-08-26T03:05:12.503263",
+          "original_url": "https://worldliteraturetoday.org/2026/september/el-critico-sin-estatua-christopher-dominguez-michael",
+          "subcategory": "world_lit",
+          "post_id": 48
+        },
+        {
+          "id": "شهر و نویسنده: در جاکارتا همراه با خیرانی باروکا",
+          "title": "شهر و نویسنده: در جاکارتا همراه با خیرانی باروکا",
+          "source": "Words Without Borders",
+          "published": "2026-08-26T03:05:10.749022",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-08/the-city-and-the-writer-in-jakarta-with-khairani-barokka-nathalie-handal/",
+          "subcategory": "world_lit",
+          "post_id": 47
+        },
+        {
           "id": "«پیکر هولناک من»: روایتی از غربت، بیماری و سرکوب نسلی در شبه‌زندگینامهٔ یگانه جباروا",
           "title": "«پیکر هولناک من»: روایتی از غربت، بیماری و سرکوب نسلی در شبه‌زندگینامهٔ یگانه جباروا",
           "source": "World Literature Today",
@@ -190,7 +235,7 @@
           "post_id": 8
         }
       ],
-      "item_count": 2
+      "item_count": 4
     },
     {
       "id": "essay",
@@ -246,5 +291,5 @@
       "item_count": 5
     }
   ],
-  "total_items": 11
+  "total_items": 14
 }
