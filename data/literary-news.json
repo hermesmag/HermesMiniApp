@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "«هراکلیوسین»؛ جستاری در نمادشناسی یک گیاه مهاجم و جستجوی امید در ویرانه‌ها",
+          "title": "«هراکلیوسین»؛ جستاری در نمادشناسی یک گیاه مهاجم و جستجوی امید در ویرانه‌ها",
+          "source": "Words Without Borders",
+          "published": "2026-08-26T04:44:33.085610",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-08/heracleocene-krasilnikova-gushchin/",
+          "subcategory": "world_lit",
+          "post_id": 53
+        },
+        {
+          "id": "روایتی از تبعید مدرن و مرزها؛ گفتگو با یو-می بالاسینگهام‌چو درباره رمان نخستش",
+          "title": "روایتی از تبعید مدرن و مرزها؛ گفتگو با یو-می بالاسینگهام‌چو درباره رمان نخستش",
+          "source": "The Common",
+          "published": "2026-08-26T04:44:31.554562",
+          "original_url": "https://www.thecommononline.org/fluent-in-disappearing-kanchi-sharma-interviews-yu-mei-balasingamchow/",
+          "subcategory": "essay",
+          "post_id": 52
+        },
+        {
+          "id": "انتشار رمان معمایی «تاکسی نیمه‌شب»؛ نخستین اثر یوشا گوناسکرا",
+          "title": "انتشار رمان معمایی «تاکسی نیمه‌شب»؛ نخستین اثر یوشا گوناسکرا",
+          "source": "World Literature Today",
+          "published": "2026-08-26T04:44:29.487538",
+          "original_url": "https://worldliteraturetoday.org/2026/september/midnight-taxi-yosha-gunasekera",
+          "subcategory": "world_lit",
+          "post_id": 51
+        },
+        {
           "id": "انتشار شعری از آنتونلا آنِدا؛ روایتی از دلتنگی و طوفان در مجموعهٔ جدید شاعر ایتالیایی",
           "title": "انتشار شعری از آنتونلا آنِدا؛ روایتی از دلتنگی و طوفان در مجموعهٔ جدید شاعر ایتالیایی",
           "source": "Literary Hub",
@@ -132,7 +159,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 14
+      "item_count": 17
     },
     {
       "id": "report",
@@ -209,6 +236,24 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "«هراکلیوسین»؛ جستاری در نمادشناسی یک گیاه مهاجم و جستجوی امید در ویرانه‌ها",
+          "title": "«هراکلیوسین»؛ جستاری در نمادشناسی یک گیاه مهاجم و جستجوی امید در ویرانه‌ها",
+          "source": "Words Without Borders",
+          "published": "2026-08-26T04:44:33.085610",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-08/heracleocene-krasilnikova-gushchin/",
+          "subcategory": "world_lit",
+          "post_id": 53
+        },
+        {
+          "id": "انتشار رمان معمایی «تاکسی نیمه‌شب»؛ نخستین اثر یوشا گوناسکرا",
+          "title": "انتشار رمان معمایی «تاکسی نیمه‌شب»؛ نخستین اثر یوشا گوناسکرا",
+          "source": "World Literature Today",
+          "published": "2026-08-26T04:44:29.487538",
+          "original_url": "https://worldliteraturetoday.org/2026/september/midnight-taxi-yosha-gunasekera",
+          "subcategory": "world_lit",
+          "post_id": 51
+        },
+        {
           "id": "انتشار کتاب «منتقد بدون مجسمه»؛ دفاع کریستوفر دومینگز مایکل از ارزش‌های سنتی نقد ادبی",
           "title": "انتشار کتاب «منتقد بدون مجسمه»؛ دفاع کریستوفر دومینگز مایکل از ارزش‌های سنتی نقد ادبی",
           "source": "World Literature Today",
@@ -245,13 +290,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 4
+      "item_count": 6
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "روایتی از تبعید مدرن و مرزها؛ گفتگو با یو-می بالاسینگهام‌چو درباره رمان نخستش",
+          "title": "روایتی از تبعید مدرن و مرزها؛ گفتگو با یو-می بالاسینگهام‌چو درباره رمان نخستش",
+          "source": "The Common",
+          "published": "2026-08-26T04:44:31.554562",
+          "original_url": "https://www.thecommononline.org/fluent-in-disappearing-kanchi-sharma-interviews-yu-mei-balasingamchow/",
+          "subcategory": "essay",
+          "post_id": 52
+        },
         {
           "id": "اقتباس سینمایی ریدلی اسکات از رمان آخرالزمانی «ستاره‌های سگ» اثر پیتر هلر",
           "title": "اقتباس سینمایی ریدلی اسکات از رمان آخرالزمانی «ستاره‌های سگ» اثر پیتر هلر",
@@ -298,8 +352,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 5
+      "item_count": 6
     }
   ],
-  "total_items": 14
+  "total_items": 17
 }
