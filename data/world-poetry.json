@@ -80,6 +80,25 @@
           "post_id": 40
         }
       ]
+    },
+    {
+      "name": "César Vallejo",
+      "name_fa": "شاعر آوانگارد پرویی (۱۸۹۲–۱۹۳۸)؛ با زبانی مجروح، ساختارگریز و نوآورانه، تجسمی ژرف از رنج وجودی، درد محرومان و همبستگی برادرانهٔ بشری پدید می‌آورد.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-006",
+          "title": "Black Stone On Top Of A White Stone",
+          "title_original": "Piedra negra sobre una piedra blanca",
+          "original_language": "Spanish",
+          "epoch": "20th Century & Modern",
+          "book": "Poemas humanos",
+          "translator": "Clayton Eshleman",
+          "published": "2026-08-26T14:46:16.453006",
+          "telegraph_url": "https://telegra.ph/Black-Stone-On-Top-Of-A-White-Stone-08-26",
+          "post_id": 54
+        }
+      ]
     }
   ],
   "daily_poems": [
