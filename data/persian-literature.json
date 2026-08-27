@@ -107,6 +107,25 @@
           "post_id": 36
         }
       ]
+    },
+    {
+      "name": "نصرالله منشی",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "local://kelile/106",
+          "title": "بخش ۲۹ - حکایت بط",
+          "author": "نصرالله منشی",
+          "book": "کلیله و دمنه",
+          "form": "prose",
+          "century": 6,
+          "char_count": 266,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 7,
+          "published": "2026-08-27T04:58:10.468447",
+          "post_id": 56
+        }
+      ]
     }
   ]
 }
