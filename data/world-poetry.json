@@ -111,6 +111,25 @@
           "post_id": 54
         }
       ]
+    },
+    {
+      "name": "E. E. Cummings",
+      "name_fa": "شاعر نوآور آمریکایی (۱۸۹۴–۱۹۶۲)؛ با هنجارگریزی در نحو، رسم‌الخط و ساختار بصری صفحه، ستایش‌گر فردیت رها، شورمندی عشق و شگفتی‌های بدوی جهان است.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-008",
+          "title": "Five Americans: I. Liz",
+          "title_original": "Five Americans: I. Liz",
+          "original_language": "English",
+          "epoch": "20th Century & Modern",
+          "book": "Is 5",
+          "translator": "",
+          "published": "2026-08-27T23:38:56.717990",
+          "telegraph_url": null,
+          "post_id": 67
+        }
+      ]
     }
   ],
   "daily_poems": [
