@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "«خطِ برش»؛ روایتی از زخم‌های موروثی و مرزِ باریکِ رهایی در رمان جدید کارولینا پیهلگاس",
+          "title": "«خطِ برش»؛ روایتی از زخم‌های موروثی و مرزِ باریکِ رهایی در رمان جدید کارولینا پیهلگاس",
+          "source": "World Literature Today",
+          "published": "2026-08-27T15:06:24.014719",
+          "original_url": "https://worldliteraturetoday.org/2026/september/cut-line-carolina-pihelgas",
+          "subcategory": "world_lit",
+          "post_id": 65
+        },
+        {
+          "id": "طنینِ بیگانگی و تاریکیِ دوران: دو دفتر شعر تازه از مارکوس ویکر و الن هینسی",
+          "title": "طنینِ بیگانگی و تاریکیِ دوران: دو دفتر شعر تازه از مارکوس ویکر و الن هینسی",
+          "source": "The Common",
+          "published": "2026-08-27T15:06:22.346376",
+          "original_url": "https://www.thecommononline.org/august-poetry-feature/",
+          "subcategory": "essay",
+          "post_id": 64
+        },
+        {
+          "id": "شعرِ شهادت و ابداع؛ واکاوی جهانِ شعریِ «آنتونلا آنِدا» در آستانهٔ انتشار گزیدهٔ آثارش",
+          "title": "شعرِ شهادت و ابداع؛ واکاوی جهانِ شعریِ «آنتونلا آنِدا» در آستانهٔ انتشار گزیدهٔ آثارش",
+          "source": "Literary Hub",
+          "published": "2026-08-27T15:06:20.601507",
+          "original_url": "https://lithub.com/a-poetry-of-witness-and-invention-wallis-wilde-menozzi-on-translating-antonella-anedda/",
+          "subcategory": "world_lit",
+          "post_id": 63
+        },
+        {
           "id": "ادبیات در برابرِ تفتیشِ عقاید؛ بازخوانیِ ایستادگیِ هنر در دورانِ «هراسِ سرخ»",
           "title": "ادبیات در برابرِ تفتیشِ عقاید؛ بازخوانیِ ایستادگیِ هنر در دورانِ «هراسِ سرخ»",
           "source": "World Literature Today",
@@ -177,7 +204,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 19
+      "item_count": 22
     },
     {
       "id": "report",
@@ -254,6 +281,24 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "«خطِ برش»؛ روایتی از زخم‌های موروثی و مرزِ باریکِ رهایی در رمان جدید کارولینا پیهلگاس",
+          "title": "«خطِ برش»؛ روایتی از زخم‌های موروثی و مرزِ باریکِ رهایی در رمان جدید کارولینا پیهلگاس",
+          "source": "World Literature Today",
+          "published": "2026-08-27T15:06:24.014719",
+          "original_url": "https://worldliteraturetoday.org/2026/september/cut-line-carolina-pihelgas",
+          "subcategory": "world_lit",
+          "post_id": 65
+        },
+        {
+          "id": "شعرِ شهادت و ابداع؛ واکاوی جهانِ شعریِ «آنتونلا آنِدا» در آستانهٔ انتشار گزیدهٔ آثارش",
+          "title": "شعرِ شهادت و ابداع؛ واکاوی جهانِ شعریِ «آنتونلا آنِدا» در آستانهٔ انتشار گزیدهٔ آثارش",
+          "source": "Literary Hub",
+          "published": "2026-08-27T15:06:20.601507",
+          "original_url": "https://lithub.com/a-poetry-of-witness-and-invention-wallis-wilde-menozzi-on-translating-antonella-anedda/",
+          "subcategory": "world_lit",
+          "post_id": 63
+        },
+        {
           "id": "ادبیات در برابرِ تفتیشِ عقاید؛ بازخوانیِ ایستادگیِ هنر در دورانِ «هراسِ سرخ»",
           "title": "ادبیات در برابرِ تفتیشِ عقاید؛ بازخوانیِ ایستادگیِ هنر در دورانِ «هراسِ سرخ»",
           "source": "World Literature Today",
@@ -317,13 +362,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 7
+      "item_count": 9
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "طنینِ بیگانگی و تاریکیِ دوران: دو دفتر شعر تازه از مارکوس ویکر و الن هینسی",
+          "title": "طنینِ بیگانگی و تاریکیِ دوران: دو دفتر شعر تازه از مارکوس ویکر و الن هینسی",
+          "source": "The Common",
+          "published": "2026-08-27T15:06:22.346376",
+          "original_url": "https://www.thecommononline.org/august-poetry-feature/",
+          "subcategory": "essay",
+          "post_id": 64
+        },
         {
           "id": "«گذرگاه» کالین ثابرون؛ روایتی پیراسته و بالغانه از زوال، حافظه و مرگ",
           "title": "«گذرگاه» کالین ثابرون؛ روایتی پیراسته و بالغانه از زوال، حافظه و مرگ",
@@ -388,8 +442,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 7
+      "item_count": 8
     }
   ],
-  "total_items": 19
+  "total_items": 22
 }
