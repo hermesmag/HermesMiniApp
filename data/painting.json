@@ -1,6 +1,26 @@
 {
   "artists": [
     {
+      "name": "Christian Boltanski",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_47129",
+          "title": "Detective",
+          "artist": "Christian Boltanski",
+          "year": "1972–73",
+          "museum": "Art Institute of Chicago",
+          "movement": "Conceptual Art",
+          "medium": "Gelatin silver print mounted with transparent tape",
+          "country": "France",
+          "image_url": "https://lh3.googleusercontent.com/d/1riVFj3V2nRGIyB1i3xWru2LZeAqnpe3a",
+          "published": "2026-08-28T02:26:09.762155",
+          "original_url": "https://www.artic.edu/iiif/2/c674a67b-6c66-3c31-771b-b74cc0025128/full/900,/0/default.jpg",
+          "post_id": 66
+        }
+      ]
+    },
+    {
       "name": "Clyfford Still",
       "painting_count": 1,
       "paintings": [
