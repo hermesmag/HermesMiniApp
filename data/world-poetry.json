@@ -103,6 +103,18 @@
   ],
   "daily_poems": [
     {
+      "id": "August, Los Angeles, Lullaby",
+      "kind": "poem_of_day",
+      "title": "August, Los Angeles, Lullaby",
+      "author": "Carol Muske-Dukes",
+      "source": "Poetry Foundation",
+      "published": "2026-08-27T05:05:19.053989",
+      "telegraph_url": "https://telegra.ph/August-Los-Angeles-Lullaby-08-27",
+      "post_id": 59,
+      "persian_translation": "فراموشیِ نابِ چهره‌اش،\nنوزاد. چنان عمیق در او نگریستم\nکه برای دم‌دمی چند،\nهرچه پیشِ چشم بود تهی از خاطره شد.\nرفته‌رفته به خویش بازآمدم،\nبیدار می‌شدم تا شیرش دهم؛\nدر آن نخستین شب‌ها، در آن اتاقِ آشنا\nکه تمامیِ اشیاء در آن\nبه‌گونه‌ای نامحسوس دگرگون شده بودند:\nگلِ یاسِ رازقی\nکه در تاریکی می‌شکفت\nدر لیوانِ آبِ ترک‌خورده،\nدست‌خطِ ناخوانایم در کنارِ تلفن،\nو کلاهکِ نقش‌دارِ چراغ\nکه رو به پایین خم شده بود، دور\nاز آینه‌ی قدی؛\nآنجا که ایستاده بودم و خیره نگاه می‌کردم\nبه زنی که کودکش را در آغوش داشت.\nچهره‌ی زن مدام محو می‌شد\nدر حالت‌هایی شبیه به سیمای خودم،\nاما چهره‌ی کودک، یکسر\nتمثیلی بود و شبیه به هیچ‌کس نبود.",
+      "original_lines": "The pure amnesia of her face,\nnewborn. I looked so far\ninto her that, for a while,\nthe visual held no memory.\nLittle by little, I returned\nto myself, waking to nurse\nthose first nights in that\nfamiliar room where all\nthe objects had been altered\nimperceptibly: the gardenia\nblooming in the dark\nin the scarred water glass,\nnear the phone my handwriting\nillegible, the patterned lamp-\nshade angled downward and away\nfrom the long mirror where\nI stood and looked at\nthe woman holding her child.\nHer face kept dissolving\ninto expressions resembling\nmy own, but the child’s was pure\nfigurative, resembling no one."
+    },
+    {
       "id": "Old Men Pitching Horseshoes",
       "kind": "poem_of_day",
       "title": "Old Men Pitching Horseshoes",

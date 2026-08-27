@@ -6,6 +6,24 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "ادبیات در برابرِ تفتیشِ عقاید؛ بازخوانیِ ایستادگیِ هنر در دورانِ «هراسِ سرخ»",
+          "title": "ادبیات در برابرِ تفتیشِ عقاید؛ بازخوانیِ ایستادگیِ هنر در دورانِ «هراسِ سرخ»",
+          "source": "World Literature Today",
+          "published": "2026-08-27T05:05:18.269280",
+          "original_url": "https://worldliteraturetoday.org/2026/september/treacherous-secret-agent-how-literature-spoke-truth-power-during-red-scare-marjorie",
+          "subcategory": "world_lit",
+          "post_id": 58
+        },
+        {
+          "id": "«گذرگاه» کالین ثابرون؛ روایتی پیراسته و بالغانه از زوال، حافظه و مرگ",
+          "title": "«گذرگاه» کالین ثابرون؛ روایتی پیراسته و بالغانه از زوال، حافظه و مرگ",
+          "source": "The Guardian Books",
+          "published": "2026-08-27T05:05:16.846478",
+          "original_url": "https://www.theguardian.com/books/2026/aug/26/passage-by-colin-thubron-review-mortality-and-memory-in-a-gem-of-a-novel",
+          "subcategory": "essay",
+          "post_id": 57
+        },
+        {
           "id": "«هراکلیوسین»؛ جستاری در نمادشناسی یک گیاه مهاجم و جستجوی امید در ویرانه‌ها",
           "title": "«هراکلیوسین»؛ جستاری در نمادشناسی یک گیاه مهاجم و جستجوی امید در ویرانه‌ها",
           "source": "Words Without Borders",
@@ -159,7 +177,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 17
+      "item_count": 19
     },
     {
       "id": "report",
@@ -236,6 +254,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "ادبیات در برابرِ تفتیشِ عقاید؛ بازخوانیِ ایستادگیِ هنر در دورانِ «هراسِ سرخ»",
+          "title": "ادبیات در برابرِ تفتیشِ عقاید؛ بازخوانیِ ایستادگیِ هنر در دورانِ «هراسِ سرخ»",
+          "source": "World Literature Today",
+          "published": "2026-08-27T05:05:18.269280",
+          "original_url": "https://worldliteraturetoday.org/2026/september/treacherous-secret-agent-how-literature-spoke-truth-power-during-red-scare-marjorie",
+          "subcategory": "world_lit",
+          "post_id": 58
+        },
+        {
           "id": "«هراکلیوسین»؛ جستاری در نمادشناسی یک گیاه مهاجم و جستجوی امید در ویرانه‌ها",
           "title": "«هراکلیوسین»؛ جستاری در نمادشناسی یک گیاه مهاجم و جستجوی امید در ویرانه‌ها",
           "source": "Words Without Borders",
@@ -290,13 +317,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 6
+      "item_count": 7
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "«گذرگاه» کالین ثابرون؛ روایتی پیراسته و بالغانه از زوال، حافظه و مرگ",
+          "title": "«گذرگاه» کالین ثابرون؛ روایتی پیراسته و بالغانه از زوال، حافظه و مرگ",
+          "source": "The Guardian Books",
+          "published": "2026-08-27T05:05:16.846478",
+          "original_url": "https://www.theguardian.com/books/2026/aug/26/passage-by-colin-thubron-review-mortality-and-memory-in-a-gem-of-a-novel",
+          "subcategory": "essay",
+          "post_id": 57
+        },
         {
           "id": "روایتی از تبعید مدرن و مرزها؛ گفتگو با یو-می بالاسینگهام‌چو درباره رمان نخستش",
           "title": "روایتی از تبعید مدرن و مرزها؛ گفتگو با یو-می بالاسینگهام‌چو درباره رمان نخستش",
@@ -352,8 +388,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 6
+      "item_count": 7
     }
   ],
-  "total_items": 17
+  "total_items": 19
 }
