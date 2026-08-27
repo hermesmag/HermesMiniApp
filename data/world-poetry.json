@@ -3,7 +3,7 @@
     {
       "name": "Heinrich Heine",
       "name_fa": "شاعر و نویسندهٔ آلمانی (۱۷۹۷–۱۸۵۶)؛ با تلفیق ترانه‌های ظریف غنایی و چرخش‌های طنزآمیز کنایی، رنج‌های عاشقانه را با نقد رادیکال سیاست و تعصبات عصر درهم‌می‌آمیزد.",
-      "poem_count": 3,
+      "poem_count": 4,
       "poems": [
         {
           "id": "WP-Y1-DAY-001",
@@ -40,6 +40,18 @@
           "published": "2026-08-25T14:46:32.550416",
           "telegraph_url": "https://telegra.ph/Lyrical-Interlude-1-08-25",
           "post_id": 45
+        },
+        {
+          "id": "WP-Y1-DAY-007",
+          "title": "Lyrical Interlude. 2",
+          "title_original": "Aus meinen Tränen sprießen",
+          "original_language": "German",
+          "epoch": "19th Century",
+          "book": "Buch der Lieder (Book of Songs)",
+          "translator": "Edgar Alfred Bowring",
+          "published": "2026-08-27T14:43:12.103739",
+          "telegraph_url": "https://telegra.ph/Lyrical-Interlude-2-08-27",
+          "post_id": 62
         }
       ]
     },
