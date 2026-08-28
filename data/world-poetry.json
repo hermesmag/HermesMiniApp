@@ -142,6 +142,25 @@
           "post_id": 67
         }
       ]
+    },
+    {
+      "name": "Emily Dickinson",
+      "name_fa": "شاعر گوشه‌نشین آمریکایی (۱۸۳۰–۱۸۸۶)؛ با ایجازی مفرط، مکث‌های خط‌تیره‌ای و قافیه‌های ناهمخوان، ژرفای روان آدمی، تماشای ابدیت و معمای مرگ را می‌کاود.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-010",
+          "title": "Indian Summer",
+          "title_original": "Indian Summer",
+          "original_language": "English",
+          "epoch": "19th Century",
+          "book": "Poems (1890-1896 Complete Series)",
+          "translator": "",
+          "published": "2026-08-28T16:26:16.937044",
+          "telegraph_url": null,
+          "post_id": 74
+        }
+      ]
     }
   ],
   "daily_poems": [
