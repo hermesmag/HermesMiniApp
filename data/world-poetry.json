@@ -3,7 +3,7 @@
     {
       "name": "Heinrich Heine",
       "name_fa": "شاعر و نویسندهٔ آلمانی (۱۷۹۷–۱۸۵۶)؛ با تلفیق ترانه‌های ظریف غنایی و چرخش‌های طنزآمیز کنایی، رنج‌های عاشقانه را با نقد رادیکال سیاست و تعصبات عصر درهم‌می‌آمیزد.",
-      "poem_count": 5,
+      "poem_count": 6,
       "poems": [
         {
           "id": "WP-Y1-DAY-001",
@@ -64,6 +64,18 @@
           "published": "2026-08-28T16:06:20.127459",
           "telegraph_url": "https://telegra.ph/Die-Lorelei-08-28",
           "post_id": 73
+        },
+        {
+          "id": "WP-Y1-DAY-011",
+          "title": "Lyrical Interlude. 4",
+          "title_original": "Wenn ich in deine Augen seh",
+          "original_language": "German",
+          "epoch": "19th Century",
+          "book": "Buch der Lieder (Book of Songs)",
+          "translator": "Edgar Alfred Bowring",
+          "published": "2026-08-28T23:38:31.885184",
+          "telegraph_url": "https://telegra.ph/Lyrical-Interlude-4-08-28",
+          "post_id": 76
         }
       ]
     },
