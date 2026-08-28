@@ -24,8 +24,8 @@
     },
     {
       "slug": "painting",
-      "title_en": "Painting",
-      "title_fa": "نقاشی",
+      "title_en": "Visual Arts",
+      "title_fa": "هنرهای تجسمی",
       "count": 8,
       "source": "data/painting.json"
     },

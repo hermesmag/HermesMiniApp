@@ -574,7 +574,7 @@
     function renderNextChunk() {
       const slice = currentItems.slice(loaded, loaded + chunk);
       slice.forEach((painting) => {
-        const meta = [painting.year, painting.movement, painting.museum].filter(Boolean).join(" · ");
+        const meta = [painting.year, painting.art_form, painting.movement, painting.museum].filter(Boolean).join(" · ");
         const card = el("button", {
             class: "item-card",
             onclick: () => Router.navigate(`/i/painting/${encodeURIComponent(painting.artist)}/${encodeURIComponent(painting.id)}`),
@@ -607,14 +607,14 @@
 
       setChrome({ crumb: painting.artist, showBack: true });
 
-      const meta = [painting.year, painting.medium, painting.country, painting.museum].filter(Boolean).join(" · ");
+      const meta = [painting.year, painting.art_form, painting.medium, painting.country, painting.museum].filter(Boolean).join(" · ");
 
       const detail = el("div", { class: "detail-page" }, [
         el("div", { class: "detail-page__eyebrow latin" }, "GALLERY ARCHIVE"),
         el("h1", { class: "detail-page__title font-niloofar" }, painting.title),
         el("div", { class: "detail-page__meta latin" }, painting.artist),
         meta ? el("div", { class: "detail-page__meta font-geist" }, meta) : null,
-        painting.image_url ? el("div", { class: "detail-page__media" }, lazyImg(painting.image_url, painting.title, "Painting")) : null,
+        painting.image_url ? el("div", { class: "detail-page__media" }, lazyImg(painting.image_url, painting.title, "Visual Arts")) : null,
         painting.original_url ? el("div", { class: "detail-page__link" }, [
           el("button", {
             class: "detail-page__link-btn font-geist",
