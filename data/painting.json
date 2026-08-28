@@ -101,6 +101,26 @@
       ]
     },
     {
+      "name": "Joseph Beuys",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_43987",
+          "title": "Sled",
+          "artist": "Joseph Beuys",
+          "year": "1969",
+          "museum": "Art Institute of Chicago",
+          "movement": "Fluxus",
+          "medium": "Sculpture (Wood, felt, fat, strap, and flashlight)",
+          "country": "Germany",
+          "image_url": "https://lh3.googleusercontent.com/d/1dSfjIvoI7bV_2cYaHg-2uYRHra7nWl_J",
+          "published": "2026-08-28T04:55:40.006438",
+          "original_url": "https://www.artic.edu/iiif/2/a10d6933-bee9-835e-fcb8-40ad9d4be13d/full/900,/0/default.jpg",
+          "post_id": 68
+        }
+      ]
+    },
+    {
       "name": "Paul Cezanne",
       "painting_count": 1,
       "paintings": [
