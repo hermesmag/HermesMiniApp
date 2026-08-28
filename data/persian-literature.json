@@ -122,6 +122,25 @@
       ]
     },
     {
+      "name": "عطار نیشابوری",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "local://tazkerat_ol_owliya/83",
+          "title": "ذکر شیخ ابوالحسن الصایغ رحمةالله علیه",
+          "author": "عطار نیشابوری",
+          "book": "تذکرةالاولیا",
+          "form": "prose",
+          "century": 6,
+          "char_count": 1226,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 9,
+          "published": "2026-08-28T09:41:28.546626",
+          "post_id": 69
+        }
+      ]
+    },
+    {
       "name": "نصرالله منشی",
       "item_count": 1,
       "items": [

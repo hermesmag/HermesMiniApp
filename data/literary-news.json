@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "سایهٔ سنگین فناوری و فریب بر جهان کتاب؛ از بهره‌کشی هوش مصنوعی تا جعل هویت نویسندگان بزرگ",
+          "title": "سایهٔ سنگین فناوری و فریب بر جهان کتاب؛ از بهره‌کشی هوش مصنوعی تا جعل هویت نویسندگان بزرگ",
+          "source": "Literary Hub",
+          "published": "2026-08-28T09:47:03.423899",
+          "original_url": "https://lithub.com/the-latest-literary-scam-emailing-the-long-dead-giants-of-20th-century-literature/",
+          "subcategory": "essay",
+          "post_id": 72
+        },
+        {
+          "id": "«سوفی، ایستاده در آنجا»؛ روایتی طنازانه و اندوه‌بار از زنی نامرئی در حاشیهٔ دنیای ادبیات",
+          "title": "«سوفی، ایستاده در آنجا»؛ روایتی طنازانه و اندوه‌بار از زنی نامرئی در حاشیهٔ دنیای ادبیات",
+          "source": "The Guardian Books",
+          "published": "2026-08-28T09:47:01.824742",
+          "original_url": "https://www.theguardian.com/books/2026/jul/28/sophie-standing-there-book-review-novel-author-meg-mason",
+          "subcategory": "essay",
+          "post_id": 71
+        },
+        {
+          "id": "شعر در برابر دیکتاتوری؛ واکاویِ تروما و تن در دفتر جدید میهائلا موسکالیوک",
+          "title": "شعر در برابر دیکتاتوری؛ واکاویِ تروما و تن در دفتر جدید میهائلا موسکالیوک",
+          "source": "World Literature Today",
+          "published": "2026-08-28T09:46:59.558439",
+          "original_url": "https://worldliteraturetoday.org/2026/september/heartmoor-mihaela-moscaliuc",
+          "subcategory": "world_lit",
+          "post_id": 70
+        },
+        {
           "id": "«خطِ برش»؛ روایتی از زخم‌های موروثی و مرزِ باریکِ رهایی در رمان جدید کارولینا پیهلگاس",
           "title": "«خطِ برش»؛ روایتی از زخم‌های موروثی و مرزِ باریکِ رهایی در رمان جدید کارولینا پیهلگاس",
           "source": "World Literature Today",
@@ -204,7 +231,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 22
+      "item_count": 25
     },
     {
       "id": "report",
@@ -281,6 +308,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "شعر در برابر دیکتاتوری؛ واکاویِ تروما و تن در دفتر جدید میهائلا موسکالیوک",
+          "title": "شعر در برابر دیکتاتوری؛ واکاویِ تروما و تن در دفتر جدید میهائلا موسکالیوک",
+          "source": "World Literature Today",
+          "published": "2026-08-28T09:46:59.558439",
+          "original_url": "https://worldliteraturetoday.org/2026/september/heartmoor-mihaela-moscaliuc",
+          "subcategory": "world_lit",
+          "post_id": 70
+        },
+        {
           "id": "«خطِ برش»؛ روایتی از زخم‌های موروثی و مرزِ باریکِ رهایی در رمان جدید کارولینا پیهلگاس",
           "title": "«خطِ برش»؛ روایتی از زخم‌های موروثی و مرزِ باریکِ رهایی در رمان جدید کارولینا پیهلگاس",
           "source": "World Literature Today",
@@ -362,13 +398,31 @@
           "post_id": 8
         }
       ],
-      "item_count": 9
+      "item_count": 10
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "سایهٔ سنگین فناوری و فریب بر جهان کتاب؛ از بهره‌کشی هوش مصنوعی تا جعل هویت نویسندگان بزرگ",
+          "title": "سایهٔ سنگین فناوری و فریب بر جهان کتاب؛ از بهره‌کشی هوش مصنوعی تا جعل هویت نویسندگان بزرگ",
+          "source": "Literary Hub",
+          "published": "2026-08-28T09:47:03.423899",
+          "original_url": "https://lithub.com/the-latest-literary-scam-emailing-the-long-dead-giants-of-20th-century-literature/",
+          "subcategory": "essay",
+          "post_id": 72
+        },
+        {
+          "id": "«سوفی، ایستاده در آنجا»؛ روایتی طنازانه و اندوه‌بار از زنی نامرئی در حاشیهٔ دنیای ادبیات",
+          "title": "«سوفی، ایستاده در آنجا»؛ روایتی طنازانه و اندوه‌بار از زنی نامرئی در حاشیهٔ دنیای ادبیات",
+          "source": "The Guardian Books",
+          "published": "2026-08-28T09:47:01.824742",
+          "original_url": "https://www.theguardian.com/books/2026/jul/28/sophie-standing-there-book-review-novel-author-meg-mason",
+          "subcategory": "essay",
+          "post_id": 71
+        },
         {
           "id": "طنینِ بیگانگی و تاریکیِ دوران: دو دفتر شعر تازه از مارکوس ویکر و الن هینسی",
           "title": "طنینِ بیگانگی و تاریکیِ دوران: دو دفتر شعر تازه از مارکوس ویکر و الن هینسی",
@@ -442,8 +496,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 8
+      "item_count": 10
     }
   ],
-  "total_items": 22
+  "total_items": 25
 }
