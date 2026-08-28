@@ -1,6 +1,27 @@
 {
   "artists": [
     {
+      "name": "Bruce Nauman",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_146915",
+          "title": "Good Boy Bad Boy",
+          "artist": "Bruce Nauman",
+          "year": "1985",
+          "museum": "Art Institute of Chicago",
+          "movement": "Conceptual Art",
+          "medium": "Two-channel video installation (color, sound)",
+          "art_form": "چیدمان و چندرسانه‌ای",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1L426SqwOKaPv8dFXHXwjhvA3YO8IBJL0",
+          "published": "2026-08-28T23:17:03.079887",
+          "original_url": "https://www.artic.edu/iiif/2/4a8410d6-7554-80a5-a65d-bf59c7afa166/full/900,/0/default.jpg",
+          "post_id": 75
+        }
+      ]
+    },
+    {
       "name": "Christian Boltanski",
       "painting_count": 1,
       "paintings": [
