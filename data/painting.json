@@ -85,6 +85,27 @@
       ]
     },
     {
+      "name": "Follower of Luis de Morales",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_437202",
+          "title": "Christ Bearing the Cross",
+          "artist": "Follower of Luis de Morales",
+          "year": "ca. 1560",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Renaissance (Spanish School)",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Spain",
+          "image_url": "https://lh3.googleusercontent.com/d/1Z42fHmMEbdMYxGsjIJZxfhGA2bdAYuXl",
+          "published": "2026-08-29T05:05:43.829984",
+          "original_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-20751-001.jpg",
+          "post_id": 77
+        }
+      ]
+    },
+    {
       "name": "Georges Braque",
       "painting_count": 1,
       "paintings": [
