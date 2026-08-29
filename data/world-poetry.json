@@ -180,6 +180,25 @@
           "post_id": 76
         }
       ]
+    },
+    {
+      "name": "World Poetry",
+      "name_fa": null,
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "PU-00852",
+          "title": "Kings in Legends",
+          "title_original": "",
+          "original_language": "",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-08-29T20:34:56.988998",
+          "telegraph_url": "https://telegra.ph/Kings-in-Legends-08-29",
+          "post_id": 82
+        }
+      ]
     }
   ],
   "daily_poems": [
