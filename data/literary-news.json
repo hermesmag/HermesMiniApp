@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "میراثِ مادری مقتدر و خاندانی پرفرازونشیب؛ نگاهی به کتاب جدید امانوئل کارر",
+          "title": "میراثِ مادری مقتدر و خاندانی پرفرازونشیب؛ نگاهی به کتاب جدید امانوئل کارر",
+          "source": "The Guardian Books",
+          "published": "2026-08-29T10:56:03.991809",
+          "original_url": "https://www.theguardian.com/books/2026/aug/27/kolkhoz-by-emmanuel-carrere-review-intricate-portrait-of-an-elite-french-family",
+          "subcategory": "world_lit",
+          "post_id": 81
+        },
+        {
+          "id": "از پشت‌پردهٔ غول‌های فناوری تا میراث هاوارد زین؛ برترین کتاب‌های غیرداستانی اوت به انتخاب بوک‌مارکز",
+          "title": "از پشت‌پردهٔ غول‌های فناوری تا میراث هاوارد زین؛ برترین کتاب‌های غیرداستانی اوت به انتخاب بوک‌مارکز",
+          "source": "Literary Hub",
+          "published": "2026-08-29T10:56:01.319454",
+          "original_url": "https://lithub.com/augusts-best-reviewed-nonfiction-2/",
+          "subcategory": "essay",
+          "post_id": 80
+        },
+        {
+          "id": "شکاف میان ادعا و واقعیت؛ نگاهی انتقادی به راهنمای جدید روتلج دربارهٔ ادبیات معاصر ایرلند",
+          "title": "شکاف میان ادعا و واقعیت؛ نگاهی انتقادی به راهنمای جدید روتلج دربارهٔ ادبیات معاصر ایرلند",
+          "source": "World Literature Today",
+          "published": "2026-08-29T10:55:59.201585",
+          "original_url": "https://worldliteraturetoday.org/2026/september/routledge-companion-twenty-first-century-irish-writing",
+          "subcategory": "world_lit",
+          "post_id": 79
+        },
+        {
           "id": "سایهٔ سنگین فناوری و فریب بر جهان کتاب؛ از بهره‌کشی هوش مصنوعی تا جعل هویت نویسندگان بزرگ",
           "title": "سایهٔ سنگین فناوری و فریب بر جهان کتاب؛ از بهره‌کشی هوش مصنوعی تا جعل هویت نویسندگان بزرگ",
           "source": "Literary Hub",
@@ -231,7 +258,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 25
+      "item_count": 28
     },
     {
       "id": "report",
@@ -308,6 +335,24 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "میراثِ مادری مقتدر و خاندانی پرفرازونشیب؛ نگاهی به کتاب جدید امانوئل کارر",
+          "title": "میراثِ مادری مقتدر و خاندانی پرفرازونشیب؛ نگاهی به کتاب جدید امانوئل کارر",
+          "source": "The Guardian Books",
+          "published": "2026-08-29T10:56:03.991809",
+          "original_url": "https://www.theguardian.com/books/2026/aug/27/kolkhoz-by-emmanuel-carrere-review-intricate-portrait-of-an-elite-french-family",
+          "subcategory": "world_lit",
+          "post_id": 81
+        },
+        {
+          "id": "شکاف میان ادعا و واقعیت؛ نگاهی انتقادی به راهنمای جدید روتلج دربارهٔ ادبیات معاصر ایرلند",
+          "title": "شکاف میان ادعا و واقعیت؛ نگاهی انتقادی به راهنمای جدید روتلج دربارهٔ ادبیات معاصر ایرلند",
+          "source": "World Literature Today",
+          "published": "2026-08-29T10:55:59.201585",
+          "original_url": "https://worldliteraturetoday.org/2026/september/routledge-companion-twenty-first-century-irish-writing",
+          "subcategory": "world_lit",
+          "post_id": 79
+        },
+        {
           "id": "شعر در برابر دیکتاتوری؛ واکاویِ تروما و تن در دفتر جدید میهائلا موسکالیوک",
           "title": "شعر در برابر دیکتاتوری؛ واکاویِ تروما و تن در دفتر جدید میهائلا موسکالیوک",
           "source": "World Literature Today",
@@ -398,13 +443,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 10
+      "item_count": 12
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "از پشت‌پردهٔ غول‌های فناوری تا میراث هاوارد زین؛ برترین کتاب‌های غیرداستانی اوت به انتخاب بوک‌مارکز",
+          "title": "از پشت‌پردهٔ غول‌های فناوری تا میراث هاوارد زین؛ برترین کتاب‌های غیرداستانی اوت به انتخاب بوک‌مارکز",
+          "source": "Literary Hub",
+          "published": "2026-08-29T10:56:01.319454",
+          "original_url": "https://lithub.com/augusts-best-reviewed-nonfiction-2/",
+          "subcategory": "essay",
+          "post_id": 80
+        },
         {
           "id": "سایهٔ سنگین فناوری و فریب بر جهان کتاب؛ از بهره‌کشی هوش مصنوعی تا جعل هویت نویسندگان بزرگ",
           "title": "سایهٔ سنگین فناوری و فریب بر جهان کتاب؛ از بهره‌کشی هوش مصنوعی تا جعل هویت نویسندگان بزرگ",
@@ -496,8 +550,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 10
+      "item_count": 11
     }
   ],
-  "total_items": 25
+  "total_items": 28
 }
