@@ -190,6 +190,27 @@
       ]
     },
     {
+      "name": "Master of the Straus Madonna",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_436522",
+          "title": "A Benedictine Monk",
+          "artist": "Master of the Straus Madonna",
+          "year": "ca. 1400",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Early Renaissance (Florentine School)",
+          "medium": "Tempera on wood",
+          "art_form": "نقاشی",
+          "country": "Italy",
+          "image_url": "https://lh3.googleusercontent.com/d/1HqRHQ9Y_W97hD5Grch2AbAtqMET1zs_C",
+          "published": "2026-08-29T22:42:00.153211",
+          "original_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-19585-001.jpg",
+          "post_id": 84
+        }
+      ]
+    },
+    {
       "name": "Paul Cezanne",
       "painting_count": 1,
       "paintings": [
