@@ -209,6 +209,27 @@
           "post_id": 12
         }
       ]
+    },
+    {
+      "name": "Vincent van Gogh",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_459123",
+          "title": "Madame Roulin and Her Baby",
+          "artist": "Vincent van Gogh",
+          "year": "1888",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Post-Impressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Netherlands",
+          "image_url": "https://lh3.googleusercontent.com/d/18H6MwJxaDZFq_Mo78FmszhpgLj9Bjn94",
+          "published": "2026-08-30T21:30:47.896454",
+          "original_url": "https://images.metmuseum.org/CRDImages/rl/original/DT3154.jpg",
+          "post_id": 91
+        }
+      ]
     }
   ]
 }
