@@ -68,6 +68,37 @@
       ]
     },
     {
+      "name": "World Poetry",
+      "name_fa": null,
+      "poem_count": 2,
+      "poems": [
+        {
+          "id": "PU-00852",
+          "title": "Kings in Legends",
+          "title_original": "",
+          "original_language": "",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-08-29T20:34:56.988998",
+          "telegraph_url": "https://telegra.ph/Kings-in-Legends-08-29",
+          "post_id": 82
+        },
+        {
+          "id": "PU-00359",
+          "title": "Ego Dominus Tuus",
+          "title_original": "",
+          "original_language": "",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-08-30T18:28:30.316975+03:30",
+          "telegraph_url": "https://telegra.ph/Ego-Dominus-Tuus-08-30",
+          "post_id": 90
+        }
+      ]
+    },
+    {
       "name": "Arthur Rimbaud",
       "name_fa": "شاعر عصیانگر فرانسوی (۱۸۵۴–۱۸۹۱)؛ با زبانی سرکش و تصاویری هذیانی-اشراقی، سامان قراردادی حواس را برهم می‌زند و از مرزهای عقلانیت مستقر فراتر می‌رود.",
       "poem_count": 1,
@@ -178,25 +209,6 @@
           "published": "2026-08-28T23:38:31.885184",
           "telegraph_url": "https://telegra.ph/Lyrical-Interlude-4-08-28",
           "post_id": 76
-        }
-      ]
-    },
-    {
-      "name": "World Poetry",
-      "name_fa": null,
-      "poem_count": 1,
-      "poems": [
-        {
-          "id": "PU-00852",
-          "title": "Kings in Legends",
-          "title_original": "",
-          "original_language": "",
-          "epoch": "",
-          "book": "",
-          "translator": "",
-          "published": "2026-08-29T20:34:56.988998",
-          "telegraph_url": "https://telegra.ph/Kings-in-Legends-08-29",
-          "post_id": 82
         }
       ]
     }
