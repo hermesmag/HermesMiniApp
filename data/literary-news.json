@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "«پیرترین سگ مادهٔ زنده»؛ واکاوی فلسفی رابطهٔ انسان و حیوان خانگی در رمان اول مورگان دی",
+          "title": "«پیرترین سگ مادهٔ زنده»؛ واکاوی فلسفی رابطهٔ انسان و حیوان خانگی در رمان اول مورگان دی",
+          "source": "World Literature Today",
+          "published": "2026-08-30T08:55:15.076317",
+          "original_url": "https://worldliteraturetoday.org/2026/september/oldest-bitch-alive-morgan-day",
+          "subcategory": "world_lit",
+          "post_id": 88
+        },
+        {
+          "id": "احضار روح گذشته؛ قواعدی برای نوشتن رمان‌های تاریخیِ باورپذیر",
+          "title": "احضار روح گذشته؛ قواعدی برای نوشتن رمان‌های تاریخیِ باورپذیر",
+          "source": "Literary Hub",
+          "published": "2026-08-30T08:55:13.753510",
+          "original_url": "https://lithub.com/eight-simple-rules-for-dating-your-historical-fiction/",
+          "subcategory": "essay",
+          "post_id": 87
+        },
+        {
+          "id": "«مارپیچ حیوان»؛ رمان تازهٔ لوئیس اوتنیل روزا و زوال مرزهای فردیت",
+          "title": "«مارپیچ حیوان»؛ رمان تازهٔ لوئیس اوتنیل روزا و زوال مرزهای فردیت",
+          "source": "World Literature Today",
+          "published": "2026-08-30T08:55:12.017011",
+          "original_url": "https://worldliteraturetoday.org/2026/september/animal-spiral-luis-othoniel-rosa",
+          "subcategory": "world_lit",
+          "post_id": 86
+        },
+        {
           "id": "میراثِ مادری مقتدر و خاندانی پرفرازونشیب؛ نگاهی به کتاب جدید امانوئل کارر",
           "title": "میراثِ مادری مقتدر و خاندانی پرفرازونشیب؛ نگاهی به کتاب جدید امانوئل کارر",
           "source": "The Guardian Books",
@@ -258,7 +285,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 28
+      "item_count": 31
     },
     {
       "id": "report",
@@ -335,6 +362,24 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "«پیرترین سگ مادهٔ زنده»؛ واکاوی فلسفی رابطهٔ انسان و حیوان خانگی در رمان اول مورگان دی",
+          "title": "«پیرترین سگ مادهٔ زنده»؛ واکاوی فلسفی رابطهٔ انسان و حیوان خانگی در رمان اول مورگان دی",
+          "source": "World Literature Today",
+          "published": "2026-08-30T08:55:15.076317",
+          "original_url": "https://worldliteraturetoday.org/2026/september/oldest-bitch-alive-morgan-day",
+          "subcategory": "world_lit",
+          "post_id": 88
+        },
+        {
+          "id": "«مارپیچ حیوان»؛ رمان تازهٔ لوئیس اوتنیل روزا و زوال مرزهای فردیت",
+          "title": "«مارپیچ حیوان»؛ رمان تازهٔ لوئیس اوتنیل روزا و زوال مرزهای فردیت",
+          "source": "World Literature Today",
+          "published": "2026-08-30T08:55:12.017011",
+          "original_url": "https://worldliteraturetoday.org/2026/september/animal-spiral-luis-othoniel-rosa",
+          "subcategory": "world_lit",
+          "post_id": 86
+        },
+        {
           "id": "میراثِ مادری مقتدر و خاندانی پرفرازونشیب؛ نگاهی به کتاب جدید امانوئل کارر",
           "title": "میراثِ مادری مقتدر و خاندانی پرفرازونشیب؛ نگاهی به کتاب جدید امانوئل کارر",
           "source": "The Guardian Books",
@@ -443,13 +488,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 12
+      "item_count": 14
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "احضار روح گذشته؛ قواعدی برای نوشتن رمان‌های تاریخیِ باورپذیر",
+          "title": "احضار روح گذشته؛ قواعدی برای نوشتن رمان‌های تاریخیِ باورپذیر",
+          "source": "Literary Hub",
+          "published": "2026-08-30T08:55:13.753510",
+          "original_url": "https://lithub.com/eight-simple-rules-for-dating-your-historical-fiction/",
+          "subcategory": "essay",
+          "post_id": 87
+        },
         {
           "id": "از پشت‌پردهٔ غول‌های فناوری تا میراث هاوارد زین؛ برترین کتاب‌های غیرداستانی اوت به انتخاب بوک‌مارکز",
           "title": "از پشت‌پردهٔ غول‌های فناوری تا میراث هاوارد زین؛ برترین کتاب‌های غیرداستانی اوت به انتخاب بوک‌مارکز",
@@ -550,8 +604,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 11
+      "item_count": 12
     }
   ],
-  "total_items": 28
+  "total_items": 31
 }
