@@ -3,7 +3,7 @@
   "updated": "2026-08-30T08:55:15.076317",
   "stats": {
     "world_poetry": 14,
-    "painting": 11,
+    "painting": 10,
     "persian_literature": 11,
     "literary_news": 31
   },
@@ -26,7 +26,7 @@
       "slug": "painting",
       "title_en": "Visual Arts",
       "title_fa": "هنرهای تجسمی",
-      "count": 11,
+      "count": 10,
       "source": "data/painting.json"
     },
     {
