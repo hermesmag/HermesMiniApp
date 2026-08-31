@@ -169,6 +169,27 @@
       ]
     },
     {
+      "name": "Juan Gris",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_12874",
+          "title": "Abstraction (Guitar and Glass)",
+          "artist": "Juan Gris",
+          "year": "1913",
+          "museum": "Art Institute of Chicago",
+          "movement": "Synthetic Cubism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Spain",
+          "image_url": "https://lh3.googleusercontent.com/d/1yIojKhB_iD_0NVPR7Qry9fKjoFqjNaPi",
+          "published": "2026-08-31T21:30:57.031063",
+          "original_url": "https://www.artic.edu/iiif/2/9f91f7e3-daa8-8969-31c1-892d5af19404/full/900,/0/default.jpg",
+          "post_id": 97
+        }
+      ]
+    },
+    {
       "name": "Paul Cezanne",
       "painting_count": 1,
       "paintings": [
