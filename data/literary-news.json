@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "از سرودِ خیابان تا مرثیهٔ یک نسل؛ بازخوانیِ میراثِ پاپ اسموک و موسیقی دریلِ بروکلین",
+          "title": "از سرودِ خیابان تا مرثیهٔ یک نسل؛ بازخوانیِ میراثِ پاپ اسموک و موسیقی دریلِ بروکلین",
+          "source": "The New Yorker",
+          "published": "2026-08-31T10:31:39.906522+03:30",
+          "original_url": "https://www.newyorker.com/culture/songs-of-summer/pop-smokes-welcome-to-the-party-was-an-anthem-then-an-elegy",
+          "subcategory": "essay",
+          "post_id": 95
+        },
+        {
+          "id": "«سویتزی» اثر اِما کلاین؛ سوگنامه‌ای تکان‌دهنده برای واپسین روزهای یک زندگی",
+          "title": "«سویتزی» اثر اِما کلاین؛ سوگنامه‌ای تکان‌دهنده برای واپسین روزهای یک زندگی",
+          "source": "The Guardian Books",
+          "published": "2026-08-31T10:31:37.539252+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/aug/31/switzy-by-emma-cline-review-this-booker-listed-account-of-a-mans-last-days-is-profoundly-moving",
+          "subcategory": "essay",
+          "post_id": 94
+        },
+        {
+          "id": "روایت رنج‌های مکتوم «کولونیا دیگنیداد» در رمان جدید اما سپولودا",
+          "title": "روایت رنج‌های مکتوم «کولونیا دیگنیداد» در رمان جدید اما سپولودا",
+          "source": "World Literature Today",
+          "published": "2026-08-31T10:31:35.337053+03:30",
+          "original_url": "https://worldliteraturetoday.org/2026/september/when-my-body-ceased-be-your-home-emma-sepulveda",
+          "subcategory": "world_lit",
+          "post_id": 93
+        },
+        {
           "id": "«پیرترین سگ مادهٔ زنده»؛ واکاوی فلسفی رابطهٔ انسان و حیوان خانگی در رمان اول مورگان دی",
           "title": "«پیرترین سگ مادهٔ زنده»؛ واکاوی فلسفی رابطهٔ انسان و حیوان خانگی در رمان اول مورگان دی",
           "source": "World Literature Today",
@@ -285,7 +312,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 31
+      "item_count": 34
     },
     {
       "id": "report",
@@ -362,6 +389,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "روایت رنج‌های مکتوم «کولونیا دیگنیداد» در رمان جدید اما سپولودا",
+          "title": "روایت رنج‌های مکتوم «کولونیا دیگنیداد» در رمان جدید اما سپولودا",
+          "source": "World Literature Today",
+          "published": "2026-08-31T10:31:35.337053+03:30",
+          "original_url": "https://worldliteraturetoday.org/2026/september/when-my-body-ceased-be-your-home-emma-sepulveda",
+          "subcategory": "world_lit",
+          "post_id": 93
+        },
+        {
           "id": "«پیرترین سگ مادهٔ زنده»؛ واکاوی فلسفی رابطهٔ انسان و حیوان خانگی در رمان اول مورگان دی",
           "title": "«پیرترین سگ مادهٔ زنده»؛ واکاوی فلسفی رابطهٔ انسان و حیوان خانگی در رمان اول مورگان دی",
           "source": "World Literature Today",
@@ -488,13 +524,31 @@
           "post_id": 8
         }
       ],
-      "item_count": 14
+      "item_count": 15
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "از سرودِ خیابان تا مرثیهٔ یک نسل؛ بازخوانیِ میراثِ پاپ اسموک و موسیقی دریلِ بروکلین",
+          "title": "از سرودِ خیابان تا مرثیهٔ یک نسل؛ بازخوانیِ میراثِ پاپ اسموک و موسیقی دریلِ بروکلین",
+          "source": "The New Yorker",
+          "published": "2026-08-31T10:31:39.906522+03:30",
+          "original_url": "https://www.newyorker.com/culture/songs-of-summer/pop-smokes-welcome-to-the-party-was-an-anthem-then-an-elegy",
+          "subcategory": "essay",
+          "post_id": 95
+        },
+        {
+          "id": "«سویتزی» اثر اِما کلاین؛ سوگنامه‌ای تکان‌دهنده برای واپسین روزهای یک زندگی",
+          "title": "«سویتزی» اثر اِما کلاین؛ سوگنامه‌ای تکان‌دهنده برای واپسین روزهای یک زندگی",
+          "source": "The Guardian Books",
+          "published": "2026-08-31T10:31:37.539252+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/aug/31/switzy-by-emma-cline-review-this-booker-listed-account-of-a-mans-last-days-is-profoundly-moving",
+          "subcategory": "essay",
+          "post_id": 94
+        },
         {
           "id": "احضار روح گذشته؛ قواعدی برای نوشتن رمان‌های تاریخیِ باورپذیر",
           "title": "احضار روح گذشته؛ قواعدی برای نوشتن رمان‌های تاریخیِ باورپذیر",
@@ -604,8 +658,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 12
+      "item_count": 14
     }
   ],
-  "total_items": 31
+  "total_items": 34
 }
