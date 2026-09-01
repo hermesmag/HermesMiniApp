@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "«مغاک و گسست»؛ واکاویِ دگردیسیِ غریبِ جوانی در گذارِ تابستان",
+          "title": "«مغاک و گسست»؛ واکاویِ دگردیسیِ غریبِ جوانی در گذارِ تابستان",
+          "source": "Words Without Borders",
+          "published": "2026-09-01T10:31:57.194855+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-08/abyss-and-rupture-halber-zaleska/",
+          "subcategory": "world_lit",
+          "post_id": 102
+        },
+        {
+          "id": "افسانه و واقعیتِ «درسدن»؛ بازخوانیِ پیش‌زمینهٔ تاریخیِ شاهکارِ کورت ونه‌گات",
+          "title": "افسانه و واقعیتِ «درسدن»؛ بازخوانیِ پیش‌زمینهٔ تاریخیِ شاهکارِ کورت ونه‌گات",
+          "source": "Literary Hub",
+          "published": "2026-09-01T10:31:54.976073+03:30",
+          "original_url": "https://lithub.com/on-the-fact-and-fiction-of-kurt-vonneguts-dresden/",
+          "subcategory": "essay",
+          "post_id": 101
+        },
+        {
+          "id": "بحران میان‌سالی در سایهٔ شعرِ دختر؛ نگاهی به داستان «فیلیپ ویتنی» اثر آنا ریزر",
+          "title": "بحران میان‌سالی در سایهٔ شعرِ دختر؛ نگاهی به داستان «فیلیپ ویتنی» اثر آنا ریزر",
+          "source": "Electric Literature",
+          "published": "2026-09-01T10:31:52.436110+03:30",
+          "original_url": "https://electricliterature.com/phillip-whitney-by-anna-reeser/",
+          "subcategory": "essay",
+          "post_id": 100
+        },
+        {
           "id": "از سرودِ خیابان تا مرثیهٔ یک نسل؛ بازخوانیِ میراثِ پاپ اسموک و موسیقی دریلِ بروکلین",
           "title": "از سرودِ خیابان تا مرثیهٔ یک نسل؛ بازخوانیِ میراثِ پاپ اسموک و موسیقی دریلِ بروکلین",
           "source": "The New Yorker",
@@ -312,7 +339,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 34
+      "item_count": 37
     },
     {
       "id": "report",
@@ -389,6 +416,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "«مغاک و گسست»؛ واکاویِ دگردیسیِ غریبِ جوانی در گذارِ تابستان",
+          "title": "«مغاک و گسست»؛ واکاویِ دگردیسیِ غریبِ جوانی در گذارِ تابستان",
+          "source": "Words Without Borders",
+          "published": "2026-09-01T10:31:57.194855+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-08/abyss-and-rupture-halber-zaleska/",
+          "subcategory": "world_lit",
+          "post_id": 102
+        },
+        {
           "id": "روایت رنج‌های مکتوم «کولونیا دیگنیداد» در رمان جدید اما سپولودا",
           "title": "روایت رنج‌های مکتوم «کولونیا دیگنیداد» در رمان جدید اما سپولودا",
           "source": "World Literature Today",
@@ -524,13 +560,31 @@
           "post_id": 8
         }
       ],
-      "item_count": 15
+      "item_count": 16
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "افسانه و واقعیتِ «درسدن»؛ بازخوانیِ پیش‌زمینهٔ تاریخیِ شاهکارِ کورت ونه‌گات",
+          "title": "افسانه و واقعیتِ «درسدن»؛ بازخوانیِ پیش‌زمینهٔ تاریخیِ شاهکارِ کورت ونه‌گات",
+          "source": "Literary Hub",
+          "published": "2026-09-01T10:31:54.976073+03:30",
+          "original_url": "https://lithub.com/on-the-fact-and-fiction-of-kurt-vonneguts-dresden/",
+          "subcategory": "essay",
+          "post_id": 101
+        },
+        {
+          "id": "بحران میان‌سالی در سایهٔ شعرِ دختر؛ نگاهی به داستان «فیلیپ ویتنی» اثر آنا ریزر",
+          "title": "بحران میان‌سالی در سایهٔ شعرِ دختر؛ نگاهی به داستان «فیلیپ ویتنی» اثر آنا ریزر",
+          "source": "Electric Literature",
+          "published": "2026-09-01T10:31:52.436110+03:30",
+          "original_url": "https://electricliterature.com/phillip-whitney-by-anna-reeser/",
+          "subcategory": "essay",
+          "post_id": 100
+        },
         {
           "id": "از سرودِ خیابان تا مرثیهٔ یک نسل؛ بازخوانیِ میراثِ پاپ اسموک و موسیقی دریلِ بروکلین",
           "title": "از سرودِ خیابان تا مرثیهٔ یک نسل؛ بازخوانیِ میراثِ پاپ اسموک و موسیقی دریلِ بروکلین",
@@ -658,8 +712,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 14
+      "item_count": 16
     }
   ],
-  "total_items": 34
+  "total_items": 37
 }
