@@ -190,6 +190,27 @@
       ]
     },
     {
+      "name": "Mark Rothko",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_6010",
+          "title": "Number 19",
+          "artist": "Mark Rothko",
+          "year": "1949",
+          "museum": "Art Institute of Chicago",
+          "movement": "Abstract Expressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1V-WdDWj2WXtY5Nb-oUJH0XlJFjOSYcIr",
+          "published": "2026-09-02T21:30:50.345354",
+          "original_url": "https://www.artic.edu/iiif/2/0a0e16c5-8510-bb2d-b2ca-424feae48d5c/full/900,/0/default.jpg",
+          "post_id": 109
+        }
+      ]
+    },
+    {
       "name": "Paul Cezanne",
       "painting_count": 1,
       "paintings": [
