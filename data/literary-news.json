@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "روزگاری که کریمه هنوز قلمرو نور بود؛ آغاز ماه ملی ترجمه با شعری از لیودمیلا خرسونسکایا",
+          "title": "روزگاری که کریمه هنوز قلمرو نور بود؛ آغاز ماه ملی ترجمه با شعری از لیودمیلا خرسونسکایا",
+          "source": "Words Without Borders",
+          "published": "2026-09-02T10:31:46.965197+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/when-crimea-was-still-a-place-of-light-khersonska-kaminsky-farris/",
+          "subcategory": "world_lit",
+          "post_id": 107
+        },
+        {
+          "id": "سایه‌روشن‌های زندگی زنی مرموز؛ بازخوانی میراث ادبی آنیتا بروکنر در زندگی‌نامه‌ای نو",
+          "title": "سایه‌روشن‌های زندگی زنی مرموز؛ بازخوانی میراث ادبی آنیتا بروکنر در زندگی‌نامه‌ای نو",
+          "source": "The Guardian Books",
+          "published": "2026-09-02T10:31:45.020860+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/01/anita-brookner-by-hermione-lee-review-an-enigmatic-literary-great-given-her-due",
+          "subcategory": "essay",
+          "post_id": 106
+        },
+        {
+          "id": "طنین روح و جراحت در شعر سپتامبر؛ نگاهی به تازه‌های نشر جهان",
+          "title": "طنین روح و جراحت در شعر سپتامبر؛ نگاهی به تازه‌های نشر جهان",
+          "source": "Literary Hub",
+          "published": "2026-09-02T10:31:43.118279+03:30",
+          "original_url": "https://lithub.com/motherships-haunted-mirrors-and-heritances-september-poetry-releases/",
+          "subcategory": "essay",
+          "post_id": 105
+        },
+        {
           "id": "«مغاک و گسست»؛ واکاویِ دگردیسیِ غریبِ جوانی در گذارِ تابستان",
           "title": "«مغاک و گسست»؛ واکاویِ دگردیسیِ غریبِ جوانی در گذارِ تابستان",
           "source": "Words Without Borders",
@@ -339,7 +366,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 37
+      "item_count": 40
     },
     {
       "id": "report",
@@ -416,6 +443,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "روزگاری که کریمه هنوز قلمرو نور بود؛ آغاز ماه ملی ترجمه با شعری از لیودمیلا خرسونسکایا",
+          "title": "روزگاری که کریمه هنوز قلمرو نور بود؛ آغاز ماه ملی ترجمه با شعری از لیودمیلا خرسونسکایا",
+          "source": "Words Without Borders",
+          "published": "2026-09-02T10:31:46.965197+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/when-crimea-was-still-a-place-of-light-khersonska-kaminsky-farris/",
+          "subcategory": "world_lit",
+          "post_id": 107
+        },
+        {
           "id": "«مغاک و گسست»؛ واکاویِ دگردیسیِ غریبِ جوانی در گذارِ تابستان",
           "title": "«مغاک و گسست»؛ واکاویِ دگردیسیِ غریبِ جوانی در گذارِ تابستان",
           "source": "Words Without Borders",
@@ -560,13 +596,31 @@
           "post_id": 8
         }
       ],
-      "item_count": 16
+      "item_count": 17
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "سایه‌روشن‌های زندگی زنی مرموز؛ بازخوانی میراث ادبی آنیتا بروکنر در زندگی‌نامه‌ای نو",
+          "title": "سایه‌روشن‌های زندگی زنی مرموز؛ بازخوانی میراث ادبی آنیتا بروکنر در زندگی‌نامه‌ای نو",
+          "source": "The Guardian Books",
+          "published": "2026-09-02T10:31:45.020860+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/01/anita-brookner-by-hermione-lee-review-an-enigmatic-literary-great-given-her-due",
+          "subcategory": "essay",
+          "post_id": 106
+        },
+        {
+          "id": "طنین روح و جراحت در شعر سپتامبر؛ نگاهی به تازه‌های نشر جهان",
+          "title": "طنین روح و جراحت در شعر سپتامبر؛ نگاهی به تازه‌های نشر جهان",
+          "source": "Literary Hub",
+          "published": "2026-09-02T10:31:43.118279+03:30",
+          "original_url": "https://lithub.com/motherships-haunted-mirrors-and-heritances-september-poetry-releases/",
+          "subcategory": "essay",
+          "post_id": 105
+        },
         {
           "id": "افسانه و واقعیتِ «درسدن»؛ بازخوانیِ پیش‌زمینهٔ تاریخیِ شاهکارِ کورت ونه‌گات",
           "title": "افسانه و واقعیتِ «درسدن»؛ بازخوانیِ پیش‌زمینهٔ تاریخیِ شاهکارِ کورت ونه‌گات",
@@ -712,8 +766,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 16
+      "item_count": 18
     }
   ],
-  "total_items": 37
+  "total_items": 40
 }
