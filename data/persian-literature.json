@@ -1,6 +1,51 @@
 {
   "authors": [
     {
+      "name": "بیدل دهلوی",
+      "item_count": 3,
+      "items": [
+        {
+          "id": "local://bidel/1458",
+          "title": "غزل شمارهٔ ۱۴۵۸",
+          "author": "بیدل دهلوی",
+          "book": "دیوان بیدل",
+          "form": "ghazal",
+          "century": 12,
+          "char_count": 526,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 6,
+          "published": "2026-08-26T03:34:12.934211",
+          "post_id": 50
+        },
+        {
+          "id": "local://bidel/1092",
+          "title": "غزل شمارهٔ ۱۰۹۲",
+          "author": "بیدل دهلوی",
+          "book": "دیوان بیدل",
+          "form": "ghazal",
+          "century": 12,
+          "char_count": 508,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 10,
+          "published": "2026-08-29T10:53:02.381434",
+          "post_id": 78
+        },
+        {
+          "id": "local://bidel/1103",
+          "title": "غزل شمارهٔ ۱۱۰۳",
+          "author": "بیدل دهلوی",
+          "book": "دیوان بیدل",
+          "form": "ghazal",
+          "century": 12,
+          "char_count": 537,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 14,
+          "published": "2026-09-02T08:00:38.802300+03:30",
+          "post_id": 104
+        }
+      ]
+    },
+    {
       "name": "صائب تبریزی",
       "item_count": 3,
       "items": [
@@ -42,38 +87,6 @@
           "day_of_year": 12,
           "published": "2026-08-31T08:00:42.486277+03:30",
           "post_id": 92
-        }
-      ]
-    },
-    {
-      "name": "بیدل دهلوی",
-      "item_count": 2,
-      "items": [
-        {
-          "id": "local://bidel/1458",
-          "title": "غزل شمارهٔ ۱۴۵۸",
-          "author": "بیدل دهلوی",
-          "book": "دیوان بیدل",
-          "form": "ghazal",
-          "century": 12,
-          "char_count": 526,
-          "familiarity_tier": "Rediscovery Masterpiece",
-          "day_of_year": 6,
-          "published": "2026-08-26T03:34:12.934211",
-          "post_id": 50
-        },
-        {
-          "id": "local://bidel/1092",
-          "title": "غزل شمارهٔ ۱۰۹۲",
-          "author": "بیدل دهلوی",
-          "book": "دیوان بیدل",
-          "form": "ghazal",
-          "century": 12,
-          "char_count": 508,
-          "familiarity_tier": "Rediscovery Masterpiece",
-          "day_of_year": 10,
-          "published": "2026-08-29T10:53:02.381434",
-          "post_id": 78
         }
       ]
     },
