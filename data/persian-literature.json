@@ -155,6 +155,38 @@
       ]
     },
     {
+      "name": "نصرالله منشی",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "local://kelile/106",
+          "title": "بخش ۲۹ - حکایت بط",
+          "author": "نصرالله منشی",
+          "book": "کلیله و دمنه",
+          "form": "prose",
+          "century": 6,
+          "char_count": 266,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 7,
+          "published": "2026-08-27T04:58:10.468447",
+          "post_id": 56
+        },
+        {
+          "id": "local://kelile/227",
+          "title": "بخش ۱۲ - حکایت دو کبوتر",
+          "author": "نصرالله منشی",
+          "book": "کلیله و دمنه",
+          "form": "prose",
+          "century": 6,
+          "char_count": 951,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 15,
+          "published": "2026-09-03T08:00:42.366513+03:30",
+          "post_id": 111
+        }
+      ]
+    },
+    {
       "name": "رودکی",
       "item_count": 1,
       "items": [
@@ -208,25 +240,6 @@
           "day_of_year": 11,
           "published": "2026-08-30T08:52:09.908041",
           "post_id": 85
-        }
-      ]
-    },
-    {
-      "name": "نصرالله منشی",
-      "item_count": 1,
-      "items": [
-        {
-          "id": "local://kelile/106",
-          "title": "بخش ۲۹ - حکایت بط",
-          "author": "نصرالله منشی",
-          "book": "کلیله و دمنه",
-          "form": "prose",
-          "century": 6,
-          "char_count": 266,
-          "familiarity_tier": "Rediscovery Masterpiece",
-          "day_of_year": 7,
-          "published": "2026-08-27T04:58:10.468447",
-          "post_id": 56
         }
       ]
     }
