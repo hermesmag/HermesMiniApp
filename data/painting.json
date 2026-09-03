@@ -253,6 +253,27 @@
       ]
     },
     {
+      "name": "Victorian Ephemera Workshop",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_775454",
+          "title": "Valentine with lace paper and faux pearls",
+          "artist": "Victorian Ephemera Workshop",
+          "year": "ca. 1855",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Victorian decorative arts",
+          "medium": "Mixed media (paper, embossed paper lace, satin ribbon, faux pearls, and metal beads)",
+          "art_form": "چیدمان و چندرسانه‌ای",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1OM-B2kvQiuRTEz4vG0kc_AgEF9EWCZqO",
+          "published": "2026-09-03T21:30:55.106886",
+          "original_url": "https://images.metmuseum.org/CRDImages/dp/original/DP-14967-005.jpg",
+          "post_id": 118
+        }
+      ]
+    },
+    {
       "name": "Vincent van Gogh",
       "painting_count": 1,
       "paintings": [
