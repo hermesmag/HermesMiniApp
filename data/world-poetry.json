@@ -194,6 +194,25 @@
       ]
     },
     {
+      "name": "Paul Verlaine",
+      "name_fa": "شاعر نمادگرای فرانسوی (۱۸۴۴–۱۸۹۶)؛ با برتری بخشیدن به موسیقی ناب کلام و بازی با سایه‌روشن‌های حسی، اندوه سیال روان، حسرت‌های ناپایدار و تردیدهای وجودی را زمزمه می‌کند.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-016",
+          "title": "Clair De Lune",
+          "title_original": "Clair De Lune",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "Gertrude Hall",
+          "published": "2026-09-03T18:01:11.945693+03:30",
+          "telegraph_url": "https://telegra.ph/Clair-De-Lune-09-03",
+          "post_id": 117
+        }
+      ]
+    },
+    {
       "name": "Rainer Maria Rilke",
       "name_fa": "شاعر آلمانی‌زبان متولد پراگ (۱۸۷۵–۱۹۲۶)؛ با شهودی عارفانه در لمس اشیا و هستی، به مکاشفه در استحالهٔ امر مادی به امر استعلایی، تنهایی ازلی و راز گشودگی به مرگ می‌نشیند.",
       "poem_count": 1,
