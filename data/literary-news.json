@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "بنای یادبود «مارون‌ها»؛ بازخوانی مفهوم یادمان‌گرایی در سایهٔ تاریخِ مقاومت",
+          "title": "بنای یادبود «مارون‌ها»؛ بازخوانی مفهوم یادمان‌گرایی در سایهٔ تاریخِ مقاومت",
+          "source": "Words Without Borders",
+          "published": "2026-09-03T10:31:55.110241+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/creole-languages-of-the-caribbean-a-maroon-monument-ludmila-ferrari/",
+          "subcategory": "world_lit",
+          "post_id": 116
+        },
+        {
+          "id": "«نگاه دانته»؛ بازخوانی بی‌پردهٔ دوزخ و بهشت در دفتر شعر تازهٔ ایلان استوانز",
+          "title": "«نگاه دانته»؛ بازخوانی بی‌پردهٔ دوزخ و بهشت در دفتر شعر تازهٔ ایلان استوانز",
+          "source": "World Literature Today",
+          "published": "2026-09-03T10:31:53.287306+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/poetry/dantes-gaze",
+          "subcategory": "world_lit",
+          "post_id": 115
+        },
+        {
+          "id": "شوخ‌طبعی در دل تاریکی: رونمایی از نامه‌های منتشرنشدهٔ ریچارد ییتس",
+          "title": "شوخ‌طبعی در دل تاریکی: رونمایی از نامه‌های منتشرنشدهٔ ریچارد ییتس",
+          "source": "The Paris Review",
+          "published": "2026-09-03T10:31:51.513963+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/02/laugh-i-thought-id-die-richard-yatess-unpublished-letters/",
+          "subcategory": "essay",
+          "post_id": 114
+        },
+        {
           "id": "روزگاری که کریمه هنوز قلمرو نور بود؛ آغاز ماه ملی ترجمه با شعری از لیودمیلا خرسونسکایا",
           "title": "روزگاری که کریمه هنوز قلمرو نور بود؛ آغاز ماه ملی ترجمه با شعری از لیودمیلا خرسونسکایا",
           "source": "Words Without Borders",
@@ -366,7 +393,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 40
+      "item_count": 43
     },
     {
       "id": "report",
@@ -443,6 +470,24 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "بنای یادبود «مارون‌ها»؛ بازخوانی مفهوم یادمان‌گرایی در سایهٔ تاریخِ مقاومت",
+          "title": "بنای یادبود «مارون‌ها»؛ بازخوانی مفهوم یادمان‌گرایی در سایهٔ تاریخِ مقاومت",
+          "source": "Words Without Borders",
+          "published": "2026-09-03T10:31:55.110241+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/creole-languages-of-the-caribbean-a-maroon-monument-ludmila-ferrari/",
+          "subcategory": "world_lit",
+          "post_id": 116
+        },
+        {
+          "id": "«نگاه دانته»؛ بازخوانی بی‌پردهٔ دوزخ و بهشت در دفتر شعر تازهٔ ایلان استوانز",
+          "title": "«نگاه دانته»؛ بازخوانی بی‌پردهٔ دوزخ و بهشت در دفتر شعر تازهٔ ایلان استوانز",
+          "source": "World Literature Today",
+          "published": "2026-09-03T10:31:53.287306+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/poetry/dantes-gaze",
+          "subcategory": "world_lit",
+          "post_id": 115
+        },
+        {
           "id": "روزگاری که کریمه هنوز قلمرو نور بود؛ آغاز ماه ملی ترجمه با شعری از لیودمیلا خرسونسکایا",
           "title": "روزگاری که کریمه هنوز قلمرو نور بود؛ آغاز ماه ملی ترجمه با شعری از لیودمیلا خرسونسکایا",
           "source": "Words Without Borders",
@@ -596,13 +641,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 17
+      "item_count": 19
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "شوخ‌طبعی در دل تاریکی: رونمایی از نامه‌های منتشرنشدهٔ ریچارد ییتس",
+          "title": "شوخ‌طبعی در دل تاریکی: رونمایی از نامه‌های منتشرنشدهٔ ریچارد ییتس",
+          "source": "The Paris Review",
+          "published": "2026-09-03T10:31:51.513963+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/02/laugh-i-thought-id-die-richard-yatess-unpublished-letters/",
+          "subcategory": "essay",
+          "post_id": 114
+        },
         {
           "id": "سایه‌روشن‌های زندگی زنی مرموز؛ بازخوانی میراث ادبی آنیتا بروکنر در زندگی‌نامه‌ای نو",
           "title": "سایه‌روشن‌های زندگی زنی مرموز؛ بازخوانی میراث ادبی آنیتا بروکنر در زندگی‌نامه‌ای نو",
@@ -766,8 +820,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 18
+      "item_count": 19
     }
   ],
-  "total_items": 40
+  "total_items": 43
 }
