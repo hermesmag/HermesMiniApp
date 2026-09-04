@@ -6,6 +6,15 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "در جست‌وجوی الگوی آرمانی؛ روایتی از نمایشگاه‌های اصالت و زیبایی سگ‌ها",
+          "title": "در جست‌وجوی الگوی آرمانی؛ روایتی از نمایشگاه‌های اصالت و زیبایی سگ‌ها",
+          "source": "The Paris Review",
+          "published": "2026-09-04T10:35:37.335244+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/03/the-conformation-show-and-the-pursuit-of-the-ideal-dog/",
+          "subcategory": "essay",
+          "post_id": 120
+        },
+        {
           "id": "بنای یادبود «مارون‌ها»؛ بازخوانی مفهوم یادمان‌گرایی در سایهٔ تاریخِ مقاومت",
           "title": "بنای یادبود «مارون‌ها»؛ بازخوانی مفهوم یادمان‌گرایی در سایهٔ تاریخِ مقاومت",
           "source": "Words Without Borders",
@@ -393,7 +402,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 43
+      "item_count": 44
     },
     {
       "id": "report",
@@ -649,6 +658,15 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "در جست‌وجوی الگوی آرمانی؛ روایتی از نمایشگاه‌های اصالت و زیبایی سگ‌ها",
+          "title": "در جست‌وجوی الگوی آرمانی؛ روایتی از نمایشگاه‌های اصالت و زیبایی سگ‌ها",
+          "source": "The Paris Review",
+          "published": "2026-09-04T10:35:37.335244+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/03/the-conformation-show-and-the-pursuit-of-the-ideal-dog/",
+          "subcategory": "essay",
+          "post_id": 120
+        },
+        {
           "id": "شوخ‌طبعی در دل تاریکی: رونمایی از نامه‌های منتشرنشدهٔ ریچارد ییتس",
           "title": "شوخ‌طبعی در دل تاریکی: رونمایی از نامه‌های منتشرنشدهٔ ریچارد ییتس",
           "source": "The Paris Review",
@@ -820,8 +838,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 19
+      "item_count": 20
     }
   ],
-  "total_items": 43
+  "total_items": 44
 }
