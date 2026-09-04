@@ -1,6 +1,27 @@
 {
   "artists": [
     {
+      "name": "Anselm Kiefer",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_229981",
+          "title": "Occupation 1969 (Besetzung 1969), from the series \"Occupations 1969 (Besetzungen 1969)\"",
+          "artist": "Anselm Kiefer",
+          "year": "1969",
+          "museum": "Art Institute of Chicago",
+          "movement": "Conceptual Art",
+          "medium": "Gelatin silver print",
+          "art_form": "عکاسی",
+          "country": "Germany",
+          "image_url": "https://lh3.googleusercontent.com/d/1v_rR95xUlj5E78UbEfOqQ_EcYt-qcZk1",
+          "published": "2026-09-04T21:30:54.141333",
+          "original_url": "https://www.artic.edu/iiif/2/6072526b-7237-9395-a123-17e1ef96b190/full/900,/0/default.jpg",
+          "post_id": 123
+        }
+      ]
+    },
+    {
       "name": "Bruce Nauman",
       "painting_count": 1,
       "paintings": [
