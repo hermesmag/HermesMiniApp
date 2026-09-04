@@ -232,6 +232,25 @@
       ]
     },
     {
+      "name": "T. S. Eliot",
+      "name_fa": "شاعر و منتقد برجستهٔ مدرنیست (۱۸۸۸–۱۹۶۵)؛ با بهره‌گیری از ساختار چندصدایی و تلفیق کلاژگونهٔ متون باستانی با زبان روزمره، روایتی ژرف از سترونی تمدن غرب و تمنای رستگاری روحی خلق می‌کند.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-017",
+          "title": "The Love Song of J. Alfred Prufrock (Selected Passages)",
+          "title_original": "The Love Song of J. Alfred Prufrock (Selected Passages)",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-09-04T18:02:24.554067+03:30",
+          "telegraph_url": null,
+          "post_id": 122
+        }
+      ]
+    },
+    {
       "name": "Wallace Stevens",
       "name_fa": "شاعر فیلسوف‌مشرب آمریکایی (۱۸۷۹–۱۹۵۵)؛ با زبانی پیراسته، انتزاعی و سرشار از ایماژهای درخشان، به تأمل در دیالکتیک پیچیدهٔ میان نیروی آفرینش‌گر تخیل و مادهٔ خام واقعیت می‌نشیند.",
       "poem_count": 1,
