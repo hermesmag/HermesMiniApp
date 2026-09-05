@@ -168,6 +168,38 @@
       ]
     },
     {
+      "name": "محمد بن منور",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "local://asrar_altowhid/129",
+          "title": "حکایت شمارهٔ ۱۰۱",
+          "author": "محمد بن منور",
+          "book": "اسرارالتوحید",
+          "form": "prose",
+          "century": 6,
+          "char_count": 353,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 11,
+          "published": "2026-08-30T08:52:09.908041",
+          "post_id": 85
+        },
+        {
+          "id": "local://asrar_altowhid/139",
+          "title": "حکایت شمارهٔ ۱",
+          "author": "محمد بن منور",
+          "book": "اسرارالتوحید",
+          "form": "prose",
+          "century": 6,
+          "char_count": 489,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 17,
+          "published": "2026-09-05T08:00:43.590782+03:30",
+          "post_id": 124
+        }
+      ]
+    },
+    {
       "name": "نصرالله منشی",
       "item_count": 2,
       "items": [
@@ -234,25 +266,6 @@
           "day_of_year": 9,
           "published": "2026-08-28T09:41:28.546626",
           "post_id": 69
-        }
-      ]
-    },
-    {
-      "name": "محمد بن منور",
-      "item_count": 1,
-      "items": [
-        {
-          "id": "local://asrar_altowhid/129",
-          "title": "حکایت شمارهٔ ۱۰۱",
-          "author": "محمد بن منور",
-          "book": "اسرارالتوحید",
-          "form": "prose",
-          "century": 6,
-          "char_count": 353,
-          "familiarity_tier": "Rediscovery Masterpiece",
-          "day_of_year": 11,
-          "published": "2026-08-30T08:52:09.908041",
-          "post_id": 85
         }
       ]
     }
