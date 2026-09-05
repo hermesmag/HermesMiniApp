@@ -190,6 +190,27 @@
       ]
     },
     {
+      "name": "Juan Bautista Martínez del Mazo",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_437868",
+          "title": "Don Gaspar de Guzmán (1587–1645), Count-Duke of Olivares",
+          "artist": "Juan Bautista Martínez del Mazo",
+          "year": "ca. 1636 or later",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Baroque",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Spain",
+          "image_url": "https://lh3.googleusercontent.com/d/1uJXqoJzDeWTvlDJArECBSE2XvgXAPNJi",
+          "published": "2026-09-05T21:31:00.543257",
+          "original_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-011.jpg",
+          "post_id": 129
+        }
+      ]
+    },
+    {
       "name": "Juan Gris",
       "painting_count": 1,
       "paintings": [
