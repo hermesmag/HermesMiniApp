@@ -310,6 +310,18 @@
   ],
   "daily_poems": [
     {
+      "id": "Believe, Believe",
+      "kind": "poem_of_day",
+      "title": "Believe, Believe",
+      "author": "Bob Kaufman",
+      "source": "Poetry Foundation",
+      "published": "2026-09-05T10:35:24.049049+03:30",
+      "telegraph_url": "https://telegra.ph/Believe-Believe-09-05",
+      "post_id": 127,
+      "persian_translation": "به این باور داشته باش: به هسته‌های جوانِ سیب،\nبه آسمان‌های آبی، به سینه‌ی جوانی که پرتو می‌افشاند،\nنه به حشراتی با کت‌وشلوارهای آبی،\nکه بر جامه‌های جامعه آفت افکنده‌اند.\nبه طنینِ رقصان و پرشورِ جَز باور داشته باش،\nکه شب را به پاره‌هایی ظریف و پرپیچ‌وخم می‌درد،\nو دگربار آن را بند می‌زند،\nدر قالبِ الگوهایی خونسرد و منطقی؛\nنه به مهارکنندگانِ بیمار،\nکه چیزی جز «بمب» نیافریدند.\nبگذار صدای شاعرانِ درگذشته\nبلندتر در گوش‌هایت طنین‌انداز شود\nتا جیغ‌های گوش‌خراشی که دهان‌به‌دهان می‌چرخند\nدر سرمقاله‌های کپک‌زده.\nبه موسیقیِ قرن‌ها گوش بسپار،\nکه فراتر از عصرِ قارچ‌های اتمی برمی‌خیزد.",
+      "original_lines": "Believe in this. Young apple seeds,\nIn blue skies, radiating young breast,\nNot in blue-suited insects,\nInfesting society’s garments.\nBelieve in the swinging sounds of jazz,\nTearing the night into intricate shreds,\nPutting it back together again,\nIn cool logical patterns,\nNot in the sick controllers,\nWho created only the Bomb.\nLet the voices of dead poets\nRing louder in your ears\nThan the screechings mouthed\nIn mildewed editorials.\nListen to the music of centuries,\nRising above the mushroom time."
+    },
+    {
       "id": "When Roots Are Exposed",
       "kind": "poem_of_day",
       "title": "When Roots Are Exposed",

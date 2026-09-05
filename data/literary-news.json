@@ -6,6 +6,24 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "از واقع‌گرایی تا جهان‌های موازی؛ روایت کلویی بنجامین از جادوی ادبیات گمانه‌زن",
+          "title": "از واقع‌گرایی تا جهان‌های موازی؛ روایت کلویی بنجامین از جادوی ادبیات گمانه‌زن",
+          "source": "Literary Hub",
+          "published": "2026-09-05T10:35:22.831926+03:30",
+          "original_url": "https://lithub.com/10-literary-science-fiction-and-fantasy-novels-that-offer-hope-for-the-future/",
+          "subcategory": "essay",
+          "post_id": 126
+        },
+        {
+          "id": "شعر، هراس و رنگ‌های تیره؛ گفت‌وگو با دوروتیا لاسکی دربارهٔ مجموعهٔ «مادر»",
+          "title": "شعر، هراس و رنگ‌های تیره؛ گفت‌وگو با دوروتیا لاسکی دربارهٔ مجموعهٔ «مادر»",
+          "source": "The Paris Review",
+          "published": "2026-09-05T10:35:20.955024+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/04/a-poem-is-full-of-meat-dorothea-lasky-on-mother/",
+          "subcategory": "essay",
+          "post_id": 125
+        },
+        {
           "id": "در جست‌وجوی الگوی آرمانی؛ روایتی از نمایشگاه‌های اصالت و زیبایی سگ‌ها",
           "title": "در جست‌وجوی الگوی آرمانی؛ روایتی از نمایشگاه‌های اصالت و زیبایی سگ‌ها",
           "source": "The Paris Review",
@@ -402,7 +420,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 44
+      "item_count": 46
     },
     {
       "id": "report",
@@ -658,6 +676,24 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "از واقع‌گرایی تا جهان‌های موازی؛ روایت کلویی بنجامین از جادوی ادبیات گمانه‌زن",
+          "title": "از واقع‌گرایی تا جهان‌های موازی؛ روایت کلویی بنجامین از جادوی ادبیات گمانه‌زن",
+          "source": "Literary Hub",
+          "published": "2026-09-05T10:35:22.831926+03:30",
+          "original_url": "https://lithub.com/10-literary-science-fiction-and-fantasy-novels-that-offer-hope-for-the-future/",
+          "subcategory": "essay",
+          "post_id": 126
+        },
+        {
+          "id": "شعر، هراس و رنگ‌های تیره؛ گفت‌وگو با دوروتیا لاسکی دربارهٔ مجموعهٔ «مادر»",
+          "title": "شعر، هراس و رنگ‌های تیره؛ گفت‌وگو با دوروتیا لاسکی دربارهٔ مجموعهٔ «مادر»",
+          "source": "The Paris Review",
+          "published": "2026-09-05T10:35:20.955024+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/04/a-poem-is-full-of-meat-dorothea-lasky-on-mother/",
+          "subcategory": "essay",
+          "post_id": 125
+        },
+        {
           "id": "در جست‌وجوی الگوی آرمانی؛ روایتی از نمایشگاه‌های اصالت و زیبایی سگ‌ها",
           "title": "در جست‌وجوی الگوی آرمانی؛ روایتی از نمایشگاه‌های اصالت و زیبایی سگ‌ها",
           "source": "The Paris Review",
@@ -838,8 +874,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 20
+      "item_count": 22
     }
   ],
-  "total_items": 44
+  "total_items": 46
 }
