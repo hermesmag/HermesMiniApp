@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "روایتِ زیستِ اشتراکیِ کلمات: کتاب‌هایی دربارهٔ نوشتن از زندگی نویسندگان",
+          "title": "روایتِ زیستِ اشتراکیِ کلمات: کتاب‌هایی دربارهٔ نوشتن از زندگی نویسندگان",
+          "source": "Electric Literature",
+          "published": "2026-09-06T10:32:04.654124+03:30",
+          "original_url": "https://electricliterature.com/7-books-about-writing-the-writer/",
+          "subcategory": "essay",
+          "post_id": 133
+        },
+        {
+          "id": "ویترین کتاب هفته؛ از حماسهٔ جسورانهٔ مارلون جیمز تا بازگشت جان رانسن پس از یک دهه",
+          "title": "ویترین کتاب هفته؛ از حماسهٔ جسورانهٔ مارلون جیمز تا بازگشت جان رانسن پس از یک دهه",
+          "source": "Literary Hub",
+          "published": "2026-09-06T10:32:02.878613+03:30",
+          "original_url": "https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-9-4-2026/",
+          "subcategory": "essay",
+          "post_id": 132
+        },
+        {
+          "id": "طنین صداهای نو در شعر امروز؛ مرور سه دفتر شعر تازه و جریان‌ساز",
+          "title": "طنین صداهای نو در شعر امروز؛ مرور سه دفتر شعر تازه و جریان‌ساز",
+          "source": "The Guardian Books",
+          "published": "2026-09-06T10:32:01.081500+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/04/the-best-recent-poetry-review-roundup",
+          "subcategory": "review",
+          "post_id": 131
+        },
+        {
           "id": "از واقع‌گرایی تا جهان‌های موازی؛ روایت کلویی بنجامین از جادوی ادبیات گمانه‌زن",
           "title": "از واقع‌گرایی تا جهان‌های موازی؛ روایت کلویی بنجامین از جادوی ادبیات گمانه‌زن",
           "source": "Literary Hub",
@@ -420,7 +447,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 46
+      "item_count": 49
     },
     {
       "id": "report",
@@ -480,6 +507,15 @@
       "title_fa": "✦ معرفی کتاب",
       "items": [
         {
+          "id": "طنین صداهای نو در شعر امروز؛ مرور سه دفتر شعر تازه و جریان‌ساز",
+          "title": "طنین صداهای نو در شعر امروز؛ مرور سه دفتر شعر تازه و جریان‌ساز",
+          "source": "The Guardian Books",
+          "published": "2026-09-06T10:32:01.081500+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/04/the-best-recent-poetry-review-roundup",
+          "subcategory": "review",
+          "post_id": 131
+        },
+        {
           "id": "انتشار شعری از آنتونلا آنِدا؛ روایتی از دلتنگی و طوفان در مجموعهٔ جدید شاعر ایتالیایی",
           "title": "انتشار شعری از آنتونلا آنِدا؛ روایتی از دلتنگی و طوفان در مجموعهٔ جدید شاعر ایتالیایی",
           "source": "Literary Hub",
@@ -489,7 +525,7 @@
           "post_id": 49
         }
       ],
-      "item_count": 1
+      "item_count": 2
     },
     {
       "id": "world_lit",
@@ -676,6 +712,24 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "روایتِ زیستِ اشتراکیِ کلمات: کتاب‌هایی دربارهٔ نوشتن از زندگی نویسندگان",
+          "title": "روایتِ زیستِ اشتراکیِ کلمات: کتاب‌هایی دربارهٔ نوشتن از زندگی نویسندگان",
+          "source": "Electric Literature",
+          "published": "2026-09-06T10:32:04.654124+03:30",
+          "original_url": "https://electricliterature.com/7-books-about-writing-the-writer/",
+          "subcategory": "essay",
+          "post_id": 133
+        },
+        {
+          "id": "ویترین کتاب هفته؛ از حماسهٔ جسورانهٔ مارلون جیمز تا بازگشت جان رانسن پس از یک دهه",
+          "title": "ویترین کتاب هفته؛ از حماسهٔ جسورانهٔ مارلون جیمز تا بازگشت جان رانسن پس از یک دهه",
+          "source": "Literary Hub",
+          "published": "2026-09-06T10:32:02.878613+03:30",
+          "original_url": "https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-9-4-2026/",
+          "subcategory": "essay",
+          "post_id": 132
+        },
+        {
           "id": "از واقع‌گرایی تا جهان‌های موازی؛ روایت کلویی بنجامین از جادوی ادبیات گمانه‌زن",
           "title": "از واقع‌گرایی تا جهان‌های موازی؛ روایت کلویی بنجامین از جادوی ادبیات گمانه‌زن",
           "source": "Literary Hub",
@@ -874,8 +928,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 22
+      "item_count": 24
     }
   ],
-  "total_items": 46
+  "total_items": 49
 }
