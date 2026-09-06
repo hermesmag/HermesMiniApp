@@ -148,6 +148,27 @@
       ]
     },
     {
+      "name": "Georges Seurat",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_27992",
+          "title": "A Sunday on La Grande Jatte — 1884",
+          "artist": "Georges Seurat",
+          "year": "1884–86, border added 1888–89",
+          "museum": "Art Institute of Chicago",
+          "movement": "Neo-Impressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "France",
+          "image_url": "https://lh3.googleusercontent.com/d/1W1_-jYa0qpTDiKiUpGaIqwvG0sVZxZMs",
+          "published": "2026-09-06T21:30:59.083550",
+          "original_url": "https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/900,/0/default.jpg",
+          "post_id": 135
+        }
+      ]
+    },
+    {
       "name": "Gustav Klimt",
       "painting_count": 1,
       "paintings": [
