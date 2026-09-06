@@ -194,6 +194,25 @@
       ]
     },
     {
+      "name": "Pablo Neruda",
+      "name_fa": "شاعر پرشور شیلیایی (۱۹۰۴–۱۹۷۳)؛ با تصاویری فراخ از جغرافیای آمریکای لاتین و بیانی زلال، حماسهٔ همبستگی کارگران، ستایش اشیای ساده و جاذبهٔ پرشور عشق را می‌سراید.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-019",
+          "title": "Read Poem",
+          "title_original": "Read Poem",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "[Various Translators / Unknown]",
+          "published": "2026-09-06T18:01:28.669556+03:30",
+          "telegraph_url": "https://telegra.ph/Read-Poem-09-06",
+          "post_id": 134
+        }
+      ]
+    },
+    {
       "name": "Paul Verlaine",
       "name_fa": "شاعر نمادگرای فرانسوی (۱۸۴۴–۱۸۹۶)؛ با برتری بخشیدن به موسیقی ناب کلام و بازی با سایه‌روشن‌های حسی، اندوه سیال روان، حسرت‌های ناپایدار و تردیدهای وجودی را زمزمه می‌کند.",
       "poem_count": 1,
