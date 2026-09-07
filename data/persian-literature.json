@@ -117,6 +117,51 @@
       ]
     },
     {
+      "name": "نصرالله منشی",
+      "item_count": 3,
+      "items": [
+        {
+          "id": "local://kelile/106",
+          "title": "بخش ۲۹ - حکایت بط",
+          "author": "نصرالله منشی",
+          "book": "کلیله و دمنه",
+          "form": "prose",
+          "century": 6,
+          "char_count": 266,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 7,
+          "published": "2026-08-27T04:58:10.468447",
+          "post_id": 56
+        },
+        {
+          "id": "local://kelile/227",
+          "title": "بخش ۱۲ - حکایت دو کبوتر",
+          "author": "نصرالله منشی",
+          "book": "کلیله و دمنه",
+          "form": "prose",
+          "century": 6,
+          "char_count": 951,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 15,
+          "published": "2026-09-03T08:00:42.366513+03:30",
+          "post_id": 111
+        },
+        {
+          "id": "local://kelile/117",
+          "title": "بخش ۴۰ - حکایت غوک و مار",
+          "author": "نصرالله منشی",
+          "book": "کلیله و دمنه",
+          "form": "prose",
+          "century": 6,
+          "char_count": 797,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 19,
+          "published": "2026-09-07T08:00:46.443440+03:30",
+          "post_id": 136
+        }
+      ]
+    },
+    {
       "name": "سعدالدین وراوینی",
       "item_count": 2,
       "items": [
@@ -209,38 +254,6 @@
           "day_of_year": 17,
           "published": "2026-09-05T08:00:43.590782+03:30",
           "post_id": 124
-        }
-      ]
-    },
-    {
-      "name": "نصرالله منشی",
-      "item_count": 2,
-      "items": [
-        {
-          "id": "local://kelile/106",
-          "title": "بخش ۲۹ - حکایت بط",
-          "author": "نصرالله منشی",
-          "book": "کلیله و دمنه",
-          "form": "prose",
-          "century": 6,
-          "char_count": 266,
-          "familiarity_tier": "Rediscovery Masterpiece",
-          "day_of_year": 7,
-          "published": "2026-08-27T04:58:10.468447",
-          "post_id": 56
-        },
-        {
-          "id": "local://kelile/227",
-          "title": "بخش ۱۲ - حکایت دو کبوتر",
-          "author": "نصرالله منشی",
-          "book": "کلیله و دمنه",
-          "form": "prose",
-          "century": 6,
-          "char_count": 951,
-          "familiarity_tier": "Rediscovery Masterpiece",
-          "day_of_year": 15,
-          "published": "2026-09-03T08:00:42.366513+03:30",
-          "post_id": 111
         }
       ]
     },
