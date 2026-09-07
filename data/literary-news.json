@@ -6,6 +6,24 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "نیمهٔ تاریک نبوغ؛ واکاوی چهرهٔ واقعی استیون هاوکینگ در زندگی‌نامه‌ای نو",
+          "title": "نیمهٔ تاریک نبوغ؛ واکاوی چهرهٔ واقعی استیون هاوکینگ در زندگی‌نامه‌ای نو",
+          "source": "The Guardian Books",
+          "published": "2026-09-07T10:31:58.823634+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/07/hawking-by-graham-farmelo-review-the-dark-side-of-genius",
+          "subcategory": "essay",
+          "post_id": 138
+        },
+        {
+          "id": "ضرورت تحول در برنامهٔ درسی ادبیات مدارس بریتانیا؛ از انحصار آثار تکراری تا نادیده‌گرفتن زنان نویسنده",
+          "title": "ضرورت تحول در برنامهٔ درسی ادبیات مدارس بریتانیا؛ از انحصار آثار تکراری تا نادیده‌گرفتن زنان نویسنده",
+          "source": "The Guardian Books",
+          "published": "2026-09-07T10:31:56.812007+03:30",
+          "original_url": "https://www.theguardian.com/books/ng-interactive/2026/sep/05/bold-brilliant-thrilling-leading-authors-on-the-novels-every-school-should-teach",
+          "subcategory": "essay",
+          "post_id": 137
+        },
+        {
           "id": "روایتِ زیستِ اشتراکیِ کلمات: کتاب‌هایی دربارهٔ نوشتن از زندگی نویسندگان",
           "title": "روایتِ زیستِ اشتراکیِ کلمات: کتاب‌هایی دربارهٔ نوشتن از زندگی نویسندگان",
           "source": "Electric Literature",
@@ -447,7 +465,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 49
+      "item_count": 51
     },
     {
       "id": "report",
@@ -712,6 +730,24 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "نیمهٔ تاریک نبوغ؛ واکاوی چهرهٔ واقعی استیون هاوکینگ در زندگی‌نامه‌ای نو",
+          "title": "نیمهٔ تاریک نبوغ؛ واکاوی چهرهٔ واقعی استیون هاوکینگ در زندگی‌نامه‌ای نو",
+          "source": "The Guardian Books",
+          "published": "2026-09-07T10:31:58.823634+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/07/hawking-by-graham-farmelo-review-the-dark-side-of-genius",
+          "subcategory": "essay",
+          "post_id": 138
+        },
+        {
+          "id": "ضرورت تحول در برنامهٔ درسی ادبیات مدارس بریتانیا؛ از انحصار آثار تکراری تا نادیده‌گرفتن زنان نویسنده",
+          "title": "ضرورت تحول در برنامهٔ درسی ادبیات مدارس بریتانیا؛ از انحصار آثار تکراری تا نادیده‌گرفتن زنان نویسنده",
+          "source": "The Guardian Books",
+          "published": "2026-09-07T10:31:56.812007+03:30",
+          "original_url": "https://www.theguardian.com/books/ng-interactive/2026/sep/05/bold-brilliant-thrilling-leading-authors-on-the-novels-every-school-should-teach",
+          "subcategory": "essay",
+          "post_id": 137
+        },
+        {
           "id": "روایتِ زیستِ اشتراکیِ کلمات: کتاب‌هایی دربارهٔ نوشتن از زندگی نویسندگان",
           "title": "روایتِ زیستِ اشتراکیِ کلمات: کتاب‌هایی دربارهٔ نوشتن از زندگی نویسندگان",
           "source": "Electric Literature",
@@ -928,8 +964,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 24
+      "item_count": 26
     }
   ],
-  "total_items": 49
+  "total_items": 51
 }

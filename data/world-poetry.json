@@ -348,6 +348,18 @@
   ],
   "daily_poems": [
     {
+      "id": "What Work Is",
+      "kind": "poem_of_day",
+      "title": "What Work Is",
+      "author": "Philip Levine",
+      "source": "Poetry Foundation",
+      "published": "2026-09-07T10:32:00.163303+03:30",
+      "telegraph_url": "https://telegra.ph/What-Work-Is-09-07",
+      "post_id": 139,
+      "persian_translation": "در زیر باران، در صفی طولانی ایستاده‌ایم\nدر انتظار، در فورد هایلند پارک. برای کار.\nتو می‌دانی کار چیست؛ اگر چندان\nسال‌دیده باشی که این را بخوانی، می‌دانی کار\nچیست، هرچند شاید خود تن به آن نداده باشی.\nتو را بگذار کنار. سخن از انتظار است،\nاز این پا به آن پا شدن.\nحس کردنِ بارانِ سبکی که چون مه می‌بارد\nبر موهایت، و چشم‌هایت را تار می‌کند\nتا آنجا که گمان می‌کنی برادر خودت را می‌بینی\nپیشِ رویت، شاید ده نفر جلوتر.\nبا انگشتانت شیشه‌ی عینکت را پاک می‌کنی،\nو البته که او برادرِ کس دیگری است،\nبا شانه‌هایی باریک‌تر از شانه‌های برادرِ تو،\nاما با همان خمیدگیِ اندوهبارِ شانه، همان پوزخند\nکه سرسختی‌اش را پنهان نمی‌کند،\nهمان امتناعِ غمناک از تسلیم شدن\nبه باران، به ساعت‌های هدررفته‌ی انتظار،\nبه این آگاهی که جایی آن جلوترها\nمردی منتظر ایستاده تا بگوید: «نه،\nامروز استخدام نداریم»، به هر دلیلی\nکه دلش بخواهد.",
+      "original_lines": "We stand in the rain in a long line\nwaiting at Ford Highland Park. For work.\nYou know what work is—if you’re\nold enough to read this you know what\nwork is, although you may not do it.\nForget you. This is about waiting,\nshifting from one foot to another.\nFeeling the light rain falling like mist\ninto your hair, blurring your vision\nuntil you think you see your own brother\nahead of you, maybe ten places.\nYou rub your glasses with your fingers,\nand of course it’s someone else’s brother,\nnarrower across the shoulders than\nyours but with the same sad slouch, the grin\nthat does not hide the stubbornness,\nthe sad refusal to give in to\nrain, to the hours of wasted waiting,\nto the knowledge that somewhere ahead\na man is waiting who will say, “No,\nwe’re not hiring today,” for any\nreason he wants."
+    },
+    {
       "id": "Believe, Believe",
       "kind": "poem_of_day",
       "title": "Believe, Believe",
