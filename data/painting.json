@@ -295,6 +295,27 @@
       ]
     },
     {
+      "name": "Piet Mondrian",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_65821",
+          "title": "Composition (No. 1) Gray-Red",
+          "artist": "Piet Mondrian",
+          "year": "1935",
+          "museum": "Art Institute of Chicago",
+          "movement": "De Stijl",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Netherlands",
+          "image_url": "https://lh3.googleusercontent.com/d/19uG6LobI5nA7EJ6bt3wzhfAyL-Vryn-x",
+          "published": "2026-09-07T21:30:55.130730",
+          "original_url": "https://www.artic.edu/iiif/2/254c654f-354a-0f4f-28b5-8eb01a02e95c/full/900,/0/default.jpg",
+          "post_id": 144
+        }
+      ]
+    },
+    {
       "name": "Shunk-Kender",
       "painting_count": 1,
       "paintings": [
