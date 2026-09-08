@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "«قلعه»؛ روایت پرماجرا و غریب جان رانسن از بحران مردانگی مدرن",
+          "title": "«قلعه»؛ روایت پرماجرا و غریب جان رانسن از بحران مردانگی مدرن",
+          "source": "The Guardian Books",
+          "published": "2026-09-08T11:53:51.495771+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/08/the-castle-by-jon-ronson-review-bizarre-tales-of-modern-masculinity",
+          "subcategory": "essay",
+          "post_id": 150
+        },
+        {
+          "id": "صدای حاشیه‌نشینان تاریخ؛ نگاهی به رمان جدید سباستین بری، «جهانی نوتر»",
+          "title": "صدای حاشیه‌نشینان تاریخ؛ نگاهی به رمان جدید سباستین بری، «جهانی نوتر»",
+          "source": "The Guardian Books",
+          "published": "2026-09-08T11:53:49.904548+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/08/the-newer-world-by-sebastian-barry-review-a-near-miracle-of-storytelling",
+          "subcategory": "essay",
+          "post_id": 149
+        },
+        {
+          "id": "«خودی‌های نجیب ما»؛ روایت پررمزوراز کیت اتکینسون از بریتانیای پس از جنگ",
+          "title": "«خودی‌های نجیب ما»؛ روایت پررمزوراز کیت اتکینسون از بریتانیای پس از جنگ",
+          "source": "The Guardian Books",
+          "published": "2026-09-08T11:53:48.410654+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/07/our-noble-selves-by-kate-atkinson-review-quirky-postwar-nostalgia-from-the-life-after-life-author",
+          "subcategory": "essay",
+          "post_id": 148
+        },
+        {
           "id": "نیمهٔ تاریک نبوغ؛ واکاوی چهرهٔ واقعی استیون هاوکینگ در زندگی‌نامه‌ای نو",
           "title": "نیمهٔ تاریک نبوغ؛ واکاوی چهرهٔ واقعی استیون هاوکینگ در زندگی‌نامه‌ای نو",
           "source": "The Guardian Books",
@@ -465,7 +492,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 51
+      "item_count": 54
     },
     {
       "id": "report",
@@ -730,6 +757,33 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "«قلعه»؛ روایت پرماجرا و غریب جان رانسن از بحران مردانگی مدرن",
+          "title": "«قلعه»؛ روایت پرماجرا و غریب جان رانسن از بحران مردانگی مدرن",
+          "source": "The Guardian Books",
+          "published": "2026-09-08T11:53:51.495771+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/08/the-castle-by-jon-ronson-review-bizarre-tales-of-modern-masculinity",
+          "subcategory": "essay",
+          "post_id": 150
+        },
+        {
+          "id": "صدای حاشیه‌نشینان تاریخ؛ نگاهی به رمان جدید سباستین بری، «جهانی نوتر»",
+          "title": "صدای حاشیه‌نشینان تاریخ؛ نگاهی به رمان جدید سباستین بری، «جهانی نوتر»",
+          "source": "The Guardian Books",
+          "published": "2026-09-08T11:53:49.904548+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/08/the-newer-world-by-sebastian-barry-review-a-near-miracle-of-storytelling",
+          "subcategory": "essay",
+          "post_id": 149
+        },
+        {
+          "id": "«خودی‌های نجیب ما»؛ روایت پررمزوراز کیت اتکینسون از بریتانیای پس از جنگ",
+          "title": "«خودی‌های نجیب ما»؛ روایت پررمزوراز کیت اتکینسون از بریتانیای پس از جنگ",
+          "source": "The Guardian Books",
+          "published": "2026-09-08T11:53:48.410654+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/07/our-noble-selves-by-kate-atkinson-review-quirky-postwar-nostalgia-from-the-life-after-life-author",
+          "subcategory": "essay",
+          "post_id": 148
+        },
+        {
           "id": "نیمهٔ تاریک نبوغ؛ واکاوی چهرهٔ واقعی استیون هاوکینگ در زندگی‌نامه‌ای نو",
           "title": "نیمهٔ تاریک نبوغ؛ واکاوی چهرهٔ واقعی استیون هاوکینگ در زندگی‌نامه‌ای نو",
           "source": "The Guardian Books",
@@ -964,8 +1018,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 26
+      "item_count": 29
     }
   ],
-  "total_items": 51
+  "total_items": 54
 }
