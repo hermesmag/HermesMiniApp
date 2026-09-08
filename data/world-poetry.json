@@ -367,6 +367,18 @@
   ],
   "daily_poems": [
     {
+      "id": "Folded",
+      "kind": "poem_of_day",
+      "title": "Folded",
+      "author": "Luis Muñoz",
+      "source": "Poets.org",
+      "published": "2026-09-08T10:42:28.813523+03:30",
+      "telegraph_url": "https://telegra.ph/Folded-09-08",
+      "post_id": 147,
+      "persian_translation": "شگفت‌انگیزترین چیز\nدرباره‌ی نوشتن در تابستان همین بود:\nتکه‌کاغذی بارها تاخورده\nدر کوزه‌ی سرم بود،\nو تمامِ هنر در این بود\nکه بدانی چطور آن را با ظرافت باز کنی،\nبی‌هیچ هیاهویی\nکه مبادا پاره‌اش کند؛\nهمچنان که پهن و پهن‌تر می‌شد،\nچنان وسعتی می‌یافت\nکه چون به‌تمامی عیان گشت،\nپیمودنِ سراسرِ آن دیگر ناممکن بود.",
+      "original_lines": "That was the most surprising thing\nabout writing in summer, there was\na slip of paper folded many times\nin the urn of my head\nand the trick was to know\nhow to unfold it carefully\navoiding any hullabaloo\nthat might tear it\nwhile it spread out and out\nuntil finally\nfully revealed\nit was impossible to take it all in."
+    },
+    {
       "id": "What Work Is",
       "kind": "poem_of_day",
       "title": "What Work Is",
