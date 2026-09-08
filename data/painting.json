@@ -190,6 +190,27 @@
       ]
     },
     {
+      "name": "Jim Dine",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_40643",
+          "title": "Dutch Hearts",
+          "artist": "Jim Dine",
+          "year": "1970",
+          "museum": "Art Institute of Chicago",
+          "movement": "Pop Art",
+          "medium": "Lithograph and collage",
+          "art_form": "طراحی و چاپ",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1jSd5Tj_CVeCXvudTqtN2Qunzj3iBaa6H",
+          "published": "2026-09-08T21:31:13.895561",
+          "original_url": "https://www.artic.edu/iiif/2/98aa12e8-c3a2-a3ca-ad00-eb770356dd4d/full/900,/0/default.jpg",
+          "post_id": 154
+        }
+      ]
+    },
+    {
       "name": "Joseph Beuys",
       "painting_count": 1,
       "paintings": [
