@@ -194,6 +194,25 @@
       ]
     },
     {
+      "name": "Guillaume Apollinaire",
+      "name_fa": "شاعر آوانگارد فرانسوی (۱۸۸۰–۱۹۱۸)؛ با حذف نشانه‌گذاری و ابداع شعر دیداری (کالیگرام)، پیشگام ستایش زیبایی‌شناسی نو، مدرنیتهٔ شهری و پویایی زمانه شد.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-023",
+          "title": "Autumn Crocuses",
+          "title_original": "Les Colchiques",
+          "original_language": "French",
+          "epoch": "",
+          "book": "",
+          "translator": "[Various Translators / Unknown]",
+          "published": "2026-09-08T20:25:16.917694+03:30",
+          "telegraph_url": "https://telegra.ph/Autumn-Crocuses-09-08",
+          "post_id": 153
+        }
+      ]
+    },
+    {
       "name": "Octavio Paz",
       "name_fa": "شاعر و متفکر برجستهٔ مکزیکی (۱۹۱۴–۱۹۹۸)؛ با پیوند زدن اساطیر بومی به بوطیقای سوررئالیستی، به تبارشناسی هویت تاریخی، دیالکتیک تنهایی و رازآمیزی زمان و کلمه می‌پردازد.",
       "poem_count": 1,
