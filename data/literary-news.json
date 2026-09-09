@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "«مرگ گالفته»؛ مرثیه‌ای بر رنج جانکاه و عصیان خاموش در مزارع نیشکر",
+          "title": "«مرگ گالفته»؛ مرثیه‌ای بر رنج جانکاه و عصیان خاموش در مزارع نیشکر",
+          "source": "Words Without Borders",
+          "published": "2026-09-09T10:32:58.541931+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/creole-languages-of-the-caribbean-galfete-is-dead-confiant-alexander/",
+          "subcategory": "world_lit",
+          "post_id": 159
+        },
+        {
+          "id": "از تیک‌تاک ادبی تا خلق رمان؛ گفتگو با استیسی یو دربارهٔ رمان نخستش «بچه‌گربه»",
+          "title": "از تیک‌تاک ادبی تا خلق رمان؛ گفتگو با استیسی یو دربارهٔ رمان نخستش «بچه‌گربه»",
+          "source": "Electric Literature",
+          "published": "2026-09-09T10:32:55.938917+03:30",
+          "original_url": "https://electricliterature.com/a-debut-novel-about-knowing-everything-and-nothing/",
+          "subcategory": "essay",
+          "post_id": 158
+        },
+        {
+          "id": "راویِ رنگ و رنجِ فلسطین؛ سلیمان منصور در ۷۹ سالگی درگذشت",
+          "title": "راویِ رنگ و رنجِ فلسطین؛ سلیمان منصور در ۷۹ سالگی درگذشت",
+          "source": "World Literature Today",
+          "published": "2026-09-09T10:32:53.803497+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/literary-tributes/sliman-mansour-palestines-beloved-painter-ibtisam-barakat",
+          "subcategory": "world_lit",
+          "post_id": 157
+        },
+        {
           "id": "«قلعه»؛ روایت پرماجرا و غریب جان رانسن از بحران مردانگی مدرن",
           "title": "«قلعه»؛ روایت پرماجرا و غریب جان رانسن از بحران مردانگی مدرن",
           "source": "The Guardian Books",
@@ -492,7 +519,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 54
+      "item_count": 57
     },
     {
       "id": "report",
@@ -578,6 +605,24 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "«مرگ گالفته»؛ مرثیه‌ای بر رنج جانکاه و عصیان خاموش در مزارع نیشکر",
+          "title": "«مرگ گالفته»؛ مرثیه‌ای بر رنج جانکاه و عصیان خاموش در مزارع نیشکر",
+          "source": "Words Without Borders",
+          "published": "2026-09-09T10:32:58.541931+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/creole-languages-of-the-caribbean-galfete-is-dead-confiant-alexander/",
+          "subcategory": "world_lit",
+          "post_id": 159
+        },
+        {
+          "id": "راویِ رنگ و رنجِ فلسطین؛ سلیمان منصور در ۷۹ سالگی درگذشت",
+          "title": "راویِ رنگ و رنجِ فلسطین؛ سلیمان منصور در ۷۹ سالگی درگذشت",
+          "source": "World Literature Today",
+          "published": "2026-09-09T10:32:53.803497+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/literary-tributes/sliman-mansour-palestines-beloved-painter-ibtisam-barakat",
+          "subcategory": "world_lit",
+          "post_id": 157
+        },
+        {
           "id": "بنای یادبود «مارون‌ها»؛ بازخوانی مفهوم یادمان‌گرایی در سایهٔ تاریخِ مقاومت",
           "title": "بنای یادبود «مارون‌ها»؛ بازخوانی مفهوم یادمان‌گرایی در سایهٔ تاریخِ مقاومت",
           "source": "Words Without Borders",
@@ -749,13 +794,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 19
+      "item_count": 21
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "از تیک‌تاک ادبی تا خلق رمان؛ گفتگو با استیسی یو دربارهٔ رمان نخستش «بچه‌گربه»",
+          "title": "از تیک‌تاک ادبی تا خلق رمان؛ گفتگو با استیسی یو دربارهٔ رمان نخستش «بچه‌گربه»",
+          "source": "Electric Literature",
+          "published": "2026-09-09T10:32:55.938917+03:30",
+          "original_url": "https://electricliterature.com/a-debut-novel-about-knowing-everything-and-nothing/",
+          "subcategory": "essay",
+          "post_id": 158
+        },
         {
           "id": "«قلعه»؛ روایت پرماجرا و غریب جان رانسن از بحران مردانگی مدرن",
           "title": "«قلعه»؛ روایت پرماجرا و غریب جان رانسن از بحران مردانگی مدرن",
@@ -1018,8 +1072,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 29
+      "item_count": 30
     }
   ],
-  "total_items": 54
+  "total_items": 57
 }
