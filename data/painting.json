@@ -22,6 +22,27 @@
       ]
     },
     {
+      "name": "Arshile Gorky",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_16964",
+          "title": "The Plow and the Song",
+          "artist": "Arshile Gorky",
+          "year": "1946–47",
+          "museum": "Art Institute of Chicago",
+          "movement": "Abstract Expressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1AftvGrvdlWwRNiKH8YJxOJJg5HrNsTNF",
+          "published": "2026-09-09T21:30:56.469734",
+          "original_url": "https://www.artic.edu/iiif/2/77245c86-908f-83a8-4a17-119633f80a5e/full/900,/0/default.jpg",
+          "post_id": 161
+        }
+      ]
+    },
+    {
       "name": "Bruce Nauman",
       "painting_count": 1,
       "paintings": [
