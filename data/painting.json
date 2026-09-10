@@ -1,6 +1,27 @@
 {
   "artists": [
     {
+      "name": "Akkadian Artist (Mesopotamia)",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_329077",
+          "title": "Head of a ruler",
+          "artist": "Akkadian Artist (Mesopotamia)",
+          "year": "ca. 2300–2000 BCE",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Akkadian",
+          "medium": "Copper alloy",
+          "art_form": "هنرهای تجسمی",
+          "country": "Iraq",
+          "image_url": "https://lh3.googleusercontent.com/d/15cyJxmX0Iqh4HCc4SRjc-U4r_t8gAPh1",
+          "published": "2026-09-10T21:30:58.246306",
+          "original_url": "https://images.metmuseum.org/CRDImages/an/original/DP-23662-001.jpg",
+          "post_id": 167
+        }
+      ]
+    },
+    {
       "name": "Anselm Kiefer",
       "painting_count": 1,
       "paintings": [
