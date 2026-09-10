@@ -194,6 +194,25 @@
       ]
     },
     {
+      "name": "Eugenio Montale",
+      "name_fa": "شاعر هرمتیست ایتالیایی (۱۸۹۶–۱۹۸۱)؛ با زبانی تراش‌خورده، عینی و استخوانی، ملال هستی‌شناختی و تمنای یافتن روزنه‌ای از رهایی در جهانی تکه‌تکه‌شده را به تصویر می‌کشد.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-022",
+          "title": "The Lemon Trees",
+          "title_original": "The Lemon Trees",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "[Various Translators / Unknown]",
+          "published": "2026-09-10T18:01:13.976121+03:30",
+          "telegraph_url": "https://telegra.ph/The-Lemon-Trees-09-10",
+          "post_id": 166
+        }
+      ]
+    },
+    {
       "name": "Guillaume Apollinaire",
       "name_fa": "شاعر آوانگارد فرانسوی (۱۸۸۰–۱۹۱۸)؛ با حذف نشانه‌گذاری و ابداع شعر دیداری (کالیگرام)، پیشگام ستایش زیبایی‌شناسی نو، مدرنیتهٔ شهری و پویایی زمانه شد.",
       "poem_count": 1,
