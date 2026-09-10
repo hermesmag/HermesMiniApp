@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "پیوستار کرئول در کارائیب بزرگ؛ بازخوانی هویت، زبان و ادبیات پسااستعماری",
+          "title": "پیوستار کرئول در کارائیب بزرگ؛ بازخوانی هویت، زبان و ادبیات پسااستعماری",
+          "source": "Words Without Borders",
+          "published": "2026-09-10T10:32:21.917825+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/the-creole-continuum-of-the-greater-caribbean-maglia-perrotta/",
+          "subcategory": "world_lit",
+          "post_id": 165
+        },
+        {
+          "id": "میراث «گفت‌وگوهای آشپزخانه‌ای»؛ گفت‌وگوی ویژهٔ «پاریس ریویو» با سوتلانا الکسیویچ",
+          "title": "میراث «گفت‌وگوهای آشپزخانه‌ای»؛ گفت‌وگوی ویژهٔ «پاریس ریویو» با سوتلانا الکسیویچ",
+          "source": "The Paris Review",
+          "published": "2026-09-10T10:32:20.038672+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/09/announcing-our-fall-issue-257/",
+          "subcategory": "essay",
+          "post_id": 164
+        },
+        {
+          "id": "«غایب، اما حاضر»؛ مرثیهٔ منظوم تسه‌رینگ ووزر برای تبتِ غارت‌شده",
+          "title": "«غایب، اما حاضر»؛ مرثیهٔ منظوم تسه‌رینگ ووزر برای تبتِ غارت‌شده",
+          "source": "World Literature Today",
+          "published": "2026-09-10T10:32:18.196145+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/poetry/absent-not-absent-bilingual-poem-tibet-tsering-woeser",
+          "subcategory": "world_lit",
+          "post_id": 163
+        },
+        {
           "id": "«مرگ گالفته»؛ مرثیه‌ای بر رنج جانکاه و عصیان خاموش در مزارع نیشکر",
           "title": "«مرگ گالفته»؛ مرثیه‌ای بر رنج جانکاه و عصیان خاموش در مزارع نیشکر",
           "source": "Words Without Borders",
@@ -519,7 +546,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 57
+      "item_count": 60
     },
     {
       "id": "report",
@@ -605,6 +632,24 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "پیوستار کرئول در کارائیب بزرگ؛ بازخوانی هویت، زبان و ادبیات پسااستعماری",
+          "title": "پیوستار کرئول در کارائیب بزرگ؛ بازخوانی هویت، زبان و ادبیات پسااستعماری",
+          "source": "Words Without Borders",
+          "published": "2026-09-10T10:32:21.917825+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/the-creole-continuum-of-the-greater-caribbean-maglia-perrotta/",
+          "subcategory": "world_lit",
+          "post_id": 165
+        },
+        {
+          "id": "«غایب، اما حاضر»؛ مرثیهٔ منظوم تسه‌رینگ ووزر برای تبتِ غارت‌شده",
+          "title": "«غایب، اما حاضر»؛ مرثیهٔ منظوم تسه‌رینگ ووزر برای تبتِ غارت‌شده",
+          "source": "World Literature Today",
+          "published": "2026-09-10T10:32:18.196145+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/poetry/absent-not-absent-bilingual-poem-tibet-tsering-woeser",
+          "subcategory": "world_lit",
+          "post_id": 163
+        },
+        {
           "id": "«مرگ گالفته»؛ مرثیه‌ای بر رنج جانکاه و عصیان خاموش در مزارع نیشکر",
           "title": "«مرگ گالفته»؛ مرثیه‌ای بر رنج جانکاه و عصیان خاموش در مزارع نیشکر",
           "source": "Words Without Borders",
@@ -794,13 +839,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 21
+      "item_count": 23
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "میراث «گفت‌وگوهای آشپزخانه‌ای»؛ گفت‌وگوی ویژهٔ «پاریس ریویو» با سوتلانا الکسیویچ",
+          "title": "میراث «گفت‌وگوهای آشپزخانه‌ای»؛ گفت‌وگوی ویژهٔ «پاریس ریویو» با سوتلانا الکسیویچ",
+          "source": "The Paris Review",
+          "published": "2026-09-10T10:32:20.038672+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/09/announcing-our-fall-issue-257/",
+          "subcategory": "essay",
+          "post_id": 164
+        },
         {
           "id": "از تیک‌تاک ادبی تا خلق رمان؛ گفتگو با استیسی یو دربارهٔ رمان نخستش «بچه‌گربه»",
           "title": "از تیک‌تاک ادبی تا خلق رمان؛ گفتگو با استیسی یو دربارهٔ رمان نخستش «بچه‌گربه»",
@@ -1072,8 +1126,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 30
+      "item_count": 31
     }
   ],
-  "total_items": 57
+  "total_items": 60
 }
