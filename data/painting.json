@@ -316,6 +316,27 @@
       ]
     },
     {
+      "name": "Louise Lawler",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_187165",
+          "title": "Monogram",
+          "artist": "Louise Lawler",
+          "year": "1984",
+          "museum": "Art Institute of Chicago",
+          "movement": "Institutional Critique",
+          "medium": "C-print",
+          "art_form": "عکاسی",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1nv-s5E__1uOF1iJFm6260Xy0cMNF9RI0",
+          "published": "2026-09-11T21:30:59.522777",
+          "original_url": "https://www.artic.edu/iiif/2/0077e720-e084-3059-4f10-237c95305829/full/900,/0/default.jpg",
+          "post_id": 174
+        }
+      ]
+    },
+    {
       "name": "Mark Rothko",
       "painting_count": 1,
       "paintings": [
