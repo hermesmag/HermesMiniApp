@@ -175,6 +175,51 @@
       ]
     },
     {
+      "name": "محمد بن منور",
+      "item_count": 3,
+      "items": [
+        {
+          "id": "local://asrar_altowhid/129",
+          "title": "حکایت شمارهٔ ۱۰۱",
+          "author": "محمد بن منور",
+          "book": "اسرارالتوحید",
+          "form": "prose",
+          "century": 6,
+          "char_count": 353,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 11,
+          "published": "2026-08-30T08:52:09.908041",
+          "post_id": 85
+        },
+        {
+          "id": "local://asrar_altowhid/139",
+          "title": "حکایت شمارهٔ ۱",
+          "author": "محمد بن منور",
+          "book": "اسرارالتوحید",
+          "form": "prose",
+          "century": 6,
+          "char_count": 489,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 17,
+          "published": "2026-09-05T08:00:43.590782+03:30",
+          "post_id": 124
+        },
+        {
+          "id": "local://asrar_altowhid/172",
+          "title": "حکایت شمارهٔ ۳۴",
+          "author": "محمد بن منور",
+          "book": "اسرارالتوحید",
+          "form": "prose",
+          "century": 6,
+          "char_count": 365,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 23,
+          "published": "2026-09-11T08:00:46.754363+03:30",
+          "post_id": 168
+        }
+      ]
+    },
+    {
       "name": "نصرالله منشی",
       "item_count": 3,
       "items": [
@@ -280,38 +325,6 @@
           "day_of_year": 3,
           "published": "2026-08-23T03:31:03.768608",
           "post_id": 22
-        }
-      ]
-    },
-    {
-      "name": "محمد بن منور",
-      "item_count": 2,
-      "items": [
-        {
-          "id": "local://asrar_altowhid/129",
-          "title": "حکایت شمارهٔ ۱۰۱",
-          "author": "محمد بن منور",
-          "book": "اسرارالتوحید",
-          "form": "prose",
-          "century": 6,
-          "char_count": 353,
-          "familiarity_tier": "Rediscovery Masterpiece",
-          "day_of_year": 11,
-          "published": "2026-08-30T08:52:09.908041",
-          "post_id": 85
-        },
-        {
-          "id": "local://asrar_altowhid/139",
-          "title": "حکایت شمارهٔ ۱",
-          "author": "محمد بن منور",
-          "book": "اسرارالتوحید",
-          "form": "prose",
-          "century": 6,
-          "char_count": 489,
-          "familiarity_tier": "Rediscovery Masterpiece",
-          "day_of_year": 17,
-          "published": "2026-09-05T08:00:43.590782+03:30",
-          "post_id": 124
         }
       ]
     },
