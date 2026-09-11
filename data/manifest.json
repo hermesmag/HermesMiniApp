@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "updated": "2026-09-11T08:00:46.754363+03:30",
+  "updated": "2026-09-11T10:32:37.405802+03:30",
   "stats": {
     "world_poetry": 30,
     "painting": 21,
     "persian_literature": 23,
-    "literary_news": 60
+    "literary_news": 63
   },
   "categories": [
     {
@@ -19,7 +19,7 @@
       "slug": "literary-news",
       "title_en": "Literary News",
       "title_fa": "اخبار ادبی",
-      "count": 60,
+      "count": 63,
       "source": "data/literary-news.json"
     },
     {
