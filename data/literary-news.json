@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "جشنوارهٔ بایرویت و میراث پیچیدهٔ فاگنر؛ ۱۵۰ سال پس از طنین «ملودی‌های بی‌پایان»",
+          "title": "جشنوارهٔ بایرویت و میراث پیچیدهٔ فاگنر؛ ۱۵۰ سال پس از طنین «ملودی‌های بی‌پایان»",
+          "source": "The Paris Review",
+          "published": "2026-09-12T10:32:17.951926+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/11/richard-wagners-opera-festival-in-the-age-of-ai/",
+          "subcategory": "report",
+          "post_id": 178
+        },
+        {
+          "id": "بلوغ جمعی در رمان‌های زنان آفریقایی؛ روایت دختری و سنگینی تاریخ",
+          "title": "بلوغ جمعی در رمان‌های زنان آفریقایی؛ روایت دختری و سنگینی تاریخ",
+          "source": "Electric Literature",
+          "published": "2026-09-12T10:32:15.297805+03:30",
+          "original_url": "https://electricliterature.com/in-these-novels-by-african-women-coming-of-age-is-collective/",
+          "subcategory": "essay",
+          "post_id": 177
+        },
+        {
+          "id": "«تابستان متأخر در انسان‌زمانه»؛ شعر تازهٔ مارکوس ویکر و روایتی از زیستن در عصر بحران اقلیم",
+          "title": "«تابستان متأخر در انسان‌زمانه»؛ شعر تازهٔ مارکوس ویکر و روایتی از زیستن در عصر بحران اقلیم",
+          "source": "Literary Hub",
+          "published": "2026-09-12T10:32:13.022697+03:30",
+          "original_url": "https://lithub.com/late-summer-in-the-anthropocene-a-poem-by-marcus-wicker/",
+          "subcategory": "review",
+          "post_id": 176
+        },
+        {
           "id": "بازخوانی پنج اثر تازهٔ جهان ادبیات؛ روایتی از زوال حافظه در رمان جدید اما کلاین",
           "title": "بازخوانی پنج اثر تازهٔ جهان ادبیات؛ روایتی از زوال حافظه در رمان جدید اما کلاین",
           "source": "Literary Hub",
@@ -573,13 +600,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 63
+      "item_count": 66
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "جشنوارهٔ بایرویت و میراث پیچیدهٔ فاگنر؛ ۱۵۰ سال پس از طنین «ملودی‌های بی‌پایان»",
+          "title": "جشنوارهٔ بایرویت و میراث پیچیدهٔ فاگنر؛ ۱۵۰ سال پس از طنین «ملودی‌های بی‌پایان»",
+          "source": "The Paris Review",
+          "published": "2026-09-12T10:32:17.951926+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/11/richard-wagners-opera-festival-in-the-age-of-ai/",
+          "subcategory": "report",
+          "post_id": 178
+        },
         {
           "id": "تونی تولاتیموت برنده یکی از بزرگ‌ترین جوایز ادبی جدید آمریکا شد",
           "title": "تونی تولاتیموت برنده یکی از بزرگ‌ترین جوایز ادبی جدید آمریکا شد",
@@ -590,7 +626,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 1
+      "item_count": 2
     },
     {
       "id": "interview",
@@ -633,6 +669,15 @@
       "title_fa": "✦ معرفی کتاب",
       "items": [
         {
+          "id": "«تابستان متأخر در انسان‌زمانه»؛ شعر تازهٔ مارکوس ویکر و روایتی از زیستن در عصر بحران اقلیم",
+          "title": "«تابستان متأخر در انسان‌زمانه»؛ شعر تازهٔ مارکوس ویکر و روایتی از زیستن در عصر بحران اقلیم",
+          "source": "Literary Hub",
+          "published": "2026-09-12T10:32:13.022697+03:30",
+          "original_url": "https://lithub.com/late-summer-in-the-anthropocene-a-poem-by-marcus-wicker/",
+          "subcategory": "review",
+          "post_id": 176
+        },
+        {
           "id": "بازخوانی پنج اثر تازهٔ جهان ادبیات؛ روایتی از زوال حافظه در رمان جدید اما کلاین",
           "title": "بازخوانی پنج اثر تازهٔ جهان ادبیات؛ روایتی از زوال حافظه در رمان جدید اما کلاین",
           "source": "Literary Hub",
@@ -660,7 +705,7 @@
           "post_id": 49
         }
       ],
-      "item_count": 3
+      "item_count": 4
     },
     {
       "id": "world_lit",
@@ -892,6 +937,15 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "بلوغ جمعی در رمان‌های زنان آفریقایی؛ روایت دختری و سنگینی تاریخ",
+          "title": "بلوغ جمعی در رمان‌های زنان آفریقایی؛ روایت دختری و سنگینی تاریخ",
+          "source": "Electric Literature",
+          "published": "2026-09-12T10:32:15.297805+03:30",
+          "original_url": "https://electricliterature.com/in-these-novels-by-african-women-coming-of-age-is-collective/",
+          "subcategory": "essay",
+          "post_id": 177
+        },
+        {
           "id": "«ساعت یازدهم»؛ مواجههٔ سلمان رشدی با مرگ و تنهایی در قالبی طنزآمیز و عمیق",
           "title": "«ساعت یازدهم»؛ مواجههٔ سلمان رشدی با مرگ و تنهایی در قالبی طنزآمیز و عمیق",
           "source": "The Guardian Books",
@@ -1180,8 +1234,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 32
+      "item_count": 33
     }
   ],
-  "total_items": 63
+  "total_items": 66
 }
