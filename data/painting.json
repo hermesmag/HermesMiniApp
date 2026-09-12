@@ -211,6 +211,27 @@
       ]
     },
     {
+      "name": "Giovanni Benedetto Castiglione",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_105073",
+          "title": "The Creation of Adam",
+          "artist": "Giovanni Benedetto Castiglione",
+          "year": "c. 1645/50",
+          "museum": "Art Institute of Chicago",
+          "movement": "Baroque",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Italy",
+          "image_url": "https://lh3.googleusercontent.com/d/1R1iYq5S1OPuhwWti6ddLisGhHOmNTVt3",
+          "published": "2026-09-12T21:31:00.160626",
+          "original_url": "https://www.artic.edu/iiif/2/413a9edf-ee27-ee07-5b51-88712143cb89/full/900,/0/default.jpg",
+          "post_id": 179
+        }
+      ]
+    },
+    {
       "name": "Gustav Klimt",
       "painting_count": 1,
       "paintings": [
