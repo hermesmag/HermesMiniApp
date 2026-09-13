@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "مواجهه با حیرت وجودی و مرزهای فهم؛ نگاهی به رمان جدید ادریان دانکن",
+          "title": "مواجهه با حیرت وجودی و مرزهای فهم؛ نگاهی به رمان جدید ادریان دانکن",
+          "source": "The Guardian Books",
+          "published": "2026-09-13T10:32:26.564425+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/11/a-thought-without-collision-by-adrian-duncan-review-a-brilliant-interrogation-of-philosophy-and-wonder",
+          "subcategory": "essay",
+          "post_id": 183
+        },
+        {
+          "id": "رنج، طنز و کشف هویت در «داستان تایپه»؛ نگاهی به رمان جدید ریبکا اف. کوآنگ",
+          "title": "رنج، طنز و کشف هویت در «داستان تایپه»؛ نگاهی به رمان جدید ریبکا اف. کوآنگ",
+          "source": "The Guardian Books",
+          "published": "2026-09-13T10:32:24.911142+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/11/taipei-story-by-rebecca-f-kuang-review-the-torture-and-hilarity-of-learning-chinese",
+          "subcategory": "essay",
+          "post_id": 182
+        },
+        {
+          "id": "از نابلس تا معادن زغال‌سنگ ویرجینیا؛ روایت زیستِ یک جراح فلسطینی در آپالاچیا",
+          "title": "از نابلس تا معادن زغال‌سنگ ویرجینیا؛ روایت زیستِ یک جراح فلسطینی در آپالاچیا",
+          "source": "The Paris Review",
+          "published": "2026-09-13T10:32:23.350635+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/10/my-grandfather-in-grundy-virginia/",
+          "subcategory": "essay",
+          "post_id": 181
+        },
+        {
           "id": "جشنوارهٔ بایرویت و میراث پیچیدهٔ فاگنر؛ ۱۵۰ سال پس از طنین «ملودی‌های بی‌پایان»",
           "title": "جشنوارهٔ بایرویت و میراث پیچیدهٔ فاگنر؛ ۱۵۰ سال پس از طنین «ملودی‌های بی‌پایان»",
           "source": "The Paris Review",
@@ -600,7 +627,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 66
+      "item_count": 69
     },
     {
       "id": "report",
@@ -937,6 +964,33 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "مواجهه با حیرت وجودی و مرزهای فهم؛ نگاهی به رمان جدید ادریان دانکن",
+          "title": "مواجهه با حیرت وجودی و مرزهای فهم؛ نگاهی به رمان جدید ادریان دانکن",
+          "source": "The Guardian Books",
+          "published": "2026-09-13T10:32:26.564425+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/11/a-thought-without-collision-by-adrian-duncan-review-a-brilliant-interrogation-of-philosophy-and-wonder",
+          "subcategory": "essay",
+          "post_id": 183
+        },
+        {
+          "id": "رنج، طنز و کشف هویت در «داستان تایپه»؛ نگاهی به رمان جدید ریبکا اف. کوآنگ",
+          "title": "رنج، طنز و کشف هویت در «داستان تایپه»؛ نگاهی به رمان جدید ریبکا اف. کوآنگ",
+          "source": "The Guardian Books",
+          "published": "2026-09-13T10:32:24.911142+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/11/taipei-story-by-rebecca-f-kuang-review-the-torture-and-hilarity-of-learning-chinese",
+          "subcategory": "essay",
+          "post_id": 182
+        },
+        {
+          "id": "از نابلس تا معادن زغال‌سنگ ویرجینیا؛ روایت زیستِ یک جراح فلسطینی در آپالاچیا",
+          "title": "از نابلس تا معادن زغال‌سنگ ویرجینیا؛ روایت زیستِ یک جراح فلسطینی در آپالاچیا",
+          "source": "The Paris Review",
+          "published": "2026-09-13T10:32:23.350635+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/10/my-grandfather-in-grundy-virginia/",
+          "subcategory": "essay",
+          "post_id": 181
+        },
+        {
           "id": "بلوغ جمعی در رمان‌های زنان آفریقایی؛ روایت دختری و سنگینی تاریخ",
           "title": "بلوغ جمعی در رمان‌های زنان آفریقایی؛ روایت دختری و سنگینی تاریخ",
           "source": "Electric Literature",
@@ -1234,8 +1288,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 33
+      "item_count": 36
     }
   ],
-  "total_items": 66
+  "total_items": 69
 }
