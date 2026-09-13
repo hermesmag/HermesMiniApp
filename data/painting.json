@@ -106,6 +106,27 @@
       ]
     },
     {
+      "name": "Claude Monet",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_14620",
+          "title": "Cliff Walk at Pourville",
+          "artist": "Claude Monet",
+          "year": "1882",
+          "museum": "Art Institute of Chicago",
+          "movement": "Impressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "France",
+          "image_url": "https://lh3.googleusercontent.com/d/10HeqS7BGGq-SN96aLV1bGulfTUyk1DEj",
+          "published": "2026-09-13T21:30:58.910103",
+          "original_url": "https://www.artic.edu/iiif/2/b0effb1c-ff23-bbaa-f809-9fd94e31c1a0/full/900,/0/default.jpg",
+          "post_id": 184
+        }
+      ]
+    },
+    {
       "name": "Clyfford Still",
       "painting_count": 1,
       "paintings": [
