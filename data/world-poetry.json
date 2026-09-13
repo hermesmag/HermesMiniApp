@@ -289,6 +289,25 @@
       ]
     },
     {
+      "name": "Paul Celan",
+      "name_fa": "شاعر آلمانی‌زبان اهل رومانی (۱۹۲۰–۱۹۷۰)؛ با واژه‌سازی‌های نامتعارف و نحوی تکه‌تکه‌شده بر لبهٔ سکوت، مرثیه‌ای ماندگار در شهادت بر فاجعهٔ هولوکاست و ترومای بازماندگی بنا می‌کند.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-026",
+          "title": "Todesfuge (English Translation)",
+          "title_original": "Todesfuge",
+          "original_language": "German",
+          "epoch": "",
+          "book": "",
+          "translator": "Oliver Bernard / Paul Schmidt / Published Scholarly Translation",
+          "published": "2026-09-13T21:51:25.372504+03:30",
+          "telegraph_url": "https://telegra.ph/Death-Fugue-09-13",
+          "post_id": 185
+        }
+      ]
+    },
+    {
       "name": "Paul Verlaine",
       "name_fa": "شاعر نمادگرای فرانسوی (۱۸۴۴–۱۸۹۶)؛ با برتری بخشیدن به موسیقی ناب کلام و بازی با سایه‌روشن‌های حسی، اندوه سیال روان، حسرت‌های ناپایدار و تردیدهای وجودی را زمزمه می‌کند.",
       "poem_count": 1,
