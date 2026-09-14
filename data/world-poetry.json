@@ -232,6 +232,25 @@
       ]
     },
     {
+      "name": "Giosuè Carducci",
+      "name_fa": "شاعر و استاد دانشگاه ایتالیایی (۱۸۳۵–۱۹۰۷)، نخستین نویسنده ایتالیایی برنده جایزه نوبل ادبیات ۱۹۰۶",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-027",
+          "title": "Roma",
+          "title_original": "Roma",
+          "original_language": "Italian",
+          "epoch": "",
+          "book": "Levia Gravia (1861)",
+          "translator": "Frank Sewall",
+          "published": "2026-09-14T18:34:35.309328+03:30",
+          "telegraph_url": "https://telegra.ph/Roma-09-14-32",
+          "post_id": 189
+        }
+      ]
+    },
+    {
       "name": "Guillaume Apollinaire",
       "name_fa": "شاعر آوانگارد فرانسوی (۱۸۸۰–۱۹۱۸)؛ با حذف نشانه‌گذاری و ابداع شعر دیداری (کالیگرام)، پیشگام ستایش زیبایی‌شناسی نو، مدرنیتهٔ شهری و پویایی زمانه شد.",
       "poem_count": 1,

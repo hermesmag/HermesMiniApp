@@ -22,6 +22,27 @@
       ]
     },
     {
+      "name": "Amedeo Modigliani",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_27987",
+          "title": "Jacques and Berthe Lipchitz",
+          "artist": "Amedeo Modigliani",
+          "year": "1916",
+          "museum": "Art Institute of Chicago",
+          "movement": "Expressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Italy",
+          "image_url": "https://lh3.googleusercontent.com/d/1QyDt8jpeRd6MortlFbbIenYS3eEAv9tP",
+          "published": "2026-09-14T21:31:02.656662",
+          "original_url": "https://www.artic.edu/iiif/2/7e649536-b186-c3f5-3e6d-0d22d5d798ef/full/900,/0/default.jpg",
+          "post_id": 190
+        }
+      ]
+    },
+    {
       "name": "Anselm Kiefer",
       "painting_count": 1,
       "paintings": [
