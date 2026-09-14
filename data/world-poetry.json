@@ -276,12 +276,12 @@
       "poems": [
         {
           "id": "WP-Y1-DAY-019",
-          "title": "Read Poem",
-          "title_original": "Read Poem",
-          "original_language": "English",
+          "title": "If You Forget Me",
+          "title_original": "Si tú me olvidas",
+          "original_language": "Spanish",
           "epoch": "",
           "book": "",
-          "translator": "[Various Translators / Unknown]",
+          "translator": "Donald D. Walsh",
           "published": "2026-09-06T18:01:28.669556+03:30",
           "telegraph_url": "https://telegra.ph/Read-Poem-09-06",
           "post_id": 134
@@ -295,12 +295,12 @@
       "poems": [
         {
           "id": "WP-Y1-DAY-026",
-          "title": "Todesfuge (English Translation)",
+          "title": "Todesfuge",
           "title_original": "Todesfuge",
           "original_language": "German",
           "epoch": "",
           "book": "",
-          "translator": "Oliver Bernard / Paul Schmidt / Published Scholarly Translation",
+          "translator": "John Felstiner",
           "published": "2026-09-13T21:51:25.372504+03:30",
           "telegraph_url": "https://telegra.ph/Death-Fugue-09-13",
           "post_id": 185
