@@ -1,25 +1,25 @@
 {
   "version": "1.0.0",
-  "updated": "2026-09-14T08:00:51.623210+03:30",
+  "updated": "2026-09-14T10:31:56.719104+03:30",
   "stats": {
-    "world_poetry": 32,
+    "world_poetry": 33,
     "painting": 24,
     "persian_literature": 26,
-    "literary_news": 69
+    "literary_news": 70
   },
   "categories": [
     {
       "slug": "world-poetry",
       "title_en": "World Poetry",
       "title_fa": "شعر جهان",
-      "count": 32,
+      "count": 33,
       "source": "data/world-poetry.json"
     },
     {
       "slug": "literary-news",
       "title_en": "Literary News",
       "title_fa": "اخبار ادبی",
-      "count": 69,
+      "count": 70,
       "source": "data/literary-news.json"
     },
     {

@@ -6,6 +6,15 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "فاشیسم آخرالزمانی؛ روایت نائومی کلاین و آسترا تیلور از اتحاد نخبگان برای ویرانی جهان",
+          "title": "فاشیسم آخرالزمانی؛ روایت نائومی کلاین و آسترا تیلور از اتحاد نخبگان برای ویرانی جهان",
+          "source": "The Guardian Books",
+          "published": "2026-09-14T10:31:55.299049+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/14/end-times-fascism-by-naomi-klein-and-astra-taylor-review-the-fightback-starts-here",
+          "subcategory": "essay",
+          "post_id": 187
+        },
+        {
           "id": "مواجهه با حیرت وجودی و مرزهای فهم؛ نگاهی به رمان جدید ادریان دانکن",
           "title": "مواجهه با حیرت وجودی و مرزهای فهم؛ نگاهی به رمان جدید ادریان دانکن",
           "source": "The Guardian Books",
@@ -627,7 +636,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 69
+      "item_count": 70
     },
     {
       "id": "report",
@@ -964,6 +973,15 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "فاشیسم آخرالزمانی؛ روایت نائومی کلاین و آسترا تیلور از اتحاد نخبگان برای ویرانی جهان",
+          "title": "فاشیسم آخرالزمانی؛ روایت نائومی کلاین و آسترا تیلور از اتحاد نخبگان برای ویرانی جهان",
+          "source": "The Guardian Books",
+          "published": "2026-09-14T10:31:55.299049+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/14/end-times-fascism-by-naomi-klein-and-astra-taylor-review-the-fightback-starts-here",
+          "subcategory": "essay",
+          "post_id": 187
+        },
+        {
           "id": "مواجهه با حیرت وجودی و مرزهای فهم؛ نگاهی به رمان جدید ادریان دانکن",
           "title": "مواجهه با حیرت وجودی و مرزهای فهم؛ نگاهی به رمان جدید ادریان دانکن",
           "source": "The Guardian Books",
@@ -1288,8 +1306,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 36
+      "item_count": 37
     }
   ],
-  "total_items": 69
+  "total_items": 70
 }

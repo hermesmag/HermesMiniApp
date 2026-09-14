@@ -462,6 +462,18 @@
   ],
   "daily_poems": [
     {
+      "id": "Evening",
+      "kind": "poem_of_day",
+      "title": "Evening",
+      "author": "H.D.",
+      "source": "Poetry Foundation",
+      "published": "2026-09-14T10:31:56.719104+03:30",
+      "telegraph_url": "https://telegra.ph/Evening-09-14",
+      "post_id": 188,
+      "persian_translation": "نور می‌گذرد\nاز ستیغی به ستیغی دیگر،\nاز گلی به گلی دیگر؛\nگل‌های جگرواش، گشوده و پهن‌گستر\nدر زیر تابشِ نور\nکم‌فروغ می‌شوند؛\nگلبرگ‌ها رو به درون می‌کشند،\nنوک‌های آبی‌رنگ خم می‌شوند\nبه سوی قلبِ آبی‌تر،\nو گل‌ها گم می‌شوند.\nغنچه‌های زغال‌اخته هنوز سپیدند،\nاما سایه‌ها می‌جهند\nاز ریشه‌های زغال‌اخته؛\nسیاهی از ریشه‌ای به ریشه‌ای دیگر می‌خزد،\nهر برگ\nبرگی دیگر را بر علفزار می‌بُرد،\nسایه در پیِ سایه می‌رود،\nآنگاه هم برگ\nو هم سایه‌ی برگ گم می‌شوند.",
+      "original_lines": "The light passes\nfrom ridge to ridge,\nfrom flower to flower—\nthe hepaticas, wide-spread\nunder the light\ngrow faint—\nthe petals reach inward,\nthe blue tips bend\ntoward the bluer heart\nand the flowers are lost.\nThe cornel-buds are still white,\nbut shadows dart\nfrom the cornel-roots—\nblack creeps from root to root,\neach leaf\ncuts another leaf on the grass,\nshadow seeks shadow,\nthen both leaf\nand leaf-shadow are lost."
+    },
+    {
       "id": "Folded",
       "kind": "poem_of_day",
       "title": "Folded",
