@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "سوتلانا الکسیویچ و هنرِ شنیدنِ صداهای ناگفته",
+          "title": "سوتلانا الکسیویچ و هنرِ شنیدنِ صداهای ناگفته",
+          "source": "The Paris Review",
+          "published": "2026-09-15T10:34:02.057864+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/14/you-have-to-ask-questions-svetlana-alexievich-unlocked/",
+          "subcategory": "essay",
+          "post_id": 194
+        },
+        {
+          "id": "ماشین‌تحریر جیمز بالدوین و پرسش از جایگاه هوش مصنوعی در هنر",
+          "title": "ماشین‌تحریر جیمز بالدوین و پرسش از جایگاه هوش مصنوعی در هنر",
+          "source": "Literary Hub",
+          "published": "2026-09-15T10:33:59.615717+03:30",
+          "original_url": "https://lithub.com/could-this-james-baldwin-typewriter-be-an-okay-use-of-ai/",
+          "subcategory": "essay",
+          "post_id": 193
+        },
+        {
+          "id": "جان ویلسون و جست‌وجوی معنا در روزمرگی‌های بی‌اهمیت",
+          "title": "جان ویلسون و جست‌وجوی معنا در روزمرگی‌های بی‌اهمیت",
+          "source": "The New Yorker",
+          "published": "2026-09-15T10:33:56.664959+03:30",
+          "original_url": "https://www.newyorker.com/culture/the-new-yorker-interview/john-wilsons-poetry-of-the-mundane",
+          "subcategory": "essay",
+          "post_id": 192
+        },
+        {
           "id": "فاشیسم آخرالزمانی؛ روایت نائومی کلاین و آسترا تیلور از اتحاد نخبگان برای ویرانی جهان",
           "title": "فاشیسم آخرالزمانی؛ روایت نائومی کلاین و آسترا تیلور از اتحاد نخبگان برای ویرانی جهان",
           "source": "The Guardian Books",
@@ -636,7 +663,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 70
+      "item_count": 73
     },
     {
       "id": "report",
@@ -973,6 +1000,33 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "سوتلانا الکسیویچ و هنرِ شنیدنِ صداهای ناگفته",
+          "title": "سوتلانا الکسیویچ و هنرِ شنیدنِ صداهای ناگفته",
+          "source": "The Paris Review",
+          "published": "2026-09-15T10:34:02.057864+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/14/you-have-to-ask-questions-svetlana-alexievich-unlocked/",
+          "subcategory": "essay",
+          "post_id": 194
+        },
+        {
+          "id": "ماشین‌تحریر جیمز بالدوین و پرسش از جایگاه هوش مصنوعی در هنر",
+          "title": "ماشین‌تحریر جیمز بالدوین و پرسش از جایگاه هوش مصنوعی در هنر",
+          "source": "Literary Hub",
+          "published": "2026-09-15T10:33:59.615717+03:30",
+          "original_url": "https://lithub.com/could-this-james-baldwin-typewriter-be-an-okay-use-of-ai/",
+          "subcategory": "essay",
+          "post_id": 193
+        },
+        {
+          "id": "جان ویلسون و جست‌وجوی معنا در روزمرگی‌های بی‌اهمیت",
+          "title": "جان ویلسون و جست‌وجوی معنا در روزمرگی‌های بی‌اهمیت",
+          "source": "The New Yorker",
+          "published": "2026-09-15T10:33:56.664959+03:30",
+          "original_url": "https://www.newyorker.com/culture/the-new-yorker-interview/john-wilsons-poetry-of-the-mundane",
+          "subcategory": "essay",
+          "post_id": 192
+        },
+        {
           "id": "فاشیسم آخرالزمانی؛ روایت نائومی کلاین و آسترا تیلور از اتحاد نخبگان برای ویرانی جهان",
           "title": "فاشیسم آخرالزمانی؛ روایت نائومی کلاین و آسترا تیلور از اتحاد نخبگان برای ویرانی جهان",
           "source": "The Guardian Books",
@@ -1306,8 +1360,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 37
+      "item_count": 40
     }
   ],
-  "total_items": 70
+  "total_items": 73
 }
