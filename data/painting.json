@@ -1,6 +1,42 @@
 {
   "artists": [
     {
+      "name": "Gustav Klimt",
+      "painting_count": 2,
+      "paintings": [
+        {
+          "id": "artic_180671",
+          "title": "Seated Woman from the Front with Hat, Face Hooded",
+          "artist": "Gustav Klimt",
+          "year": "1910",
+          "museum": "Art Institute of Chicago",
+          "movement": "Art Nouveau",
+          "medium": "Graphite on paper",
+          "art_form": "طراحی و چاپ",
+          "country": "Austria",
+          "image_url": "https://lh3.googleusercontent.com/d/1QR9cP2pY4iwruTTSxtYiouHFA3bXu74o",
+          "published": "2026-08-25T21:08:58.905723",
+          "original_url": "https://www.artic.edu/iiif/2/7936867b-74ab-7347-51f0-9ab14d050e9d/full/900,/0/default.jpg",
+          "post_id": 46
+        },
+        {
+          "id": "artic_27035",
+          "title": "Reclining Girl",
+          "artist": "Gustav Klimt",
+          "year": "1912/1914",
+          "museum": "Art Institute of Chicago",
+          "movement": "Art Nouveau",
+          "medium": "Graphite on paper",
+          "art_form": "طراحی و چاپ",
+          "country": "Austria",
+          "image_url": "https://lh3.googleusercontent.com/d/1sH_Uw0BWWieO113Mht-RLnpoc2lD9KN9",
+          "published": "2026-09-15T21:31:03.858884",
+          "original_url": "https://www.artic.edu/iiif/2/86d41a4e-fc40-c597-3ac9-79053cca0b87/full/900,/0/default.jpg",
+          "post_id": 197
+        }
+      ]
+    },
+    {
       "name": "Akkadian Artist (Mesopotamia)",
       "painting_count": 1,
       "paintings": [
@@ -249,27 +285,6 @@
           "published": "2026-09-12T21:31:00.160626",
           "original_url": "https://www.artic.edu/iiif/2/413a9edf-ee27-ee07-5b51-88712143cb89/full/900,/0/default.jpg",
           "post_id": 179
-        }
-      ]
-    },
-    {
-      "name": "Gustav Klimt",
-      "painting_count": 1,
-      "paintings": [
-        {
-          "id": "artic_180671",
-          "title": "Seated Woman from the Front with Hat, Face Hooded",
-          "artist": "Gustav Klimt",
-          "year": "1910",
-          "museum": "Art Institute of Chicago",
-          "movement": "Art Nouveau",
-          "medium": "Graphite on paper",
-          "art_form": "طراحی و چاپ",
-          "country": "Austria",
-          "image_url": "https://lh3.googleusercontent.com/d/1QR9cP2pY4iwruTTSxtYiouHFA3bXu74o",
-          "published": "2026-08-25T21:08:58.905723",
-          "original_url": "https://www.artic.edu/iiif/2/7936867b-74ab-7347-51f0-9ab14d050e9d/full/900,/0/default.jpg",
-          "post_id": 46
         }
       ]
     },
