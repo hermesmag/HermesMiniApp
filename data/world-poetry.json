@@ -232,6 +232,25 @@
       ]
     },
     {
+      "name": "Federico García Lorca",
+      "name_fa": "شاعر و نمایشنامه‌نویس اسپانیایی (۱۸۹۸–۱۹۳۶)؛ با الهام از ترانه‌های بومی کولیان و استعاره‌های سوررئالیستی، نبرد شورانگیز میان فوران غریزه، اندوه ازلی و تقدیر خونین مرگ را بازمی‌آفریند.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-028",
+          "title": "Canción del jinete",
+          "title_original": "Canción del jinete",
+          "original_language": "Spanish",
+          "epoch": "",
+          "book": "",
+          "translator": "Stephen Spender & J. L. Gili",
+          "published": "2026-09-15T20:07:02.592275+03:30",
+          "telegraph_url": "https://telegra.ph/Canción-del-jinete-09-15",
+          "post_id": 195
+        }
+      ]
+    },
+    {
       "name": "Giosuè Carducci",
       "name_fa": "شاعر و استاد دانشگاه ایتالیایی (۱۸۳۵–۱۹۰۷)، نخستین نویسنده ایتالیایی برنده جایزه نوبل ادبیات ۱۹۰۶",
       "poem_count": 1,
