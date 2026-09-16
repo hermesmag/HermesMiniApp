@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "انتشار ترجمهٔ انگلیسی شعری از ینی تونِدال، شاعر برجستهٔ سوئدی",
+          "title": "انتشار ترجمهٔ انگلیسی شعری از ینی تونِدال، شاعر برجستهٔ سوئدی",
+          "source": "Words Without Borders",
+          "published": "2026-09-16T10:31:54.017156+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/older-electra-tunedal-goransson/",
+          "subcategory": "world_lit",
+          "post_id": 209
+        },
+        {
+          "id": "ایستادگیِ زیبایی؛ گفت‌وگوی تینا چانگ و نتالی هاندال دربارهٔ هویت، مکان و زبان شعر",
+          "title": "ایستادگیِ زیبایی؛ گفت‌وگوی تینا چانگ و نتالی هاندال دربارهٔ هویت، مکان و زبان شعر",
+          "source": "Guernica",
+          "published": "2026-09-16T10:31:51.701772+03:30",
+          "original_url": "https://www.guernicamag.com/the-insistence-of-beauty-tina-chang-and-nathalie-handal-in-conversation/",
+          "subcategory": "interview",
+          "post_id": 208
+        },
+        {
+          "id": "روایت امیلی سنت‌جان مندل از بازسازی جهان پس از فروپاشی در رمان «مهمانی خروج»",
+          "title": "روایت امیلی سنت‌جان مندل از بازسازی جهان پس از فروپاشی در رمان «مهمانی خروج»",
+          "source": "Literary Hub",
+          "published": "2026-09-16T10:31:49.188212+03:30",
+          "original_url": "https://lithub.com/emily-st-john-mandel-on-writing-a-novel-of-dystopian-counterlives/",
+          "subcategory": "essay",
+          "post_id": 207
+        },
+        {
           "id": "سوتلانا الکسیویچ و هنرِ شنیدنِ صداهای ناگفته",
           "title": "سوتلانا الکسیویچ و هنرِ شنیدنِ صداهای ناگفته",
           "source": "The Paris Review",
@@ -663,7 +690,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 73
+      "item_count": 76
     },
     {
       "id": "report",
@@ -697,6 +724,15 @@
       "title_fa": "✦ گفت‌وگو",
       "items": [
         {
+          "id": "ایستادگیِ زیبایی؛ گفت‌وگوی تینا چانگ و نتالی هاندال دربارهٔ هویت، مکان و زبان شعر",
+          "title": "ایستادگیِ زیبایی؛ گفت‌وگوی تینا چانگ و نتالی هاندال دربارهٔ هویت، مکان و زبان شعر",
+          "source": "Guernica",
+          "published": "2026-09-16T10:31:51.701772+03:30",
+          "original_url": "https://www.guernicamag.com/the-insistence-of-beauty-tina-chang-and-nathalie-handal-in-conversation/",
+          "subcategory": "interview",
+          "post_id": 208
+        },
+        {
           "id": "رابطهٔ شبه‌اجتماعی میان نویسنده و مخاطب؛ واکاوی پیوند عاطفی خوانندگان با خالقان آثار ادبی",
           "title": "رابطهٔ شبه‌اجتماعی میان نویسنده و مخاطب؛ واکاوی پیوند عاطفی خوانندگان با خالقان آثار ادبی",
           "source": "The Guardian Books",
@@ -724,7 +760,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 3
+      "item_count": 4
     },
     {
       "id": "review",
@@ -776,6 +812,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "انتشار ترجمهٔ انگلیسی شعری از ینی تونِدال، شاعر برجستهٔ سوئدی",
+          "title": "انتشار ترجمهٔ انگلیسی شعری از ینی تونِدال، شاعر برجستهٔ سوئدی",
+          "source": "Words Without Borders",
+          "published": "2026-09-16T10:31:54.017156+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/older-electra-tunedal-goransson/",
+          "subcategory": "world_lit",
+          "post_id": 209
+        },
+        {
           "id": "طنین شعر و موسیقی در غبار فاجعه؛ روایت فیلیپ مترس از یازدهم سپتامبر",
           "title": "طنین شعر و موسیقی در غبار فاجعه؛ روایت فیلیپ مترس از یازدهم سپتامبر",
           "source": "World Literature Today",
@@ -992,13 +1037,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 24
+      "item_count": 25
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "روایت امیلی سنت‌جان مندل از بازسازی جهان پس از فروپاشی در رمان «مهمانی خروج»",
+          "title": "روایت امیلی سنت‌جان مندل از بازسازی جهان پس از فروپاشی در رمان «مهمانی خروج»",
+          "source": "Literary Hub",
+          "published": "2026-09-16T10:31:49.188212+03:30",
+          "original_url": "https://lithub.com/emily-st-john-mandel-on-writing-a-novel-of-dystopian-counterlives/",
+          "subcategory": "essay",
+          "post_id": 207
+        },
         {
           "id": "سوتلانا الکسیویچ و هنرِ شنیدنِ صداهای ناگفته",
           "title": "سوتلانا الکسیویچ و هنرِ شنیدنِ صداهای ناگفته",
@@ -1360,8 +1414,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 40
+      "item_count": 41
     }
   ],
-  "total_items": 73
+  "total_items": 76
 }
