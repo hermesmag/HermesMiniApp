@@ -539,6 +539,27 @@
           "post_id": 91
         }
       ]
+    },
+    {
+      "name": "Willem de Kooning",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_100830",
+          "title": "Untitled XI",
+          "artist": "Willem de Kooning",
+          "year": "1975",
+          "museum": "Art Institute of Chicago",
+          "movement": "Abstract Expressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/143mFH_p4PevocrckuG6ui2rnJEzylK4Q",
+          "published": "2026-09-16T21:30:59.982942",
+          "original_url": "https://www.artic.edu/iiif/2/c35806db-6416-36d0-2582-d700dad29607/full/900,/0/default.jpg",
+          "post_id": 213
+        }
+      ]
     }
   ]
 }
