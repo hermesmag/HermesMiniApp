@@ -394,6 +394,25 @@
       ]
     },
     {
+      "name": "ابوالفضل بیهقی",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "local://tarikh_beyhaghi/118",
+          "title": "بخش ۳۸ - آغاز وزارت خواجه احمد عبدالصمد",
+          "author": "ابوالفضل بیهقی",
+          "book": "تاریخ بیهقی",
+          "form": "prose",
+          "century": 5,
+          "char_count": 1634,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 29,
+          "published": "2026-09-17T08:00:45.847909+03:30",
+          "post_id": 214
+        }
+      ]
+    },
+    {
       "name": "عطار نیشابوری",
       "item_count": 1,
       "items": [
