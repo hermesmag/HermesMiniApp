@@ -436,6 +436,27 @@
       ]
     },
     {
+      "name": "Ottoman Potter (Iznik)",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_448663",
+          "title": "Bowl",
+          "artist": "Ottoman Potter (Iznik)",
+          "year": "15th century",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Islamic Art (Ottoman Period)",
+          "medium": "Fritware; underglaze painted",
+          "art_form": "هنرهای تجسمی",
+          "country": "Turkey",
+          "image_url": "https://lh3.googleusercontent.com/d/1ttyUA21G8_GJwrawkJ5Gtg8PyieoOmjS",
+          "published": "2026-09-17T21:30:58.522361",
+          "original_url": "https://images.metmuseum.org/CRDImages/is/original/DP120820.jpg",
+          "post_id": 219
+        }
+      ]
+    },
+    {
       "name": "Paul Cezanne",
       "painting_count": 1,
       "paintings": [
