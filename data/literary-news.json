@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "بازتاب نیروی اساطیری حیات در قطعه‌ای از دانیل لیپارا",
+          "title": "بازتاب نیروی اساطیری حیات در قطعه‌ای از دانیل لیپارا",
+          "source": "Words Without Borders",
+          "published": "2026-09-17T10:31:40.829101+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/someone-running-with-his-head-aflame-lipara-myers/",
+          "subcategory": "world_lit",
+          "post_id": 217
+        },
+        {
+          "id": "کتاب‌فروشی‌های مستقل در چین؛ گفت‌وگو با ژنگ لیو دربارهٔ کتاب «تک‌تازان فرهنگ»",
+          "title": "کتاب‌فروشی‌های مستقل در چین؛ گفت‌وگو با ژنگ لیو دربارهٔ کتاب «تک‌تازان فرهنگ»",
+          "source": "World Literature Today",
+          "published": "2026-09-17T10:31:38.772345+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/interviews/are-we-what-we-read-conversation-zheng-liu-xixuan-collins",
+          "subcategory": "interview",
+          "post_id": 216
+        },
+        {
+          "id": "فهرست نامزدهای اولیهٔ جایزهٔ ملی کتاب آمریکا در بخش شعر سال ۲۰۲۶ منتشر شد",
+          "title": "فهرست نامزدهای اولیهٔ جایزهٔ ملی کتاب آمریکا در بخش شعر سال ۲۰۲۶ منتشر شد",
+          "source": "Literary Hub",
+          "published": "2026-09-17T10:31:36.813065+03:30",
+          "original_url": "https://lithub.com/heres-the-longlist-for-the-2026-national-book-award-for-poetry/",
+          "subcategory": "report",
+          "post_id": 215
+        },
+        {
           "id": "انتشار ترجمهٔ انگلیسی شعری از ینی تونِدال، شاعر برجستهٔ سوئدی",
           "title": "انتشار ترجمهٔ انگلیسی شعری از ینی تونِدال، شاعر برجستهٔ سوئدی",
           "source": "Words Without Borders",
@@ -690,13 +717,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 76
+      "item_count": 79
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "فهرست نامزدهای اولیهٔ جایزهٔ ملی کتاب آمریکا در بخش شعر سال ۲۰۲۶ منتشر شد",
+          "title": "فهرست نامزدهای اولیهٔ جایزهٔ ملی کتاب آمریکا در بخش شعر سال ۲۰۲۶ منتشر شد",
+          "source": "Literary Hub",
+          "published": "2026-09-17T10:31:36.813065+03:30",
+          "original_url": "https://lithub.com/heres-the-longlist-for-the-2026-national-book-award-for-poetry/",
+          "subcategory": "report",
+          "post_id": 215
+        },
         {
           "id": "جشنوارهٔ بایرویت و میراث پیچیدهٔ فاگنر؛ ۱۵۰ سال پس از طنین «ملودی‌های بی‌پایان»",
           "title": "جشنوارهٔ بایرویت و میراث پیچیدهٔ فاگنر؛ ۱۵۰ سال پس از طنین «ملودی‌های بی‌پایان»",
@@ -716,13 +752,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 2
+      "item_count": 3
     },
     {
       "id": "interview",
       "title_en": "Interviews",
       "title_fa": "✦ گفت‌وگو",
       "items": [
+        {
+          "id": "کتاب‌فروشی‌های مستقل در چین؛ گفت‌وگو با ژنگ لیو دربارهٔ کتاب «تک‌تازان فرهنگ»",
+          "title": "کتاب‌فروشی‌های مستقل در چین؛ گفت‌وگو با ژنگ لیو دربارهٔ کتاب «تک‌تازان فرهنگ»",
+          "source": "World Literature Today",
+          "published": "2026-09-17T10:31:38.772345+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/interviews/are-we-what-we-read-conversation-zheng-liu-xixuan-collins",
+          "subcategory": "interview",
+          "post_id": 216
+        },
         {
           "id": "ایستادگیِ زیبایی؛ گفت‌وگوی تینا چانگ و نتالی هاندال دربارهٔ هویت، مکان و زبان شعر",
           "title": "ایستادگیِ زیبایی؛ گفت‌وگوی تینا چانگ و نتالی هاندال دربارهٔ هویت، مکان و زبان شعر",
@@ -760,7 +805,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 4
+      "item_count": 5
     },
     {
       "id": "review",
@@ -811,6 +856,15 @@
       "title_en": "World Literature",
       "title_fa": "✦ ادبیات جهان",
       "items": [
+        {
+          "id": "بازتاب نیروی اساطیری حیات در قطعه‌ای از دانیل لیپارا",
+          "title": "بازتاب نیروی اساطیری حیات در قطعه‌ای از دانیل لیپارا",
+          "source": "Words Without Borders",
+          "published": "2026-09-17T10:31:40.829101+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/someone-running-with-his-head-aflame-lipara-myers/",
+          "subcategory": "world_lit",
+          "post_id": 217
+        },
         {
           "id": "انتشار ترجمهٔ انگلیسی شعری از ینی تونِدال، شاعر برجستهٔ سوئدی",
           "title": "انتشار ترجمهٔ انگلیسی شعری از ینی تونِدال، شاعر برجستهٔ سوئدی",
@@ -1037,7 +1091,7 @@
           "post_id": 8
         }
       ],
-      "item_count": 25
+      "item_count": 26
     },
     {
       "id": "essay",
@@ -1417,5 +1471,5 @@
       "item_count": 41
     }
   ],
-  "total_items": 76
+  "total_items": 79
 }
