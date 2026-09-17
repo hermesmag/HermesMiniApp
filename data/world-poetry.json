@@ -515,6 +515,25 @@
           "post_id": 90
         }
       ]
+    },
+    {
+      "name": "William Carlos Williams",
+      "name_fa": "شاعر و پزشک نوگرای آمریکایی (۱۸۸۳–۱۹۶۳)؛ با زبانی بی‌پیرایه و وفادار به ضرب‌آهنگ گفتار روزمره، ارزش زیباشناختی اشیای ملموس پیرامون و تجربهٔ عینی زیستن در آمریکا را عیان می‌سازد.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-030",
+          "title": "Peace on Earth",
+          "title_original": "Peace on Earth",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-09-17T18:01:03.576707+03:30",
+          "telegraph_url": null,
+          "post_id": 218
+        }
+      ]
     }
   ],
   "daily_poems": [
