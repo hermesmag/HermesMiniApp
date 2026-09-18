@@ -227,6 +227,51 @@
       ]
     },
     {
+      "name": "رودکی",
+      "item_count": 3,
+      "items": [
+        {
+          "id": "local://roodaki_qasida/10",
+          "title": "شمارهٔ ۱۰",
+          "author": "رودکی",
+          "book": "دیوان رودکی",
+          "form": "qasida",
+          "century": 4,
+          "char_count": 1228,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 2,
+          "published": "2026-08-22T03:21:49.224619",
+          "post_id": 13
+        },
+        {
+          "id": "local://roodaki_qasida/74",
+          "title": "شمارهٔ ۷۴ - در رثای شهید بلخی",
+          "author": "رودکی",
+          "book": "دیوان رودکی",
+          "form": "qasida",
+          "century": 4,
+          "char_count": 322,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 20,
+          "published": "2026-09-08T08:00:51.089403+03:30",
+          "post_id": 146
+        },
+        {
+          "id": "local://roodaki_qasida/113",
+          "title": "شمارهٔ ۱۱۳",
+          "author": "رودکی",
+          "book": "دیوان رودکی",
+          "form": "qasida",
+          "century": 4,
+          "char_count": 392,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 30,
+          "published": "2026-09-18T08:00:54.695926+03:30",
+          "post_id": 220
+        }
+      ]
+    },
+    {
       "name": "سعدالدین وراوینی",
       "item_count": 3,
       "items": [
@@ -358,38 +403,6 @@
           "day_of_year": 23,
           "published": "2026-09-11T08:00:46.754363+03:30",
           "post_id": 168
-        }
-      ]
-    },
-    {
-      "name": "رودکی",
-      "item_count": 2,
-      "items": [
-        {
-          "id": "local://roodaki_qasida/10",
-          "title": "شمارهٔ ۱۰",
-          "author": "رودکی",
-          "book": "دیوان رودکی",
-          "form": "qasida",
-          "century": 4,
-          "char_count": 1228,
-          "familiarity_tier": "Rediscovery Masterpiece",
-          "day_of_year": 2,
-          "published": "2026-08-22T03:21:49.224619",
-          "post_id": 13
-        },
-        {
-          "id": "local://roodaki_qasida/74",
-          "title": "شمارهٔ ۷۴ - در رثای شهید بلخی",
-          "author": "رودکی",
-          "book": "دیوان رودکی",
-          "form": "qasida",
-          "century": 4,
-          "char_count": 322,
-          "familiarity_tier": "Rediscovery Masterpiece",
-          "day_of_year": 20,
-          "published": "2026-09-08T08:00:51.089403+03:30",
-          "post_id": 146
         }
       ]
     },
