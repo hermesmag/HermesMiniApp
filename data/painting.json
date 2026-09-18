@@ -1,6 +1,42 @@
 {
   "artists": [
     {
+      "name": "Bruce Nauman",
+      "painting_count": 2,
+      "paintings": [
+        {
+          "id": "artic_146915",
+          "title": "Good Boy Bad Boy",
+          "artist": "Bruce Nauman",
+          "year": "1985",
+          "museum": "Art Institute of Chicago",
+          "movement": "Conceptual Art",
+          "medium": "Two-channel video installation (color, sound)",
+          "art_form": "چیدمان و چندرسانه‌ای",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1L426SqwOKaPv8dFXHXwjhvA3YO8IBJL0",
+          "published": "2026-08-28T23:17:03.079887",
+          "original_url": "https://www.artic.edu/iiif/2/4a8410d6-7554-80a5-a65d-bf59c7afa166/full/900,/0/default.jpg",
+          "post_id": 75
+        },
+        {
+          "id": "artic_47147",
+          "title": "Art Make-Up",
+          "artist": "Bruce Nauman",
+          "year": "1967/68",
+          "museum": "Art Institute of Chicago",
+          "movement": "Conceptual Art",
+          "medium": "Four-channel video installation: four 16mm color films, silent, transferred to digital video (projection); 42 min. 30 sec. loop",
+          "art_form": "چیدمان و چندرسانه‌ای",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/15U2eoEAFiC0tFzEr3MPlIsgVRr2JIen9",
+          "published": "2026-09-18T21:31:02.017027",
+          "original_url": "https://www.artic.edu/iiif/2/d614d374-c405-35d1-f170-c0e009ca87cf/full/900,/0/default.jpg",
+          "post_id": 228
+        }
+      ]
+    },
+    {
       "name": "Gustav Klimt",
       "painting_count": 2,
       "paintings": [
@@ -117,27 +153,6 @@
           "published": "2026-09-09T21:30:56.469734",
           "original_url": "https://www.artic.edu/iiif/2/77245c86-908f-83a8-4a17-119633f80a5e/full/900,/0/default.jpg",
           "post_id": 161
-        }
-      ]
-    },
-    {
-      "name": "Bruce Nauman",
-      "painting_count": 1,
-      "paintings": [
-        {
-          "id": "artic_146915",
-          "title": "Good Boy Bad Boy",
-          "artist": "Bruce Nauman",
-          "year": "1985",
-          "museum": "Art Institute of Chicago",
-          "movement": "Conceptual Art",
-          "medium": "Two-channel video installation (color, sound)",
-          "art_form": "چیدمان و چندرسانه‌ای",
-          "country": "United States",
-          "image_url": "https://lh3.googleusercontent.com/d/1L426SqwOKaPv8dFXHXwjhvA3YO8IBJL0",
-          "published": "2026-08-28T23:17:03.079887",
-          "original_url": "https://www.artic.edu/iiif/2/4a8410d6-7554-80a5-a65d-bf59c7afa166/full/900,/0/default.jpg",
-          "post_id": 75
         }
       ]
     },
