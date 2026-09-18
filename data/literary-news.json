@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "آنی دیلارد، نویسندهٔ برندهٔ پولیتزر و راوی ژرفای طبیعت، در ۸۱ سالگی درگذشت",
+          "title": "آنی دیلارد، نویسندهٔ برندهٔ پولیتزر و راوی ژرفای طبیعت، در ۸۱ سالگی درگذشت",
+          "source": "NPR Books",
+          "published": "2026-09-18T10:31:53.203552+03:30",
+          "original_url": "https://www.npr.org/2026/09/16/1138680574/annie-dillard-dead",
+          "subcategory": "report",
+          "post_id": 223
+        },
+        {
+          "id": "«سال من در پاریس با گرترود اشتاین»؛ بازآفرینیِ رواییِ دبرا لوی از زندگیِ نویسندهٔ بی‌باک مدرنیست",
+          "title": "«سال من در پاریس با گرترود اشتاین»؛ بازآفرینیِ رواییِ دبرا لوی از زندگیِ نویسندهٔ بی‌باک مدرنیست",
+          "source": "The Guardian Books",
+          "published": "2026-09-18T10:31:50.745733+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/17/my-year-in-paris-with-gertrude-stein-by-deborah-levy-audiobook-review-gripping-vision-of-a-fearless-writer",
+          "subcategory": "essay",
+          "post_id": 222
+        },
+        {
+          "id": "جدایی، بیداری و بازآفرینی زبان؛ پیشنهادهای شعری الیزابت متزگر",
+          "title": "جدایی، بیداری و بازآفرینی زبان؛ پیشنهادهای شعری الیزابت متزگر",
+          "source": "Literary Hub",
+          "published": "2026-09-18T10:31:47.825088+03:30",
+          "original_url": "https://lithub.com/nine-books-of-poetry-about-breakups-and-awakenings/",
+          "subcategory": "essay",
+          "post_id": 221
+        },
+        {
           "id": "بازتاب نیروی اساطیری حیات در قطعه‌ای از دانیل لیپارا",
           "title": "بازتاب نیروی اساطیری حیات در قطعه‌ای از دانیل لیپارا",
           "source": "Words Without Borders",
@@ -717,13 +744,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 79
+      "item_count": 82
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "آنی دیلارد، نویسندهٔ برندهٔ پولیتزر و راوی ژرفای طبیعت، در ۸۱ سالگی درگذشت",
+          "title": "آنی دیلارد، نویسندهٔ برندهٔ پولیتزر و راوی ژرفای طبیعت، در ۸۱ سالگی درگذشت",
+          "source": "NPR Books",
+          "published": "2026-09-18T10:31:53.203552+03:30",
+          "original_url": "https://www.npr.org/2026/09/16/1138680574/annie-dillard-dead",
+          "subcategory": "report",
+          "post_id": 223
+        },
         {
           "id": "فهرست نامزدهای اولیهٔ جایزهٔ ملی کتاب آمریکا در بخش شعر سال ۲۰۲۶ منتشر شد",
           "title": "فهرست نامزدهای اولیهٔ جایزهٔ ملی کتاب آمریکا در بخش شعر سال ۲۰۲۶ منتشر شد",
@@ -752,7 +788,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 3
+      "item_count": 4
     },
     {
       "id": "interview",
@@ -1099,6 +1135,24 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "«سال من در پاریس با گرترود اشتاین»؛ بازآفرینیِ رواییِ دبرا لوی از زندگیِ نویسندهٔ بی‌باک مدرنیست",
+          "title": "«سال من در پاریس با گرترود اشتاین»؛ بازآفرینیِ رواییِ دبرا لوی از زندگیِ نویسندهٔ بی‌باک مدرنیست",
+          "source": "The Guardian Books",
+          "published": "2026-09-18T10:31:50.745733+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/17/my-year-in-paris-with-gertrude-stein-by-deborah-levy-audiobook-review-gripping-vision-of-a-fearless-writer",
+          "subcategory": "essay",
+          "post_id": 222
+        },
+        {
+          "id": "جدایی، بیداری و بازآفرینی زبان؛ پیشنهادهای شعری الیزابت متزگر",
+          "title": "جدایی، بیداری و بازآفرینی زبان؛ پیشنهادهای شعری الیزابت متزگر",
+          "source": "Literary Hub",
+          "published": "2026-09-18T10:31:47.825088+03:30",
+          "original_url": "https://lithub.com/nine-books-of-poetry-about-breakups-and-awakenings/",
+          "subcategory": "essay",
+          "post_id": 221
+        },
+        {
           "id": "روایت امیلی سنت‌جان مندل از بازسازی جهان پس از فروپاشی در رمان «مهمانی خروج»",
           "title": "روایت امیلی سنت‌جان مندل از بازسازی جهان پس از فروپاشی در رمان «مهمانی خروج»",
           "source": "Literary Hub",
@@ -1468,8 +1522,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 41
+      "item_count": 43
     }
   ],
-  "total_items": 79
+  "total_items": 82
 }
