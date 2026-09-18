@@ -422,6 +422,25 @@
       ]
     },
     {
+      "name": "Stéphane Mallarmé",
+      "name_fa": "شاعر پیشرو و نظریه‌پرداز سمبولیسم فرانسه (۱۸۴۲–۱۸۹۸)؛ با برهم‌زدن نحو سنتی و انباشت ایهام و سپیدی در صفحه، شعر را به عرصه‌ای برای شهود زیبایی مطلق و طنین سکوت بدل می‌سازد.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-031",
+          "title": "Le Vierge, le vivace et le bel aujourd’hui",
+          "title_original": "Le Vierge, le vivace et le bel aujourd’hui",
+          "original_language": "French",
+          "epoch": "",
+          "book": "Poésies (1899)",
+          "translator": "Roger Fry",
+          "published": "2026-09-18T18:02:48.523171+03:30",
+          "telegraph_url": "https://telegra.ph/The-Virgin-Vibrant-and-Beautiful-Today-09-18",
+          "post_id": 227
+        }
+      ]
+    },
+    {
       "name": "Sylvia Plath",
       "name_fa": "شاعر نامدار اعترافی آمریکا (۱۹۳۲–۱۹۶۳)؛ با زبانی برنده، گزنده و استعاره‌هایی تکان‌دهنده، به کاوش در گسل‌های هویت زنانه، خشم فروخورده از سلطهٔ پدرسالارانه و وسوسهٔ مرگ‌آگاهی می‌پردازد.",
       "poem_count": 1,
