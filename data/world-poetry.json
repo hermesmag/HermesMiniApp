@@ -498,6 +498,25 @@
       ]
     },
     {
+      "name": "Walt Whitman",
+      "name_fa": "شاعر پیشگام آمریکایی (۱۸۱۹–۱۸۹۲)؛ با فراخنای سطرهای آزاد و بیانی خطابی و پرصلابت، سرودخوان تقدس تن آدمی، کثرت‌گرایی زیستی و همبستگی دموکراتیک انسان‌ها می‌شود.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-032",
+          "title": "Warble for Lilac-Time",
+          "title_original": "Warble for Lilac-Time",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-09-19T18:01:21.087565+03:30",
+          "telegraph_url": "https://telegra.ph/Warble-for-Lilac-Time-09-19",
+          "post_id": 234
+        }
+      ]
+    },
+    {
       "name": "William Blake",
       "name_fa": "شاعر، نقاش و عارف رمانتیک انگلستان (۱۷۵۷–۱۸۲۷)؛ با خلق زبانی اشراقی و اساطیری اختصاصی، تقابل معصومیت نخستین با عقلانیت سرکوبگر و رنج‌های طبقاتی عصر صنعت را به تصویر می‌کشد.",
       "poem_count": 1,
