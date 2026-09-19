@@ -409,6 +409,27 @@
       ]
     },
     {
+      "name": "Louise Moillon",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_62450",
+          "title": "Still Life with a Basket of Fruit and a Bunch of Asparagus",
+          "artist": "Louise Moillon",
+          "year": "1630",
+          "museum": "Art Institute of Chicago",
+          "movement": "Baroque",
+          "medium": "Oil on panel",
+          "art_form": "نقاشی",
+          "country": "France",
+          "image_url": "https://lh3.googleusercontent.com/d/1kkSJDnN60KhxKwkJkomzd7u-rPb46uiR",
+          "published": "2026-09-19T21:30:53.720675",
+          "original_url": "https://www.artic.edu/iiif/2/87d426ca-4537-1386-50bf-6c2d5a5d7d17/full/900,/0/default.jpg",
+          "post_id": 236
+        }
+      ]
+    },
+    {
       "name": "Mark Rothko",
       "painting_count": 1,
       "paintings": [
