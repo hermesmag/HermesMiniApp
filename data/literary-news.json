@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "از اسباب خانه تا بیدهای لباس؛ جستاری بازیافته در «پاریس ریویو»",
+          "title": "از اسباب خانه تا بیدهای لباس؛ جستاری بازیافته در «پاریس ریویو»",
+          "source": "The Paris Review",
+          "published": "2026-09-20T10:32:13.790975+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/18/my-larval-roommates-sarah-nicole-prickett/",
+          "subcategory": "essay",
+          "post_id": 240
+        },
+        {
+          "id": "روایت تلخ محمود خلیل از بازداشت سیاسی در آمریکا؛ خشم خاموش در کتاب «زمینی برای ایستادن نیست»",
+          "title": "روایت تلخ محمود خلیل از بازداشت سیاسی در آمریکا؛ خشم خاموش در کتاب «زمینی برای ایستادن نیست»",
+          "source": "The Guardian Books",
+          "published": "2026-09-20T10:32:10.664438+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/18/no-land-to-stand-on-by-mahmoud-khalil-review-a-searing-account-of-political-imprisonment",
+          "subcategory": "essay",
+          "post_id": 239
+        },
+        {
+          "id": "هشت دهه خاطره‌نگاری فیلیپینی‌تباران آمریکا؛ بازخوانی تجربهٔ مهاجرت با فرم‌های نوآورانه",
+          "title": "هشت دهه خاطره‌نگاری فیلیپینی‌تباران آمریکا؛ بازخوانی تجربهٔ مهاجرت با فرم‌های نوآورانه",
+          "source": "Electric Literature",
+          "published": "2026-09-20T10:32:08.027348+03:30",
+          "original_url": "https://electricliterature.com/8-memoirs-that-complicate-the-story-of-filipino-america/",
+          "subcategory": "essay",
+          "post_id": 238
+        },
+        {
           "id": "از راک‌اندرول تا شکوه ارکسترهای بزرگ؛ واکاوی نوستالژیک ترانهٔ «چاتانوگا چو چو»",
           "title": "از راک‌اندرول تا شکوه ارکسترهای بزرگ؛ واکاوی نوستالژیک ترانهٔ «چاتانوگا چو چو»",
           "source": "The Paris Review",
@@ -771,7 +798,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 85
+      "item_count": 88
     },
     {
       "id": "report",
@@ -1180,6 +1207,33 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "از اسباب خانه تا بیدهای لباس؛ جستاری بازیافته در «پاریس ریویو»",
+          "title": "از اسباب خانه تا بیدهای لباس؛ جستاری بازیافته در «پاریس ریویو»",
+          "source": "The Paris Review",
+          "published": "2026-09-20T10:32:13.790975+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/18/my-larval-roommates-sarah-nicole-prickett/",
+          "subcategory": "essay",
+          "post_id": 240
+        },
+        {
+          "id": "روایت تلخ محمود خلیل از بازداشت سیاسی در آمریکا؛ خشم خاموش در کتاب «زمینی برای ایستادن نیست»",
+          "title": "روایت تلخ محمود خلیل از بازداشت سیاسی در آمریکا؛ خشم خاموش در کتاب «زمینی برای ایستادن نیست»",
+          "source": "The Guardian Books",
+          "published": "2026-09-20T10:32:10.664438+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/18/no-land-to-stand-on-by-mahmoud-khalil-review-a-searing-account-of-political-imprisonment",
+          "subcategory": "essay",
+          "post_id": 239
+        },
+        {
+          "id": "هشت دهه خاطره‌نگاری فیلیپینی‌تباران آمریکا؛ بازخوانی تجربهٔ مهاجرت با فرم‌های نوآورانه",
+          "title": "هشت دهه خاطره‌نگاری فیلیپینی‌تباران آمریکا؛ بازخوانی تجربهٔ مهاجرت با فرم‌های نوآورانه",
+          "source": "Electric Literature",
+          "published": "2026-09-20T10:32:08.027348+03:30",
+          "original_url": "https://electricliterature.com/8-memoirs-that-complicate-the-story-of-filipino-america/",
+          "subcategory": "essay",
+          "post_id": 238
+        },
+        {
           "id": "از راک‌اندرول تا شکوه ارکسترهای بزرگ؛ واکاوی نوستالژیک ترانهٔ «چاتانوگا چو چو»",
           "title": "از راک‌اندرول تا شکوه ارکسترهای بزرگ؛ واکاوی نوستالژیک ترانهٔ «چاتانوگا چو چو»",
           "source": "The Paris Review",
@@ -1576,8 +1630,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 44
+      "item_count": 47
     }
   ],
-  "total_items": 85
+  "total_items": 88
 }
