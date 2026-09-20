@@ -308,6 +308,25 @@
       ]
     },
     {
+      "name": "Johann Wolfgang von Goethe",
+      "name_fa": "شاعر، نمایشنامه‌نویس و متفکر آلمانی (۱۷۴۹–۱۸۳۲)؛ با تسلط بر پهنه‌ای سترگ از فرم‌های غنایی و حکمی، به کاوش در عواطف بشری، خرد زیسته و فرآیند کمال‌یابی انسان می‌پردازد.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-033",
+          "title": "Gefunden",
+          "title_original": "Gefunden",
+          "original_language": "German",
+          "epoch": "",
+          "book": "Goethes Werke",
+          "translator": "Edgar Alfred Bowring",
+          "published": "2026-09-20T18:01:37.874609+03:30",
+          "telegraph_url": "https://telegra.ph/Found-09-20-4",
+          "post_id": 241
+        }
+      ]
+    },
+    {
       "name": "Octavio Paz",
       "name_fa": "شاعر و متفکر برجستهٔ مکزیکی (۱۹۱۴–۱۹۹۸)؛ با پیوند زدن اساطیر بومی به بوطیقای سوررئالیستی، به تبارشناسی هویت تاریخی، دیالکتیک تنهایی و رازآمیزی زمان و کلمه می‌پردازد.",
       "poem_count": 1,
