@@ -73,6 +73,42 @@
       ]
     },
     {
+      "name": "Vincent van Gogh",
+      "painting_count": 2,
+      "paintings": [
+        {
+          "id": "met_459123",
+          "title": "Madame Roulin and Her Baby",
+          "artist": "Vincent van Gogh",
+          "year": "1888",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Post-Impressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Netherlands",
+          "image_url": "https://lh3.googleusercontent.com/d/18H6MwJxaDZFq_Mo78FmszhpgLj9Bjn94",
+          "published": "2026-08-30T21:30:47.896454",
+          "original_url": "https://images.metmuseum.org/CRDImages/rl/original/DT3154.jpg",
+          "post_id": 91
+        },
+        {
+          "id": "artic_79349",
+          "title": "The Drinkers",
+          "artist": "Vincent van Gogh",
+          "year": "1890",
+          "museum": "Art Institute of Chicago",
+          "movement": "Post-Impressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Netherlands",
+          "image_url": "https://lh3.googleusercontent.com/d/1JlAhaLlEM1sXaddiIpkeZN02mrLC1Vk4",
+          "published": "2026-09-20T21:30:59.464374",
+          "original_url": "https://www.artic.edu/iiif/2/d0ff5b36-bb38-b156-6042-5c8545352c2f/full/900,/0/default.jpg",
+          "post_id": 242
+        }
+      ]
+    },
+    {
       "name": "Akkadian Artist (Mesopotamia)",
       "painting_count": 1,
       "paintings": [
@@ -573,27 +609,6 @@
           "published": "2026-09-03T21:30:55.106886",
           "original_url": "https://images.metmuseum.org/CRDImages/dp/original/DP-14967-005.jpg",
           "post_id": 118
-        }
-      ]
-    },
-    {
-      "name": "Vincent van Gogh",
-      "painting_count": 1,
-      "paintings": [
-        {
-          "id": "met_459123",
-          "title": "Madame Roulin and Her Baby",
-          "artist": "Vincent van Gogh",
-          "year": "1888",
-          "museum": "The Metropolitan Museum of Art",
-          "movement": "Post-Impressionism",
-          "medium": "Oil on canvas",
-          "art_form": "نقاشی",
-          "country": "Netherlands",
-          "image_url": "https://lh3.googleusercontent.com/d/18H6MwJxaDZFq_Mo78FmszhpgLj9Bjn94",
-          "published": "2026-08-30T21:30:47.896454",
-          "original_url": "https://images.metmuseum.org/CRDImages/rl/original/DT3154.jpg",
-          "post_id": 91
         }
       ]
     },
