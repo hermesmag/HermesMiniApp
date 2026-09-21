@@ -80,6 +80,37 @@
       ]
     },
     {
+      "name": "Arthur Rimbaud",
+      "name_fa": "شاعر عصیانگر فرانسوی (۱۸۵۴–۱۸۹۱)؛ با زبانی سرکش و تصاویری هذیانی-اشراقی، سامان قراردادی حواس را برهم می‌زند و از مرزهای عقلانیت مستقر فراتر می‌رود.",
+      "poem_count": 2,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-002",
+          "title": "Vowels",
+          "title_original": "Voyelles",
+          "original_language": "French",
+          "epoch": "19th Century",
+          "book": "Poésies complètes, / avec préface de Paul Verlaine et notes de l'éditeur",
+          "translator": "Wallace Fowlie",
+          "published": "2026-08-22T14:22:23.463440",
+          "telegraph_url": "https://telegra.ph/Vowels-08-22",
+          "post_id": 19
+        },
+        {
+          "id": "WP-Y1-DAY-034",
+          "title": "Evening Prayer",
+          "title_original": "Oraison Du Soir",
+          "original_language": "French",
+          "epoch": "",
+          "book": "",
+          "translator": "Wyatt Mason",
+          "published": "2026-09-21T19:11:16.969309+03:30",
+          "telegraph_url": "https://telegra.ph/Evening-Prayer-09-21",
+          "post_id": 247
+        }
+      ]
+    },
+    {
       "name": "Arnaut Daniel",
       "name_fa": "شاعر تروبادور اکسیتانی قرون وسطی (۱۱۵۰–۱۲۱۰ میلادی)، ابداع‌کننده فرم سستینا و استاد شعر غنایی",
       "poem_count": 1,
@@ -95,25 +126,6 @@
           "published": "2026-08-31T18:01:46.225730+03:30",
           "telegraph_url": "https://telegra.ph/Canzon-08-31",
           "post_id": 96
-        }
-      ]
-    },
-    {
-      "name": "Arthur Rimbaud",
-      "name_fa": "شاعر عصیانگر فرانسوی (۱۸۵۴–۱۸۹۱)؛ با زبانی سرکش و تصاویری هذیانی-اشراقی، سامان قراردادی حواس را برهم می‌زند و از مرزهای عقلانیت مستقر فراتر می‌رود.",
-      "poem_count": 1,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-002",
-          "title": "Vowels",
-          "title_original": "Voyelles",
-          "original_language": "French",
-          "epoch": "19th Century",
-          "book": "Poésies complètes, / avec préface de Paul Verlaine et notes de l'éditeur",
-          "translator": "Wallace Fowlie",
-          "published": "2026-08-22T14:22:23.463440",
-          "telegraph_url": "https://telegra.ph/Vowels-08-22",
-          "post_id": 19
         }
       ]
     },
