@@ -439,6 +439,25 @@
       ]
     },
     {
+      "name": "حافظ شیرازی",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "local://hafez/436",
+          "title": "غزل شمارهٔ ۴۳۶",
+          "author": "حافظ شیرازی",
+          "book": "دیوان حافظ",
+          "form": "ghazal",
+          "century": 8,
+          "char_count": 522,
+          "familiarity_tier": "Known Masterpiece",
+          "day_of_year": 33,
+          "published": "2026-09-21T08:00:44.372048+03:30",
+          "post_id": 243
+        }
+      ]
+    },
+    {
       "name": "عطار نیشابوری",
       "item_count": 1,
       "items": [
