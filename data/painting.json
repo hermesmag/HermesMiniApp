@@ -73,6 +73,42 @@
       ]
     },
     {
+      "name": "Juan Gris",
+      "painting_count": 2,
+      "paintings": [
+        {
+          "id": "artic_12874",
+          "title": "Abstraction (Guitar and Glass)",
+          "artist": "Juan Gris",
+          "year": "1913",
+          "museum": "Art Institute of Chicago",
+          "movement": "Synthetic Cubism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Spain",
+          "image_url": "https://lh3.googleusercontent.com/d/1yIojKhB_iD_0NVPR7Qry9fKjoFqjNaPi",
+          "published": "2026-08-31T21:30:57.031063",
+          "original_url": "https://www.artic.edu/iiif/2/9f91f7e3-daa8-8969-31c1-892d5af19404/full/900,/0/default.jpg",
+          "post_id": 97
+        },
+        {
+          "id": "artic_8624",
+          "title": "Portrait of Pablo Picasso",
+          "artist": "Juan Gris",
+          "year": "January–February 1912",
+          "museum": "Art Institute of Chicago",
+          "movement": "Cubism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Spain",
+          "image_url": "https://lh3.googleusercontent.com/d/1TveD6IPzi81_5hR-yIv_uYouz2fI_O0U",
+          "published": "2026-09-21T21:31:00.098553",
+          "original_url": "https://www.artic.edu/iiif/2/4f7ccf9f-a8ce-2bd8-2d15-a38b2e6caa7a/full/900,/0/default.jpg",
+          "post_id": 248
+        }
+      ]
+    },
+    {
       "name": "Vincent van Gogh",
       "painting_count": 2,
       "paintings": [
@@ -399,27 +435,6 @@
           "published": "2026-09-05T21:31:00.543257",
           "original_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-011.jpg",
           "post_id": 129
-        }
-      ]
-    },
-    {
-      "name": "Juan Gris",
-      "painting_count": 1,
-      "paintings": [
-        {
-          "id": "artic_12874",
-          "title": "Abstraction (Guitar and Glass)",
-          "artist": "Juan Gris",
-          "year": "1913",
-          "museum": "Art Institute of Chicago",
-          "movement": "Synthetic Cubism",
-          "medium": "Oil on canvas",
-          "art_form": "نقاشی",
-          "country": "Spain",
-          "image_url": "https://lh3.googleusercontent.com/d/1yIojKhB_iD_0NVPR7Qry9fKjoFqjNaPi",
-          "published": "2026-08-31T21:30:57.031063",
-          "original_url": "https://www.artic.edu/iiif/2/9f91f7e3-daa8-8969-31c1-892d5af19404/full/900,/0/default.jpg",
-          "post_id": 97
         }
       ]
     },
