@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "ممنوعیت بیش از ۶۰۰ کتاب در مدارس فلوریدا؛ آثار جان گرین و لوئیس لوری در فهرست سیاه",
+          "title": "ممنوعیت بیش از ۶۰۰ کتاب در مدارس فلوریدا؛ آثار جان گرین و لوئیس لوری در فهرست سیاه",
+          "source": "PEN America",
+          "published": "2026-09-21T10:33:25.255939+03:30",
+          "original_url": "https://pen.org/florida-600-banned-books/",
+          "subcategory": "essay",
+          "post_id": 246
+        },
+        {
+          "id": "روایت ناموفق مالکوم گلدول از معمای خشونت مسلحانه در آمریکا",
+          "title": "روایت ناموفق مالکوم گلدول از معمای خشونت مسلحانه در آمریکا",
+          "source": "The Guardian Books",
+          "published": "2026-09-21T10:33:24.444594+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/21/the-american-way-of-killing-by-malcolm-gladwell-review-wide-of-the-mark",
+          "subcategory": "essay",
+          "post_id": 245
+        },
+        {
+          "id": "شارون هورگان و روایتِ خودزندگی‌نامه‌ای؛ بازگشتِ نویسندهٔ ایرلندی با کمدیِ «جوانی»",
+          "title": "شارون هورگان و روایتِ خودزندگی‌نامه‌ای؛ بازگشتِ نویسندهٔ ایرلندی با کمدیِ «جوانی»",
+          "source": "The New Yorker",
+          "published": "2026-09-21T10:33:22.571021+03:30",
+          "original_url": "https://www.newyorker.com/culture/the-new-yorker-interview/sharon-horgan-autofiction-auteur",
+          "subcategory": "essay",
+          "post_id": 244
+        },
+        {
           "id": "از اسباب خانه تا بیدهای لباس؛ جستاری بازیافته در «پاریس ریویو»",
           "title": "از اسباب خانه تا بیدهای لباس؛ جستاری بازیافته در «پاریس ریویو»",
           "source": "The Paris Review",
@@ -798,7 +825,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 88
+      "item_count": 91
     },
     {
       "id": "report",
@@ -1207,6 +1234,33 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "ممنوعیت بیش از ۶۰۰ کتاب در مدارس فلوریدا؛ آثار جان گرین و لوئیس لوری در فهرست سیاه",
+          "title": "ممنوعیت بیش از ۶۰۰ کتاب در مدارس فلوریدا؛ آثار جان گرین و لوئیس لوری در فهرست سیاه",
+          "source": "PEN America",
+          "published": "2026-09-21T10:33:25.255939+03:30",
+          "original_url": "https://pen.org/florida-600-banned-books/",
+          "subcategory": "essay",
+          "post_id": 246
+        },
+        {
+          "id": "روایت ناموفق مالکوم گلدول از معمای خشونت مسلحانه در آمریکا",
+          "title": "روایت ناموفق مالکوم گلدول از معمای خشونت مسلحانه در آمریکا",
+          "source": "The Guardian Books",
+          "published": "2026-09-21T10:33:24.444594+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/21/the-american-way-of-killing-by-malcolm-gladwell-review-wide-of-the-mark",
+          "subcategory": "essay",
+          "post_id": 245
+        },
+        {
+          "id": "شارون هورگان و روایتِ خودزندگی‌نامه‌ای؛ بازگشتِ نویسندهٔ ایرلندی با کمدیِ «جوانی»",
+          "title": "شارون هورگان و روایتِ خودزندگی‌نامه‌ای؛ بازگشتِ نویسندهٔ ایرلندی با کمدیِ «جوانی»",
+          "source": "The New Yorker",
+          "published": "2026-09-21T10:33:22.571021+03:30",
+          "original_url": "https://www.newyorker.com/culture/the-new-yorker-interview/sharon-horgan-autofiction-auteur",
+          "subcategory": "essay",
+          "post_id": 244
+        },
+        {
           "id": "از اسباب خانه تا بیدهای لباس؛ جستاری بازیافته در «پاریس ریویو»",
           "title": "از اسباب خانه تا بیدهای لباس؛ جستاری بازیافته در «پاریس ریویو»",
           "source": "The Paris Review",
@@ -1630,8 +1684,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 47
+      "item_count": 50
     }
   ],
-  "total_items": 88
+  "total_items": 91
 }
