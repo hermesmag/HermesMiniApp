@@ -494,6 +494,25 @@
           "post_id": 237
         }
       ]
+    },
+    {
+      "name": "ناصرخسرو",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "local://naser_khosrow/46",
+          "title": "قصیدهٔ شمارهٔ ۴۶",
+          "author": "ناصرخسرو",
+          "book": "دیوان ناصرخسرو",
+          "form": "qasida",
+          "century": 5,
+          "char_count": 322,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 34,
+          "published": "2026-09-22T08:00:44.738907+03:30",
+          "post_id": 249
+        }
+      ]
     }
   ]
 }
