@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "«وردز بدون مرزز» برندهٔ جایزهٔ ۲۰۲۶ «آفیسیونادو» شد",
+          "title": "«وردز بدون مرزز» برندهٔ جایزهٔ ۲۰۲۶ «آفیسیونادو» شد",
+          "source": "Words Without Borders",
+          "published": "2026-09-22T10:33:49.647007+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/wwb-wins-the-2026-aficionado-award/",
+          "subcategory": "report",
+          "post_id": 252
+        },
+        {
+          "id": "دربارهٔ «درک»، برادر ناتنی و شرور کاپیتان اهب در اقتباس سینمایی «موبی‌دیک»",
+          "title": "دربارهٔ «درک»، برادر ناتنی و شرور کاپیتان اهب در اقتباس سینمایی «موبی‌دیک»",
+          "source": "The Paris Review",
+          "published": "2026-09-22T10:33:47.772753+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/21/on-derek-captain-ahabs-evil-half-brother/",
+          "subcategory": "essay",
+          "post_id": 251
+        },
+        {
+          "id": "«آموزش سخن‌گفتن»؛ شعر تازه‌ای از لورا کولبی از مجموعهٔ «جنبش دکادنت»",
+          "title": "«آموزش سخن‌گفتن»؛ شعر تازه‌ای از لورا کولبی از مجموعهٔ «جنبش دکادنت»",
+          "source": "Literary Hub",
+          "published": "2026-09-22T10:33:45.841941+03:30",
+          "original_url": "https://lithub.com/teaching-speech-a-poem-by-laura-kolbe/",
+          "subcategory": "review",
+          "post_id": 250
+        },
+        {
           "id": "ممنوعیت بیش از ۶۰۰ کتاب در مدارس فلوریدا؛ آثار جان گرین و لوئیس لوری در فهرست سیاه",
           "title": "ممنوعیت بیش از ۶۰۰ کتاب در مدارس فلوریدا؛ آثار جان گرین و لوئیس لوری در فهرست سیاه",
           "source": "PEN America",
@@ -825,13 +852,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 91
+      "item_count": 94
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "«وردز بدون مرزز» برندهٔ جایزهٔ ۲۰۲۶ «آفیسیونادو» شد",
+          "title": "«وردز بدون مرزز» برندهٔ جایزهٔ ۲۰۲۶ «آفیسیونادو» شد",
+          "source": "Words Without Borders",
+          "published": "2026-09-22T10:33:49.647007+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/wwb-wins-the-2026-aficionado-award/",
+          "subcategory": "report",
+          "post_id": 252
+        },
         {
           "id": "آنی دیلارد، نویسندهٔ برندهٔ پولیتزر و راوی ژرفای طبیعت، در ۸۱ سالگی درگذشت",
           "title": "آنی دیلارد، نویسندهٔ برندهٔ پولیتزر و راوی ژرفای طبیعت، در ۸۱ سالگی درگذشت",
@@ -869,7 +905,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 4
+      "item_count": 5
     },
     {
       "id": "interview",
@@ -939,6 +975,15 @@
       "title_fa": "✦ معرفی کتاب",
       "items": [
         {
+          "id": "«آموزش سخن‌گفتن»؛ شعر تازه‌ای از لورا کولبی از مجموعهٔ «جنبش دکادنت»",
+          "title": "«آموزش سخن‌گفتن»؛ شعر تازه‌ای از لورا کولبی از مجموعهٔ «جنبش دکادنت»",
+          "source": "Literary Hub",
+          "published": "2026-09-22T10:33:45.841941+03:30",
+          "original_url": "https://lithub.com/teaching-speech-a-poem-by-laura-kolbe/",
+          "subcategory": "review",
+          "post_id": 250
+        },
+        {
           "id": "«تابستان متأخر در انسان‌زمانه»؛ شعر تازهٔ مارکوس ویکر و روایتی از زیستن در عصر بحران اقلیم",
           "title": "«تابستان متأخر در انسان‌زمانه»؛ شعر تازهٔ مارکوس ویکر و روایتی از زیستن در عصر بحران اقلیم",
           "source": "Literary Hub",
@@ -975,7 +1020,7 @@
           "post_id": 49
         }
       ],
-      "item_count": 4
+      "item_count": 5
     },
     {
       "id": "world_lit",
@@ -1234,6 +1279,15 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "دربارهٔ «درک»، برادر ناتنی و شرور کاپیتان اهب در اقتباس سینمایی «موبی‌دیک»",
+          "title": "دربارهٔ «درک»، برادر ناتنی و شرور کاپیتان اهب در اقتباس سینمایی «موبی‌دیک»",
+          "source": "The Paris Review",
+          "published": "2026-09-22T10:33:47.772753+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/21/on-derek-captain-ahabs-evil-half-brother/",
+          "subcategory": "essay",
+          "post_id": 251
+        },
+        {
           "id": "ممنوعیت بیش از ۶۰۰ کتاب در مدارس فلوریدا؛ آثار جان گرین و لوئیس لوری در فهرست سیاه",
           "title": "ممنوعیت بیش از ۶۰۰ کتاب در مدارس فلوریدا؛ آثار جان گرین و لوئیس لوری در فهرست سیاه",
           "source": "PEN America",
@@ -1684,8 +1738,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 50
+      "item_count": 51
     }
   ],
-  "total_items": 91
+  "total_items": 94
 }
