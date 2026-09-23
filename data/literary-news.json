@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "ادل والدمان استاد مهمان سال ۲۰۲۶–۲۰۲۷ «پاریس ریویو» در ابتکار زندان بارد شد",
+          "title": "ادل والدمان استاد مهمان سال ۲۰۲۶–۲۰۲۷ «پاریس ریویو» در ابتکار زندان بارد شد",
+          "source": "The Paris Review",
+          "published": "2026-09-23T10:34:38.567225+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/22/adelle-waldman-will-be-the-paris-review-visiting-professor-at-bard-prison-initiative/",
+          "subcategory": "essay",
+          "post_id": 258
+        },
+        {
+          "id": "اعلام نامزدهای نهایی جایزهٔ بوکر ۲۰۲۶",
+          "title": "اعلام نامزدهای نهایی جایزهٔ بوکر ۲۰۲۶",
+          "source": "Literary Hub",
+          "published": "2026-09-23T10:34:36.535994+03:30",
+          "original_url": "https://lithub.com/heres-the-shortlist-for-the-2026-booker-prize/",
+          "subcategory": "report",
+          "post_id": 257
+        },
+        {
+          "id": "سرگردانی میان دو جهان؛ نگاهی به رمان تازهٔ کیران دسای",
+          "title": "سرگردانی میان دو جهان؛ نگاهی به رمان تازهٔ کیران دسای",
+          "source": "World Literature Today",
+          "published": "2026-09-23T10:34:34.658248+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/book-reviews/caught-between-two-centuries-and-two-worlds-kiran-desais-loneliness-sonia-and",
+          "subcategory": "world_lit",
+          "post_id": 256
+        },
+        {
           "id": "«وردز بدون مرزز» برندهٔ جایزهٔ ۲۰۲۶ «آفیسیونادو» شد",
           "title": "«وردز بدون مرزز» برندهٔ جایزهٔ ۲۰۲۶ «آفیسیونادو» شد",
           "source": "Words Without Borders",
@@ -852,13 +879,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 94
+      "item_count": 97
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "اعلام نامزدهای نهایی جایزهٔ بوکر ۲۰۲۶",
+          "title": "اعلام نامزدهای نهایی جایزهٔ بوکر ۲۰۲۶",
+          "source": "Literary Hub",
+          "published": "2026-09-23T10:34:36.535994+03:30",
+          "original_url": "https://lithub.com/heres-the-shortlist-for-the-2026-booker-prize/",
+          "subcategory": "report",
+          "post_id": 257
+        },
         {
           "id": "«وردز بدون مرزز» برندهٔ جایزهٔ ۲۰۲۶ «آفیسیونادو» شد",
           "title": "«وردز بدون مرزز» برندهٔ جایزهٔ ۲۰۲۶ «آفیسیونادو» شد",
@@ -905,7 +941,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 5
+      "item_count": 6
     },
     {
       "id": "interview",
@@ -1028,6 +1064,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "سرگردانی میان دو جهان؛ نگاهی به رمان تازهٔ کیران دسای",
+          "title": "سرگردانی میان دو جهان؛ نگاهی به رمان تازهٔ کیران دسای",
+          "source": "World Literature Today",
+          "published": "2026-09-23T10:34:34.658248+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/book-reviews/caught-between-two-centuries-and-two-worlds-kiran-desais-loneliness-sonia-and",
+          "subcategory": "world_lit",
+          "post_id": 256
+        },
+        {
           "id": "«دو پرنده» در آسمان شعر اوریا؛ ترجمهٔ انگلیسی تازه‌ای از اشعار سوباگیاکومار میشرا",
           "title": "«دو پرنده» در آسمان شعر اوریا؛ ترجمهٔ انگلیسی تازه‌ای از اشعار سوباگیاکومار میشرا",
           "source": "World Literature Today",
@@ -1271,13 +1316,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 27
+      "item_count": 28
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "ادل والدمان استاد مهمان سال ۲۰۲۶–۲۰۲۷ «پاریس ریویو» در ابتکار زندان بارد شد",
+          "title": "ادل والدمان استاد مهمان سال ۲۰۲۶–۲۰۲۷ «پاریس ریویو» در ابتکار زندان بارد شد",
+          "source": "The Paris Review",
+          "published": "2026-09-23T10:34:38.567225+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/22/adelle-waldman-will-be-the-paris-review-visiting-professor-at-bard-prison-initiative/",
+          "subcategory": "essay",
+          "post_id": 258
+        },
         {
           "id": "دربارهٔ «درک»، برادر ناتنی و شرور کاپیتان اهب در اقتباس سینمایی «موبی‌دیک»",
           "title": "دربارهٔ «درک»، برادر ناتنی و شرور کاپیتان اهب در اقتباس سینمایی «موبی‌دیک»",
@@ -1738,8 +1792,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 51
+      "item_count": 52
     }
   ],
-  "total_items": 94
+  "total_items": 97
 }
