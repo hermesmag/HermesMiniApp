@@ -145,6 +145,42 @@
       ]
     },
     {
+      "name": "Willem de Kooning",
+      "painting_count": 2,
+      "paintings": [
+        {
+          "id": "artic_100830",
+          "title": "Untitled XI",
+          "artist": "Willem de Kooning",
+          "year": "1975",
+          "museum": "Art Institute of Chicago",
+          "movement": "Abstract Expressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/143mFH_p4PevocrckuG6ui2rnJEzylK4Q",
+          "published": "2026-09-16T21:30:59.982942",
+          "original_url": "https://www.artic.edu/iiif/2/c35806db-6416-36d0-2582-d700dad29607/full/900,/0/default.jpg",
+          "post_id": 213
+        },
+        {
+          "id": "artic_83889",
+          "title": "Two Women's Torsos",
+          "artist": "Willem de Kooning",
+          "year": "1952",
+          "museum": "Art Institute of Chicago",
+          "movement": "Abstract Expressionism",
+          "medium": "Charcoal, pastel, and graphite on paper",
+          "art_form": "طراحی و چاپ",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1DgTib-DOb1H2vg90iTFJq51v6oR0pK4o",
+          "published": "2026-09-23T21:31:32.561273",
+          "original_url": "https://www.artic.edu/iiif/2/25d605a9-0bbe-1e67-23e5-7669181908ed/full/900,/0/default.jpg",
+          "post_id": 260
+        }
+      ]
+    },
+    {
       "name": "Akkadian Artist (Mesopotamia)",
       "painting_count": 1,
       "paintings": [
@@ -645,27 +681,6 @@
           "published": "2026-09-03T21:30:55.106886",
           "original_url": "https://images.metmuseum.org/CRDImages/dp/original/DP-14967-005.jpg",
           "post_id": 118
-        }
-      ]
-    },
-    {
-      "name": "Willem de Kooning",
-      "painting_count": 1,
-      "paintings": [
-        {
-          "id": "artic_100830",
-          "title": "Untitled XI",
-          "artist": "Willem de Kooning",
-          "year": "1975",
-          "museum": "Art Institute of Chicago",
-          "movement": "Abstract Expressionism",
-          "medium": "Oil on canvas",
-          "art_form": "نقاشی",
-          "country": "United States",
-          "image_url": "https://lh3.googleusercontent.com/d/143mFH_p4PevocrckuG6ui2rnJEzylK4Q",
-          "published": "2026-09-16T21:30:59.982942",
-          "original_url": "https://www.artic.edu/iiif/2/c35806db-6416-36d0-2582-d700dad29607/full/900,/0/default.jpg",
-          "post_id": 213
         }
       ]
     }
