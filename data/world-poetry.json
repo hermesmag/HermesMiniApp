@@ -142,6 +142,25 @@
       ]
     },
     {
+      "name": "Alexander Pushkin",
+      "name_fa": "شاعر و بنیان‌گذار ادبیات نوین روس (۱۷۹۹–۱۸۳۷)؛ با تسلط بر رمان منظوم و زبانی شفاف و پیراسته، تراژدی سرنوشت، آرمان آزادی و شورمندی زندگی را بازمی‌آفریند.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-036",
+          "title": "Казачья песня (Отрывок из «Полтавы»)",
+          "title_original": "Казачья песня",
+          "original_language": "Russian",
+          "epoch": "",
+          "book": "Полтава (1829)",
+          "translator": "Martha Gilbert Dickinson Bianchi",
+          "published": "2026-09-23T21:57:12.066480+03:30",
+          "telegraph_url": "https://telegra.ph/The-Song-Of-The-Kazak-09-23",
+          "post_id": 261
+        }
+      ]
+    },
+    {
       "name": "Arnaut Daniel",
       "name_fa": "شاعر تروبادور اکسیتانی قرون وسطی (۱۱۵۰–۱۲۱۰ میلادی)، ابداع‌کننده فرم سستینا و استاد شعر غنایی",
       "poem_count": 1,
