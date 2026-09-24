@@ -328,6 +328,27 @@
       ]
     },
     {
+      "name": "Damascene / Ottoman Craftsmen",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_452102",
+          "title": "Damascus Room",
+          "artist": "Damascene / Ottoman Craftsmen",
+          "year": "dated 1119 AH/1707 CE",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Islamic Art (Ottoman Architecture)",
+          "medium": "Poplar wood with gesso relief, gold and tin leaf, paint, stone inlay, and stained glass",
+          "art_form": "نقاشی",
+          "country": "Syria",
+          "image_url": "https://lh3.googleusercontent.com/d/1H9JfZbirlw8pX0Z0e6Ciqm17NMIBxGP0",
+          "published": "2026-09-24T21:31:04.654042",
+          "original_url": "https://images.metmuseum.org/CRDImages/is/original/DP240367.jpg",
+          "post_id": 267
+        }
+      ]
+    },
+    {
       "name": "El Greco",
       "painting_count": 1,
       "paintings": [
