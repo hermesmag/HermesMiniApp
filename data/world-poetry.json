@@ -55,7 +55,7 @@
         },
         {
           "id": "WP-Y1-DAY-009",
-          "title": "Die Lorelei",
+          "title": "The Lorelei",
           "title_original": "Die Lorelei",
           "original_language": "German",
           "epoch": "19th Century",
@@ -129,7 +129,7 @@
         },
         {
           "id": "WP-Y1-DAY-035",
-          "title": "Les Phares",
+          "title": "The Beacons",
           "title_original": "Les Phares",
           "original_language": "French",
           "epoch": "",
@@ -160,7 +160,7 @@
         },
         {
           "id": "WP-Y1-DAY-037",
-          "title": "Los heraldos negros",
+          "title": "The Black Heralds",
           "title_original": "Los heraldos negros",
           "original_language": "Spanish",
           "epoch": "",
@@ -274,7 +274,7 @@
       "poems": [
         {
           "id": "WP-Y1-DAY-028",
-          "title": "Canción del jinete",
+          "title": "Song of the Rider",
           "title_original": "Canción del jinete",
           "original_language": "Spanish",
           "epoch": "",
@@ -293,7 +293,7 @@
       "poems": [
         {
           "id": "WP-Y1-DAY-027",
-          "title": "Roma",
+          "title": "Rome",
           "title_original": "Roma",
           "original_language": "Italian",
           "epoch": "",
@@ -350,7 +350,7 @@
       "poems": [
         {
           "id": "WP-Y1-DAY-033",
-          "title": "Gefunden",
+          "title": "Found",
           "title_original": "Gefunden",
           "original_language": "German",
           "epoch": "",
@@ -407,7 +407,7 @@
       "poems": [
         {
           "id": "WP-Y1-DAY-026",
-          "title": "Todesfuge",
+          "title": "Death Fugue",
           "title_original": "Todesfuge",
           "original_language": "German",
           "epoch": "",
@@ -483,7 +483,7 @@
       "poems": [
         {
           "id": "WP-Y1-DAY-031",
-          "title": "Le Vierge, le vivace et le bel aujourd’hui",
+          "title": "The Virgin, Vibrant, and Beautiful Today",
           "title_original": "Le Vierge, le vivace et le bel aujourd’hui",
           "original_language": "French",
           "epoch": "",
