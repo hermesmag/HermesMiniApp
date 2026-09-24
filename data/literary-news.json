@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "آشنایی با آلیسیا لیم؛ مدیر مالی و اجرایی جدید نشریهٔ «واژگان بدون مرز»",
+          "title": "آشنایی با آلیسیا لیم؛ مدیر مالی و اجرایی جدید نشریهٔ «واژگان بدون مرز»",
+          "source": "Words Without Borders",
+          "published": "2026-09-24T10:32:25.833551+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/introducing-wwbs-finance-and-operations-manager-alicia-lim/",
+          "subcategory": "world_lit",
+          "post_id": 265
+        },
+        {
+          "id": "«آواز قو»؛ خاطره‌نویسی پرتب‌وتاب برادر دایانا و تسویه‌حساب با گذشته",
+          "title": "«آواز قو»؛ خاطره‌نویسی پرتب‌وتاب برادر دایانا و تسویه‌حساب با گذشته",
+          "source": "The Guardian Books",
+          "published": "2026-09-24T10:32:23.916537+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/22/swan-song-charles-spencer-review-diana-princess-of-wales-brother-earl",
+          "subcategory": "essay",
+          "post_id": 264
+        },
+        {
+          "id": "میراثِ ایستادگی در برابرِ فراموشی؛ ده اثرِ کلیدی برایِ شناختِ ادبیاتِ اوکراین",
+          "title": "میراثِ ایستادگی در برابرِ فراموشی؛ ده اثرِ کلیدی برایِ شناختِ ادبیاتِ اوکراین",
+          "source": "Literary Hub",
+          "published": "2026-09-24T10:32:21.749299+03:30",
+          "original_url": "https://lithub.com/10-essential-ukrainian-reads-from-memoir-to-novel/",
+          "subcategory": "essay",
+          "post_id": 263
+        },
+        {
           "id": "ادل والدمان استاد مهمان سال ۲۰۲۶–۲۰۲۷ «پاریس ریویو» در ابتکار زندان بارد شد",
           "title": "ادل والدمان استاد مهمان سال ۲۰۲۶–۲۰۲۷ «پاریس ریویو» در ابتکار زندان بارد شد",
           "source": "The Paris Review",
@@ -879,7 +906,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 97
+      "item_count": 100
     },
     {
       "id": "report",
@@ -1064,6 +1091,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "آشنایی با آلیسیا لیم؛ مدیر مالی و اجرایی جدید نشریهٔ «واژگان بدون مرز»",
+          "title": "آشنایی با آلیسیا لیم؛ مدیر مالی و اجرایی جدید نشریهٔ «واژگان بدون مرز»",
+          "source": "Words Without Borders",
+          "published": "2026-09-24T10:32:25.833551+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/introducing-wwbs-finance-and-operations-manager-alicia-lim/",
+          "subcategory": "world_lit",
+          "post_id": 265
+        },
+        {
           "id": "سرگردانی میان دو جهان؛ نگاهی به رمان تازهٔ کیران دسای",
           "title": "سرگردانی میان دو جهان؛ نگاهی به رمان تازهٔ کیران دسای",
           "source": "World Literature Today",
@@ -1316,13 +1352,31 @@
           "post_id": 8
         }
       ],
-      "item_count": 28
+      "item_count": 29
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "«آواز قو»؛ خاطره‌نویسی پرتب‌وتاب برادر دایانا و تسویه‌حساب با گذشته",
+          "title": "«آواز قو»؛ خاطره‌نویسی پرتب‌وتاب برادر دایانا و تسویه‌حساب با گذشته",
+          "source": "The Guardian Books",
+          "published": "2026-09-24T10:32:23.916537+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/22/swan-song-charles-spencer-review-diana-princess-of-wales-brother-earl",
+          "subcategory": "essay",
+          "post_id": 264
+        },
+        {
+          "id": "میراثِ ایستادگی در برابرِ فراموشی؛ ده اثرِ کلیدی برایِ شناختِ ادبیاتِ اوکراین",
+          "title": "میراثِ ایستادگی در برابرِ فراموشی؛ ده اثرِ کلیدی برایِ شناختِ ادبیاتِ اوکراین",
+          "source": "Literary Hub",
+          "published": "2026-09-24T10:32:21.749299+03:30",
+          "original_url": "https://lithub.com/10-essential-ukrainian-reads-from-memoir-to-novel/",
+          "subcategory": "essay",
+          "post_id": 263
+        },
         {
           "id": "ادل والدمان استاد مهمان سال ۲۰۲۶–۲۰۲۷ «پاریس ریویو» در ابتکار زندان بارد شد",
           "title": "ادل والدمان استاد مهمان سال ۲۰۲۶–۲۰۲۷ «پاریس ریویو» در ابتکار زندان بارد شد",
@@ -1792,8 +1846,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 52
+      "item_count": 54
     }
   ],
-  "total_items": 97
+  "total_items": 100
 }
