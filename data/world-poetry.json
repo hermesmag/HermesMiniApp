@@ -142,6 +142,37 @@
       ]
     },
     {
+      "name": "César Vallejo",
+      "name_fa": "شاعر آوانگارد پرویی (۱۸۹۲–۱۹۳۸)؛ با زبانی مجروح، ساختارگریز و نوآورانه، تجسمی ژرف از رنج وجودی، درد محرومان و همبستگی برادرانهٔ بشری پدید می‌آورد.",
+      "poem_count": 2,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-006",
+          "title": "Black Stone On Top Of A White Stone",
+          "title_original": "Piedra negra sobre una piedra blanca",
+          "original_language": "Spanish",
+          "epoch": "20th Century & Modern",
+          "book": "Poemas humanos",
+          "translator": "Clayton Eshleman",
+          "published": "2026-08-26T14:46:16.453006",
+          "telegraph_url": "https://telegra.ph/Black-Stone-On-Top-Of-A-White-Stone-08-26",
+          "post_id": 54
+        },
+        {
+          "id": "WP-Y1-DAY-037",
+          "title": "Los heraldos negros",
+          "title_original": "Los heraldos negros",
+          "original_language": "Spanish",
+          "epoch": "",
+          "book": "Los heraldos negros (1918)",
+          "translator": "Clayton Eshleman",
+          "published": "2026-09-24T20:28:16.245544+03:30",
+          "telegraph_url": "https://telegra.ph/قاصدان-سیاه-09-24",
+          "post_id": 266
+        }
+      ]
+    },
+    {
       "name": "Alexander Pushkin",
       "name_fa": "شاعر و بنیان‌گذار ادبیات نوین روس (۱۷۹۹–۱۸۳۷)؛ با تسلط بر رمان منظوم و زبانی شفاف و پیراسته، تراژدی سرنوشت، آرمان آزادی و شورمندی زندگی را بازمی‌آفریند.",
       "poem_count": 1,
@@ -176,25 +207,6 @@
           "published": "2026-08-31T18:01:46.225730+03:30",
           "telegraph_url": "https://telegra.ph/Canzon-08-31",
           "post_id": 96
-        }
-      ]
-    },
-    {
-      "name": "César Vallejo",
-      "name_fa": "شاعر آوانگارد پرویی (۱۸۹۲–۱۹۳۸)؛ با زبانی مجروح، ساختارگریز و نوآورانه، تجسمی ژرف از رنج وجودی، درد محرومان و همبستگی برادرانهٔ بشری پدید می‌آورد.",
-      "poem_count": 1,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-006",
-          "title": "Black Stone On Top Of A White Stone",
-          "title_original": "Piedra negra sobre una piedra blanca",
-          "original_language": "Spanish",
-          "epoch": "20th Century & Modern",
-          "book": "Poemas humanos",
-          "translator": "Clayton Eshleman",
-          "published": "2026-08-26T14:46:16.453006",
-          "telegraph_url": "https://telegra.ph/Black-Stone-On-Top-Of-A-White-Stone-08-26",
-          "post_id": 54
         }
       ]
     },
