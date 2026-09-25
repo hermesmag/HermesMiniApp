@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "رونمایی از طرح جلد رمان تازهٔ هیرومی کاواکامی با ترجمهٔ آلیسون مارکین پاول",
+          "title": "رونمایی از طرح جلد رمان تازهٔ هیرومی کاواکامی با ترجمهٔ آلیسون مارکین پاول",
+          "source": "Electric Literature",
+          "published": "2026-09-25T10:32:19.382754+03:30",
+          "original_url": "https://electricliterature.com/exclusive-cover-reveal-of-far-from-everywhere-by-hiromi-kawakami-translated-by-allison-markin-powell/",
+          "subcategory": "world_lit",
+          "post_id": 271
+        },
+        {
+          "id": "جان برجر، منشی مرگ؛ گفتگو با تام اورتون دربارهٔ زندگی و میراث نویسندهٔ برجسته",
+          "title": "جان برجر، منشی مرگ؛ گفتگو با تام اورتون دربارهٔ زندگی و میراث نویسندهٔ برجسته",
+          "source": "The Paris Review",
+          "published": "2026-09-25T10:32:16.903216+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/24/john-berger-deaths-secretary-a-conversation-with-tom-overton/",
+          "subcategory": "interview",
+          "post_id": 270
+        },
+        {
+          "id": "ویژه‌نامهٔ شعر سپتامبر ۲۰۲۶؛ واکاوی تنهایی، پیوندهای انسانی و میراث خانوادگی",
+          "title": "ویژه‌نامهٔ شعر سپتامبر ۲۰۲۶؛ واکاوی تنهایی، پیوندهای انسانی و میراث خانوادگی",
+          "source": "The Common",
+          "published": "2026-09-25T10:32:14.335173+03:30",
+          "original_url": "https://www.thecommononline.org/september-2026-poetry-feature/",
+          "subcategory": "essay",
+          "post_id": 269
+        },
+        {
           "id": "آشنایی با آلیسیا لیم؛ مدیر مالی و اجرایی جدید نشریهٔ «واژگان بدون مرز»",
           "title": "آشنایی با آلیسیا لیم؛ مدیر مالی و اجرایی جدید نشریهٔ «واژگان بدون مرز»",
           "source": "Words Without Borders",
@@ -906,7 +933,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 100
+      "item_count": 103
     },
     {
       "id": "report",
@@ -976,6 +1003,15 @@
       "title_fa": "✦ گفت‌وگو",
       "items": [
         {
+          "id": "جان برجر، منشی مرگ؛ گفتگو با تام اورتون دربارهٔ زندگی و میراث نویسندهٔ برجسته",
+          "title": "جان برجر، منشی مرگ؛ گفتگو با تام اورتون دربارهٔ زندگی و میراث نویسندهٔ برجسته",
+          "source": "The Paris Review",
+          "published": "2026-09-25T10:32:16.903216+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/24/john-berger-deaths-secretary-a-conversation-with-tom-overton/",
+          "subcategory": "interview",
+          "post_id": 270
+        },
+        {
           "id": "هیاهوی پس از پولیتزر؛ گفتگوی دانیل کراس دربارهٔ رمان «سقوط فرشته» و گریز از بند ژانرها",
           "title": "هیاهوی پس از پولیتزر؛ گفتگوی دانیل کراس دربارهٔ رمان «سقوط فرشته» و گریز از بند ژانرها",
           "source": "The Common",
@@ -1030,7 +1066,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 6
+      "item_count": 7
     },
     {
       "id": "review",
@@ -1090,6 +1126,15 @@
       "title_en": "World Literature",
       "title_fa": "✦ ادبیات جهان",
       "items": [
+        {
+          "id": "رونمایی از طرح جلد رمان تازهٔ هیرومی کاواکامی با ترجمهٔ آلیسون مارکین پاول",
+          "title": "رونمایی از طرح جلد رمان تازهٔ هیرومی کاواکامی با ترجمهٔ آلیسون مارکین پاول",
+          "source": "Electric Literature",
+          "published": "2026-09-25T10:32:19.382754+03:30",
+          "original_url": "https://electricliterature.com/exclusive-cover-reveal-of-far-from-everywhere-by-hiromi-kawakami-translated-by-allison-markin-powell/",
+          "subcategory": "world_lit",
+          "post_id": 271
+        },
         {
           "id": "آشنایی با آلیسیا لیم؛ مدیر مالی و اجرایی جدید نشریهٔ «واژگان بدون مرز»",
           "title": "آشنایی با آلیسیا لیم؛ مدیر مالی و اجرایی جدید نشریهٔ «واژگان بدون مرز»",
@@ -1352,13 +1397,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 29
+      "item_count": 30
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "ویژه‌نامهٔ شعر سپتامبر ۲۰۲۶؛ واکاوی تنهایی، پیوندهای انسانی و میراث خانوادگی",
+          "title": "ویژه‌نامهٔ شعر سپتامبر ۲۰۲۶؛ واکاوی تنهایی، پیوندهای انسانی و میراث خانوادگی",
+          "source": "The Common",
+          "published": "2026-09-25T10:32:14.335173+03:30",
+          "original_url": "https://www.thecommononline.org/september-2026-poetry-feature/",
+          "subcategory": "essay",
+          "post_id": 269
+        },
         {
           "id": "«آواز قو»؛ خاطره‌نویسی پرتب‌وتاب برادر دایانا و تسویه‌حساب با گذشته",
           "title": "«آواز قو»؛ خاطره‌نویسی پرتب‌وتاب برادر دایانا و تسویه‌حساب با گذشته",
@@ -1846,8 +1900,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 54
+      "item_count": 55
     }
   ],
-  "total_items": 100
+  "total_items": 103
 }
