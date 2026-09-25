@@ -559,6 +559,27 @@
       ]
     },
     {
+      "name": "Nancy Lee Katz",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_259924",
+          "title": "Louise Bourgeois",
+          "artist": "Nancy Lee Katz",
+          "year": "1986",
+          "museum": "Art Institute of Chicago",
+          "movement": "Contemporary Art",
+          "medium": "Gelatin silver print",
+          "art_form": "عکاسی",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1IimHGquSKvYLaJiZdGTOjWSQb93sQx3V",
+          "published": "2026-09-25T21:30:59.054954",
+          "original_url": "https://www.artic.edu/iiif/2/0c3002a7-aa22-9fbb-9eb2-0abe7cf2c0bd/full/400,/0/default.jpg",
+          "post_id": 273
+        }
+      ]
+    },
+    {
       "name": "North Netherlandish (Bruges) Painter (ca. 1470)",
       "painting_count": 1,
       "paintings": [
