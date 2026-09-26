@@ -394,6 +394,25 @@
       ]
     },
     {
+      "name": "John Donne",
+      "name_fa": "شاعر متافیزیکی انگلستان (۱۵۷۲–۱۶۳۱)؛ با تمثیل‌های پیچیدهٔ عقلی و نحو پویای بیانی، تنش‌های پرشور میان وسوسه‌های تن، عشق زمینی و استغراق در ایمان را به نظم می‌کشد.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-039",
+          "title": "Upon the Translation of the Psalms by Sir Philip Sidney, and the Countess of Pembroke his Sister",
+          "title_original": "Upon the Translation of the Psalms by Sir Philip Sidney, and the Countess of Pembroke his Sister",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-09-26T19:36:38.776606+03:30",
+          "telegraph_url": "https://telegra.ph/در-ستایش-ترجمه-مزامیر-به‌دست-سر-فیلیپ-سیدنی-و-خواهرش-کنتس-پمبروک-09-26",
+          "post_id": 279
+        }
+      ]
+    },
+    {
       "name": "Octavio Paz",
       "name_fa": "شاعر و متفکر برجستهٔ مکزیکی (۱۹۱۴–۱۹۹۸)؛ با پیوند زدن اساطیر بومی به بوطیقای سوررئالیستی، به تبارشناسی هویت تاریخی، دیالکتیک تنهایی و رازآمیزی زمان و کلمه می‌پردازد.",
       "poem_count": 1,
