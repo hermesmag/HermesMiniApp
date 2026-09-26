@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "«قصیده‌ای برای برگ‌روب»؛ مواجههٔ جیل بیالوسکی با قدرت، شرم و زوال طبیعت",
+          "title": "«قصیده‌ای برای برگ‌روب»؛ مواجههٔ جیل بیالوسکی با قدرت، شرم و زوال طبیعت",
+          "source": "Literary Hub",
+          "published": "2026-09-26T10:31:56.318190+03:30",
+          "original_url": "https://lithub.com/ode-to-a-leaf-blower-a-poem-by-jill-bialosky/",
+          "subcategory": "review",
+          "post_id": 278
+        },
+        {
+          "id": "ارزش جایزهٔ ادبی «ان‌اس‌کی نویشتات» به ۵۰ هزار دلار افزایش یافت",
+          "title": "ارزش جایزهٔ ادبی «ان‌اس‌کی نویشتات» به ۵۰ هزار دلار افزایش یافت",
+          "source": "World Literature Today",
+          "published": "2026-09-26T10:31:53.174177+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/news-and-events/university-oklahoma-book-award-increased-50000",
+          "subcategory": "report",
+          "post_id": 277
+        },
+        {
+          "id": "«نسل رمان‌نویسان من در حال انقراض است»؛ رز ترماین از ۷۰ سال نویسندگی و الهام در کهنسالی می‌گوید",
+          "title": "«نسل رمان‌نویسان من در حال انقراض است»؛ رز ترماین از ۷۰ سال نویسندگی و الهام در کهنسالی می‌گوید",
+          "source": "The Guardian Books",
+          "published": "2026-09-26T10:31:50.986613+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/25/my-generation-of-novelists-is-dying-rose-tremain-on-70-years-of-writing-and-late-life-inspiration",
+          "subcategory": "essay",
+          "post_id": 276
+        },
+        {
           "id": "رونمایی از طرح جلد رمان تازهٔ هیرومی کاواکامی با ترجمهٔ آلیسون مارکین پاول",
           "title": "رونمایی از طرح جلد رمان تازهٔ هیرومی کاواکامی با ترجمهٔ آلیسون مارکین پاول",
           "source": "Electric Literature",
@@ -933,13 +960,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 103
+      "item_count": 106
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "ارزش جایزهٔ ادبی «ان‌اس‌کی نویشتات» به ۵۰ هزار دلار افزایش یافت",
+          "title": "ارزش جایزهٔ ادبی «ان‌اس‌کی نویشتات» به ۵۰ هزار دلار افزایش یافت",
+          "source": "World Literature Today",
+          "published": "2026-09-26T10:31:53.174177+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/news-and-events/university-oklahoma-book-award-increased-50000",
+          "subcategory": "report",
+          "post_id": 277
+        },
         {
           "id": "اعلام نامزدهای نهایی جایزهٔ بوکر ۲۰۲۶",
           "title": "اعلام نامزدهای نهایی جایزهٔ بوکر ۲۰۲۶",
@@ -995,7 +1031,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 6
+      "item_count": 7
     },
     {
       "id": "interview",
@@ -1074,6 +1110,15 @@
       "title_fa": "✦ معرفی کتاب",
       "items": [
         {
+          "id": "«قصیده‌ای برای برگ‌روب»؛ مواجههٔ جیل بیالوسکی با قدرت، شرم و زوال طبیعت",
+          "title": "«قصیده‌ای برای برگ‌روب»؛ مواجههٔ جیل بیالوسکی با قدرت، شرم و زوال طبیعت",
+          "source": "Literary Hub",
+          "published": "2026-09-26T10:31:56.318190+03:30",
+          "original_url": "https://lithub.com/ode-to-a-leaf-blower-a-poem-by-jill-bialosky/",
+          "subcategory": "review",
+          "post_id": 278
+        },
+        {
           "id": "«آموزش سخن‌گفتن»؛ شعر تازه‌ای از لورا کولبی از مجموعهٔ «جنبش دکادنت»",
           "title": "«آموزش سخن‌گفتن»؛ شعر تازه‌ای از لورا کولبی از مجموعهٔ «جنبش دکادنت»",
           "source": "Literary Hub",
@@ -1119,7 +1164,7 @@
           "post_id": 49
         }
       ],
-      "item_count": 5
+      "item_count": 6
     },
     {
       "id": "world_lit",
@@ -1405,6 +1450,15 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "«نسل رمان‌نویسان من در حال انقراض است»؛ رز ترماین از ۷۰ سال نویسندگی و الهام در کهنسالی می‌گوید",
+          "title": "«نسل رمان‌نویسان من در حال انقراض است»؛ رز ترماین از ۷۰ سال نویسندگی و الهام در کهنسالی می‌گوید",
+          "source": "The Guardian Books",
+          "published": "2026-09-26T10:31:50.986613+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/25/my-generation-of-novelists-is-dying-rose-tremain-on-70-years-of-writing-and-late-life-inspiration",
+          "subcategory": "essay",
+          "post_id": 276
+        },
+        {
           "id": "ویژه‌نامهٔ شعر سپتامبر ۲۰۲۶؛ واکاوی تنهایی، پیوندهای انسانی و میراث خانوادگی",
           "title": "ویژه‌نامهٔ شعر سپتامبر ۲۰۲۶؛ واکاوی تنهایی، پیوندهای انسانی و میراث خانوادگی",
           "source": "The Common",
@@ -1900,8 +1954,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 55
+      "item_count": 56
     }
   ],
-  "total_items": 103
+  "total_items": 106
 }
