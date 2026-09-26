@@ -370,6 +370,27 @@
       ]
     },
     {
+      "name": "Francisco de Zurbarán",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_437969",
+          "title": "Battle between Christians and Muslims at El Sotillo",
+          "artist": "Francisco de Zurbarán",
+          "year": "ca. 1637–39",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Baroque",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Spain",
+          "image_url": "https://lh3.googleusercontent.com/d/1-oHesm9a6Uvw9G6cbnbN3eMevQPvHqx4",
+          "published": "2026-09-26T21:30:57.935303",
+          "original_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-20747-001.jpg",
+          "post_id": 280
+        }
+      ]
+    },
+    {
       "name": "Georges Braque",
       "painting_count": 1,
       "paintings": [
