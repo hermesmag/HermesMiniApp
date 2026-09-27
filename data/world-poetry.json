@@ -204,6 +204,37 @@
       ]
     },
     {
+      "name": "Emily Dickinson",
+      "name_fa": "شاعر گوشه‌نشین آمریکایی (۱۸۳۰–۱۸۸۶)؛ با ایجازی مفرط، مکث‌های خط‌تیره‌ای و قافیه‌های ناهمخوان، ژرفای روان آدمی، تماشای ابدیت و معمای مرگ را می‌کاود.",
+      "poem_count": 2,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-010",
+          "title": "Indian Summer",
+          "title_original": "Indian Summer",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-08-28T16:26:16.937044",
+          "telegraph_url": null,
+          "post_id": 74
+        },
+        {
+          "id": "WP-Y1-DAY-040",
+          "title": "The Railway Train",
+          "title_original": "The Railway Train",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-09-27T18:01:01.342411+03:30",
+          "telegraph_url": null,
+          "post_id": 285
+        }
+      ]
+    },
+    {
       "name": "Alexander Pushkin",
       "name_fa": "شاعر و بنیان‌گذار ادبیات نوین روس (۱۷۹۹–۱۸۳۷)؛ با تسلط بر رمان منظوم و زبانی شفاف و پیراسته، تراژدی سرنوشت، آرمان آزادی و شورمندی زندگی را بازمی‌آفریند.",
       "poem_count": 1,
@@ -238,25 +269,6 @@
           "published": "2026-08-31T18:01:46.225730+03:30",
           "telegraph_url": "https://telegra.ph/Canzon-08-31",
           "post_id": 96
-        }
-      ]
-    },
-    {
-      "name": "Emily Dickinson",
-      "name_fa": "شاعر گوشه‌نشین آمریکایی (۱۸۳۰–۱۸۸۶)؛ با ایجازی مفرط، مکث‌های خط‌تیره‌ای و قافیه‌های ناهمخوان، ژرفای روان آدمی، تماشای ابدیت و معمای مرگ را می‌کاود.",
-      "poem_count": 1,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-010",
-          "title": "Indian Summer",
-          "title_original": "Indian Summer",
-          "original_language": "English",
-          "epoch": "",
-          "book": "",
-          "translator": "",
-          "published": "2026-08-28T16:26:16.937044",
-          "telegraph_url": null,
-          "post_id": 74
         }
       ]
     },
