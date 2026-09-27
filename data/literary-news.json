@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "انتشار شعر و ترجمهٔ «آتش‌پاره» سرودهٔ مارگارت نودین",
+          "title": "انتشار شعر و ترجمهٔ «آتش‌پاره» سرودهٔ مارگارت نودین",
+          "source": "Words Without Borders",
+          "published": "2026-09-27T10:33:22.766282+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/fire-strike-noodin/",
+          "subcategory": "world_lit",
+          "post_id": 284
+        },
+        {
+          "id": "وقتی ادبیات واسطهٔ آشنایی می‌شود؛ رونمایی از اپلیکیشن دوست‌یابیِ «رید‌می» در نیویورک",
+          "title": "وقتی ادبیات واسطهٔ آشنایی می‌شود؛ رونمایی از اپلیکیشن دوست‌یابیِ «رید‌می» در نیویورک",
+          "source": "The Paris Review",
+          "published": "2026-09-27T10:33:20.556597+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/25/co-star-app-dispatch-readme/",
+          "subcategory": "essay",
+          "post_id": 283
+        },
+        {
+          "id": "پیشنهاد ایمی فاسلمن برای عبور از بن‌بست قلم: به تئاتر بروید",
+          "title": "پیشنهاد ایمی فاسلمن برای عبور از بن‌بست قلم: به تئاتر بروید",
+          "source": "Literary Hub",
+          "published": "2026-09-27T10:33:17.906467+03:30",
+          "original_url": "https://lithub.com/got-writers-block-go-to-the-theater/",
+          "subcategory": "essay",
+          "post_id": 282
+        },
+        {
           "id": "«قصیده‌ای برای برگ‌روب»؛ مواجههٔ جیل بیالوسکی با قدرت، شرم و زوال طبیعت",
           "title": "«قصیده‌ای برای برگ‌روب»؛ مواجههٔ جیل بیالوسکی با قدرت، شرم و زوال طبیعت",
           "source": "Literary Hub",
@@ -960,7 +987,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 106
+      "item_count": 109
     },
     {
       "id": "report",
@@ -1172,6 +1199,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "انتشار شعر و ترجمهٔ «آتش‌پاره» سرودهٔ مارگارت نودین",
+          "title": "انتشار شعر و ترجمهٔ «آتش‌پاره» سرودهٔ مارگارت نودین",
+          "source": "Words Without Borders",
+          "published": "2026-09-27T10:33:22.766282+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/fire-strike-noodin/",
+          "subcategory": "world_lit",
+          "post_id": 284
+        },
+        {
           "id": "رونمایی از طرح جلد رمان تازهٔ هیرومی کاواکامی با ترجمهٔ آلیسون مارکین پاول",
           "title": "رونمایی از طرح جلد رمان تازهٔ هیرومی کاواکامی با ترجمهٔ آلیسون مارکین پاول",
           "source": "Electric Literature",
@@ -1442,13 +1478,31 @@
           "post_id": 8
         }
       ],
-      "item_count": 30
+      "item_count": 31
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "وقتی ادبیات واسطهٔ آشنایی می‌شود؛ رونمایی از اپلیکیشن دوست‌یابیِ «رید‌می» در نیویورک",
+          "title": "وقتی ادبیات واسطهٔ آشنایی می‌شود؛ رونمایی از اپلیکیشن دوست‌یابیِ «رید‌می» در نیویورک",
+          "source": "The Paris Review",
+          "published": "2026-09-27T10:33:20.556597+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/25/co-star-app-dispatch-readme/",
+          "subcategory": "essay",
+          "post_id": 283
+        },
+        {
+          "id": "پیشنهاد ایمی فاسلمن برای عبور از بن‌بست قلم: به تئاتر بروید",
+          "title": "پیشنهاد ایمی فاسلمن برای عبور از بن‌بست قلم: به تئاتر بروید",
+          "source": "Literary Hub",
+          "published": "2026-09-27T10:33:17.906467+03:30",
+          "original_url": "https://lithub.com/got-writers-block-go-to-the-theater/",
+          "subcategory": "essay",
+          "post_id": 282
+        },
         {
           "id": "«نسل رمان‌نویسان من در حال انقراض است»؛ رز ترماین از ۷۰ سال نویسندگی و الهام در کهنسالی می‌گوید",
           "title": "«نسل رمان‌نویسان من در حال انقراض است»؛ رز ترماین از ۷۰ سال نویسندگی و الهام در کهنسالی می‌گوید",
@@ -1954,8 +2008,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 56
+      "item_count": 58
     }
   ],
-  "total_items": 106
+  "total_items": 109
 }
