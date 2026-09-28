@@ -204,6 +204,37 @@
       ]
     },
     {
+      "name": "Rainer Maria Rilke",
+      "name_fa": "شاعر آلمانی‌زبان متولد پراگ (۱۸۷۵–۱۹۲۶)؛ با شهودی عارفانه در لمس اشیا و هستی، به مکاشفه در استحالهٔ امر مادی به امر استعلایی، تنهایی ازلی و راز گشودگی به مرگ می‌نشیند.",
+      "poem_count": 2,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-011",
+          "title": "Kings in Legends",
+          "title_original": "Kings in Legends",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "Jessie Lemont",
+          "published": "2026-08-29T20:34:56.988998",
+          "telegraph_url": "https://telegra.ph/Kings-in-Legends-08-29",
+          "post_id": 82
+        },
+        {
+          "id": "WP-Y1-DAY-041",
+          "title": "By day Thou art the Legend and the Dream",
+          "title_original": "Du bist der raunende Verrußte",
+          "original_language": "German",
+          "epoch": "",
+          "book": "Das Stunden-Buch (1905)",
+          "translator": "Babette Deutsch",
+          "published": "2026-09-28T18:00:56.346429+03:30",
+          "telegraph_url": "https://telegra.ph/تویی-آن-زمزمه‌گر-دوده‌اندود-09-28",
+          "post_id": 291
+        }
+      ]
+    },
+    {
       "name": "Alexander Pushkin",
       "name_fa": "شاعر و بنیان‌گذار ادبیات نوین روس (۱۷۹۹–۱۸۳۷)؛ با تسلط بر رمان منظوم و زبانی شفاف و پیراسته، تراژدی سرنوشت، آرمان آزادی و شورمندی زندگی را بازمی‌آفریند.",
       "poem_count": 1,
@@ -485,25 +516,6 @@
           "published": "2026-09-03T18:01:11.945693+03:30",
           "telegraph_url": "https://telegra.ph/Clair-De-Lune-09-03",
           "post_id": 117
-        }
-      ]
-    },
-    {
-      "name": "Rainer Maria Rilke",
-      "name_fa": "شاعر آلمانی‌زبان متولد پراگ (۱۸۷۵–۱۹۲۶)؛ با شهودی عارفانه در لمس اشیا و هستی، به مکاشفه در استحالهٔ امر مادی به امر استعلایی، تنهایی ازلی و راز گشودگی به مرگ می‌نشیند.",
-      "poem_count": 1,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-011",
-          "title": "Kings in Legends",
-          "title_original": "Kings in Legends",
-          "original_language": "English",
-          "epoch": "",
-          "book": "",
-          "translator": "Jessie Lemont",
-          "published": "2026-08-29T20:34:56.988998",
-          "telegraph_url": "https://telegra.ph/Kings-in-Legends-08-29",
-          "post_id": 82
         }
       ]
     },
