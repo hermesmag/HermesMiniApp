@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "داستانی نادیده از آلکساندر سولژنیتسین برای نخستین بار به انگلیسی ترجمه می‌شود",
+          "title": "داستانی نادیده از آلکساندر سولژنیتسین برای نخستین بار به انگلیسی ترجمه می‌شود",
+          "source": "The New Yorker",
+          "published": "2026-09-28T10:32:19.092611+03:30",
+          "original_url": "https://www.newyorker.com/books/this-week-in-fiction/aleksandr-solzhenitsyn-10-05-26",
+          "subcategory": "essay",
+          "post_id": 290
+        },
+        {
+          "id": "از آشپزی تا نامزدیِ جوایز بزرگ ادبی؛ روایت لوییز کندی در آستانهٔ انتشار رمان جدیدش",
+          "title": "از آشپزی تا نامزدیِ جوایز بزرگ ادبی؛ روایت لوییز کندی در آستانهٔ انتشار رمان جدیدش",
+          "source": "The Guardian Books",
+          "published": "2026-09-28T10:32:16.969031+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/26/we-left-ireland-because-there-wasnt-work-and-we-wanted-to-get-the-hell-away-trespasses-author-louise-kennedy",
+          "subcategory": "essay",
+          "post_id": 289
+        },
+        {
+          "id": "بازخوانی میراث گراتزیا دلدا؛ روایتی از زندگی و آثار دومین زن برندهٔ نوبل ادبیات",
+          "title": "بازخوانی میراث گراتزیا دلدا؛ روایتی از زندگی و آثار دومین زن برندهٔ نوبل ادبیات",
+          "source": "Literary Hub",
+          "published": "2026-09-28T10:32:15.183324+03:30",
+          "original_url": "https://lithub.com/remembering-grazia-deledda-the-sardinian-nobel-prize-winner-we-should-all-be-reading/",
+          "subcategory": "report",
+          "post_id": 288
+        },
+        {
           "id": "انتشار شعر و ترجمهٔ «آتش‌پاره» سرودهٔ مارگارت نودین",
           "title": "انتشار شعر و ترجمهٔ «آتش‌پاره» سرودهٔ مارگارت نودین",
           "source": "Words Without Borders",
@@ -987,13 +1014,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 109
+      "item_count": 112
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "بازخوانی میراث گراتزیا دلدا؛ روایتی از زندگی و آثار دومین زن برندهٔ نوبل ادبیات",
+          "title": "بازخوانی میراث گراتزیا دلدا؛ روایتی از زندگی و آثار دومین زن برندهٔ نوبل ادبیات",
+          "source": "Literary Hub",
+          "published": "2026-09-28T10:32:15.183324+03:30",
+          "original_url": "https://lithub.com/remembering-grazia-deledda-the-sardinian-nobel-prize-winner-we-should-all-be-reading/",
+          "subcategory": "report",
+          "post_id": 288
+        },
         {
           "id": "ارزش جایزهٔ ادبی «ان‌اس‌کی نویشتات» به ۵۰ هزار دلار افزایش یافت",
           "title": "ارزش جایزهٔ ادبی «ان‌اس‌کی نویشتات» به ۵۰ هزار دلار افزایش یافت",
@@ -1058,7 +1094,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 7
+      "item_count": 8
     },
     {
       "id": "interview",
@@ -1486,6 +1522,24 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "داستانی نادیده از آلکساندر سولژنیتسین برای نخستین بار به انگلیسی ترجمه می‌شود",
+          "title": "داستانی نادیده از آلکساندر سولژنیتسین برای نخستین بار به انگلیسی ترجمه می‌شود",
+          "source": "The New Yorker",
+          "published": "2026-09-28T10:32:19.092611+03:30",
+          "original_url": "https://www.newyorker.com/books/this-week-in-fiction/aleksandr-solzhenitsyn-10-05-26",
+          "subcategory": "essay",
+          "post_id": 290
+        },
+        {
+          "id": "از آشپزی تا نامزدیِ جوایز بزرگ ادبی؛ روایت لوییز کندی در آستانهٔ انتشار رمان جدیدش",
+          "title": "از آشپزی تا نامزدیِ جوایز بزرگ ادبی؛ روایت لوییز کندی در آستانهٔ انتشار رمان جدیدش",
+          "source": "The Guardian Books",
+          "published": "2026-09-28T10:32:16.969031+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/26/we-left-ireland-because-there-wasnt-work-and-we-wanted-to-get-the-hell-away-trespasses-author-louise-kennedy",
+          "subcategory": "essay",
+          "post_id": 289
+        },
+        {
           "id": "وقتی ادبیات واسطهٔ آشنایی می‌شود؛ رونمایی از اپلیکیشن دوست‌یابیِ «رید‌می» در نیویورک",
           "title": "وقتی ادبیات واسطهٔ آشنایی می‌شود؛ رونمایی از اپلیکیشن دوست‌یابیِ «رید‌می» در نیویورک",
           "source": "The Paris Review",
@@ -2008,8 +2062,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 58
+      "item_count": 60
     }
   ],
-  "total_items": 109
+  "total_items": 112
 }
