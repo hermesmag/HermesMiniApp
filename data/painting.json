@@ -406,6 +406,27 @@
       ]
     },
     {
+      "name": "Fernand Léger",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_24332",
+          "title": "Composition in Blue",
+          "artist": "Fernand Léger",
+          "year": "1921/27",
+          "museum": "Art Institute of Chicago",
+          "movement": "Cubism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "France",
+          "image_url": "https://lh3.googleusercontent.com/d/1R4F9pEOGKcRT-2tWzxJL8Gp-jMrQMEd1",
+          "published": "2026-09-28T21:31:09.971483",
+          "original_url": "https://www.artic.edu/iiif/2/d9315a3f-1f41-3e0e-e0af-eaa01914bd7f/full/900,/0/default.jpg",
+          "post_id": 292
+        }
+      ]
+    },
+    {
       "name": "Francisco de Zurbarán",
       "painting_count": 1,
       "paintings": [
