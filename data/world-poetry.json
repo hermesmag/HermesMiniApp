@@ -520,6 +520,25 @@
       ]
     },
     {
+      "name": "Percy Bysshe Shelley",
+      "name_fa": "شاعر انقلابی رمانتیک انگلستان (۱۷۹۲–۱۸۲۲)؛ با تخیلی آرمان‌گرا و اوج‌گیری‌های شتابان وزنی، به ستایش سرشت رهایی‌بخش آزادی، دگرگونی جهان و ناپایداری ستمگران می‌پردازد.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-042",
+          "title": "The poet’s created forms",
+          "title_original": "The poet’s created forms",
+          "original_language": "English",
+          "epoch": "",
+          "book": "Prometheus Unbound (1820)",
+          "translator": "",
+          "published": "2026-09-29T18:00:52.871144+03:30",
+          "telegraph_url": null,
+          "post_id": 298
+        }
+      ]
+    },
+    {
       "name": "Robert Frost",
       "name_fa": "شاعر آمریکایی (۱۸۷۴–۱۹۶۳)؛ با تلفیق لحن صمیمی گفتار با وزن‌های استوار کهن، دوراهی‌های دشوار تصمیم، تنهایی وجودی و مواجههٔ تأمل‌برانگیز انسان با طبیعت نیوانگلند را می‌کاود.",
       "poem_count": 1,
