@@ -574,6 +574,25 @@
       ]
     },
     {
+      "name": "مولوی",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "local://shams/1111",
+          "title": "غزل شمارهٔ ۱۱۱۱",
+          "author": "مولوی",
+          "book": "غزلیات شمس تبریزی",
+          "form": "ghazal",
+          "century": 7,
+          "char_count": 345,
+          "familiarity_tier": "Known Masterpiece",
+          "day_of_year": 41,
+          "published": "2026-09-29T08:00:45.977955+03:30",
+          "post_id": 293
+        }
+      ]
+    },
+    {
       "name": "ناصرخسرو",
       "item_count": 1,
       "items": [
