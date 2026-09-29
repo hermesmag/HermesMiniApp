@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "صدای بی‌صدایان؛ نگاهی به مجموعه شعر «فصل بسته» سرودهٔ مونیکا هرتسگ",
+          "title": "صدای بی‌صدایان؛ نگاهی به مجموعه شعر «فصل بسته» سرودهٔ مونیکا هرتسگ",
+          "source": "World Literature Today",
+          "published": "2026-09-29T10:32:15.707735+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/book-reviews/giving-voice-voiceless-and-powerless-monika-hercegs-closed-season-nicole-yurcaba",
+          "subcategory": "world_lit",
+          "post_id": 296
+        },
+        {
+          "id": "گری ایندانا و ذهن ناآرام؛ بازخوانی یک گفت‌وگوی آرشیوی",
+          "title": "گری ایندانا و ذهن ناآرام؛ بازخوانی یک گفت‌وگوی آرشیوی",
+          "source": "The Paris Review",
+          "published": "2026-09-29T10:32:13.895857+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/28/and-then-somebody-handed-me-a-story-gary-indiana-unlocked/",
+          "subcategory": "essay",
+          "post_id": 295
+        },
+        {
+          "id": "گفت‌وگو با کریم قطان و جفری زاکرمن؛ از آسمان بیت‌المحترم تا ترجمهٔ رمان «بهشت در سپیده‌دم»",
+          "title": "گفت‌وگو با کریم قطان و جفری زاکرمن؛ از آسمان بیت‌المحترم تا ترجمهٔ رمان «بهشت در سپیده‌دم»",
+          "source": "Words Without Borders",
+          "published": "2026-09-29T10:32:11.974269+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/the-national-book-award-interviews-karim-kattan-and-jeffrey-zuckerman-eden-at-dawn/",
+          "subcategory": "interview",
+          "post_id": 294
+        },
+        {
           "id": "داستانی نادیده از آلکساندر سولژنیتسین برای نخستین بار به انگلیسی ترجمه می‌شود",
           "title": "داستانی نادیده از آلکساندر سولژنیتسین برای نخستین بار به انگلیسی ترجمه می‌شود",
           "source": "The New Yorker",
@@ -1014,7 +1041,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 112
+      "item_count": 115
     },
     {
       "id": "report",
@@ -1102,6 +1129,15 @@
       "title_fa": "✦ گفت‌وگو",
       "items": [
         {
+          "id": "گفت‌وگو با کریم قطان و جفری زاکرمن؛ از آسمان بیت‌المحترم تا ترجمهٔ رمان «بهشت در سپیده‌دم»",
+          "title": "گفت‌وگو با کریم قطان و جفری زاکرمن؛ از آسمان بیت‌المحترم تا ترجمهٔ رمان «بهشت در سپیده‌دم»",
+          "source": "Words Without Borders",
+          "published": "2026-09-29T10:32:11.974269+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/the-national-book-award-interviews-karim-kattan-and-jeffrey-zuckerman-eden-at-dawn/",
+          "subcategory": "interview",
+          "post_id": 294
+        },
+        {
           "id": "جان برجر، منشی مرگ؛ گفتگو با تام اورتون دربارهٔ زندگی و میراث نویسندهٔ برجسته",
           "title": "جان برجر، منشی مرگ؛ گفتگو با تام اورتون دربارهٔ زندگی و میراث نویسندهٔ برجسته",
           "source": "The Paris Review",
@@ -1165,7 +1201,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 7
+      "item_count": 8
     },
     {
       "id": "review",
@@ -1234,6 +1270,15 @@
       "title_en": "World Literature",
       "title_fa": "✦ ادبیات جهان",
       "items": [
+        {
+          "id": "صدای بی‌صدایان؛ نگاهی به مجموعه شعر «فصل بسته» سرودهٔ مونیکا هرتسگ",
+          "title": "صدای بی‌صدایان؛ نگاهی به مجموعه شعر «فصل بسته» سرودهٔ مونیکا هرتسگ",
+          "source": "World Literature Today",
+          "published": "2026-09-29T10:32:15.707735+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/book-reviews/giving-voice-voiceless-and-powerless-monika-hercegs-closed-season-nicole-yurcaba",
+          "subcategory": "world_lit",
+          "post_id": 296
+        },
         {
           "id": "انتشار شعر و ترجمهٔ «آتش‌پاره» سرودهٔ مارگارت نودین",
           "title": "انتشار شعر و ترجمهٔ «آتش‌پاره» سرودهٔ مارگارت نودین",
@@ -1514,13 +1559,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 31
+      "item_count": 32
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "گری ایندانا و ذهن ناآرام؛ بازخوانی یک گفت‌وگوی آرشیوی",
+          "title": "گری ایندانا و ذهن ناآرام؛ بازخوانی یک گفت‌وگوی آرشیوی",
+          "source": "The Paris Review",
+          "published": "2026-09-29T10:32:13.895857+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/28/and-then-somebody-handed-me-a-story-gary-indiana-unlocked/",
+          "subcategory": "essay",
+          "post_id": 295
+        },
         {
           "id": "داستانی نادیده از آلکساندر سولژنیتسین برای نخستین بار به انگلیسی ترجمه می‌شود",
           "title": "داستانی نادیده از آلکساندر سولژنیتسین برای نخستین بار به انگلیسی ترجمه می‌شود",
@@ -2062,8 +2116,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 60
+      "item_count": 61
     }
   ],
-  "total_items": 112
+  "total_items": 115
 }
