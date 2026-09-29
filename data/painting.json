@@ -385,6 +385,27 @@
       ]
     },
     {
+      "name": "Diego Rivera",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_111350",
+          "title": "Open Air School",
+          "artist": "Diego Rivera",
+          "year": "1932",
+          "museum": "Art Institute of Chicago",
+          "movement": "Social Realism",
+          "medium": "Lithograph",
+          "art_form": "طراحی و چاپ",
+          "country": "Mexico",
+          "image_url": "https://lh3.googleusercontent.com/d/1vRrRBRA2R-Ragxv-w3_2Lp330jl85GQD",
+          "published": "2026-09-29T21:31:04.426502",
+          "original_url": "https://www.artic.edu/iiif/2/2c67bb8e-6de8-30bc-dabe-773d139b201a/full/900,/0/default.jpg",
+          "post_id": 299
+        }
+      ]
+    },
+    {
       "name": "El Greco",
       "painting_count": 1,
       "paintings": [
