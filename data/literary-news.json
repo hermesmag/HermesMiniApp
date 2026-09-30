@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "سرانجام در عریانی؛ گفت‌وگویی با اف. کیث ویلی",
+          "title": "سرانجام در عریانی؛ گفت‌وگویی با اف. کیث ویلی",
+          "source": "The Paris Review",
+          "published": "2026-09-30T10:32:43.670001+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/29/naked-at-last-a-conversation-with-f-keith-wahle/",
+          "subcategory": "interview",
+          "post_id": 303
+        },
+        {
+          "id": "بررسی کتاب «دربارهٔ برابری همه چیز» اثر کارلو روولی؛ فیزیکدانی در جستجوی وحدت جهان",
+          "title": "بررسی کتاب «دربارهٔ برابری همه چیز» اثر کارلو روولی؛ فیزیکدانی در جستجوی وحدت جهان",
+          "source": "The Guardian Books",
+          "published": "2026-09-30T10:32:41.414108+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/30/on-the-equality-of-all-things-by-carlo-rovelli-review-a-physicists-guide-to-life-the-universe-and-everything",
+          "subcategory": "essay",
+          "post_id": 302
+        },
+        {
+          "id": "الیزابت آسودو برندهٔ جایزهٔ ادبیات کودک و نوجوان «ان‌اس‌کی نوستات» سال ۲۰۲۷ شد",
+          "title": "الیزابت آسودو برندهٔ جایزهٔ ادبیات کودک و نوجوان «ان‌اس‌کی نوستات» سال ۲۰۲۷ شد",
+          "source": "World Literature Today",
+          "published": "2026-09-30T10:32:39.420939+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/news-and-events/elizabeth-acevedo-wins-nsk-neustadt-prize-childrens-and-young-adult-literature",
+          "subcategory": "report",
+          "post_id": 301
+        },
+        {
           "id": "صدای بی‌صدایان؛ نگاهی به مجموعه شعر «فصل بسته» سرودهٔ مونیکا هرتسگ",
           "title": "صدای بی‌صدایان؛ نگاهی به مجموعه شعر «فصل بسته» سرودهٔ مونیکا هرتسگ",
           "source": "World Literature Today",
@@ -1041,13 +1068,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 115
+      "item_count": 118
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "الیزابت آسودو برندهٔ جایزهٔ ادبیات کودک و نوجوان «ان‌اس‌کی نوستات» سال ۲۰۲۷ شد",
+          "title": "الیزابت آسودو برندهٔ جایزهٔ ادبیات کودک و نوجوان «ان‌اس‌کی نوستات» سال ۲۰۲۷ شد",
+          "source": "World Literature Today",
+          "published": "2026-09-30T10:32:39.420939+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/news-and-events/elizabeth-acevedo-wins-nsk-neustadt-prize-childrens-and-young-adult-literature",
+          "subcategory": "report",
+          "post_id": 301
+        },
         {
           "id": "بازخوانی میراث گراتزیا دلدا؛ روایتی از زندگی و آثار دومین زن برندهٔ نوبل ادبیات",
           "title": "بازخوانی میراث گراتزیا دلدا؛ روایتی از زندگی و آثار دومین زن برندهٔ نوبل ادبیات",
@@ -1121,13 +1157,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 8
+      "item_count": 9
     },
     {
       "id": "interview",
       "title_en": "Interviews",
       "title_fa": "✦ گفت‌وگو",
       "items": [
+        {
+          "id": "سرانجام در عریانی؛ گفت‌وگویی با اف. کیث ویلی",
+          "title": "سرانجام در عریانی؛ گفت‌وگویی با اف. کیث ویلی",
+          "source": "The Paris Review",
+          "published": "2026-09-30T10:32:43.670001+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/09/29/naked-at-last-a-conversation-with-f-keith-wahle/",
+          "subcategory": "interview",
+          "post_id": 303
+        },
         {
           "id": "گفت‌وگو با کریم قطان و جفری زاکرمن؛ از آسمان بیت‌المحترم تا ترجمهٔ رمان «بهشت در سپیده‌دم»",
           "title": "گفت‌وگو با کریم قطان و جفری زاکرمن؛ از آسمان بیت‌المحترم تا ترجمهٔ رمان «بهشت در سپیده‌دم»",
@@ -1201,7 +1246,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 8
+      "item_count": 9
     },
     {
       "id": "review",
@@ -1567,6 +1612,15 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "بررسی کتاب «دربارهٔ برابری همه چیز» اثر کارلو روولی؛ فیزیکدانی در جستجوی وحدت جهان",
+          "title": "بررسی کتاب «دربارهٔ برابری همه چیز» اثر کارلو روولی؛ فیزیکدانی در جستجوی وحدت جهان",
+          "source": "The Guardian Books",
+          "published": "2026-09-30T10:32:41.414108+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/sep/30/on-the-equality-of-all-things-by-carlo-rovelli-review-a-physicists-guide-to-life-the-universe-and-everything",
+          "subcategory": "essay",
+          "post_id": 302
+        },
+        {
           "id": "گری ایندانا و ذهن ناآرام؛ بازخوانی یک گفت‌وگوی آرشیوی",
           "title": "گری ایندانا و ذهن ناآرام؛ بازخوانی یک گفت‌وگوی آرشیوی",
           "source": "The Paris Review",
@@ -2116,8 +2170,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 61
+      "item_count": 62
     }
   ],
-  "total_items": 115
+  "total_items": 118
 }
