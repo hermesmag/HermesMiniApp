@@ -532,6 +532,27 @@
       ]
     },
     {
+      "name": "Jackson Pollock",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_83642",
+          "title": "Greyed Rainbow",
+          "artist": "Jackson Pollock",
+          "year": "1953",
+          "museum": "Art Institute of Chicago",
+          "movement": "Abstract Expressionism",
+          "medium": "Oil on linen",
+          "art_form": "نقاشی",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1lFQVl2ty3KhyVGxsPbJTA1BEPJFM5Qdb",
+          "published": "2026-09-30T21:30:58.653963",
+          "original_url": "https://www.artic.edu/iiif/2/14dc5686-d7ae-7fe1-ec7d-adf14eb18b53/full/900,/0/default.jpg",
+          "post_id": 305
+        }
+      ]
+    },
+    {
       "name": "Jim Dine",
       "painting_count": 1,
       "paintings": [
