@@ -273,6 +273,25 @@
       ]
     },
     {
+      "name": "Bartholomew Griffin",
+      "name_fa": "شاعر سونت‌سرای عصر الیزابت انگلستان (؟–۱۶۰۲)؛ با بهره‌گیری از اوزان چابک، نحو نمایشی و طنز ظریف روایی در مجموعهٔ «فیدسیا»، قراردادهای پترارکیِ عشق یک‌سویه را با صحنه‌پردازی‌های زندهٔ اساطیری و کشاکش میان اشتیاق عاشق و گریز معشوق پیوند می‌زند.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-043",
+          "title": "Fidessa: Sonnet XI (Venus, with young Adonis)",
+          "title_original": "Fidessa: Sonnet XI (Venus, with young Adonis)",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-09-30T18:01:00.120132+03:30",
+          "telegraph_url": null,
+          "post_id": 304
+        }
+      ]
+    },
+    {
       "name": "E. E. Cummings",
       "name_fa": "شاعر نوآور آمریکایی (۱۸۹۴–۱۹۶۲)؛ با هنجارگریزی در نحو، رسم‌الخط و ساختار بصری صفحه، ستایش‌گر فردیت رها، شورمندی عشق و شگفتی‌های بدوی جهان است.",
       "poem_count": 1,
