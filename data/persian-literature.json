@@ -498,6 +498,38 @@
       ]
     },
     {
+      "name": "عطار نیشابوری",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "local://tazkerat_ol_owliya/83",
+          "title": "ذکر شیخ ابوالحسن الصایغ رحمةالله علیه",
+          "author": "عطار نیشابوری",
+          "book": "تذکرةالاولیا",
+          "form": "prose",
+          "century": 6,
+          "char_count": 1226,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 9,
+          "published": "2026-08-28T09:41:28.546626",
+          "post_id": 69
+        },
+        {
+          "id": "local://tazkerat_ol_owliya/50",
+          "title": "ذکر ابراهیم رقی قدس الله روحه العزیز",
+          "author": "عطار نیشابوری",
+          "book": "تذکرةالاولیا",
+          "form": "prose",
+          "century": 6,
+          "char_count": 1527,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 42,
+          "published": "2026-09-30T08:00:58.415520+03:30",
+          "post_id": 300
+        }
+      ]
+    },
+    {
       "name": "ابوالفضل بیهقی",
       "item_count": 1,
       "items": [
@@ -532,25 +564,6 @@
           "day_of_year": 33,
           "published": "2026-09-21T08:00:44.372048+03:30",
           "post_id": 243
-        }
-      ]
-    },
-    {
-      "name": "عطار نیشابوری",
-      "item_count": 1,
-      "items": [
-        {
-          "id": "local://tazkerat_ol_owliya/83",
-          "title": "ذکر شیخ ابوالحسن الصایغ رحمةالله علیه",
-          "author": "عطار نیشابوری",
-          "book": "تذکرةالاولیا",
-          "form": "prose",
-          "century": 6,
-          "char_count": 1226,
-          "familiarity_tier": "Rediscovery Masterpiece",
-          "day_of_year": 9,
-          "published": "2026-08-28T09:41:28.546626",
-          "post_id": 69
         }
       ]
     },
