@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "عشق و فاصلهٔ زیبا؛ تأملات یک مترجم دربارهٔ معنای عشق در ادبیات ژاپن",
+          "title": "عشق و فاصلهٔ زیبا؛ تأملات یک مترجم دربارهٔ معنای عشق در ادبیات ژاپن",
+          "source": "World Literature Today",
+          "published": "2026-10-01T10:32:40.213819+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/essay/love-and-beautiful-distance-charlotte-goff",
+          "subcategory": "world_lit",
+          "post_id": 309
+        },
+        {
+          "id": "معرفی تازه‌ترین آثار داستانی برتر ماه در گزارش «بوک مارکز»",
+          "title": "معرفی تازه‌ترین آثار داستانی برتر ماه در گزارش «بوک مارکز»",
+          "source": "Literary Hub",
+          "published": "2026-10-01T10:32:38.086547+03:30",
+          "original_url": "https://lithub.com/septembers-best-reviewed-fiction-2/",
+          "subcategory": "essay",
+          "post_id": 308
+        },
+        {
+          "id": "روز جهانی ترجمه و نگاهی به شش شمارهٔ اخیر نشریهٔ «واین دابلیو بی» در سال ۲۰۲۶",
+          "title": "روز جهانی ترجمه و نگاهی به شش شمارهٔ اخیر نشریهٔ «واین دابلیو بی» در سال ۲۰۲۶",
+          "source": "Words Without Borders",
+          "published": "2026-10-01T10:32:35.768618+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/international-translation-day-read-wwbs-6-issues-of-2026-so-far/",
+          "subcategory": "world_lit",
+          "post_id": 307
+        },
+        {
           "id": "سرانجام در عریانی؛ گفت‌وگویی با اف. کیث ویلی",
           "title": "سرانجام در عریانی؛ گفت‌وگویی با اف. کیث ویلی",
           "source": "The Paris Review",
@@ -1068,7 +1095,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 118
+      "item_count": 121
     },
     {
       "id": "report",
@@ -1316,6 +1343,24 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "عشق و فاصلهٔ زیبا؛ تأملات یک مترجم دربارهٔ معنای عشق در ادبیات ژاپن",
+          "title": "عشق و فاصلهٔ زیبا؛ تأملات یک مترجم دربارهٔ معنای عشق در ادبیات ژاپن",
+          "source": "World Literature Today",
+          "published": "2026-10-01T10:32:40.213819+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/essay/love-and-beautiful-distance-charlotte-goff",
+          "subcategory": "world_lit",
+          "post_id": 309
+        },
+        {
+          "id": "روز جهانی ترجمه و نگاهی به شش شمارهٔ اخیر نشریهٔ «واین دابلیو بی» در سال ۲۰۲۶",
+          "title": "روز جهانی ترجمه و نگاهی به شش شمارهٔ اخیر نشریهٔ «واین دابلیو بی» در سال ۲۰۲۶",
+          "source": "Words Without Borders",
+          "published": "2026-10-01T10:32:35.768618+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-09/international-translation-day-read-wwbs-6-issues-of-2026-so-far/",
+          "subcategory": "world_lit",
+          "post_id": 307
+        },
+        {
           "id": "صدای بی‌صدایان؛ نگاهی به مجموعه شعر «فصل بسته» سرودهٔ مونیکا هرتسگ",
           "title": "صدای بی‌صدایان؛ نگاهی به مجموعه شعر «فصل بسته» سرودهٔ مونیکا هرتسگ",
           "source": "World Literature Today",
@@ -1604,13 +1649,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 32
+      "item_count": 34
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "معرفی تازه‌ترین آثار داستانی برتر ماه در گزارش «بوک مارکز»",
+          "title": "معرفی تازه‌ترین آثار داستانی برتر ماه در گزارش «بوک مارکز»",
+          "source": "Literary Hub",
+          "published": "2026-10-01T10:32:38.086547+03:30",
+          "original_url": "https://lithub.com/septembers-best-reviewed-fiction-2/",
+          "subcategory": "essay",
+          "post_id": 308
+        },
         {
           "id": "بررسی کتاب «دربارهٔ برابری همه چیز» اثر کارلو روولی؛ فیزیکدانی در جستجوی وحدت جهان",
           "title": "بررسی کتاب «دربارهٔ برابری همه چیز» اثر کارلو روولی؛ فیزیکدانی در جستجوی وحدت جهان",
@@ -2170,8 +2224,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 62
+      "item_count": 63
     }
   ],
-  "total_items": 118
+  "total_items": 121
 }
