@@ -235,6 +235,37 @@
       ]
     },
     {
+      "name": "William Butler Yeats",
+      "name_fa": "شاعر و نمایشنامه‌نویس جنبش احیای ادبی ایرلند (۱۸۶۵–۱۹۳۹)؛ با نظمی فاخر و نمادپردازی‌های ژرف اساطیری، روح تاریخی ایرلند، مواجهه با زوال پیری و جاودانگی هنر را تجسم می‌بخشد.",
+      "poem_count": 2,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-012",
+          "title": "Ego Dominus Tuus",
+          "title_original": "Ego Dominus Tuus",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-08-30T18:28:30.316975+03:30",
+          "telegraph_url": "https://telegra.ph/Ego-Dominus-Tuus-08-30",
+          "post_id": 90
+        },
+        {
+          "id": "WP-Y1-DAY-044",
+          "title": "The Circus Animals’ Desertion",
+          "title_original": "The Circus Animals’ Desertion",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-10-01T18:06:58.904886+03:30",
+          "telegraph_url": "https://telegra.ph/The-Circus-Animals-Desertion-10-01",
+          "post_id": 310
+        }
+      ]
+    },
+    {
       "name": "Alexander Pushkin",
       "name_fa": "شاعر و بنیان‌گذار ادبیات نوین روس (۱۷۹۹–۱۸۳۷)؛ با تسلط بر رمان منظوم و زبانی شفاف و پیراسته، تراژدی سرنوشت، آرمان آزادی و شورمندی زندگی را بازمی‌آفریند.",
       "poem_count": 1,
@@ -687,25 +718,6 @@
           "published": "2026-09-01T18:00:59.932888+03:30",
           "telegraph_url": null,
           "post_id": 103
-        }
-      ]
-    },
-    {
-      "name": "William Butler Yeats",
-      "name_fa": "شاعر و نمایشنامه‌نویس جنبش احیای ادبی ایرلند (۱۸۶۵–۱۹۳۹)؛ با نظمی فاخر و نمادپردازی‌های ژرف اساطیری، روح تاریخی ایرلند، مواجهه با زوال پیری و جاودانگی هنر را تجسم می‌بخشد.",
-      "poem_count": 1,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-012",
-          "title": "Ego Dominus Tuus",
-          "title_original": "Ego Dominus Tuus",
-          "original_language": "English",
-          "epoch": "",
-          "book": "",
-          "translator": "",
-          "published": "2026-08-30T18:28:30.316975+03:30",
-          "telegraph_url": "https://telegra.ph/Ego-Dominus-Tuus-08-30",
-          "post_id": 90
         }
       ]
     },
