@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "گفت‌وگوی جایزه ملی کتاب: ماریا استپانوا و ساشا داگدیل دربارهٔ خلق و ترجمه",
+          "title": "گفت‌وگوی جایزه ملی کتاب: ماریا استپانوا و ساشا داگدیل دربارهٔ خلق و ترجمه",
+          "source": "Words Without Borders",
+          "published": "2026-10-02T10:33:46.080096+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-10/the-national-book-award-interviews-maria-stepanova-and-sasha-dugdale-the-disappearing-act/",
+          "subcategory": "interview",
+          "post_id": 316
+        },
+        {
+          "id": "سفر از انبوهِ دست‌نوشته‌ها تا صفحات «پاریس ریویو»؛ سازوکار کشف صداهای ناشناخته",
+          "title": "سفر از انبوهِ دست‌نوشته‌ها تا صفحات «پاریس ریویو»؛ سازوکار کشف صداهای ناشناخته",
+          "source": "The Paris Review",
+          "published": "2026-10-02T10:33:43.440032+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/01/submitting-to-the-paris-review/",
+          "subcategory": "essay",
+          "post_id": 315
+        },
+        {
+          "id": "جست‌وجوی حافظه و تاریخ در آینهٔ شعر امروز؛ پیشنهادهای تازهٔ کریگ مورگان تایشر",
+          "title": "جست‌وجوی حافظه و تاریخ در آینهٔ شعر امروز؛ پیشنهادهای تازهٔ کریگ مورگان تایشر",
+          "source": "Literary Hub",
+          "published": "2026-10-02T10:33:40.794649+03:30",
+          "original_url": "https://lithub.com/now-and-then-mothers-and-daughters-sonnets-and-sequences-seven-poetry-books-to-read-this-month/",
+          "subcategory": "review",
+          "post_id": 314
+        },
+        {
           "id": "عشق و فاصلهٔ زیبا؛ تأملات یک مترجم دربارهٔ معنای عشق در ادبیات ژاپن",
           "title": "عشق و فاصلهٔ زیبا؛ تأملات یک مترجم دربارهٔ معنای عشق در ادبیات ژاپن",
           "source": "World Literature Today",
@@ -1095,7 +1122,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 121
+      "item_count": 124
     },
     {
       "id": "report",
@@ -1192,6 +1219,15 @@
       "title_fa": "✦ گفت‌وگو",
       "items": [
         {
+          "id": "گفت‌وگوی جایزه ملی کتاب: ماریا استپانوا و ساشا داگدیل دربارهٔ خلق و ترجمه",
+          "title": "گفت‌وگوی جایزه ملی کتاب: ماریا استپانوا و ساشا داگدیل دربارهٔ خلق و ترجمه",
+          "source": "Words Without Borders",
+          "published": "2026-10-02T10:33:46.080096+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-10/the-national-book-award-interviews-maria-stepanova-and-sasha-dugdale-the-disappearing-act/",
+          "subcategory": "interview",
+          "post_id": 316
+        },
+        {
           "id": "سرانجام در عریانی؛ گفت‌وگویی با اف. کیث ویلی",
           "title": "سرانجام در عریانی؛ گفت‌وگویی با اف. کیث ویلی",
           "source": "The Paris Review",
@@ -1273,13 +1309,22 @@
           "post_id": 15
         }
       ],
-      "item_count": 9
+      "item_count": 10
     },
     {
       "id": "review",
       "title_en": "Book Reviews",
       "title_fa": "✦ معرفی کتاب",
       "items": [
+        {
+          "id": "جست‌وجوی حافظه و تاریخ در آینهٔ شعر امروز؛ پیشنهادهای تازهٔ کریگ مورگان تایشر",
+          "title": "جست‌وجوی حافظه و تاریخ در آینهٔ شعر امروز؛ پیشنهادهای تازهٔ کریگ مورگان تایشر",
+          "source": "Literary Hub",
+          "published": "2026-10-02T10:33:40.794649+03:30",
+          "original_url": "https://lithub.com/now-and-then-mothers-and-daughters-sonnets-and-sequences-seven-poetry-books-to-read-this-month/",
+          "subcategory": "review",
+          "post_id": 314
+        },
         {
           "id": "«قصیده‌ای برای برگ‌روب»؛ مواجههٔ جیل بیالوسکی با قدرت، شرم و زوال طبیعت",
           "title": "«قصیده‌ای برای برگ‌روب»؛ مواجههٔ جیل بیالوسکی با قدرت، شرم و زوال طبیعت",
@@ -1335,7 +1380,7 @@
           "post_id": 49
         }
       ],
-      "item_count": 6
+      "item_count": 7
     },
     {
       "id": "world_lit",
@@ -1657,6 +1702,15 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "سفر از انبوهِ دست‌نوشته‌ها تا صفحات «پاریس ریویو»؛ سازوکار کشف صداهای ناشناخته",
+          "title": "سفر از انبوهِ دست‌نوشته‌ها تا صفحات «پاریس ریویو»؛ سازوکار کشف صداهای ناشناخته",
+          "source": "The Paris Review",
+          "published": "2026-10-02T10:33:43.440032+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/01/submitting-to-the-paris-review/",
+          "subcategory": "essay",
+          "post_id": 315
+        },
+        {
           "id": "معرفی تازه‌ترین آثار داستانی برتر ماه در گزارش «بوک مارکز»",
           "title": "معرفی تازه‌ترین آثار داستانی برتر ماه در گزارش «بوک مارکز»",
           "source": "Literary Hub",
@@ -2224,8 +2278,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 63
+      "item_count": 64
     }
   ],
-  "total_items": 121
+  "total_items": 124
 }
