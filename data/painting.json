@@ -845,6 +845,27 @@
           "post_id": 118
         }
       ]
+    },
+    {
+      "name": "Wayne Thiebaud",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_111905",
+          "title": "Steep Street",
+          "artist": "Wayne Thiebaud",
+          "year": "1989",
+          "museum": "Art Institute of Chicago",
+          "movement": "Pop Art",
+          "medium": "Color etching, drypoint, and spit bite aquatint on paper",
+          "art_form": "طراحی و چاپ",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1inCbMk8dm0v8jz7B61jkcnNd25dPNJ8o",
+          "published": "2026-10-02T21:30:58.831233",
+          "original_url": "https://www.artic.edu/iiif/2/c5c5ed1b-7c43-61b8-88b8-efe408495f9b/full/900,/0/default.jpg",
+          "post_id": 318
+        }
+      ]
     }
   ]
 }
