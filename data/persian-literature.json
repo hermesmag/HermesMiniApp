@@ -196,7 +196,7 @@
     },
     {
       "name": "سعدی شیرازی",
-      "item_count": 5,
+      "item_count": 6,
       "items": [
         {
           "id": "local://golestan/121",
@@ -262,6 +262,19 @@
           "day_of_year": 38,
           "published": "2026-09-26T08:01:23.332013+03:30",
           "post_id": 275
+        },
+        {
+          "id": "local://golestan/54",
+          "title": "حکایت شمارهٔ ۱۲",
+          "author": "سعدی شیرازی",
+          "book": "گلستان",
+          "form": "prose",
+          "century": 7,
+          "char_count": 355,
+          "familiarity_tier": "Known Masterpiece",
+          "day_of_year": 44,
+          "published": "2026-10-02T08:00:45.252981+03:30",
+          "post_id": 313
         }
       ]
     },
