@@ -235,6 +235,37 @@
       ]
     },
     {
+      "name": "Wallace Stevens",
+      "name_fa": "شاعر فیلسوف‌مشرب آمریکایی (۱۸۷۹–۱۹۵۵)؛ با زبانی پیراسته، انتزاعی و سرشار از ایماژهای درخشان، به تأمل در دیالکتیک پیچیدهٔ میان نیروی آفرینش‌گر تخیل و مادهٔ خام واقعیت می‌نشیند.",
+      "poem_count": 2,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-015",
+          "title": "Earthy Anecdote",
+          "title_original": "Earthy Anecdote",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-09-02T18:01:04.481331+03:30",
+          "telegraph_url": null,
+          "post_id": 108
+        },
+        {
+          "id": "WP-Y1-DAY-046",
+          "title": "Invective against Swans",
+          "title_original": "Invective against Swans",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-10-03T18:00:48.864470+03:30",
+          "telegraph_url": null,
+          "post_id": 323
+        }
+      ]
+    },
+    {
       "name": "William Blake",
       "name_fa": "شاعر، نقاش و عارف رمانتیک انگلستان (۱۷۵۷–۱۸۲۷)؛ با خلق زبانی اشراقی و اساطیری اختصاصی، تقابل معصومیت نخستین با عقلانیت سرکوبگر و رنج‌های طبقاتی عصر صنعت را به تصویر می‌کشد.",
       "poem_count": 2,
@@ -692,25 +723,6 @@
           "published": "2026-09-04T18:02:24.554067+03:30",
           "telegraph_url": null,
           "post_id": 122
-        }
-      ]
-    },
-    {
-      "name": "Wallace Stevens",
-      "name_fa": "شاعر فیلسوف‌مشرب آمریکایی (۱۸۷۹–۱۹۵۵)؛ با زبانی پیراسته، انتزاعی و سرشار از ایماژهای درخشان، به تأمل در دیالکتیک پیچیدهٔ میان نیروی آفرینش‌گر تخیل و مادهٔ خام واقعیت می‌نشیند.",
-      "poem_count": 1,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-015",
-          "title": "Earthy Anecdote",
-          "title_original": "Earthy Anecdote",
-          "original_language": "English",
-          "epoch": "",
-          "book": "",
-          "translator": "",
-          "published": "2026-09-02T18:01:04.481331+03:30",
-          "telegraph_url": null,
-          "post_id": 108
         }
       ]
     },
