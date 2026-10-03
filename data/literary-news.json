@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "تصویرگری رهایی و رنج؛ بازخوانی کتاب «شاهزاده‌خانم نامرئی» اثر فیث رینگولد",
+          "title": "تصویرگری رهایی و رنج؛ بازخوانی کتاب «شاهزاده‌خانم نامرئی» اثر فیث رینگولد",
+          "source": "The Paris Review",
+          "published": "2026-10-03T10:32:27.000031+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/02/the-invisible-princess-faith-ringgold/",
+          "subcategory": "essay",
+          "post_id": 322
+        },
+        {
+          "id": "«اعترافات واقعی بانوی اول فریمن»؛ واکاوی ایمان، دوستی و حقیقت در نخستین رمان دیشا فیلیاو",
+          "title": "«اعترافات واقعی بانوی اول فریمن»؛ واکاوی ایمان، دوستی و حقیقت در نخستین رمان دیشا فیلیاو",
+          "source": "Electric Literature",
+          "published": "2026-10-03T10:32:24.141782+03:30",
+          "original_url": "https://electricliterature.com/the-truth-really-will-set-you-free-in-deesha-philyaws-sexy-debut-novel/",
+          "subcategory": "essay",
+          "post_id": 321
+        },
+        {
+          "id": "جایگاه تلفن هوشمند در ادبیات داستانی؛ بازنمایی فناوری دیجیتال در رمان امروز",
+          "title": "جایگاه تلفن هوشمند در ادبیات داستانی؛ بازنمایی فناوری دیجیتال در رمان امروز",
+          "source": "Literary Hub",
+          "published": "2026-10-03T10:32:21.581739+03:30",
+          "original_url": "https://lithub.com/do-smartphones-belong-in-fiction/",
+          "subcategory": "essay",
+          "post_id": 320
+        },
+        {
           "id": "گفت‌وگوی جایزه ملی کتاب: ماریا استپانوا و ساشا داگدیل دربارهٔ خلق و ترجمه",
           "title": "گفت‌وگوی جایزه ملی کتاب: ماریا استپانوا و ساشا داگدیل دربارهٔ خلق و ترجمه",
           "source": "Words Without Borders",
@@ -1122,7 +1149,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 124
+      "item_count": 127
     },
     {
       "id": "report",
@@ -1702,6 +1729,33 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "تصویرگری رهایی و رنج؛ بازخوانی کتاب «شاهزاده‌خانم نامرئی» اثر فیث رینگولد",
+          "title": "تصویرگری رهایی و رنج؛ بازخوانی کتاب «شاهزاده‌خانم نامرئی» اثر فیث رینگولد",
+          "source": "The Paris Review",
+          "published": "2026-10-03T10:32:27.000031+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/02/the-invisible-princess-faith-ringgold/",
+          "subcategory": "essay",
+          "post_id": 322
+        },
+        {
+          "id": "«اعترافات واقعی بانوی اول فریمن»؛ واکاوی ایمان، دوستی و حقیقت در نخستین رمان دیشا فیلیاو",
+          "title": "«اعترافات واقعی بانوی اول فریمن»؛ واکاوی ایمان، دوستی و حقیقت در نخستین رمان دیشا فیلیاو",
+          "source": "Electric Literature",
+          "published": "2026-10-03T10:32:24.141782+03:30",
+          "original_url": "https://electricliterature.com/the-truth-really-will-set-you-free-in-deesha-philyaws-sexy-debut-novel/",
+          "subcategory": "essay",
+          "post_id": 321
+        },
+        {
+          "id": "جایگاه تلفن هوشمند در ادبیات داستانی؛ بازنمایی فناوری دیجیتال در رمان امروز",
+          "title": "جایگاه تلفن هوشمند در ادبیات داستانی؛ بازنمایی فناوری دیجیتال در رمان امروز",
+          "source": "Literary Hub",
+          "published": "2026-10-03T10:32:21.581739+03:30",
+          "original_url": "https://lithub.com/do-smartphones-belong-in-fiction/",
+          "subcategory": "essay",
+          "post_id": 320
+        },
+        {
           "id": "سفر از انبوهِ دست‌نوشته‌ها تا صفحات «پاریس ریویو»؛ سازوکار کشف صداهای ناشناخته",
           "title": "سفر از انبوهِ دست‌نوشته‌ها تا صفحات «پاریس ریویو»؛ سازوکار کشف صداهای ناشناخته",
           "source": "The Paris Review",
@@ -2278,8 +2332,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 64
+      "item_count": 67
     }
   ],
-  "total_items": 124
+  "total_items": 127
 }
