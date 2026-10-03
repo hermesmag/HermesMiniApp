@@ -301,6 +301,27 @@
       ]
     },
     {
+      "name": "Caravaggio",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_435844",
+          "title": "The Musicians",
+          "artist": "Caravaggio",
+          "year": "1597",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Baroque",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Italy",
+          "image_url": "https://lh3.googleusercontent.com/d/1-5SOaF0tLFndlhjKGOcAB0TbA4yhInz1",
+          "published": "2026-10-03T21:30:52.423263",
+          "original_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-687-001.jpg",
+          "post_id": 324
+        }
+      ]
+    },
+    {
       "name": "Christian Boltanski",
       "painting_count": 1,
       "paintings": [
