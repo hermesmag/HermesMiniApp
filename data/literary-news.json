@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "«اگر قرار است بمیرم، اول کتابم را می‌نویسم»: گفت‌وگو با مین جین لی، نویسندهٔ رمان «پاچینکو»",
+          "title": "«اگر قرار است بمیرم، اول کتابم را می‌نویسم»: گفت‌وگو با مین جین لی، نویسندهٔ رمان «پاچینکو»",
+          "source": "The Guardian Books",
+          "published": "2026-10-04T10:31:52.672209+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/03/i-thought-if-im-going-to-die-im-going-to-write-a-book-first-pachinko-author-min-jin-lee",
+          "subcategory": "essay",
+          "post_id": 328
+        },
+        {
+          "id": "توجه فزایندهٔ ادبیات معاصر به زوال عقل؛ اثر تازهٔ رابرت کولکر",
+          "title": "توجه فزایندهٔ ادبیات معاصر به زوال عقل؛ اثر تازهٔ رابرت کولکر",
+          "source": "The Atlantic Books",
+          "published": "2026-10-04T10:31:51.180058+03:30",
+          "original_url": "https://www.theatlantic.com/newsletters/2026/10/books-briefing-vanishing-family-switzy-dementia/688866/?utm_source=feed",
+          "subcategory": "essay",
+          "post_id": 327
+        },
+        {
+          "id": "پیشخوان ناداستان در پاییز؛ تأملاتی در تاریخ، قدرت و عدالت",
+          "title": "پیشخوان ناداستان در پاییز؛ تأملاتی در تاریخ، قدرت و عدالت",
+          "source": "Literary Hub",
+          "published": "2026-10-04T10:31:50.686091+03:30",
+          "original_url": "https://lithub.com/10-great-nonfiction-titles-to-enjoy-in-october/",
+          "subcategory": "essay",
+          "post_id": 326
+        },
+        {
           "id": "تصویرگری رهایی و رنج؛ بازخوانی کتاب «شاهزاده‌خانم نامرئی» اثر فیث رینگولد",
           "title": "تصویرگری رهایی و رنج؛ بازخوانی کتاب «شاهزاده‌خانم نامرئی» اثر فیث رینگولد",
           "source": "The Paris Review",
@@ -1149,7 +1176,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 127
+      "item_count": 130
     },
     {
       "id": "report",
@@ -1729,6 +1756,33 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "«اگر قرار است بمیرم، اول کتابم را می‌نویسم»: گفت‌وگو با مین جین لی، نویسندهٔ رمان «پاچینکو»",
+          "title": "«اگر قرار است بمیرم، اول کتابم را می‌نویسم»: گفت‌وگو با مین جین لی، نویسندهٔ رمان «پاچینکو»",
+          "source": "The Guardian Books",
+          "published": "2026-10-04T10:31:52.672209+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/03/i-thought-if-im-going-to-die-im-going-to-write-a-book-first-pachinko-author-min-jin-lee",
+          "subcategory": "essay",
+          "post_id": 328
+        },
+        {
+          "id": "توجه فزایندهٔ ادبیات معاصر به زوال عقل؛ اثر تازهٔ رابرت کولکر",
+          "title": "توجه فزایندهٔ ادبیات معاصر به زوال عقل؛ اثر تازهٔ رابرت کولکر",
+          "source": "The Atlantic Books",
+          "published": "2026-10-04T10:31:51.180058+03:30",
+          "original_url": "https://www.theatlantic.com/newsletters/2026/10/books-briefing-vanishing-family-switzy-dementia/688866/?utm_source=feed",
+          "subcategory": "essay",
+          "post_id": 327
+        },
+        {
+          "id": "پیشخوان ناداستان در پاییز؛ تأملاتی در تاریخ، قدرت و عدالت",
+          "title": "پیشخوان ناداستان در پاییز؛ تأملاتی در تاریخ، قدرت و عدالت",
+          "source": "Literary Hub",
+          "published": "2026-10-04T10:31:50.686091+03:30",
+          "original_url": "https://lithub.com/10-great-nonfiction-titles-to-enjoy-in-october/",
+          "subcategory": "essay",
+          "post_id": 326
+        },
+        {
           "id": "تصویرگری رهایی و رنج؛ بازخوانی کتاب «شاهزاده‌خانم نامرئی» اثر فیث رینگولد",
           "title": "تصویرگری رهایی و رنج؛ بازخوانی کتاب «شاهزاده‌خانم نامرئی» اثر فیث رینگولد",
           "source": "The Paris Review",
@@ -2332,8 +2386,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 67
+      "item_count": 70
     }
   ],
-  "total_items": 127
+  "total_items": 130
 }
