@@ -466,6 +466,51 @@
       ]
     },
     {
+      "name": "حافظ شیرازی",
+      "item_count": 3,
+      "items": [
+        {
+          "id": "local://hafez/436",
+          "title": "غزل شمارهٔ ۴۳۶",
+          "author": "حافظ شیرازی",
+          "book": "دیوان حافظ",
+          "form": "ghazal",
+          "century": 8,
+          "char_count": 522,
+          "familiarity_tier": "Known Masterpiece",
+          "day_of_year": 33,
+          "published": "2026-09-21T08:00:44.372048+03:30",
+          "post_id": 243
+        },
+        {
+          "id": "local://hafez/323",
+          "title": "غزل شمارهٔ ۳۲۳",
+          "author": "حافظ شیرازی",
+          "book": "دیوان حافظ",
+          "form": "ghazal",
+          "century": 8,
+          "char_count": 398,
+          "familiarity_tier": "Known Masterpiece",
+          "day_of_year": 43,
+          "published": "2026-10-01T08:00:46.008482+03:30",
+          "post_id": 306
+        },
+        {
+          "id": "local://hafez/392",
+          "title": "غزل شمارهٔ ۳۹۲",
+          "author": "حافظ شیرازی",
+          "book": "دیوان حافظ",
+          "form": "ghazal",
+          "century": 8,
+          "char_count": 480,
+          "familiarity_tier": "Known Masterpiece",
+          "day_of_year": 46,
+          "published": "2026-10-04T08:00:50.146486+03:30",
+          "post_id": 325
+        }
+      ]
+    },
+    {
       "name": "محمد بن منور",
       "item_count": 3,
       "items": [
@@ -507,38 +552,6 @@
           "day_of_year": 23,
           "published": "2026-09-11T08:00:46.754363+03:30",
           "post_id": 168
-        }
-      ]
-    },
-    {
-      "name": "حافظ شیرازی",
-      "item_count": 2,
-      "items": [
-        {
-          "id": "local://hafez/436",
-          "title": "غزل شمارهٔ ۴۳۶",
-          "author": "حافظ شیرازی",
-          "book": "دیوان حافظ",
-          "form": "ghazal",
-          "century": 8,
-          "char_count": 522,
-          "familiarity_tier": "Known Masterpiece",
-          "day_of_year": 33,
-          "published": "2026-09-21T08:00:44.372048+03:30",
-          "post_id": 243
-        },
-        {
-          "id": "local://hafez/323",
-          "title": "غزل شمارهٔ ۳۲۳",
-          "author": "حافظ شیرازی",
-          "book": "دیوان حافظ",
-          "form": "ghazal",
-          "century": 8,
-          "char_count": 398,
-          "familiarity_tier": "Known Masterpiece",
-          "day_of_year": 43,
-          "published": "2026-10-01T08:00:46.008482+03:30",
-          "post_id": 306
         }
       ]
     },
