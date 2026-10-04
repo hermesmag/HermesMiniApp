@@ -763,6 +763,27 @@
       ]
     },
     {
+      "name": "Pierre-Auguste Renoir",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_81558",
+          "title": "Acrobats at the Cirque Fernando (Francisca and Angelina Wartenberg)",
+          "artist": "Pierre-Auguste Renoir",
+          "year": "1879",
+          "museum": "Art Institute of Chicago",
+          "movement": "Impressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "France",
+          "image_url": "https://lh3.googleusercontent.com/d/1LSEy_scjlkZDnxongS3vBfNRjNpYvZXu",
+          "published": "2026-10-04T21:30:49.989715",
+          "original_url": "https://www.artic.edu/iiif/2/321c45f5-22a3-84a2-44cc-cf66642d4cf2/full/900,/0/default.jpg",
+          "post_id": 330
+        }
+      ]
+    },
+    {
       "name": "Piet Mondrian",
       "painting_count": 1,
       "paintings": [
