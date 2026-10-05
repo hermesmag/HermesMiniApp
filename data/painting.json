@@ -868,6 +868,27 @@
       ]
     },
     {
+      "name": "Umberto Boccioni",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_27358",
+          "title": "Woman's Head",
+          "artist": "Umberto Boccioni",
+          "year": "1909",
+          "museum": "Art Institute of Chicago",
+          "movement": "Futurism",
+          "medium": "Graphite, with stumping and scraping on paper",
+          "art_form": "طراحی و چاپ",
+          "country": "Italy",
+          "image_url": "https://lh3.googleusercontent.com/d/17RY6-xYixSK0REjdivMDPAl6LjTEMjtR",
+          "published": "2026-10-05T21:30:57.599410",
+          "original_url": "https://www.artic.edu/iiif/2/cb23d592-9496-ddae-567f-d077e94528ba/full/900,/0/default.jpg",
+          "post_id": 336
+        }
+      ]
+    },
+    {
       "name": "Victorian Ephemera Workshop",
       "painting_count": 1,
       "paintings": [
