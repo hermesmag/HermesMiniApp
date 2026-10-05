@@ -639,6 +639,25 @@
       ]
     },
     {
+      "name": "مسعود سعد سلمان",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "local://masoud_saad/265",
+          "title": "شمارهٔ ۲۶۵ - مدح شیرزاد",
+          "author": "مسعود سعد سلمان",
+          "book": "دیوان مسعود سعد سلمان",
+          "form": "qasida",
+          "century": 5,
+          "char_count": 602,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 47,
+          "published": "2026-10-05T08:00:49.420364+03:30",
+          "post_id": 331
+        }
+      ]
+    },
+    {
       "name": "مولوی",
       "item_count": 1,
       "items": [
