@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "یورش به فرهنگ؛ جنگ روسیه چگونه کتاب‌ها و انبار نشر اوکراین را به آتش کشید",
+          "title": "یورش به فرهنگ؛ جنگ روسیه چگونه کتاب‌ها و انبار نشر اوکراین را به آتش کشید",
+          "source": "The Guardian Books",
+          "published": "2026-10-05T10:33:56.558099+03:30",
+          "original_url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
+          "subcategory": "essay",
+          "post_id": 334
+        },
+        {
+          "id": "ما خودْ درمانیم؛ جستاری در هویت‌های چندگانه و ادبیات رو به رشد لاتین‌تباران آمریکا",
+          "title": "ما خودْ درمانیم؛ جستاری در هویت‌های چندگانه و ادبیات رو به رشد لاتین‌تباران آمریکا",
+          "source": "Literary Hub",
+          "published": "2026-10-05T10:33:54.319119+03:30",
+          "original_url": "https://lithub.com/we-are-the-medicine-recommendations-on-the-ever-growing-list-of-latinx-literature/",
+          "subcategory": "essay",
+          "post_id": 333
+        },
+        {
+          "id": "«زیبارویان خفته»؛ روایت دیوید برن از رستاخیز ایده‌ها و نوابغ فراموش‌شده",
+          "title": "«زیبارویان خفته»؛ روایت دیوید برن از رستاخیز ایده‌ها و نوابغ فراموش‌شده",
+          "source": "The Guardian Books",
+          "published": "2026-10-05T10:33:51.733173+03:30",
+          "original_url": "https://www.theguardian.com/music/2026/oct/05/sleeping-beauties-by-david-byrne-review-a-quirky-journey-through-the-afterlife-of-invention",
+          "subcategory": "essay",
+          "post_id": 332
+        },
+        {
           "id": "«اگر قرار است بمیرم، اول کتابم را می‌نویسم»: گفت‌وگو با مین جین لی، نویسندهٔ رمان «پاچینکو»",
           "title": "«اگر قرار است بمیرم، اول کتابم را می‌نویسم»: گفت‌وگو با مین جین لی، نویسندهٔ رمان «پاچینکو»",
           "source": "The Guardian Books",
@@ -1176,7 +1203,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 130
+      "item_count": 133
     },
     {
       "id": "report",
@@ -1756,6 +1783,33 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "یورش به فرهنگ؛ جنگ روسیه چگونه کتاب‌ها و انبار نشر اوکراین را به آتش کشید",
+          "title": "یورش به فرهنگ؛ جنگ روسیه چگونه کتاب‌ها و انبار نشر اوکراین را به آتش کشید",
+          "source": "The Guardian Books",
+          "published": "2026-10-05T10:33:56.558099+03:30",
+          "original_url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
+          "subcategory": "essay",
+          "post_id": 334
+        },
+        {
+          "id": "ما خودْ درمانیم؛ جستاری در هویت‌های چندگانه و ادبیات رو به رشد لاتین‌تباران آمریکا",
+          "title": "ما خودْ درمانیم؛ جستاری در هویت‌های چندگانه و ادبیات رو به رشد لاتین‌تباران آمریکا",
+          "source": "Literary Hub",
+          "published": "2026-10-05T10:33:54.319119+03:30",
+          "original_url": "https://lithub.com/we-are-the-medicine-recommendations-on-the-ever-growing-list-of-latinx-literature/",
+          "subcategory": "essay",
+          "post_id": 333
+        },
+        {
+          "id": "«زیبارویان خفته»؛ روایت دیوید برن از رستاخیز ایده‌ها و نوابغ فراموش‌شده",
+          "title": "«زیبارویان خفته»؛ روایت دیوید برن از رستاخیز ایده‌ها و نوابغ فراموش‌شده",
+          "source": "The Guardian Books",
+          "published": "2026-10-05T10:33:51.733173+03:30",
+          "original_url": "https://www.theguardian.com/music/2026/oct/05/sleeping-beauties-by-david-byrne-review-a-quirky-journey-through-the-afterlife-of-invention",
+          "subcategory": "essay",
+          "post_id": 332
+        },
+        {
           "id": "«اگر قرار است بمیرم، اول کتابم را می‌نویسم»: گفت‌وگو با مین جین لی، نویسندهٔ رمان «پاچینکو»",
           "title": "«اگر قرار است بمیرم، اول کتابم را می‌نویسم»: گفت‌وگو با مین جین لی، نویسندهٔ رمان «پاچینکو»",
           "source": "The Guardian Books",
@@ -2386,8 +2440,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 70
+      "item_count": 73
     }
   ],
-  "total_items": 130
+  "total_items": 133
 }
