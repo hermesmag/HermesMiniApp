@@ -868,6 +868,27 @@
       ]
     },
     {
+      "name": "Tom Wesselmann",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_93346",
+          "title": "Still Life #41",
+          "artist": "Tom Wesselmann",
+          "year": "1964",
+          "museum": "Art Institute of Chicago",
+          "movement": "Pop Art",
+          "medium": "Synthetic polymer paint on wood and plastic",
+          "art_form": "نقاشی",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1YNbnk2r48CETJNg6QKaxmi3NiLDuFSxz",
+          "published": "2026-10-06T21:30:59.323152",
+          "original_url": "https://www.artic.edu/iiif/2/257c9769-4e28-2a35-8fdb-b8d354c9ef7b/full/900,/0/default.jpg",
+          "post_id": 342
+        }
+      ]
+    },
+    {
       "name": "Umberto Boccioni",
       "painting_count": 1,
       "paintings": [
