@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "«دژ محصور»؛ بازخوانی کمدی سیاه چیان ژونگ‌شو در آستانهٔ جنگ",
+          "title": "«دژ محصور»؛ بازخوانی کمدی سیاه چیان ژونگ‌شو در آستانهٔ جنگ",
+          "source": "The Common",
+          "published": "2026-10-06T10:33:33.167853+03:30",
+          "original_url": "https://www.thecommononline.org/review-fortress-besieged-qian-zhongshu/",
+          "subcategory": "essay",
+          "post_id": 340
+        },
+        {
+          "id": "رقابت ملک‌الشعرای سابق بریتانیا و برندهٔ پولیتزر در فهرست نهایی جایزهٔ «تی. اس. الیوت»",
+          "title": "رقابت ملک‌الشعرای سابق بریتانیا و برندهٔ پولیتزر در فهرست نهایی جایزهٔ «تی. اس. الیوت»",
+          "source": "The Guardian Books",
+          "published": "2026-10-06T10:33:30.586776+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/05/a-former-poet-laureate-and-a-pulitzer-winner-lead-ts-eliot-prize-shortlist",
+          "subcategory": "report",
+          "post_id": 339
+        },
+        {
+          "id": "هندسهٔ کلمات و چالش‌های ترجمه؛ گفت‌وگوی ویسنته لوئیس مورا و رائول بری",
+          "title": "هندسهٔ کلمات و چالش‌های ترجمه؛ گفت‌وگوی ویسنته لوئیس مورا و رائول بری",
+          "source": "Words Without Borders",
+          "published": "2026-10-06T10:33:28.236881+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-10/the-national-book-award-interviews-vicente-luis-mora-and-rahul-bery-centroeuropa/",
+          "subcategory": "interview",
+          "post_id": 338
+        },
+        {
           "id": "یورش به فرهنگ؛ جنگ روسیه چگونه کتاب‌ها و انبار نشر اوکراین را به آتش کشید",
           "title": "یورش به فرهنگ؛ جنگ روسیه چگونه کتاب‌ها و انبار نشر اوکراین را به آتش کشید",
           "source": "The Guardian Books",
@@ -1203,13 +1230,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 133
+      "item_count": 136
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "رقابت ملک‌الشعرای سابق بریتانیا و برندهٔ پولیتزر در فهرست نهایی جایزهٔ «تی. اس. الیوت»",
+          "title": "رقابت ملک‌الشعرای سابق بریتانیا و برندهٔ پولیتزر در فهرست نهایی جایزهٔ «تی. اس. الیوت»",
+          "source": "The Guardian Books",
+          "published": "2026-10-06T10:33:30.586776+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/05/a-former-poet-laureate-and-a-pulitzer-winner-lead-ts-eliot-prize-shortlist",
+          "subcategory": "report",
+          "post_id": 339
+        },
         {
           "id": "الیزابت آسودو برندهٔ جایزهٔ ادبیات کودک و نوجوان «ان‌اس‌کی نوستات» سال ۲۰۲۷ شد",
           "title": "الیزابت آسودو برندهٔ جایزهٔ ادبیات کودک و نوجوان «ان‌اس‌کی نوستات» سال ۲۰۲۷ شد",
@@ -1292,13 +1328,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 9
+      "item_count": 10
     },
     {
       "id": "interview",
       "title_en": "Interviews",
       "title_fa": "✦ گفت‌وگو",
       "items": [
+        {
+          "id": "هندسهٔ کلمات و چالش‌های ترجمه؛ گفت‌وگوی ویسنته لوئیس مورا و رائول بری",
+          "title": "هندسهٔ کلمات و چالش‌های ترجمه؛ گفت‌وگوی ویسنته لوئیس مورا و رائول بری",
+          "source": "Words Without Borders",
+          "published": "2026-10-06T10:33:28.236881+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-10/the-national-book-award-interviews-vicente-luis-mora-and-rahul-bery-centroeuropa/",
+          "subcategory": "interview",
+          "post_id": 338
+        },
         {
           "id": "گفت‌وگوی جایزه ملی کتاب: ماریا استپانوا و ساشا داگدیل دربارهٔ خلق و ترجمه",
           "title": "گفت‌وگوی جایزه ملی کتاب: ماریا استپانوا و ساشا داگدیل دربارهٔ خلق و ترجمه",
@@ -1390,7 +1435,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 10
+      "item_count": 11
     },
     {
       "id": "review",
@@ -1783,6 +1828,15 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "«دژ محصور»؛ بازخوانی کمدی سیاه چیان ژونگ‌شو در آستانهٔ جنگ",
+          "title": "«دژ محصور»؛ بازخوانی کمدی سیاه چیان ژونگ‌شو در آستانهٔ جنگ",
+          "source": "The Common",
+          "published": "2026-10-06T10:33:33.167853+03:30",
+          "original_url": "https://www.thecommononline.org/review-fortress-besieged-qian-zhongshu/",
+          "subcategory": "essay",
+          "post_id": 340
+        },
+        {
           "id": "یورش به فرهنگ؛ جنگ روسیه چگونه کتاب‌ها و انبار نشر اوکراین را به آتش کشید",
           "title": "یورش به فرهنگ؛ جنگ روسیه چگونه کتاب‌ها و انبار نشر اوکراین را به آتش کشید",
           "source": "The Guardian Books",
@@ -2440,8 +2494,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 73
+      "item_count": 74
     }
   ],
-  "total_items": 133
+  "total_items": 136
 }
