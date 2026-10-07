@@ -109,6 +109,42 @@
       ]
     },
     {
+      "name": "Mark Rothko",
+      "painting_count": 2,
+      "paintings": [
+        {
+          "id": "artic_6010",
+          "title": "Number 19",
+          "artist": "Mark Rothko",
+          "year": "1949",
+          "museum": "Art Institute of Chicago",
+          "movement": "Abstract Expressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1V-WdDWj2WXtY5Nb-oUJH0XlJFjOSYcIr",
+          "published": "2026-09-02T21:30:50.345354",
+          "original_url": "https://www.artic.edu/iiif/2/0a0e16c5-8510-bb2d-b2ca-424feae48d5c/full/900,/0/default.jpg",
+          "post_id": 109
+        },
+        {
+          "id": "artic_82410",
+          "title": "Untitled (Painting)",
+          "artist": "Mark Rothko",
+          "year": "1953/54",
+          "museum": "Art Institute of Chicago",
+          "movement": "Color Field Painting",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1bvFkmc3a7aIYg4lNG10ccUOL76yYyv_w",
+          "published": "2026-10-07T21:30:55.341568",
+          "original_url": "https://www.artic.edu/iiif/2/df0a03a4-be1c-3f8d-73b1-5941dca57bba/full/900,/0/default.jpg",
+          "post_id": 348
+        }
+      ]
+    },
+    {
       "name": "Paul Cezanne",
       "painting_count": 2,
       "paintings": [
@@ -675,27 +711,6 @@
           "published": "2026-09-19T21:30:53.720675",
           "original_url": "https://www.artic.edu/iiif/2/87d426ca-4537-1386-50bf-6c2d5a5d7d17/full/900,/0/default.jpg",
           "post_id": 236
-        }
-      ]
-    },
-    {
-      "name": "Mark Rothko",
-      "painting_count": 1,
-      "paintings": [
-        {
-          "id": "artic_6010",
-          "title": "Number 19",
-          "artist": "Mark Rothko",
-          "year": "1949",
-          "museum": "Art Institute of Chicago",
-          "movement": "Abstract Expressionism",
-          "medium": "Oil on canvas",
-          "art_form": "نقاشی",
-          "country": "United States",
-          "image_url": "https://lh3.googleusercontent.com/d/1V-WdDWj2WXtY5Nb-oUJH0XlJFjOSYcIr",
-          "published": "2026-09-02T21:30:50.345354",
-          "original_url": "https://www.artic.edu/iiif/2/0a0e16c5-8510-bb2d-b2ca-424feae48d5c/full/900,/0/default.jpg",
-          "post_id": 109
         }
       ]
     },
