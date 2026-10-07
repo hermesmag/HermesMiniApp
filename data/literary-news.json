@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "انتشار شعر تازهٔ پاتریشیا لاک‌وود؛ نگاهی به مجموعه‌«سر عقیق / سوپ سنگ»",
+          "title": "انتشار شعر تازهٔ پاتریشیا لاک‌وود؛ نگاهی به مجموعه‌«سر عقیق / سوپ سنگ»",
+          "source": "Literary Hub",
+          "published": "2026-10-07T10:32:21.693024+03:30",
+          "original_url": "https://lithub.com/sensual-songs-for-eight-year-olds-a-poem-by-patricia-lockwood/",
+          "subcategory": "review",
+          "post_id": 346
+        },
+        {
+          "id": "نگاهی تازه به زندگی و هنر ویتنی هیوستون؛ رهایی از روایت‌های کلیشه‌ای",
+          "title": "نگاهی تازه به زندگی و هنر ویتنی هیوستون؛ رهایی از روایت‌های کلیشه‌ای",
+          "source": "The Guardian Books",
+          "published": "2026-10-07T10:32:19.330963+03:30",
+          "original_url": "https://www.theguardian.com/music/2026/oct/06/holding-lightning-by-emily-lordi-review-an-intimate-portrait-of-whitney-houston",
+          "subcategory": "essay",
+          "post_id": 345
+        },
+        {
+          "id": "گفت‌وگویی پیرامون ترجمه و آفرینش کتاب «به‌سوی شرقِ شرق»",
+          "title": "گفت‌وگویی پیرامون ترجمه و آفرینش کتاب «به‌سوی شرقِ شرق»",
+          "source": "Words Without Borders",
+          "published": "2026-10-07T10:32:16.613365+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-10/the-national-book-award-interviews-ping-lu-and-jeremy-tiang-to-the-east-of-the-east/",
+          "subcategory": "interview",
+          "post_id": 344
+        },
+        {
           "id": "«دژ محصور»؛ بازخوانی کمدی سیاه چیان ژونگ‌شو در آستانهٔ جنگ",
           "title": "«دژ محصور»؛ بازخوانی کمدی سیاه چیان ژونگ‌شو در آستانهٔ جنگ",
           "source": "The Common",
@@ -1230,7 +1257,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 136
+      "item_count": 139
     },
     {
       "id": "report",
@@ -1336,6 +1363,15 @@
       "title_fa": "✦ گفت‌وگو",
       "items": [
         {
+          "id": "گفت‌وگویی پیرامون ترجمه و آفرینش کتاب «به‌سوی شرقِ شرق»",
+          "title": "گفت‌وگویی پیرامون ترجمه و آفرینش کتاب «به‌سوی شرقِ شرق»",
+          "source": "Words Without Borders",
+          "published": "2026-10-07T10:32:16.613365+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-10/the-national-book-award-interviews-ping-lu-and-jeremy-tiang-to-the-east-of-the-east/",
+          "subcategory": "interview",
+          "post_id": 344
+        },
+        {
           "id": "هندسهٔ کلمات و چالش‌های ترجمه؛ گفت‌وگوی ویسنته لوئیس مورا و رائول بری",
           "title": "هندسهٔ کلمات و چالش‌های ترجمه؛ گفت‌وگوی ویسنته لوئیس مورا و رائول بری",
           "source": "Words Without Borders",
@@ -1435,13 +1471,22 @@
           "post_id": 15
         }
       ],
-      "item_count": 11
+      "item_count": 12
     },
     {
       "id": "review",
       "title_en": "Book Reviews",
       "title_fa": "✦ معرفی کتاب",
       "items": [
+        {
+          "id": "انتشار شعر تازهٔ پاتریشیا لاک‌وود؛ نگاهی به مجموعه‌«سر عقیق / سوپ سنگ»",
+          "title": "انتشار شعر تازهٔ پاتریشیا لاک‌وود؛ نگاهی به مجموعه‌«سر عقیق / سوپ سنگ»",
+          "source": "Literary Hub",
+          "published": "2026-10-07T10:32:21.693024+03:30",
+          "original_url": "https://lithub.com/sensual-songs-for-eight-year-olds-a-poem-by-patricia-lockwood/",
+          "subcategory": "review",
+          "post_id": 346
+        },
         {
           "id": "جست‌وجوی حافظه و تاریخ در آینهٔ شعر امروز؛ پیشنهادهای تازهٔ کریگ مورگان تایشر",
           "title": "جست‌وجوی حافظه و تاریخ در آینهٔ شعر امروز؛ پیشنهادهای تازهٔ کریگ مورگان تایشر",
@@ -1506,7 +1551,7 @@
           "post_id": 49
         }
       ],
-      "item_count": 7
+      "item_count": 8
     },
     {
       "id": "world_lit",
@@ -1828,6 +1873,15 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "نگاهی تازه به زندگی و هنر ویتنی هیوستون؛ رهایی از روایت‌های کلیشه‌ای",
+          "title": "نگاهی تازه به زندگی و هنر ویتنی هیوستون؛ رهایی از روایت‌های کلیشه‌ای",
+          "source": "The Guardian Books",
+          "published": "2026-10-07T10:32:19.330963+03:30",
+          "original_url": "https://www.theguardian.com/music/2026/oct/06/holding-lightning-by-emily-lordi-review-an-intimate-portrait-of-whitney-houston",
+          "subcategory": "essay",
+          "post_id": 345
+        },
+        {
           "id": "«دژ محصور»؛ بازخوانی کمدی سیاه چیان ژونگ‌شو در آستانهٔ جنگ",
           "title": "«دژ محصور»؛ بازخوانی کمدی سیاه چیان ژونگ‌شو در آستانهٔ جنگ",
           "source": "The Common",
@@ -2494,8 +2548,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 74
+      "item_count": 75
     }
   ],
-  "total_items": 136
+  "total_items": 139
 }
