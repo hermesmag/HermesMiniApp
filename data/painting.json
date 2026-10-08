@@ -589,6 +589,27 @@
       ]
     },
     {
+      "name": "Hasan al-Qashani",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_452032",
+          "title": "Pierced Bowl Signed by Hasan al-Qashani",
+          "artist": "Hasan al-Qashani",
+          "year": "late 11th–early 12th century",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Islamic Art (Seljuq Period)",
+          "medium": "Stonepaste; molded and pierced, monochrome decoration under transparent glaze",
+          "art_form": "هنرهای تجسمی",
+          "country": "Iran",
+          "image_url": "https://lh3.googleusercontent.com/d/1MAs7B0DhyMqMpMofZWwesTOvlfUQi3vt",
+          "published": "2026-10-08T21:31:05.316664",
+          "original_url": "https://images.metmuseum.org/CRDImages/is/original/DP123181.jpg",
+          "post_id": 354
+        }
+      ]
+    },
+    {
       "name": "Jackson Pollock",
       "painting_count": 1,
       "paintings": [
