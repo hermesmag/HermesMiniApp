@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "«کتاب‌های ممنوعه»؛ طنین صدای ناظم حکمت در مجموعه‌ای تازه از ایلان استیونز",
+          "title": "«کتاب‌های ممنوعه»؛ طنین صدای ناظم حکمت در مجموعه‌ای تازه از ایلان استیونز",
+          "source": "World Literature Today",
+          "published": "2026-10-08T10:33:10.494864+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/poetry/banned-books-nazim-hikmet",
+          "subcategory": "world_lit",
+          "post_id": 352
+        },
+        {
+          "id": "آن کارسون و چان شوئه در صدر گمانه‌زنی‌های نوبل ادبیات؛ رقابت شانه به شانه برای تصاحب معتبرترین جایزه جهان",
+          "title": "آن کارسون و چان شوئه در صدر گمانه‌زنی‌های نوبل ادبیات؛ رقابت شانه به شانه برای تصاحب معتبرترین جایزه جهان",
+          "source": "The Guardian Books",
+          "published": "2026-10-08T10:33:08.193776+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/07/anne-carson-and-can-xue-favourites-to-win-nobel-prize-in-literature",
+          "subcategory": "report",
+          "post_id": 351
+        },
+        {
+          "id": "درخششِ پایانیِ یک شاعرِ پیشرو؛ ادای دین به جِی. اچ. پرین",
+          "title": "درخششِ پایانیِ یک شاعرِ پیشرو؛ ادای دین به جِی. اچ. پرین",
+          "source": "The Paris Review",
+          "published": "2026-10-08T10:33:05.820883+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/07/jh-prynnes-last-poem-ryan-ruby/",
+          "subcategory": "essay",
+          "post_id": 350
+        },
+        {
           "id": "انتشار شعر تازهٔ پاتریشیا لاک‌وود؛ نگاهی به مجموعه‌«سر عقیق / سوپ سنگ»",
           "title": "انتشار شعر تازهٔ پاتریشیا لاک‌وود؛ نگاهی به مجموعه‌«سر عقیق / سوپ سنگ»",
           "source": "Literary Hub",
@@ -1257,13 +1284,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 139
+      "item_count": 142
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "آن کارسون و چان شوئه در صدر گمانه‌زنی‌های نوبل ادبیات؛ رقابت شانه به شانه برای تصاحب معتبرترین جایزه جهان",
+          "title": "آن کارسون و چان شوئه در صدر گمانه‌زنی‌های نوبل ادبیات؛ رقابت شانه به شانه برای تصاحب معتبرترین جایزه جهان",
+          "source": "The Guardian Books",
+          "published": "2026-10-08T10:33:08.193776+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/07/anne-carson-and-can-xue-favourites-to-win-nobel-prize-in-literature",
+          "subcategory": "report",
+          "post_id": 351
+        },
         {
           "id": "رقابت ملک‌الشعرای سابق بریتانیا و برندهٔ پولیتزر در فهرست نهایی جایزهٔ «تی. اس. الیوت»",
           "title": "رقابت ملک‌الشعرای سابق بریتانیا و برندهٔ پولیتزر در فهرست نهایی جایزهٔ «تی. اس. الیوت»",
@@ -1355,7 +1391,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 10
+      "item_count": 11
     },
     {
       "id": "interview",
@@ -1559,6 +1595,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "«کتاب‌های ممنوعه»؛ طنین صدای ناظم حکمت در مجموعه‌ای تازه از ایلان استیونز",
+          "title": "«کتاب‌های ممنوعه»؛ طنین صدای ناظم حکمت در مجموعه‌ای تازه از ایلان استیونز",
+          "source": "World Literature Today",
+          "published": "2026-10-08T10:33:10.494864+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/poetry/banned-books-nazim-hikmet",
+          "subcategory": "world_lit",
+          "post_id": 352
+        },
+        {
           "id": "عشق و فاصلهٔ زیبا؛ تأملات یک مترجم دربارهٔ معنای عشق در ادبیات ژاپن",
           "title": "عشق و فاصلهٔ زیبا؛ تأملات یک مترجم دربارهٔ معنای عشق در ادبیات ژاپن",
           "source": "World Literature Today",
@@ -1865,13 +1910,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 34
+      "item_count": 35
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "درخششِ پایانیِ یک شاعرِ پیشرو؛ ادای دین به جِی. اچ. پرین",
+          "title": "درخششِ پایانیِ یک شاعرِ پیشرو؛ ادای دین به جِی. اچ. پرین",
+          "source": "The Paris Review",
+          "published": "2026-10-08T10:33:05.820883+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/07/jh-prynnes-last-poem-ryan-ruby/",
+          "subcategory": "essay",
+          "post_id": 350
+        },
         {
           "id": "نگاهی تازه به زندگی و هنر ویتنی هیوستون؛ رهایی از روایت‌های کلیشه‌ای",
           "title": "نگاهی تازه به زندگی و هنر ویتنی هیوستون؛ رهایی از روایت‌های کلیشه‌ای",
@@ -2548,8 +2602,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 75
+      "item_count": 76
     }
   ],
-  "total_items": 139
+  "total_items": 142
 }
