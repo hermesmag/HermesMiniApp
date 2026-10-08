@@ -204,6 +204,37 @@
       ]
     },
     {
+      "name": "Octavio Paz",
+      "name_fa": "شاعر و متفکر برجستهٔ مکزیکی (۱۹۱۴–۱۹۹۸)؛ با پیوند زدن اساطیر بومی به بوطیقای سوررئالیستی، به تبارشناسی هویت تاریخی، دیالکتیک تنهایی و رازآمیزی زمان و کلمه می‌پردازد.",
+      "poem_count": 2,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-020",
+          "title": "No More Clichés",
+          "title_original": "No More Clichés",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "[Various Translators / Unknown]",
+          "published": "2026-09-07T18:02:36.511977+03:30",
+          "telegraph_url": "https://telegra.ph/No-More-Clichés-09-07",
+          "post_id": 140
+        },
+        {
+          "id": "WP-Y1-DAY-051",
+          "title": "Between Going And Coming",
+          "title_original": "Entre ir y quedarse",
+          "original_language": "Spanish",
+          "epoch": "",
+          "book": "Poemas (1935-1975)",
+          "translator": "Eliot Weinberger",
+          "published": "2026-10-08T18:00:51.791277+03:30",
+          "telegraph_url": "https://telegra.ph/میان-رفتن-و-ماندن-10-08",
+          "post_id": 353
+        }
+      ]
+    },
+    {
       "name": "Pablo Neruda",
       "name_fa": "شاعر پرشور شیلیایی (۱۹۰۴–۱۹۷۳)؛ با تصاویری فراخ از جغرافیای آمریکای لاتین و بیانی زلال، حماسهٔ همبستگی کارگران، ستایش اشیای ساده و جاذبهٔ پرشور عشق را می‌سراید.",
       "poem_count": 2,
@@ -676,25 +707,6 @@
           "published": "2026-09-26T19:36:38.776606+03:30",
           "telegraph_url": "https://telegra.ph/در-ستایش-ترجمه-مزامیر-به‌دست-سر-فیلیپ-سیدنی-و-خواهرش-کنتس-پمبروک-09-26",
           "post_id": 279
-        }
-      ]
-    },
-    {
-      "name": "Octavio Paz",
-      "name_fa": "شاعر و متفکر برجستهٔ مکزیکی (۱۹۱۴–۱۹۹۸)؛ با پیوند زدن اساطیر بومی به بوطیقای سوررئالیستی، به تبارشناسی هویت تاریخی، دیالکتیک تنهایی و رازآمیزی زمان و کلمه می‌پردازد.",
-      "poem_count": 1,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-020",
-          "title": "No More Clichés",
-          "title_original": "No More Clichés",
-          "original_language": "English",
-          "epoch": "",
-          "book": "",
-          "translator": "[Various Translators / Unknown]",
-          "published": "2026-09-07T18:02:36.511977+03:30",
-          "telegraph_url": "https://telegra.ph/No-More-Clichés-09-07",
-          "post_id": 140
         }
       ]
     },
