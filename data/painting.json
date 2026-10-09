@@ -442,6 +442,27 @@
       ]
     },
     {
+      "name": "David Hockney",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_121211",
+          "title": "Telephone Pole, Los Angeles, California",
+          "artist": "David Hockney",
+          "year": "September 1982",
+          "museum": "Art Institute of Chicago",
+          "movement": "Contemporary Art",
+          "medium": "Photocollage (chromogenic prints)",
+          "art_form": "عکاسی",
+          "country": "United Kingdom",
+          "image_url": "https://lh3.googleusercontent.com/d/1-WKMxQxTsu-DS813oIA0nrODoTzpbWXw",
+          "published": "2026-10-09T21:30:58.884929",
+          "original_url": "https://www.artic.edu/iiif/2/ce749b07-e0fd-70cb-f24e-ca4ab40e93dd/full/900,/0/default.jpg",
+          "post_id": 360
+        }
+      ]
+    },
+    {
       "name": "Diego Rivera",
       "painting_count": 1,
       "paintings": [
