@@ -589,6 +589,27 @@
       ]
     },
     {
+      "name": "Georges de La Tour",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_436838",
+          "title": "The Fortune-Teller",
+          "artist": "Georges de La Tour",
+          "year": "probably 1630s",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Baroque",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "France",
+          "image_url": "https://lh3.googleusercontent.com/d/1Ovb0gdV1l83FP75FfC01vnx1iDs8h0eP",
+          "published": "2026-10-10T21:30:57.303408",
+          "original_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-14286-015.jpg",
+          "post_id": 366
+        }
+      ]
+    },
+    {
       "name": "Giovanni Benedetto Castiglione",
       "painting_count": 1,
       "paintings": [
