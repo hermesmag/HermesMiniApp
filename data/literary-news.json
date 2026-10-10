@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "سطرهایی که پاییز امسال خط کشیدیم؛ نگاهی به تازه‌های نشر در «ریویو»",
+          "title": "سطرهایی که پاییز امسال خط کشیدیم؛ نگاهی به تازه‌های نشر در «ریویو»",
+          "source": "The Paris Review",
+          "published": "2026-10-10T10:34:44.195485+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/09/passages-we-underlined-this-fall/",
+          "subcategory": "essay",
+          "post_id": 364
+        },
+        {
+          "id": "روایت صریح و پرشور فیلم‌نامه‌نویس ساختارشکن؛ نگاهی به خودزندگینامهٔ راسل تی دیویس",
+          "title": "روایت صریح و پرشور فیلم‌نامه‌نویس ساختارشکن؛ نگاهی به خودزندگینامهٔ راسل تی دیویس",
+          "source": "The Guardian Books",
+          "published": "2026-10-10T10:34:42.365996+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/09/the-queerest-of-folk-by-russell-t-davies-review-the-groundbreaking-screenwriter-tells-it-like-it-is",
+          "subcategory": "essay",
+          "post_id": 363
+        },
+        {
+          "id": "اعتراض لین کینگ به «ترجمهٔ واسط»؛ هشدار مترجم «سفرنامهٔ تایوان» دربارهٔ نقض کپی‌رایت",
+          "title": "اعتراض لین کینگ به «ترجمهٔ واسط»؛ هشدار مترجم «سفرنامهٔ تایوان» دربارهٔ نقض کپی‌رایت",
+          "source": "Literary Hub",
+          "published": "2026-10-10T10:34:40.147109+03:30",
+          "original_url": "https://lithub.com/taiwan-travelogue-translator-lin-king-is-calling-out-publishings-relay-translation-practices/",
+          "subcategory": "world_lit",
+          "post_id": 362
+        },
+        {
           "id": "ستایش جهان سبز؛ واگویه‌های ران بالتازار در ستایش طبیعت و معنویت بوم‌شناختی",
           "title": "ستایش جهان سبز؛ واگویه‌های ران بالتازار در ستایش طبیعت و معنویت بوم‌شناختی",
           "source": "World Literature Today",
@@ -1311,7 +1338,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 145
+      "item_count": 148
     },
     {
       "id": "report",
@@ -1631,6 +1658,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "اعتراض لین کینگ به «ترجمهٔ واسط»؛ هشدار مترجم «سفرنامهٔ تایوان» دربارهٔ نقض کپی‌رایت",
+          "title": "اعتراض لین کینگ به «ترجمهٔ واسط»؛ هشدار مترجم «سفرنامهٔ تایوان» دربارهٔ نقض کپی‌رایت",
+          "source": "Literary Hub",
+          "published": "2026-10-10T10:34:40.147109+03:30",
+          "original_url": "https://lithub.com/taiwan-travelogue-translator-lin-king-is-calling-out-publishings-relay-translation-practices/",
+          "subcategory": "world_lit",
+          "post_id": 362
+        },
+        {
           "id": "ستایش جهان سبز؛ واگویه‌های ران بالتازار در ستایش طبیعت و معنویت بوم‌شناختی",
           "title": "ستایش جهان سبز؛ واگویه‌های ران بالتازار در ستایش طبیعت و معنویت بوم‌شناختی",
           "source": "World Literature Today",
@@ -1955,13 +1991,31 @@
           "post_id": 8
         }
       ],
-      "item_count": 36
+      "item_count": 37
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "سطرهایی که پاییز امسال خط کشیدیم؛ نگاهی به تازه‌های نشر در «ریویو»",
+          "title": "سطرهایی که پاییز امسال خط کشیدیم؛ نگاهی به تازه‌های نشر در «ریویو»",
+          "source": "The Paris Review",
+          "published": "2026-10-10T10:34:44.195485+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/09/passages-we-underlined-this-fall/",
+          "subcategory": "essay",
+          "post_id": 364
+        },
+        {
+          "id": "روایت صریح و پرشور فیلم‌نامه‌نویس ساختارشکن؛ نگاهی به خودزندگینامهٔ راسل تی دیویس",
+          "title": "روایت صریح و پرشور فیلم‌نامه‌نویس ساختارشکن؛ نگاهی به خودزندگینامهٔ راسل تی دیویس",
+          "source": "The Guardian Books",
+          "published": "2026-10-10T10:34:42.365996+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/09/the-queerest-of-folk-by-russell-t-davies-review-the-groundbreaking-screenwriter-tells-it-like-it-is",
+          "subcategory": "essay",
+          "post_id": 363
+        },
         {
           "id": "از مسابقهٔ تلویزیونی تا فیزیکِ دوزخ؛ ناتالی شاپیرو از چگونگی سرایش شعر جدیدش می‌گوید",
           "title": "از مسابقهٔ تلویزیونی تا فیزیکِ دوزخ؛ ناتالی شاپیرو از چگونگی سرایش شعر جدیدش می‌گوید",
@@ -2656,8 +2710,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 77
+      "item_count": 79
     }
   ],
-  "total_items": 145
+  "total_items": 148
 }
