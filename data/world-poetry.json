@@ -204,6 +204,37 @@
       ]
     },
     {
+      "name": "Eugenio Montale",
+      "name_fa": "شاعر هرمتیست ایتالیایی (۱۸۹۶–۱۹۸۱)؛ با زبانی تراش‌خورده، عینی و استخوانی، ملال هستی‌شناختی و تمنای یافتن روزنه‌ای از رهایی در جهانی تکه‌تکه‌شده را به تصویر می‌کشد.",
+      "poem_count": 2,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-022",
+          "title": "The Lemon Trees",
+          "title_original": "The Lemon Trees",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "[Various Translators / Unknown]",
+          "published": "2026-09-10T18:01:13.976121+03:30",
+          "telegraph_url": "https://telegra.ph/The-Lemon-Trees-09-10",
+          "post_id": 166
+        },
+        {
+          "id": "WP-Y1-DAY-053",
+          "title": "At the Threshold",
+          "title_original": "In limine",
+          "original_language": "Italian",
+          "epoch": "",
+          "book": "Ossi di seppia (1925)",
+          "translator": "Jonathan Galassi",
+          "published": "2026-10-10T18:00:45.246086+03:30",
+          "telegraph_url": "https://telegra.ph/بر-آستانه-10-10",
+          "post_id": 365
+        }
+      ]
+    },
+    {
       "name": "Octavio Paz",
       "name_fa": "شاعر و متفکر برجستهٔ مکزیکی (۱۹۱۴–۱۹۹۸)؛ با پیوند زدن اساطیر بومی به بوطیقای سوررئالیستی، به تبارشناسی هویت تاریخی، دیالکتیک تنهایی و رازآمیزی زمان و کلمه می‌پردازد.",
       "poem_count": 2,
@@ -586,25 +617,6 @@
           "published": "2026-08-27T23:38:56.717990",
           "telegraph_url": null,
           "post_id": 67
-        }
-      ]
-    },
-    {
-      "name": "Eugenio Montale",
-      "name_fa": "شاعر هرمتیست ایتالیایی (۱۸۹۶–۱۹۸۱)؛ با زبانی تراش‌خورده، عینی و استخوانی، ملال هستی‌شناختی و تمنای یافتن روزنه‌ای از رهایی در جهانی تکه‌تکه‌شده را به تصویر می‌کشد.",
-      "poem_count": 1,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-022",
-          "title": "The Lemon Trees",
-          "title_original": "The Lemon Trees",
-          "original_language": "English",
-          "epoch": "",
-          "book": "",
-          "translator": "[Various Translators / Unknown]",
-          "published": "2026-09-10T18:01:13.976121+03:30",
-          "telegraph_url": "https://telegra.ph/The-Lemon-Trees-09-10",
-          "post_id": 166
         }
       ]
     },
