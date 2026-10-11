@@ -685,6 +685,38 @@
       ]
     },
     {
+      "name": "ناصرخسرو",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "local://naser_khosrow/46",
+          "title": "قصیدهٔ شمارهٔ ۴۶",
+          "author": "ناصرخسرو",
+          "book": "دیوان ناصرخسرو",
+          "form": "qasida",
+          "century": 5,
+          "char_count": 322,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 34,
+          "published": "2026-09-22T08:00:44.738907+03:30",
+          "post_id": 249
+        },
+        {
+          "id": "local://naser_khosrow/84",
+          "title": "قصیدهٔ شمارهٔ ۸۴",
+          "author": "ناصرخسرو",
+          "book": "دیوان ناصرخسرو",
+          "form": "qasida",
+          "century": 5,
+          "char_count": 275,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 53,
+          "published": "2026-10-11T08:00:49.359597+03:30",
+          "post_id": 367
+        }
+      ]
+    },
+    {
       "name": "ابوالفضل بیهقی",
       "item_count": 1,
       "items": [
@@ -738,25 +770,6 @@
           "day_of_year": 41,
           "published": "2026-09-29T08:00:45.977955+03:30",
           "post_id": 293
-        }
-      ]
-    },
-    {
-      "name": "ناصرخسرو",
-      "item_count": 1,
-      "items": [
-        {
-          "id": "local://naser_khosrow/46",
-          "title": "قصیدهٔ شمارهٔ ۴۶",
-          "author": "ناصرخسرو",
-          "book": "دیوان ناصرخسرو",
-          "form": "qasida",
-          "century": 5,
-          "char_count": 322,
-          "familiarity_tier": "Rediscovery Masterpiece",
-          "day_of_year": 34,
-          "published": "2026-09-22T08:00:44.738907+03:30",
-          "post_id": 249
         }
       ]
     }
