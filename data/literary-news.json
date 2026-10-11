@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "آدم نلسون و بازنمایی نژادی در آمریکا؛ «۱۹۹۱ و ۲۰۲۶ در یک بیماری شریک‌اند»",
+          "title": "آدم نلسون و بازنمایی نژادی در آمریکا؛ «۱۹۹۱ و ۲۰۲۶ در یک بیماری شریک‌اند»",
+          "source": "PEN America",
+          "published": "2026-10-11T10:31:47.410749+03:30",
+          "original_url": "https://pen.org/adam-nelson-the-pen-ten-interview/",
+          "subcategory": "essay",
+          "post_id": 370
+        },
+        {
+          "id": "روایت صوتی مارگارت اتوود از یک عمر زندگی ادبی؛ طنز، خاطره و سرگذشت ندیمه",
+          "title": "روایت صوتی مارگارت اتوود از یک عمر زندگی ادبی؛ طنز، خاطره و سرگذشت ندیمه",
+          "source": "The Guardian Books",
+          "published": "2026-10-11T10:31:46.781726+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/08/book-of-lives-by-margaret-atwood-audiobook-review-a-dryly-funny-memoir",
+          "subcategory": "essay",
+          "post_id": 369
+        },
+        {
+          "id": "وقتی شخصیت چیزی برای ازدست‌دادن ندارد؛ راهکارِ دیشا فیلیا برای افزایشِ مخاطره در داستان",
+          "title": "وقتی شخصیت چیزی برای ازدست‌دادن ندارد؛ راهکارِ دیشا فیلیا برای افزایشِ مخاطره در داستان",
+          "source": "Literary Hub",
+          "published": "2026-10-11T10:31:44.802071+03:30",
+          "original_url": "https://lithub.com/from-dud-to-delicious-deesha-philyaw-on-raising-the-stakes-in-fiction/",
+          "subcategory": "essay",
+          "post_id": 368
+        },
+        {
           "id": "سطرهایی که پاییز امسال خط کشیدیم؛ نگاهی به تازه‌های نشر در «ریویو»",
           "title": "سطرهایی که پاییز امسال خط کشیدیم؛ نگاهی به تازه‌های نشر در «ریویو»",
           "source": "The Paris Review",
@@ -1338,7 +1365,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 148
+      "item_count": 151
     },
     {
       "id": "report",
@@ -1999,6 +2026,33 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "آدم نلسون و بازنمایی نژادی در آمریکا؛ «۱۹۹۱ و ۲۰۲۶ در یک بیماری شریک‌اند»",
+          "title": "آدم نلسون و بازنمایی نژادی در آمریکا؛ «۱۹۹۱ و ۲۰۲۶ در یک بیماری شریک‌اند»",
+          "source": "PEN America",
+          "published": "2026-10-11T10:31:47.410749+03:30",
+          "original_url": "https://pen.org/adam-nelson-the-pen-ten-interview/",
+          "subcategory": "essay",
+          "post_id": 370
+        },
+        {
+          "id": "روایت صوتی مارگارت اتوود از یک عمر زندگی ادبی؛ طنز، خاطره و سرگذشت ندیمه",
+          "title": "روایت صوتی مارگارت اتوود از یک عمر زندگی ادبی؛ طنز، خاطره و سرگذشت ندیمه",
+          "source": "The Guardian Books",
+          "published": "2026-10-11T10:31:46.781726+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/08/book-of-lives-by-margaret-atwood-audiobook-review-a-dryly-funny-memoir",
+          "subcategory": "essay",
+          "post_id": 369
+        },
+        {
+          "id": "وقتی شخصیت چیزی برای ازدست‌دادن ندارد؛ راهکارِ دیشا فیلیا برای افزایشِ مخاطره در داستان",
+          "title": "وقتی شخصیت چیزی برای ازدست‌دادن ندارد؛ راهکارِ دیشا فیلیا برای افزایشِ مخاطره در داستان",
+          "source": "Literary Hub",
+          "published": "2026-10-11T10:31:44.802071+03:30",
+          "original_url": "https://lithub.com/from-dud-to-delicious-deesha-philyaw-on-raising-the-stakes-in-fiction/",
+          "subcategory": "essay",
+          "post_id": 368
+        },
+        {
           "id": "سطرهایی که پاییز امسال خط کشیدیم؛ نگاهی به تازه‌های نشر در «ریویو»",
           "title": "سطرهایی که پاییز امسال خط کشیدیم؛ نگاهی به تازه‌های نشر در «ریویو»",
           "source": "The Paris Review",
@@ -2710,8 +2764,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 79
+      "item_count": 82
     }
   ],
-  "total_items": 148
+  "total_items": 151
 }
