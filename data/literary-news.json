@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "ایان رنکین: رمان جنایی برای من ماهیتاً سیاسـی است",
+          "title": "ایان رنکین: رمان جنایی برای من ماهیتاً سیاسـی است",
+          "source": "The Guardian Books",
+          "published": "2026-10-12T10:33:02.011542+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/11/the-fiction-im-interested-in-is-political-ian-rankin-on-his-new-novel-about-the-super-rich",
+          "subcategory": "review",
+          "post_id": 376
+        },
+        {
+          "id": "صیانت از حریم دیجیتال نویسندگان؛ توصیه‌های امنیتی «پن آمریکا» برای انتخابات میان‌دوره‌ای ۲۰۲۶",
+          "title": "صیانت از حریم دیجیتال نویسندگان؛ توصیه‌های امنیتی «پن آمریکا» برای انتخابات میان‌دوره‌ای ۲۰۲۶",
+          "source": "PEN America",
+          "published": "2026-10-12T10:33:00.012398+03:30",
+          "original_url": "https://pen.org/safety-for-writers-2026-midterms/",
+          "subcategory": "essay",
+          "post_id": 375
+        },
+        {
+          "id": "سایهٔ تردید بر اصالت اثر برندهٔ جایزه معتبر «کین»؛ آیا داستان برنده کار هوش مصنوعی است؟",
+          "title": "سایهٔ تردید بر اصالت اثر برندهٔ جایزه معتبر «کین»؛ آیا داستان برنده کار هوش مصنوعی است؟",
+          "source": "The Atlantic Books",
+          "published": "2026-10-12T10:32:59.363540+03:30",
+          "original_url": "https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/?utm_source=feed",
+          "subcategory": "essay",
+          "post_id": 374
+        },
+        {
           "id": "آدم نلسون و بازنمایی نژادی در آمریکا؛ «۱۹۹۱ و ۲۰۲۶ در یک بیماری شریک‌اند»",
           "title": "آدم نلسون و بازنمایی نژادی در آمریکا؛ «۱۹۹۱ و ۲۰۲۶ در یک بیماری شریک‌اند»",
           "source": "PEN America",
@@ -1365,7 +1392,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 151
+      "item_count": 154
     },
     {
       "id": "report",
@@ -1605,6 +1632,15 @@
       "title_fa": "✦ معرفی کتاب",
       "items": [
         {
+          "id": "ایان رنکین: رمان جنایی برای من ماهیتاً سیاسـی است",
+          "title": "ایان رنکین: رمان جنایی برای من ماهیتاً سیاسـی است",
+          "source": "The Guardian Books",
+          "published": "2026-10-12T10:33:02.011542+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/11/the-fiction-im-interested-in-is-political-ian-rankin-on-his-new-novel-about-the-super-rich",
+          "subcategory": "review",
+          "post_id": 376
+        },
+        {
           "id": "انتشار شعر تازهٔ پاتریشیا لاک‌وود؛ نگاهی به مجموعه‌«سر عقیق / سوپ سنگ»",
           "title": "انتشار شعر تازهٔ پاتریشیا لاک‌وود؛ نگاهی به مجموعه‌«سر عقیق / سوپ سنگ»",
           "source": "Literary Hub",
@@ -1677,7 +1713,7 @@
           "post_id": 49
         }
       ],
-      "item_count": 8
+      "item_count": 9
     },
     {
       "id": "world_lit",
@@ -2026,6 +2062,24 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "صیانت از حریم دیجیتال نویسندگان؛ توصیه‌های امنیتی «پن آمریکا» برای انتخابات میان‌دوره‌ای ۲۰۲۶",
+          "title": "صیانت از حریم دیجیتال نویسندگان؛ توصیه‌های امنیتی «پن آمریکا» برای انتخابات میان‌دوره‌ای ۲۰۲۶",
+          "source": "PEN America",
+          "published": "2026-10-12T10:33:00.012398+03:30",
+          "original_url": "https://pen.org/safety-for-writers-2026-midterms/",
+          "subcategory": "essay",
+          "post_id": 375
+        },
+        {
+          "id": "سایهٔ تردید بر اصالت اثر برندهٔ جایزه معتبر «کین»؛ آیا داستان برنده کار هوش مصنوعی است؟",
+          "title": "سایهٔ تردید بر اصالت اثر برندهٔ جایزه معتبر «کین»؛ آیا داستان برنده کار هوش مصنوعی است؟",
+          "source": "The Atlantic Books",
+          "published": "2026-10-12T10:32:59.363540+03:30",
+          "original_url": "https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/?utm_source=feed",
+          "subcategory": "essay",
+          "post_id": 374
+        },
+        {
           "id": "آدم نلسون و بازنمایی نژادی در آمریکا؛ «۱۹۹۱ و ۲۰۲۶ در یک بیماری شریک‌اند»",
           "title": "آدم نلسون و بازنمایی نژادی در آمریکا؛ «۱۹۹۱ و ۲۰۲۶ در یک بیماری شریک‌اند»",
           "source": "PEN America",
@@ -2764,8 +2818,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 82
+      "item_count": 84
     }
   ],
-  "total_items": 151
+  "total_items": 154
 }
