@@ -235,6 +235,37 @@
       ]
     },
     {
+      "name": "Ezra Pound",
+      "name_fa": "شاعر پیشرو و نظریه‌پرداز آمریکایی (۱۸۸۵–۱۹۷۲)؛ با درهم‌تنیدن اسناد تاریخی، تلمیحات چندزبانه و فرم فشردهٔ کلاژگونه، در پی احیای بوطیقای مدرن و آسیب‌شناسی انحطاط تمدن است.",
+      "poem_count": 2,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-024",
+          "title": "The Return",
+          "title_original": "The Return",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-09-11T18:01:03.836166+03:30",
+          "telegraph_url": null,
+          "post_id": 172
+        },
+        {
+          "id": "WP-Y1-DAY-055",
+          "title": "The Tree",
+          "title_original": "The Tree",
+          "original_language": "English",
+          "epoch": "",
+          "book": "Provença (1910)",
+          "translator": null,
+          "published": "2026-10-12T18:01:36.210209+03:30",
+          "telegraph_url": null,
+          "post_id": 377
+        }
+      ]
+    },
+    {
       "name": "Guillaume Apollinaire",
       "name_fa": "شاعر آوانگارد فرانسوی (۱۸۸۰–۱۹۱۸)؛ با حذف نشانه‌گذاری و ابداع شعر دیداری (کالیگرام)، پیشگام ستایش زیبایی‌شناسی نو، مدرنیتهٔ شهری و پویایی زمانه شد.",
       "poem_count": 2,
@@ -648,25 +679,6 @@
           "published": "2026-08-27T23:38:56.717990",
           "telegraph_url": null,
           "post_id": 67
-        }
-      ]
-    },
-    {
-      "name": "Ezra Pound",
-      "name_fa": "شاعر پیشرو و نظریه‌پرداز آمریکایی (۱۸۸۵–۱۹۷۲)؛ با درهم‌تنیدن اسناد تاریخی، تلمیحات چندزبانه و فرم فشردهٔ کلاژگونه، در پی احیای بوطیقای مدرن و آسیب‌شناسی انحطاط تمدن است.",
-      "poem_count": 1,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-024",
-          "title": "The Return",
-          "title_original": "The Return",
-          "original_language": "English",
-          "epoch": "",
-          "book": "",
-          "translator": "",
-          "published": "2026-09-11T18:01:03.836166+03:30",
-          "telegraph_url": null,
-          "post_id": 172
         }
       ]
     },
