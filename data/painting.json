@@ -703,6 +703,27 @@
       ]
     },
     {
+      "name": "Jasper Johns",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_229351",
+          "title": "Target",
+          "artist": "Jasper Johns",
+          "year": "1961",
+          "museum": "Art Institute of Chicago",
+          "movement": "Neo-Dada",
+          "medium": "Encaustic and collage on canvas",
+          "art_form": "چیدمان و چندرسانه‌ای",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1Y3AOqX_-O7Ue1SmVbHSRObhMe46-7a4S",
+          "published": "2026-10-13T21:31:00.587618",
+          "original_url": "https://www.artic.edu/iiif/2/332d36a2-0803-8487-0ab3-fcf6c2ee8c53/full/900,/0/default.jpg",
+          "post_id": 383
+        }
+      ]
+    },
+    {
       "name": "Jim Dine",
       "painting_count": 1,
       "paintings": [
