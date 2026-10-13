@@ -871,6 +871,25 @@
           "post_id": 218
         }
       ]
+    },
+    {
+      "name": "William Shakespeare",
+      "name_fa": "نمایشنامه‌نویس و شاعر انگلیسی (۱۵۶۴–۱۶۱۶)، بزرگ‌ترین نویسنده زبان انگلیسی",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-056",
+          "title": "Sonnet 55",
+          "title_original": "Sonnet 55",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-10-13T23:48:18.954803+03:30",
+          "telegraph_url": null,
+          "post_id": 384
+        }
+      ]
     }
   ],
   "daily_poems": [
