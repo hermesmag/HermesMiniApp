@@ -666,6 +666,38 @@
       ]
     },
     {
+      "name": "مسعود سعد سلمان",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "local://masoud_saad/265",
+          "title": "شمارهٔ ۲۶۵ - مدح شیرزاد",
+          "author": "مسعود سعد سلمان",
+          "book": "دیوان مسعود سعد سلمان",
+          "form": "qasida",
+          "century": 5,
+          "char_count": 602,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 47,
+          "published": "2026-10-05T08:00:49.420364+03:30",
+          "post_id": 331
+        },
+        {
+          "id": "local://masoud_saad/146",
+          "title": "شمارهٔ ۱۴۶ - مدح امیر ابونصر پارسی",
+          "author": "مسعود سعد سلمان",
+          "book": "دیوان مسعود سعد سلمان",
+          "form": "qasida",
+          "century": 5,
+          "char_count": 665,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 55,
+          "published": "2026-10-13T08:00:50.065901+03:30",
+          "post_id": 379
+        }
+      ]
+    },
+    {
       "name": "منوچهری دامغانی",
       "item_count": 2,
       "items": [
@@ -745,25 +777,6 @@
           "day_of_year": 29,
           "published": "2026-09-17T08:00:45.847909+03:30",
           "post_id": 214
-        }
-      ]
-    },
-    {
-      "name": "مسعود سعد سلمان",
-      "item_count": 1,
-      "items": [
-        {
-          "id": "local://masoud_saad/265",
-          "title": "شمارهٔ ۲۶۵ - مدح شیرزاد",
-          "author": "مسعود سعد سلمان",
-          "book": "دیوان مسعود سعد سلمان",
-          "form": "qasida",
-          "century": 5,
-          "char_count": 602,
-          "familiarity_tier": "Rediscovery Masterpiece",
-          "day_of_year": 47,
-          "published": "2026-10-05T08:00:49.420364+03:30",
-          "post_id": 331
         }
       ]
     },
