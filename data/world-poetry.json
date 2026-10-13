@@ -875,6 +875,18 @@
   ],
   "daily_poems": [
     {
+      "id": "A Black Man Talks of Reaping",
+      "kind": "poem_of_day",
+      "title": "A Black Man Talks of Reaping",
+      "author": "Arna Bontemps",
+      "source": "Poetry Foundation",
+      "published": "2026-10-13T10:39:05.784994+03:30",
+      "telegraph_url": "https://telegra.ph/A-Black-Man-Talks-of-Reaping-10-13",
+      "post_id": 382,
+      "persian_translation": "در روزگار خود کنار هر آبی بذر افشاندم.\nعمیق کاشتم، در دل خود بیمِ آن را\nکه باد یا پرنده دانه را ببرد.\nایمن کاشتم در برابر این سالِ سخت و تهی.\nبذر به اندازهٔ کشتِ زمین پراکندم\nدر ردیف‌هایی از کانادا تا مکزیک\nاما برای درویم تنها آن اندازه که دست\nیکجا تواند گرفت، همه‌‌ای است که می‌توانم بنمایم.\nبا این همه آنچه من کاشتم و آنچه باغ بار می‌دهد\nپسران برادرم ساقه و ریشه را گرد می‌آورند؛\nپس جای شگفتی نیست که فرزندانم در مزرعه‌هایی خوشه چینی کنند\nکه نکاشته‌اند، و از میوهٔ تلخ تغذیه کنند.",
+      "original_lines": "I have sown beside all waters in my day.\nI planted deep, within my heart the fear\nthat wind or fowl would take the grain away.\nI planted safe against this stark, lean year.\nI scattered seed enough to plant the land\nin rows from Canada to Mexico\nbut for my reaping only what the hand\ncan hold at once is all that I can show.\nYet what I sowed and what the orchard yields\nmy brother's sons are gathering stalk and root;\nsmall wonder then my children glean in fields\nthey have not sown, and feed on bitter fruit."
+    },
+    {
       "id": "Evening",
       "kind": "poem_of_day",
       "title": "Evening",

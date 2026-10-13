@@ -6,6 +6,24 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "معرفی و بررسی کوتاه چهار رمان تازه در حوزهٔ ادبیات داستانی جهان",
+          "title": "معرفی و بررسی کوتاه چهار رمان تازه در حوزهٔ ادبیات داستانی جهان",
+          "source": "The New Yorker",
+          "published": "2026-10-13T10:39:04.786631+03:30",
+          "original_url": "https://www.newyorker.com/magazine/2026/10/19/the-occidental-book-of-the-dead-luna-phoenix-queen-the-minimalist-the-decadent-movement",
+          "subcategory": "review",
+          "post_id": 381
+        },
+        {
+          "id": "کلمات کهن در جهان امروز؛ گفت‌وگوی پیتر کنستانتین با آن کارسون",
+          "title": "کلمات کهن در جهان امروز؛ گفت‌وگوی پیتر کنستانتین با آن کارسون",
+          "source": "World Literature Today",
+          "published": "2026-10-13T10:39:02.741126+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/interviews/ancient-words-modern-words-conversation-anne-carson-peter-constantine",
+          "subcategory": "interview",
+          "post_id": 380
+        },
+        {
           "id": "ایان رنکین: رمان جنایی برای من ماهیتاً سیاسـی است",
           "title": "ایان رنکین: رمان جنایی برای من ماهیتاً سیاسـی است",
           "source": "The Guardian Books",
@@ -1392,7 +1410,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 154
+      "item_count": 156
     },
     {
       "id": "report",
@@ -1516,6 +1534,15 @@
       "title_fa": "✦ گفت‌وگو",
       "items": [
         {
+          "id": "کلمات کهن در جهان امروز؛ گفت‌وگوی پیتر کنستانتین با آن کارسون",
+          "title": "کلمات کهن در جهان امروز؛ گفت‌وگوی پیتر کنستانتین با آن کارسون",
+          "source": "World Literature Today",
+          "published": "2026-10-13T10:39:02.741126+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/interviews/ancient-words-modern-words-conversation-anne-carson-peter-constantine",
+          "subcategory": "interview",
+          "post_id": 380
+        },
+        {
           "id": "گفت‌وگویی پیرامون ترجمه و آفرینش کتاب «به‌سوی شرقِ شرق»",
           "title": "گفت‌وگویی پیرامون ترجمه و آفرینش کتاب «به‌سوی شرقِ شرق»",
           "source": "Words Without Borders",
@@ -1624,13 +1651,22 @@
           "post_id": 15
         }
       ],
-      "item_count": 12
+      "item_count": 13
     },
     {
       "id": "review",
       "title_en": "Book Reviews",
       "title_fa": "✦ معرفی کتاب",
       "items": [
+        {
+          "id": "معرفی و بررسی کوتاه چهار رمان تازه در حوزهٔ ادبیات داستانی جهان",
+          "title": "معرفی و بررسی کوتاه چهار رمان تازه در حوزهٔ ادبیات داستانی جهان",
+          "source": "The New Yorker",
+          "published": "2026-10-13T10:39:04.786631+03:30",
+          "original_url": "https://www.newyorker.com/magazine/2026/10/19/the-occidental-book-of-the-dead-luna-phoenix-queen-the-minimalist-the-decadent-movement",
+          "subcategory": "review",
+          "post_id": 381
+        },
         {
           "id": "ایان رنکین: رمان جنایی برای من ماهیتاً سیاسـی است",
           "title": "ایان رنکین: رمان جنایی برای من ماهیتاً سیاسـی است",
@@ -1713,7 +1749,7 @@
           "post_id": 49
         }
       ],
-      "item_count": 9
+      "item_count": 10
     },
     {
       "id": "world_lit",
@@ -2821,5 +2857,5 @@
       "item_count": 84
     }
   ],
-  "total_items": 154
+  "total_items": 156
 }
