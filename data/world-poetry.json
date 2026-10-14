@@ -721,6 +721,25 @@
       ]
     },
     {
+      "name": "Giuseppe Ungaretti",
+      "name_fa": "شاعر جریان‌ساز هرمتیست ایتالیا (۱۸۸۸–۱۹۷۰)؛ با سطرهای کوتاه، تراش‌خورده و زبانی عریان، قداست آنی زیستن و حس برادری انسان در دهشت جنگ را متبلور می‌سازد.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-057",
+          "title": "Vigil",
+          "title_original": "Veglia",
+          "original_language": "Italian",
+          "epoch": "",
+          "book": "",
+          "translator": "Patrick Creagh & Allen Mandelbaum",
+          "published": "2026-10-14T18:00:53.370775+03:30",
+          "telegraph_url": "https://telegra.ph/بیدارباش-10-14",
+          "post_id": 389
+        }
+      ]
+    },
+    {
       "name": "Hilda Doolittle (H.D.)",
       "name_fa": "شاعر نوگرای آمریکایی (۱۸۸۶–۱۹۶۱)؛ با ایماژهای بلورین تراش‌خورده و بازآفرینی اساطیر هلنی، به تجسم ادراک حسی، عاملیت زنانه و مکاشفات عرفانی می‌رسد.",
       "poem_count": 1,
