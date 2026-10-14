@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "گفت‌وگویی با یگانا جباروا و لیزا سی. هایدن پیرامون اثر نامزد جایزه ملی کتاب",
+          "title": "گفت‌وگویی با یگانا جباروا و لیزا سی. هایدن پیرامون اثر نامزد جایزه ملی کتاب",
+          "source": "Words Without Borders",
+          "published": "2026-10-14T10:33:20.840278+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-10/the-national-book-award-interviews-egana-djabbarova-and-lisa-c-hayden-my-dreadful-body/",
+          "subcategory": "interview",
+          "post_id": 388
+        },
+        {
+          "id": "چرا شعر فرانک اوهارا برای نوجوانان انتخابی ایده‌آل است؟",
+          "title": "چرا شعر فرانک اوهارا برای نوجوانان انتخابی ایده‌آل است؟",
+          "source": "Literary Hub",
+          "published": "2026-10-14T10:33:18.799238+03:30",
+          "original_url": "https://lithub.com/why-frank-ohara-is-perfect-for-introducing-poetry-to-tweens/",
+          "subcategory": "essay",
+          "post_id": 387
+        },
+        {
+          "id": "گفت‌وگوی بانی گارموس دربارهٔ رمان تازهٔ خود؛ قصه‌ای از شعر و شاعران",
+          "title": "گفت‌وگوی بانی گارموس دربارهٔ رمان تازهٔ خود؛ قصه‌ای از شعر و شاعران",
+          "source": "Literary Hub",
+          "published": "2026-10-14T10:33:16.489318+03:30",
+          "original_url": "https://lithub.com/bonnie-garmus-on-writing-a-coming-of-age-novel-of-poets-and-poetry/",
+          "subcategory": "essay",
+          "post_id": 386
+        },
+        {
           "id": "معرفی و بررسی کوتاه چهار رمان تازه در حوزهٔ ادبیات داستانی جهان",
           "title": "معرفی و بررسی کوتاه چهار رمان تازه در حوزهٔ ادبیات داستانی جهان",
           "source": "The New Yorker",
@@ -1410,7 +1437,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 156
+      "item_count": 159
     },
     {
       "id": "report",
@@ -1534,6 +1561,15 @@
       "title_fa": "✦ گفت‌وگو",
       "items": [
         {
+          "id": "گفت‌وگویی با یگانا جباروا و لیزا سی. هایدن پیرامون اثر نامزد جایزه ملی کتاب",
+          "title": "گفت‌وگویی با یگانا جباروا و لیزا سی. هایدن پیرامون اثر نامزد جایزه ملی کتاب",
+          "source": "Words Without Borders",
+          "published": "2026-10-14T10:33:20.840278+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-10/the-national-book-award-interviews-egana-djabbarova-and-lisa-c-hayden-my-dreadful-body/",
+          "subcategory": "interview",
+          "post_id": 388
+        },
+        {
           "id": "کلمات کهن در جهان امروز؛ گفت‌وگوی پیتر کنستانتین با آن کارسون",
           "title": "کلمات کهن در جهان امروز؛ گفت‌وگوی پیتر کنستانتین با آن کارسون",
           "source": "World Literature Today",
@@ -1651,7 +1687,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 13
+      "item_count": 14
     },
     {
       "id": "review",
@@ -2098,6 +2134,24 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "چرا شعر فرانک اوهارا برای نوجوانان انتخابی ایده‌آل است؟",
+          "title": "چرا شعر فرانک اوهارا برای نوجوانان انتخابی ایده‌آل است؟",
+          "source": "Literary Hub",
+          "published": "2026-10-14T10:33:18.799238+03:30",
+          "original_url": "https://lithub.com/why-frank-ohara-is-perfect-for-introducing-poetry-to-tweens/",
+          "subcategory": "essay",
+          "post_id": 387
+        },
+        {
+          "id": "گفت‌وگوی بانی گارموس دربارهٔ رمان تازهٔ خود؛ قصه‌ای از شعر و شاعران",
+          "title": "گفت‌وگوی بانی گارموس دربارهٔ رمان تازهٔ خود؛ قصه‌ای از شعر و شاعران",
+          "source": "Literary Hub",
+          "published": "2026-10-14T10:33:16.489318+03:30",
+          "original_url": "https://lithub.com/bonnie-garmus-on-writing-a-coming-of-age-novel-of-poets-and-poetry/",
+          "subcategory": "essay",
+          "post_id": 386
+        },
+        {
           "id": "صیانت از حریم دیجیتال نویسندگان؛ توصیه‌های امنیتی «پن آمریکا» برای انتخابات میان‌دوره‌ای ۲۰۲۶",
           "title": "صیانت از حریم دیجیتال نویسندگان؛ توصیه‌های امنیتی «پن آمریکا» برای انتخابات میان‌دوره‌ای ۲۰۲۶",
           "source": "PEN America",
@@ -2854,8 +2908,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 84
+      "item_count": 86
     }
   ],
-  "total_items": 156
+  "total_items": 159
 }
