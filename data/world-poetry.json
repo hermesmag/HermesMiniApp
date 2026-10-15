@@ -359,6 +359,37 @@
       ]
     },
     {
+      "name": "Paul Celan",
+      "name_fa": "شاعر آلمانی‌زبان اهل رومانی (۱۹۲۰–۱۹۷۰)؛ با واژه‌سازی‌های نامتعارف و نحوی تکه‌تکه‌شده بر لبهٔ سکوت، مرثیه‌ای ماندگار در شهادت بر فاجعهٔ هولوکاست و ترومای بازماندگی بنا می‌کند.",
+      "poem_count": 2,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-026",
+          "title": "Death Fugue",
+          "title_original": "Todesfuge",
+          "original_language": "German",
+          "epoch": "",
+          "book": "",
+          "translator": "John Felstiner",
+          "published": "2026-09-13T21:51:25.372504+03:30",
+          "telegraph_url": "https://telegra.ph/Death-Fugue-09-13",
+          "post_id": 185
+        },
+        {
+          "id": "WP-Y1-DAY-058",
+          "title": "Corona",
+          "title_original": "Corona",
+          "original_language": "German",
+          "epoch": "",
+          "book": "Mohn und Gedächtnis (1952)",
+          "translator": "Michael Hamburger",
+          "published": "2026-10-15T18:00:51.499512+03:30",
+          "telegraph_url": "https://telegra.ph/کورونا-10-15",
+          "post_id": 397
+        }
+      ]
+    },
+    {
       "name": "Paul Verlaine",
       "name_fa": "شاعر نمادگرای فرانسوی (۱۸۴۴–۱۸۹۶)؛ با برتری بخشیدن به موسیقی ناب کلام و بازی با سایه‌روشن‌های حسی، اندوه سیال روان، حسرت‌های ناپایدار و تردیدهای وجودی را زمزمه می‌کند.",
       "poem_count": 2,
@@ -793,25 +824,6 @@
           "published": "2026-09-26T19:36:38.776606+03:30",
           "telegraph_url": "https://telegra.ph/در-ستایش-ترجمه-مزامیر-به‌دست-سر-فیلیپ-سیدنی-و-خواهرش-کنتس-پمبروک-09-26",
           "post_id": 279
-        }
-      ]
-    },
-    {
-      "name": "Paul Celan",
-      "name_fa": "شاعر آلمانی‌زبان اهل رومانی (۱۹۲۰–۱۹۷۰)؛ با واژه‌سازی‌های نامتعارف و نحوی تکه‌تکه‌شده بر لبهٔ سکوت، مرثیه‌ای ماندگار در شهادت بر فاجعهٔ هولوکاست و ترومای بازماندگی بنا می‌کند.",
-      "poem_count": 1,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-026",
-          "title": "Death Fugue",
-          "title_original": "Todesfuge",
-          "original_language": "German",
-          "epoch": "",
-          "book": "",
-          "translator": "John Felstiner",
-          "published": "2026-09-13T21:51:25.372504+03:30",
-          "telegraph_url": "https://telegra.ph/Death-Fugue-09-13",
-          "post_id": 185
         }
       ]
     },
