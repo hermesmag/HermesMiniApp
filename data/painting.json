@@ -1054,6 +1054,27 @@
       ]
     },
     {
+      "name": "Unknown Artist",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_464294",
+          "title": "Virgin and Child",
+          "artist": "Unknown Artist",
+          "year": "13th century",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Medieval Art (Gothic Ivory)",
+          "medium": "عاج فیل با آثار رنگ و طلاکاری (Elephant ivory with traces of paint and gilding)",
+          "art_form": "هنرهای تجسمی",
+          "country": "France",
+          "image_url": "https://lh3.googleusercontent.com/d/1bg2Q4DzztjTEhzKBWCOgDGK5dD5QNwFA",
+          "published": "2026-10-15T21:30:58.884506",
+          "original_url": "https://images.metmuseum.org/CRDImages/md/web-large/DP-34069-001.jpg",
+          "post_id": 398
+        }
+      ]
+    },
+    {
       "name": "Victorian Ephemera Workshop",
       "painting_count": 1,
       "paintings": [
