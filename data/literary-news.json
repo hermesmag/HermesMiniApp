@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "دهمین سالگرد نشریهٔ ادبی «استر ریویو»؛ نگاهی به یادبودهای ویراستاران پیشین",
+          "title": "دهمین سالگرد نشریهٔ ادبی «استر ریویو»؛ نگاهی به یادبودهای ویراستاران پیشین",
+          "source": "World Literature Today",
+          "published": "2026-10-15T10:32:46.652862+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/once-over/celebrating-ten-years-aster-review-testimonials-former-student-editors-editors-wlt",
+          "subcategory": "world_lit",
+          "post_id": 396
+        },
+        {
+          "id": "اجرای پنهانی و بازگشت موسیقایی گرایمز در بروکلین؛ رونمایی از آلبوم جنجالی «سای اوپرا»",
+          "title": "اجرای پنهانی و بازگشت موسیقایی گرایمز در بروکلین؛ رونمایی از آلبوم جنجالی «سای اوپرا»",
+          "source": "The Paris Review",
+          "published": "2026-10-15T10:32:44.934173+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/13/grimes-secret-psy-opera-pop-up/",
+          "subcategory": "essay",
+          "post_id": 395
+        },
+        {
+          "id": "جسارت در نوشتن و خلوت‌گزینی در دل جنگل؛ گفت‌وگو با لیدیا میلت",
+          "title": "جسارت در نوشتن و خلوت‌گزینی در دل جنگل؛ گفت‌وگو با لیدیا میلت",
+          "source": "Electric Literature",
+          "published": "2026-10-15T10:32:43.152261+03:30",
+          "original_url": "https://electricliterature.com/lydia-millets-writerly-evolution-is-all-about-being-more-shameless/",
+          "subcategory": "essay",
+          "post_id": 394
+        },
+        {
           "id": "گفت‌وگویی با یگانا جباروا و لیزا سی. هایدن پیرامون اثر نامزد جایزه ملی کتاب",
           "title": "گفت‌وگویی با یگانا جباروا و لیزا سی. هایدن پیرامون اثر نامزد جایزه ملی کتاب",
           "source": "Words Without Borders",
@@ -1437,7 +1464,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 159
+      "item_count": 162
     },
     {
       "id": "report",
@@ -1793,6 +1820,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "دهمین سالگرد نشریهٔ ادبی «استر ریویو»؛ نگاهی به یادبودهای ویراستاران پیشین",
+          "title": "دهمین سالگرد نشریهٔ ادبی «استر ریویو»؛ نگاهی به یادبودهای ویراستاران پیشین",
+          "source": "World Literature Today",
+          "published": "2026-10-15T10:32:46.652862+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/once-over/celebrating-ten-years-aster-review-testimonials-former-student-editors-editors-wlt",
+          "subcategory": "world_lit",
+          "post_id": 396
+        },
+        {
           "id": "اعتراض لین کینگ به «ترجمهٔ واسط»؛ هشدار مترجم «سفرنامهٔ تایوان» دربارهٔ نقض کپی‌رایت",
           "title": "اعتراض لین کینگ به «ترجمهٔ واسط»؛ هشدار مترجم «سفرنامهٔ تایوان» دربارهٔ نقض کپی‌رایت",
           "source": "Literary Hub",
@@ -2126,13 +2162,31 @@
           "post_id": 8
         }
       ],
-      "item_count": 37
+      "item_count": 38
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "اجرای پنهانی و بازگشت موسیقایی گرایمز در بروکلین؛ رونمایی از آلبوم جنجالی «سای اوپرا»",
+          "title": "اجرای پنهانی و بازگشت موسیقایی گرایمز در بروکلین؛ رونمایی از آلبوم جنجالی «سای اوپرا»",
+          "source": "The Paris Review",
+          "published": "2026-10-15T10:32:44.934173+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/13/grimes-secret-psy-opera-pop-up/",
+          "subcategory": "essay",
+          "post_id": 395
+        },
+        {
+          "id": "جسارت در نوشتن و خلوت‌گزینی در دل جنگل؛ گفت‌وگو با لیدیا میلت",
+          "title": "جسارت در نوشتن و خلوت‌گزینی در دل جنگل؛ گفت‌وگو با لیدیا میلت",
+          "source": "Electric Literature",
+          "published": "2026-10-15T10:32:43.152261+03:30",
+          "original_url": "https://electricliterature.com/lydia-millets-writerly-evolution-is-all-about-being-more-shameless/",
+          "subcategory": "essay",
+          "post_id": 394
+        },
         {
           "id": "چرا شعر فرانک اوهارا برای نوجوانان انتخابی ایده‌آل است؟",
           "title": "چرا شعر فرانک اوهارا برای نوجوانان انتخابی ایده‌آل است؟",
@@ -2908,8 +2962,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 86
+      "item_count": 88
     }
   ],
-  "total_items": 159
+  "total_items": 162
 }
