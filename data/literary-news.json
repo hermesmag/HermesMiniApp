@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "انتشار شعر تازهٔ اریک اَملینگ از مجموعهٔ جدیدش",
+          "title": "انتشار شعر تازهٔ اریک اَملینگ از مجموعهٔ جدیدش",
+          "source": "Literary Hub",
+          "published": "2026-10-16T10:32:06.109792+03:30",
+          "original_url": "https://lithub.com/read-cruise-control-a-new-poem-by-eric-amling/",
+          "subcategory": "review",
+          "post_id": 402
+        },
+        {
+          "id": "بازخوانیِ رازهایِ نقاشِ نور؛ نسخهٔ صوتیِ زندگینامهٔ یوهانس ورمر با صدای نویسنده",
+          "title": "بازخوانیِ رازهایِ نقاشِ نور؛ نسخهٔ صوتیِ زندگینامهٔ یوهانس ورمر با صدای نویسنده",
+          "source": "The Guardian Books",
+          "published": "2026-10-16T10:32:03.324904+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/15/vermeer-by-andrew-graham-dixon-audiobook-review-a-sharp-and-authoritative-guide",
+          "subcategory": "essay",
+          "post_id": 401
+        },
+        {
+          "id": "خاکسترِ سیاه بر صفحاتِ خالی؛ سه شعر از آرندیس لوآ ماگنوسدوتیر",
+          "title": "خاکسترِ سیاه بر صفحاتِ خالی؛ سه شعر از آرندیس لوآ ماگنوسدوتیر",
+          "source": "Words Without Borders",
+          "published": "2026-10-16T10:32:00.867138+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-10/black-ash-strewn-across-empty-pages-three-poems-magnusdottir-britton/",
+          "subcategory": "world_lit",
+          "post_id": 400
+        },
+        {
           "id": "دهمین سالگرد نشریهٔ ادبی «استر ریویو»؛ نگاهی به یادبودهای ویراستاران پیشین",
           "title": "دهمین سالگرد نشریهٔ ادبی «استر ریویو»؛ نگاهی به یادبودهای ویراستاران پیشین",
           "source": "World Literature Today",
@@ -1464,7 +1491,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 162
+      "item_count": 165
     },
     {
       "id": "report",
@@ -1722,6 +1749,15 @@
       "title_fa": "✦ معرفی کتاب",
       "items": [
         {
+          "id": "انتشار شعر تازهٔ اریک اَملینگ از مجموعهٔ جدیدش",
+          "title": "انتشار شعر تازهٔ اریک اَملینگ از مجموعهٔ جدیدش",
+          "source": "Literary Hub",
+          "published": "2026-10-16T10:32:06.109792+03:30",
+          "original_url": "https://lithub.com/read-cruise-control-a-new-poem-by-eric-amling/",
+          "subcategory": "review",
+          "post_id": 402
+        },
+        {
           "id": "معرفی و بررسی کوتاه چهار رمان تازه در حوزهٔ ادبیات داستانی جهان",
           "title": "معرفی و بررسی کوتاه چهار رمان تازه در حوزهٔ ادبیات داستانی جهان",
           "source": "The New Yorker",
@@ -1812,13 +1848,22 @@
           "post_id": 49
         }
       ],
-      "item_count": 10
+      "item_count": 11
     },
     {
       "id": "world_lit",
       "title_en": "World Literature",
       "title_fa": "✦ ادبیات جهان",
       "items": [
+        {
+          "id": "خاکسترِ سیاه بر صفحاتِ خالی؛ سه شعر از آرندیس لوآ ماگنوسدوتیر",
+          "title": "خاکسترِ سیاه بر صفحاتِ خالی؛ سه شعر از آرندیس لوآ ماگنوسدوتیر",
+          "source": "Words Without Borders",
+          "published": "2026-10-16T10:32:00.867138+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-10/black-ash-strewn-across-empty-pages-three-poems-magnusdottir-britton/",
+          "subcategory": "world_lit",
+          "post_id": 400
+        },
         {
           "id": "دهمین سالگرد نشریهٔ ادبی «استر ریویو»؛ نگاهی به یادبودهای ویراستاران پیشین",
           "title": "دهمین سالگرد نشریهٔ ادبی «استر ریویو»؛ نگاهی به یادبودهای ویراستاران پیشین",
@@ -2162,13 +2207,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 38
+      "item_count": 39
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "بازخوانیِ رازهایِ نقاشِ نور؛ نسخهٔ صوتیِ زندگینامهٔ یوهانس ورمر با صدای نویسنده",
+          "title": "بازخوانیِ رازهایِ نقاشِ نور؛ نسخهٔ صوتیِ زندگینامهٔ یوهانس ورمر با صدای نویسنده",
+          "source": "The Guardian Books",
+          "published": "2026-10-16T10:32:03.324904+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/15/vermeer-by-andrew-graham-dixon-audiobook-review-a-sharp-and-authoritative-guide",
+          "subcategory": "essay",
+          "post_id": 401
+        },
         {
           "id": "اجرای پنهانی و بازگشت موسیقایی گرایمز در بروکلین؛ رونمایی از آلبوم جنجالی «سای اوپرا»",
           "title": "اجرای پنهانی و بازگشت موسیقایی گرایمز در بروکلین؛ رونمایی از آلبوم جنجالی «سای اوپرا»",
@@ -2962,8 +3016,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 88
+      "item_count": 89
     }
   ],
-  "total_items": 162
+  "total_items": 165
 }
