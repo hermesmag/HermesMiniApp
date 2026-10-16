@@ -266,6 +266,37 @@
       ]
     },
     {
+      "name": "Federico García Lorca",
+      "name_fa": "شاعر و نمایشنامه‌نویس اسپانیایی (۱۸۹۸–۱۹۳۶)؛ با الهام از ترانه‌های بومی کولیان و استعاره‌های سوررئالیستی، نبرد شورانگیز میان فوران غریزه، اندوه ازلی و تقدیر خونین مرگ را بازمی‌آفریند.",
+      "poem_count": 2,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-028",
+          "title": "Song of the Rider",
+          "title_original": "Canción del jinete",
+          "original_language": "Spanish",
+          "epoch": "",
+          "book": "",
+          "translator": "Stephen Spender & J. L. Gili",
+          "published": "2026-09-15T22:09:15.662852+03:30",
+          "telegraph_url": "https://telegra.ph/Canción-del-jinete-09-15-2",
+          "post_id": 198
+        },
+        {
+          "id": "WP-Y1-DAY-059",
+          "title": "The Unfaithful Wife",
+          "title_original": "La casada infiel",
+          "original_language": "Spanish",
+          "epoch": "",
+          "book": "",
+          "translator": "Oliver Bernard / Paul Schmidt / Published Scholarly Translation",
+          "published": "2026-10-16T18:00:58.968865+03:30",
+          "telegraph_url": "https://telegra.ph/زن-شوهردار-بی‌وفا-گزیده-10-16",
+          "post_id": 403
+        }
+      ]
+    },
+    {
       "name": "Guillaume Apollinaire",
       "name_fa": "شاعر آوانگارد فرانسوی (۱۸۸۰–۱۹۱۸)؛ با حذف نشانه‌گذاری و ابداع شعر دیداری (کالیگرام)، پیشگام ستایش زیبایی‌شناسی نو، مدرنیتهٔ شهری و پویایی زمانه شد.",
       "poem_count": 2,
@@ -710,25 +741,6 @@
           "published": "2026-08-27T23:38:56.717990",
           "telegraph_url": null,
           "post_id": 67
-        }
-      ]
-    },
-    {
-      "name": "Federico García Lorca",
-      "name_fa": "شاعر و نمایشنامه‌نویس اسپانیایی (۱۸۹۸–۱۹۳۶)؛ با الهام از ترانه‌های بومی کولیان و استعاره‌های سوررئالیستی، نبرد شورانگیز میان فوران غریزه، اندوه ازلی و تقدیر خونین مرگ را بازمی‌آفریند.",
-      "poem_count": 1,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-028",
-          "title": "Song of the Rider",
-          "title_original": "Canción del jinete",
-          "original_language": "Spanish",
-          "epoch": "",
-          "book": "",
-          "translator": "Stephen Spender & J. L. Gili",
-          "published": "2026-09-15T22:09:15.662852+03:30",
-          "telegraph_url": "https://telegra.ph/Canción-del-jinete-09-15-2",
-          "post_id": 198
         }
       ]
     },
