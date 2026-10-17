@@ -6,6 +6,24 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "شعری در رثای دوست؛ روایت جفری جی. اوبراین از تکوینِ «پرتو نور»",
+          "title": "شعری در رثای دوست؛ روایت جفری جی. اوبراین از تکوینِ «پرتو نور»",
+          "source": "The Paris Review",
+          "published": "2026-10-17T10:32:11.536701+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/16/geoffrey-g-obrien-joshua-clover-making-poem/",
+          "subcategory": "essay",
+          "post_id": 408
+        },
+        {
+          "id": "بازتابِ حیاتِ شاعرانه در پردهٔ نقره‌ای؛ سینما دربارهٔ شعر چه می‌گوید؟",
+          "title": "بازتابِ حیاتِ شاعرانه در پردهٔ نقره‌ای؛ سینما دربارهٔ شعر چه می‌گوید؟",
+          "source": "Literary Hub",
+          "published": "2026-10-17T10:32:09.836354+03:30",
+          "original_url": "https://lithub.com/what-three-recent-films-reveal-about-how-we-view-poets-and-poetry/",
+          "subcategory": "essay",
+          "post_id": 407
+        },
+        {
           "id": "انتشار شعر تازهٔ اریک اَملینگ از مجموعهٔ جدیدش",
           "title": "انتشار شعر تازهٔ اریک اَملینگ از مجموعهٔ جدیدش",
           "source": "Literary Hub",
@@ -1491,7 +1509,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 165
+      "item_count": 167
     },
     {
       "id": "report",
@@ -2215,6 +2233,24 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "شعری در رثای دوست؛ روایت جفری جی. اوبراین از تکوینِ «پرتو نور»",
+          "title": "شعری در رثای دوست؛ روایت جفری جی. اوبراین از تکوینِ «پرتو نور»",
+          "source": "The Paris Review",
+          "published": "2026-10-17T10:32:11.536701+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/16/geoffrey-g-obrien-joshua-clover-making-poem/",
+          "subcategory": "essay",
+          "post_id": 408
+        },
+        {
+          "id": "بازتابِ حیاتِ شاعرانه در پردهٔ نقره‌ای؛ سینما دربارهٔ شعر چه می‌گوید؟",
+          "title": "بازتابِ حیاتِ شاعرانه در پردهٔ نقره‌ای؛ سینما دربارهٔ شعر چه می‌گوید؟",
+          "source": "Literary Hub",
+          "published": "2026-10-17T10:32:09.836354+03:30",
+          "original_url": "https://lithub.com/what-three-recent-films-reveal-about-how-we-view-poets-and-poetry/",
+          "subcategory": "essay",
+          "post_id": 407
+        },
+        {
           "id": "بازخوانیِ رازهایِ نقاشِ نور؛ نسخهٔ صوتیِ زندگینامهٔ یوهانس ورمر با صدای نویسنده",
           "title": "بازخوانیِ رازهایِ نقاشِ نور؛ نسخهٔ صوتیِ زندگینامهٔ یوهانس ورمر با صدای نویسنده",
           "source": "The Guardian Books",
@@ -3016,8 +3052,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 89
+      "item_count": 91
     }
   ],
-  "total_items": 165
+  "total_items": 167
 }

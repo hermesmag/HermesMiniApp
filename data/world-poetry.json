@@ -937,6 +937,18 @@
   ],
   "daily_poems": [
     {
+      "id": "the vacant lot",
+      "kind": "poem_of_day",
+      "title": "the vacant lot",
+      "author": "Gwendolyn Brooks",
+      "source": "Poetry Foundation",
+      "published": "2026-10-17T10:32:12.454965+03:30",
+      "telegraph_url": "https://telegra.ph/the-vacant-lot-10-17",
+      "post_id": 409,
+      "persian_translation": "ساختمان آجری سه طبقهٔ خانم کولی\nدیگر اینجا نیست.\nدیگر تمام شد دیدنِ جثهٔ چاق و کوچکش\nکه از در زیرزمین بیرون می‌زد؛\nو دیدنِ داماد افریقایی‌اش\n(وارث برحق تاج و تخت)\nبا دندان‌های چهارگوش، بزرگ، سپید، محکم و سردش\nو چشم‌های کوچک سنگی‌اش؛\nو دیدنِ دختر پهن و چاقش\nکه مردها را راه می‌داد\nوقتی اعلی‌حضرت برای آن روز رفته بود،\nو دوباره بیرونشان می‌فرستاد.",
+      "original_lines": "Mrs. Coley’s three-flat brick\nIsn’t here any more.\nAll done with seeing her fat little form\nBurst out of the basement door;\nAnd with seeing her African son-in-law\n(Rightful heir to the throne)\nWith his great white strong cold squares of teeth\nAnd his little eyes of stone;\nAnd with seeing the squat fat daughter\nLetting in the men\nWhen majesty has gone for the day—\nAnd letting them out again."
+    },
+    {
       "id": "A Black Man Talks of Reaping",
       "kind": "poem_of_day",
       "title": "A Black Man Talks of Reaping",
