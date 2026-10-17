@@ -439,6 +439,27 @@
       ]
     },
     {
+      "name": "Carlo Dolci",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_712539",
+          "title": "Saint Philip Neri (1515–1595)",
+          "artist": "Carlo Dolci",
+          "year": "1645 or 1646",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Baroque",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Italy",
+          "image_url": "https://lh3.googleusercontent.com/d/1D0T4AA5RA2cWg1ZB9HD1NeDhwIpbs19r",
+          "published": "2026-10-17T21:30:58.436234",
+          "original_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-944-001.jpg",
+          "post_id": 411
+        }
+      ]
+    },
+    {
       "name": "Christian Boltanski",
       "painting_count": 1,
       "paintings": [
