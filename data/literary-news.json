@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "تازه‌های جهان ترجمه؛ مرور آثار برجسته و متفاوت پاییز",
+          "title": "تازه‌های جهان ترجمه؛ مرور آثار برجسته و متفاوت پاییز",
+          "source": "Asymptote Journal",
+          "published": "2026-10-18T10:31:31.754429+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/10/12/whats-new-in-translation-october-2026/",
+          "subcategory": "world_lit",
+          "post_id": 415
+        },
+        {
+          "id": "«عامدانه ناتمام»؛ گفتگو با خاویر تابوادا دربارهٔ آنتولوژی شعر قارهٔ آمریکا",
+          "title": "«عامدانه ناتمام»؛ گفتگو با خاویر تابوادا دربارهٔ آنتولوژی شعر قارهٔ آمریکا",
+          "source": "Asymptote Journal",
+          "published": "2026-10-18T10:31:31.092671+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/10/15/deliberately-unfinished-an-interview-with-javier-taboada/",
+          "subcategory": "interview",
+          "post_id": 414
+        },
+        {
+          "id": "انتشار سه شعر از گژگوش وروبلفسکی با ترجمهٔ پیتر بوژینسکی",
+          "title": "انتشار سه شعر از گژگوش وروبلفسکی با ترجمهٔ پیتر بوژینسکی",
+          "source": "Asymptote Journal",
+          "published": "2026-10-18T10:31:30.380887+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/10/06/translation-tuesday-three-poems-by-grzegorz-wroblewski/",
+          "subcategory": "world_lit",
+          "post_id": 413
+        },
+        {
           "id": "شعری در رثای دوست؛ روایت جفری جی. اوبراین از تکوینِ «پرتو نور»",
           "title": "شعری در رثای دوست؛ روایت جفری جی. اوبراین از تکوینِ «پرتو نور»",
           "source": "The Paris Review",
@@ -1509,7 +1536,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 167
+      "item_count": 170
     },
     {
       "id": "report",
@@ -1632,6 +1659,15 @@
       "title_en": "Interviews",
       "title_fa": "✦ گفت‌وگو",
       "items": [
+        {
+          "id": "«عامدانه ناتمام»؛ گفتگو با خاویر تابوادا دربارهٔ آنتولوژی شعر قارهٔ آمریکا",
+          "title": "«عامدانه ناتمام»؛ گفتگو با خاویر تابوادا دربارهٔ آنتولوژی شعر قارهٔ آمریکا",
+          "source": "Asymptote Journal",
+          "published": "2026-10-18T10:31:31.092671+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/10/15/deliberately-unfinished-an-interview-with-javier-taboada/",
+          "subcategory": "interview",
+          "post_id": 414
+        },
         {
           "id": "گفت‌وگویی با یگانا جباروا و لیزا سی. هایدن پیرامون اثر نامزد جایزه ملی کتاب",
           "title": "گفت‌وگویی با یگانا جباروا و لیزا سی. هایدن پیرامون اثر نامزد جایزه ملی کتاب",
@@ -1759,7 +1795,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 14
+      "item_count": 15
     },
     {
       "id": "review",
@@ -1873,6 +1909,24 @@
       "title_en": "World Literature",
       "title_fa": "✦ ادبیات جهان",
       "items": [
+        {
+          "id": "تازه‌های جهان ترجمه؛ مرور آثار برجسته و متفاوت پاییز",
+          "title": "تازه‌های جهان ترجمه؛ مرور آثار برجسته و متفاوت پاییز",
+          "source": "Asymptote Journal",
+          "published": "2026-10-18T10:31:31.754429+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/10/12/whats-new-in-translation-october-2026/",
+          "subcategory": "world_lit",
+          "post_id": 415
+        },
+        {
+          "id": "انتشار سه شعر از گژگوش وروبلفسکی با ترجمهٔ پیتر بوژینسکی",
+          "title": "انتشار سه شعر از گژگوش وروبلفسکی با ترجمهٔ پیتر بوژینسکی",
+          "source": "Asymptote Journal",
+          "published": "2026-10-18T10:31:30.380887+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/10/06/translation-tuesday-three-poems-by-grzegorz-wroblewski/",
+          "subcategory": "world_lit",
+          "post_id": 413
+        },
         {
           "id": "خاکسترِ سیاه بر صفحاتِ خالی؛ سه شعر از آرندیس لوآ ماگنوسدوتیر",
           "title": "خاکسترِ سیاه بر صفحاتِ خالی؛ سه شعر از آرندیس لوآ ماگنوسدوتیر",
@@ -2225,7 +2279,7 @@
           "post_id": 8
         }
       ],
-      "item_count": 39
+      "item_count": 41
     },
     {
       "id": "essay",
@@ -3055,5 +3109,5 @@
       "item_count": 91
     }
   ],
-  "total_items": 167
+  "total_items": 170
 }
