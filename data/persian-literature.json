@@ -686,6 +686,51 @@
       ]
     },
     {
+      "name": "منوچهری دامغانی",
+      "item_count": 3,
+      "items": [
+        {
+          "id": "local://manuchehri/6",
+          "title": "شمارهٔ ۶",
+          "author": "منوچهری دامغانی",
+          "book": "دیوان منوچهری",
+          "form": "qasida",
+          "century": 5,
+          "char_count": 466,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 32,
+          "published": "2026-09-20T08:00:52.654941+03:30",
+          "post_id": 237
+        },
+        {
+          "id": "local://manuchehri/41",
+          "title": "شمارهٔ ۴۱",
+          "author": "منوچهری دامغانی",
+          "book": "دیوان منوچهری",
+          "form": "qasida",
+          "century": 5,
+          "char_count": 347,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 45,
+          "published": "2026-10-03T08:00:50.540079+03:30",
+          "post_id": 319
+        },
+        {
+          "id": "local://manuchehri/12",
+          "title": "شمارهٔ ۱۲",
+          "author": "منوچهری دامغانی",
+          "book": "دیوان منوچهری",
+          "form": "qasida",
+          "century": 5,
+          "char_count": 611,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 60,
+          "published": "2026-10-18T08:00:45.058332+03:30",
+          "post_id": 412
+        }
+      ]
+    },
+    {
       "name": "عطار نیشابوری",
       "item_count": 2,
       "items": [
@@ -746,38 +791,6 @@
           "day_of_year": 55,
           "published": "2026-10-13T08:00:50.065901+03:30",
           "post_id": 379
-        }
-      ]
-    },
-    {
-      "name": "منوچهری دامغانی",
-      "item_count": 2,
-      "items": [
-        {
-          "id": "local://manuchehri/6",
-          "title": "شمارهٔ ۶",
-          "author": "منوچهری دامغانی",
-          "book": "دیوان منوچهری",
-          "form": "qasida",
-          "century": 5,
-          "char_count": 466,
-          "familiarity_tier": "Rediscovery Masterpiece",
-          "day_of_year": 32,
-          "published": "2026-09-20T08:00:52.654941+03:30",
-          "post_id": 237
-        },
-        {
-          "id": "local://manuchehri/41",
-          "title": "شمارهٔ ۴۱",
-          "author": "منوچهری دامغانی",
-          "book": "دیوان منوچهری",
-          "form": "qasida",
-          "century": 5,
-          "char_count": 347,
-          "familiarity_tier": "Rediscovery Masterpiece",
-          "day_of_year": 45,
-          "published": "2026-10-03T08:00:50.540079+03:30",
-          "post_id": 319
         }
       ]
     },
