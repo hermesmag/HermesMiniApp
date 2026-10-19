@@ -769,6 +769,27 @@
       ]
     },
     {
+      "name": "Hans Hofmann",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_15156",
+          "title": "The Golden Wall",
+          "artist": "Hans Hofmann",
+          "year": "1961",
+          "museum": "Art Institute of Chicago",
+          "movement": "Abstract Expressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1pAjOSmd3IUF0SN4OD_ryInGlw2J6minU",
+          "published": "2026-10-19T21:31:01.595986",
+          "original_url": "https://www.artic.edu/iiif/2/1fdbfe10-de4e-63a9-1bfd-04facf08d54d/full/900,/0/default.jpg",
+          "post_id": 423
+        }
+      ]
+    },
+    {
       "name": "Hasan al-Qashani",
       "painting_count": 1,
       "paintings": [
