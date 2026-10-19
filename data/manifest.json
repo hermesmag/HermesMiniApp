@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "updated": "2026-10-18T21:30:57.393112+03:30",
+  "updated": "2026-10-19T08:00:49.708816+03:30",
   "stats": {
     "world_poetry": 69,
     "painting": 59,
-    "persian_literature": 60,
+    "persian_literature": 61,
     "literary_news": 170
   },
   "categories": [
@@ -33,7 +33,7 @@
       "slug": "persian-literature",
       "title_en": "Persian Literature",
       "title_fa": "ادبیات فارسی",
-      "count": 60,
+      "count": 61,
       "source": "data/persian-literature.json"
     }
   ]

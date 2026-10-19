@@ -235,7 +235,7 @@
     },
     {
       "name": "حافظ شیرازی",
-      "item_count": 6,
+      "item_count": 7,
       "items": [
         {
           "id": "local://hafez/436",
@@ -314,6 +314,19 @@
           "day_of_year": 56,
           "published": "2026-10-14T08:00:48.174951+03:30",
           "post_id": 385
+        },
+        {
+          "id": "local://hafez/383",
+          "title": "غزل شمارهٔ ۳۸۳",
+          "author": "حافظ شیرازی",
+          "book": "دیوان حافظ",
+          "form": "ghazal",
+          "century": 8,
+          "char_count": 317,
+          "familiarity_tier": "Known Masterpiece",
+          "day_of_year": 61,
+          "published": "2026-10-19T08:00:49.708816+03:30",
+          "post_id": 418
         }
       ]
     },
