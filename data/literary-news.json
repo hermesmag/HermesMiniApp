@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "پیتر براون در ده‌سالگی «ربات وحشی»: ادبیات کودک، تمرینی برای امیدواری است",
+          "title": "پیتر براون در ده‌سالگی «ربات وحشی»: ادبیات کودک، تمرینی برای امیدواری است",
+          "source": "Literary Hub",
+          "published": "2026-10-19T10:35:08.051175+03:30",
+          "original_url": "https://lithub.com/the-wild-robot-author-peter-brown-on-what-makes-a-great-read-aloud-book/",
+          "subcategory": "essay",
+          "post_id": 421
+        },
+        {
+          "id": "نامهٔ عاشقانهٔ الیف شافاک به ادبیات؛ رمان تازهٔ نویسندهٔ سرشناس دربارهٔ زندگی فلوبیر",
+          "title": "نامهٔ عاشقانهٔ الیف شافاک به ادبیات؛ رمان تازهٔ نویسندهٔ سرشناس دربارهٔ زندگی فلوبیر",
+          "source": "The Guardian Books",
+          "published": "2026-10-19T10:35:06.360231+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/17/is-there-any-value-in-writing-a-story-in-a-time-of-chaos-novelist-elif-shafak-on-her-creative-crisis",
+          "subcategory": "essay",
+          "post_id": 420
+        },
+        {
+          "id": "دور از چشم جهانیان: میراثِ ترجمه‌نشدهٔ زنان نویسندهٔ کویت",
+          "title": "دور از چشم جهانیان: میراثِ ترجمه‌نشدهٔ زنان نویسندهٔ کویت",
+          "source": "Asymptote Journal",
+          "published": "2026-10-19T10:35:04.783068+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/10/08/out-of-sight-the-untranslated-bookshelf-of-kuwaiti-women-writers/",
+          "subcategory": "world_lit",
+          "post_id": 419
+        },
+        {
           "id": "تازه‌های جهان ترجمه؛ مرور آثار برجسته و متفاوت پاییز",
           "title": "تازه‌های جهان ترجمه؛ مرور آثار برجسته و متفاوت پاییز",
           "source": "Asymptote Journal",
@@ -1536,7 +1563,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 170
+      "item_count": 173
     },
     {
       "id": "report",
@@ -1910,6 +1937,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "دور از چشم جهانیان: میراثِ ترجمه‌نشدهٔ زنان نویسندهٔ کویت",
+          "title": "دور از چشم جهانیان: میراثِ ترجمه‌نشدهٔ زنان نویسندهٔ کویت",
+          "source": "Asymptote Journal",
+          "published": "2026-10-19T10:35:04.783068+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/10/08/out-of-sight-the-untranslated-bookshelf-of-kuwaiti-women-writers/",
+          "subcategory": "world_lit",
+          "post_id": 419
+        },
+        {
           "id": "تازه‌های جهان ترجمه؛ مرور آثار برجسته و متفاوت پاییز",
           "title": "تازه‌های جهان ترجمه؛ مرور آثار برجسته و متفاوت پاییز",
           "source": "Asymptote Journal",
@@ -2279,13 +2315,31 @@
           "post_id": 8
         }
       ],
-      "item_count": 41
+      "item_count": 42
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "پیتر براون در ده‌سالگی «ربات وحشی»: ادبیات کودک، تمرینی برای امیدواری است",
+          "title": "پیتر براون در ده‌سالگی «ربات وحشی»: ادبیات کودک، تمرینی برای امیدواری است",
+          "source": "Literary Hub",
+          "published": "2026-10-19T10:35:08.051175+03:30",
+          "original_url": "https://lithub.com/the-wild-robot-author-peter-brown-on-what-makes-a-great-read-aloud-book/",
+          "subcategory": "essay",
+          "post_id": 421
+        },
+        {
+          "id": "نامهٔ عاشقانهٔ الیف شافاک به ادبیات؛ رمان تازهٔ نویسندهٔ سرشناس دربارهٔ زندگی فلوبیر",
+          "title": "نامهٔ عاشقانهٔ الیف شافاک به ادبیات؛ رمان تازهٔ نویسندهٔ سرشناس دربارهٔ زندگی فلوبیر",
+          "source": "The Guardian Books",
+          "published": "2026-10-19T10:35:06.360231+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/17/is-there-any-value-in-writing-a-story-in-a-time-of-chaos-novelist-elif-shafak-on-her-creative-crisis",
+          "subcategory": "essay",
+          "post_id": 420
+        },
         {
           "id": "شعری در رثای دوست؛ روایت جفری جی. اوبراین از تکوینِ «پرتو نور»",
           "title": "شعری در رثای دوست؛ روایت جفری جی. اوبراین از تکوینِ «پرتو نور»",
@@ -3106,8 +3160,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 91
+      "item_count": 93
     }
   ],
-  "total_items": 170
+  "total_items": 173
 }
