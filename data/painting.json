@@ -622,6 +622,27 @@
       ]
     },
     {
+      "name": "Egon Schiele",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_25383",
+          "title": "Self-Portrait (recto); Female Nude Reclining (verso)",
+          "artist": "Egon Schiele",
+          "year": "1913",
+          "museum": "Art Institute of Chicago",
+          "movement": "Expressionism",
+          "medium": "Graphite with oil paint on ivory wove paper",
+          "art_form": "طراحی و چاپ",
+          "country": "Austria",
+          "image_url": "https://lh3.googleusercontent.com/d/1gFrwwDpANRCeOEJkRrj_n6ttq6ruaPWS",
+          "published": "2026-10-20T21:30:59.617801",
+          "original_url": "https://www.artic.edu/iiif/2/128c10f1-7327-eaf0-acd4-b49f265c201e/full/900,/0/default.jpg",
+          "post_id": 429
+        }
+      ]
+    },
+    {
       "name": "El Greco",
       "painting_count": 1,
       "paintings": [
