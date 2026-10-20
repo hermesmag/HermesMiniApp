@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "تابستان بی‌پایان؛ بازخوانی رمان «الیزابت» نوشتهٔ اریک رومر",
+          "title": "تابستان بی‌پایان؛ بازخوانی رمان «الیزابت» نوشتهٔ اریک رومر",
+          "source": "Asymptote Journal",
+          "published": "2026-10-20T10:31:50.527903+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/10/14/endless-summer-on-eric-rohmers-elisabeth/",
+          "subcategory": "world_lit",
+          "post_id": 427
+        },
+        {
+          "id": "از تنهایی نویسنده تا هراس منتقدان از اندیشه؛ بازگشایی گفت‌وگوهای جان اشتاین‌بک در پاریس ریویو",
+          "title": "از تنهایی نویسنده تا هراس منتقدان از اندیشه؛ بازگشایی گفت‌وگوهای جان اشتاین‌بک در پاریس ریویو",
+          "source": "The Paris Review",
+          "published": "2026-10-20T10:31:49.900145+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/19/john-steinbeck-art-of-fiction-east-of-eden/",
+          "subcategory": "essay",
+          "post_id": 426
+        },
+        {
+          "id": "راهنمای گیاه‌شناسی جهان ادبی خواهران برونته؛ نگاهی تازه به اقلیم یورک‌شر",
+          "title": "راهنمای گیاه‌شناسی جهان ادبی خواهران برونته؛ نگاهی تازه به اقلیم یورک‌شر",
+          "source": "Literary Hub",
+          "published": "2026-10-20T10:31:47.931441+03:30",
+          "original_url": "https://lithub.com/a-field-guide-to-the-brontes-literary-universe/",
+          "subcategory": "essay",
+          "post_id": 425
+        },
+        {
           "id": "پیتر براون در ده‌سالگی «ربات وحشی»: ادبیات کودک، تمرینی برای امیدواری است",
           "title": "پیتر براون در ده‌سالگی «ربات وحشی»: ادبیات کودک، تمرینی برای امیدواری است",
           "source": "Literary Hub",
@@ -1563,7 +1590,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 173
+      "item_count": 176
     },
     {
       "id": "report",
@@ -1937,6 +1964,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "تابستان بی‌پایان؛ بازخوانی رمان «الیزابت» نوشتهٔ اریک رومر",
+          "title": "تابستان بی‌پایان؛ بازخوانی رمان «الیزابت» نوشتهٔ اریک رومر",
+          "source": "Asymptote Journal",
+          "published": "2026-10-20T10:31:50.527903+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/10/14/endless-summer-on-eric-rohmers-elisabeth/",
+          "subcategory": "world_lit",
+          "post_id": 427
+        },
+        {
           "id": "دور از چشم جهانیان: میراثِ ترجمه‌نشدهٔ زنان نویسندهٔ کویت",
           "title": "دور از چشم جهانیان: میراثِ ترجمه‌نشدهٔ زنان نویسندهٔ کویت",
           "source": "Asymptote Journal",
@@ -2315,13 +2351,31 @@
           "post_id": 8
         }
       ],
-      "item_count": 42
+      "item_count": 43
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "از تنهایی نویسنده تا هراس منتقدان از اندیشه؛ بازگشایی گفت‌وگوهای جان اشتاین‌بک در پاریس ریویو",
+          "title": "از تنهایی نویسنده تا هراس منتقدان از اندیشه؛ بازگشایی گفت‌وگوهای جان اشتاین‌بک در پاریس ریویو",
+          "source": "The Paris Review",
+          "published": "2026-10-20T10:31:49.900145+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/19/john-steinbeck-art-of-fiction-east-of-eden/",
+          "subcategory": "essay",
+          "post_id": 426
+        },
+        {
+          "id": "راهنمای گیاه‌شناسی جهان ادبی خواهران برونته؛ نگاهی تازه به اقلیم یورک‌شر",
+          "title": "راهنمای گیاه‌شناسی جهان ادبی خواهران برونته؛ نگاهی تازه به اقلیم یورک‌شر",
+          "source": "Literary Hub",
+          "published": "2026-10-20T10:31:47.931441+03:30",
+          "original_url": "https://lithub.com/a-field-guide-to-the-brontes-literary-universe/",
+          "subcategory": "essay",
+          "post_id": 425
+        },
         {
           "id": "پیتر براون در ده‌سالگی «ربات وحشی»: ادبیات کودک، تمرینی برای امیدواری است",
           "title": "پیتر براون در ده‌سالگی «ربات وحشی»: ادبیات کودک، تمرینی برای امیدواری است",
@@ -3160,8 +3214,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 93
+      "item_count": 95
     }
   ],
-  "total_items": 173
+  "total_items": 176
 }
