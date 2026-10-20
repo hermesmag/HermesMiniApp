@@ -750,6 +750,25 @@
       ]
     },
     {
+      "name": "Anna Akhmatova",
+      "name_fa": "شاعر آکمه‌ئیست روس (۱۸۸۹–۱۹۶۶)؛ با زبانی سخت پیراسته، عینی و موجز، شهادت‌نامه‌ای تاریخی از رنج‌های جمعی، سوگ یاران و مقاومت در برابر استبداد بنا می‌کند.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-063",
+          "title": "Everything",
+          "title_original": "Everything",
+          "original_language": "Russian",
+          "epoch": "",
+          "book": "Anno Domini MCMXXI (1921)",
+          "translator": "[Various Translators / Unknown]",
+          "published": "2026-10-20T18:00:52.757785+03:30",
+          "telegraph_url": "https://telegra.ph/همه‌چیز-به-تاراج-رفته-خیانت-دیده-فروخته-شده-است-10-20",
+          "post_id": 428
+        }
+      ]
+    },
+    {
       "name": "Arnaut Daniel",
       "name_fa": "شاعر تروبادور اکسیتانی قرون وسطی (۱۱۵۰–۱۲۱۰ میلادی)، ابداع‌کننده فرم سستینا و استاد شعر غنایی",
       "poem_count": 1,
