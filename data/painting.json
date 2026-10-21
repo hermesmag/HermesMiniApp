@@ -454,6 +454,27 @@
       ]
     },
     {
+      "name": "Barnett Newman",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_97714",
+          "title": "Canto II, from 18 Cantos",
+          "artist": "Barnett Newman",
+          "year": "1963",
+          "museum": "Art Institute of Chicago",
+          "movement": "Color Field Painting",
+          "medium": "Lithograph on paper",
+          "art_form": "طراحی و چاپ",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1xEtIgp2v3aVK9pI4s2VA4CyL-AZcSAL1",
+          "published": "2026-10-21T21:31:03.637260",
+          "original_url": "https://www.artic.edu/iiif/2/4b38e975-56a7-6fdf-4ea3-323738be2b37/full/900,/0/default.jpg",
+          "post_id": 435
+        }
+      ]
+    },
+    {
       "name": "Caravaggio",
       "painting_count": 1,
       "paintings": [
