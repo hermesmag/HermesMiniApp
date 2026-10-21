@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "گریزِ دائم: نگاهی به اثر تازهٔ خوان پابلو وییالوبوس",
+          "title": "گریزِ دائم: نگاهی به اثر تازهٔ خوان پابلو وییالوبوس",
+          "source": "Asymptote Journal",
+          "published": "2026-10-21T10:33:59.837256+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/10/19/forever-on-the-run-a-review-of-the-past-pursues-us-like-detectives-debt-collectors-thieves-by-juan-pablo-villalobos/",
+          "subcategory": "review",
+          "post_id": 433
+        },
+        {
+          "id": "معرفی نامزدهای نهایی جایزهٔ رمان اول «سنتر فور فیکشن» در سال ۲۰۲۶",
+          "title": "معرفی نامزدهای نهایی جایزهٔ رمان اول «سنتر فور فیکشن» در سال ۲۰۲۶",
+          "source": "Literary Hub",
+          "published": "2026-10-21T10:33:59.268755+03:30",
+          "original_url": "https://lithub.com/meet-the-best-debut-novelists-of-2026/",
+          "subcategory": "essay",
+          "post_id": 432
+        },
+        {
+          "id": "تراژدی هستی؛ روایتی تازه از لندنِ لویی فردینان سلین",
+          "title": "تراژدی هستی؛ روایتی تازه از لندنِ لویی فردینان سلین",
+          "source": "World Literature Today",
+          "published": "2026-10-21T10:33:57.135759+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/book-reviews/tragedy-existence-louis-ferdinand-celines-london-ramtin-ebrahimi",
+          "subcategory": "world_lit",
+          "post_id": 431
+        },
+        {
           "id": "تابستان بی‌پایان؛ بازخوانی رمان «الیزابت» نوشتهٔ اریک رومر",
           "title": "تابستان بی‌پایان؛ بازخوانی رمان «الیزابت» نوشتهٔ اریک رومر",
           "source": "Asymptote Journal",
@@ -1590,7 +1617,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 176
+      "item_count": 179
     },
     {
       "id": "report",
@@ -1857,6 +1884,15 @@
       "title_fa": "✦ معرفی کتاب",
       "items": [
         {
+          "id": "گریزِ دائم: نگاهی به اثر تازهٔ خوان پابلو وییالوبوس",
+          "title": "گریزِ دائم: نگاهی به اثر تازهٔ خوان پابلو وییالوبوس",
+          "source": "Asymptote Journal",
+          "published": "2026-10-21T10:33:59.837256+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/10/19/forever-on-the-run-a-review-of-the-past-pursues-us-like-detectives-debt-collectors-thieves-by-juan-pablo-villalobos/",
+          "subcategory": "review",
+          "post_id": 433
+        },
+        {
           "id": "انتشار شعر تازهٔ اریک اَملینگ از مجموعهٔ جدیدش",
           "title": "انتشار شعر تازهٔ اریک اَملینگ از مجموعهٔ جدیدش",
           "source": "Literary Hub",
@@ -1956,13 +1992,22 @@
           "post_id": 49
         }
       ],
-      "item_count": 11
+      "item_count": 12
     },
     {
       "id": "world_lit",
       "title_en": "World Literature",
       "title_fa": "✦ ادبیات جهان",
       "items": [
+        {
+          "id": "تراژدی هستی؛ روایتی تازه از لندنِ لویی فردینان سلین",
+          "title": "تراژدی هستی؛ روایتی تازه از لندنِ لویی فردینان سلین",
+          "source": "World Literature Today",
+          "published": "2026-10-21T10:33:57.135759+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/book-reviews/tragedy-existence-louis-ferdinand-celines-london-ramtin-ebrahimi",
+          "subcategory": "world_lit",
+          "post_id": 431
+        },
         {
           "id": "تابستان بی‌پایان؛ بازخوانی رمان «الیزابت» نوشتهٔ اریک رومر",
           "title": "تابستان بی‌پایان؛ بازخوانی رمان «الیزابت» نوشتهٔ اریک رومر",
@@ -2351,13 +2396,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 43
+      "item_count": 44
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "معرفی نامزدهای نهایی جایزهٔ رمان اول «سنتر فور فیکشن» در سال ۲۰۲۶",
+          "title": "معرفی نامزدهای نهایی جایزهٔ رمان اول «سنتر فور فیکشن» در سال ۲۰۲۶",
+          "source": "Literary Hub",
+          "published": "2026-10-21T10:33:59.268755+03:30",
+          "original_url": "https://lithub.com/meet-the-best-debut-novelists-of-2026/",
+          "subcategory": "essay",
+          "post_id": 432
+        },
         {
           "id": "از تنهایی نویسنده تا هراس منتقدان از اندیشه؛ بازگشایی گفت‌وگوهای جان اشتاین‌بک در پاریس ریویو",
           "title": "از تنهایی نویسنده تا هراس منتقدان از اندیشه؛ بازگشایی گفت‌وگوهای جان اشتاین‌بک در پاریس ریویو",
@@ -3214,8 +3268,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 95
+      "item_count": 96
     }
   ],
-  "total_items": 176
+  "total_items": 179
 }
