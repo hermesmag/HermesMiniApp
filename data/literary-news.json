@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "«فراز»؛ انتشار سروده‌ای تازه از لیندزی ترنر از دفترِ پیشِ‌روی «شیب میانی»",
+          "title": "«فراز»؛ انتشار سروده‌ای تازه از لیندزی ترنر از دفترِ پیشِ‌روی «شیب میانی»",
+          "source": "Literary Hub",
+          "published": "2026-10-22T10:32:11.865023+03:30",
+          "original_url": "https://lithub.com/elevation-a-poem-by-lindsay-turner/",
+          "subcategory": "review",
+          "post_id": 439
+        },
+        {
+          "id": "انتشار دو شعر تازه از دالیا طه؛ تاملی بر حیات، شعر و اشغال در رام‌الله",
+          "title": "انتشار دو شعر تازه از دالیا طه؛ تاملی بر حیات، شعر و اشغال در رام‌الله",
+          "source": "The Common",
+          "published": "2026-10-22T10:32:10.349433+03:30",
+          "original_url": "https://www.thecommononline.org/two-poems-by-dalia-taha-translated-by-sara-elkamel/",
+          "subcategory": "world_lit",
+          "post_id": 438
+        },
+        {
+          "id": "رمان «آدیشن» نوشتهٔ پیپ آدام برندهٔ جایزهٔ داستانی اورسولا کی. لو گویین شد",
+          "title": "رمان «آدیشن» نوشتهٔ پیپ آدام برندهٔ جایزهٔ داستانی اورسولا کی. لو گویین شد",
+          "source": "Literary Hub",
+          "published": "2026-10-22T10:32:08.387854+03:30",
+          "original_url": "https://lithub.com/pip-adam-has-won-the-2026-ursula-k-le-guin-prize-for-fiction/",
+          "subcategory": "report",
+          "post_id": 437
+        },
+        {
           "id": "گریزِ دائم: نگاهی به اثر تازهٔ خوان پابلو وییالوبوس",
           "title": "گریزِ دائم: نگاهی به اثر تازهٔ خوان پابلو وییالوبوس",
           "source": "Asymptote Journal",
@@ -1617,13 +1644,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 179
+      "item_count": 182
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "رمان «آدیشن» نوشتهٔ پیپ آدام برندهٔ جایزهٔ داستانی اورسولا کی. لو گویین شد",
+          "title": "رمان «آدیشن» نوشتهٔ پیپ آدام برندهٔ جایزهٔ داستانی اورسولا کی. لو گویین شد",
+          "source": "Literary Hub",
+          "published": "2026-10-22T10:32:08.387854+03:30",
+          "original_url": "https://lithub.com/pip-adam-has-won-the-2026-ursula-k-le-guin-prize-for-fiction/",
+          "subcategory": "report",
+          "post_id": 437
+        },
         {
           "id": "شبی در فرانکفورت؛ ادای احترام به هنر ترجمه در ضیافت «لدیگ-روولت»",
           "title": "شبی در فرانکفورت؛ ادای احترام به هنر ترجمه در ضیافت «لدیگ-روولت»",
@@ -1733,7 +1769,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 12
+      "item_count": 13
     },
     {
       "id": "interview",
@@ -1884,6 +1920,15 @@
       "title_fa": "✦ معرفی کتاب",
       "items": [
         {
+          "id": "«فراز»؛ انتشار سروده‌ای تازه از لیندزی ترنر از دفترِ پیشِ‌روی «شیب میانی»",
+          "title": "«فراز»؛ انتشار سروده‌ای تازه از لیندزی ترنر از دفترِ پیشِ‌روی «شیب میانی»",
+          "source": "Literary Hub",
+          "published": "2026-10-22T10:32:11.865023+03:30",
+          "original_url": "https://lithub.com/elevation-a-poem-by-lindsay-turner/",
+          "subcategory": "review",
+          "post_id": 439
+        },
+        {
           "id": "گریزِ دائم: نگاهی به اثر تازهٔ خوان پابلو وییالوبوس",
           "title": "گریزِ دائم: نگاهی به اثر تازهٔ خوان پابلو وییالوبوس",
           "source": "Asymptote Journal",
@@ -1992,13 +2037,22 @@
           "post_id": 49
         }
       ],
-      "item_count": 12
+      "item_count": 13
     },
     {
       "id": "world_lit",
       "title_en": "World Literature",
       "title_fa": "✦ ادبیات جهان",
       "items": [
+        {
+          "id": "انتشار دو شعر تازه از دالیا طه؛ تاملی بر حیات، شعر و اشغال در رام‌الله",
+          "title": "انتشار دو شعر تازه از دالیا طه؛ تاملی بر حیات، شعر و اشغال در رام‌الله",
+          "source": "The Common",
+          "published": "2026-10-22T10:32:10.349433+03:30",
+          "original_url": "https://www.thecommononline.org/two-poems-by-dalia-taha-translated-by-sara-elkamel/",
+          "subcategory": "world_lit",
+          "post_id": 438
+        },
         {
           "id": "تراژدی هستی؛ روایتی تازه از لندنِ لویی فردینان سلین",
           "title": "تراژدی هستی؛ روایتی تازه از لندنِ لویی فردینان سلین",
@@ -2396,7 +2450,7 @@
           "post_id": 8
         }
       ],
-      "item_count": 44
+      "item_count": 45
     },
     {
       "id": "essay",
@@ -3271,5 +3325,5 @@
       "item_count": 96
     }
   ],
-  "total_items": 179
+  "total_items": 182
 }
