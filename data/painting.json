@@ -1084,6 +1084,27 @@
       ]
     },
     {
+      "name": "Saint-Cloud factory",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_200840",
+          "title": "Glass cooler (seau à verre)",
+          "artist": "Saint-Cloud factory",
+          "year": "ca. 1725–30",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Chinoiserie",
+          "medium": "Soft-paste porcelain decorated in polychrome enamels, gold",
+          "art_form": "مجسمه‌سازی",
+          "country": "France",
+          "image_url": "https://lh3.googleusercontent.com/d/1TWpTDrUsbzhpVla-jJTJPdi0onWCERaz",
+          "published": "2026-10-22T21:31:02.702296",
+          "original_url": "https://images.metmuseum.org/CRDImages/es/original/DP169174.jpg",
+          "post_id": 441
+        }
+      ]
+    },
+    {
       "name": "Shunk-Kender",
       "painting_count": 1,
       "paintings": [
