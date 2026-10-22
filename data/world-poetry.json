@@ -82,7 +82,7 @@
     {
       "name": "Arthur Rimbaud",
       "name_fa": "شاعر عصیانگر فرانسوی (۱۸۵۴–۱۸۹۱)؛ با زبانی سرکش و تصاویری هذیانی-اشراقی، سامان قراردادی حواس را برهم می‌زند و از مرزهای عقلانیت مستقر فراتر می‌رود.",
-      "poem_count": 2,
+      "poem_count": 3,
       "poems": [
         {
           "id": "WP-Y1-DAY-002",
@@ -107,6 +107,18 @@
           "published": "2026-09-21T19:11:16.969309+03:30",
           "telegraph_url": "https://telegra.ph/Evening-Prayer-09-21",
           "post_id": 247
+        },
+        {
+          "id": "WP-Y1-DAY-065",
+          "title": "The Seated Ones",
+          "title_original": "Les Assis",
+          "original_language": "French",
+          "epoch": "",
+          "book": "Poésies (1871)",
+          "translator": "Paul Schmidt",
+          "published": "2026-10-22T18:00:55.759902+03:30",
+          "telegraph_url": "https://telegra.ph/نشستگان-10-22",
+          "post_id": 440
         }
       ]
     },
