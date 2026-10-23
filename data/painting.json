@@ -154,6 +154,42 @@
       ]
     },
     {
+      "name": "David Hockney",
+      "painting_count": 2,
+      "paintings": [
+        {
+          "id": "artic_121211",
+          "title": "Telephone Pole, Los Angeles, California",
+          "artist": "David Hockney",
+          "year": "September 1982",
+          "museum": "Art Institute of Chicago",
+          "movement": "Contemporary Art",
+          "medium": "Photocollage (chromogenic prints)",
+          "art_form": "عکاسی",
+          "country": "United Kingdom",
+          "image_url": "https://lh3.googleusercontent.com/d/1-WKMxQxTsu-DS813oIA0nrODoTzpbWXw",
+          "published": "2026-10-09T21:30:58.884929",
+          "original_url": "https://www.artic.edu/iiif/2/ce749b07-e0fd-70cb-f24e-ca4ab40e93dd/full/900,/0/default.jpg",
+          "post_id": 360
+        },
+        {
+          "id": "artic_100864",
+          "title": "Sunday Morning, Mayflower Hotel, N.Y.",
+          "artist": "David Hockney",
+          "year": "November 28, 1983",
+          "museum": "Art Institute of Chicago",
+          "movement": "Contemporary Art",
+          "medium": "Photographic collage",
+          "art_form": "عکاسی",
+          "country": "United Kingdom",
+          "image_url": "https://lh3.googleusercontent.com/d/1-a9CfG8PB2EGdTZSBD0Np5yPePGdDAkT",
+          "published": "2026-10-23T21:31:02.452770",
+          "original_url": "https://www.artic.edu/iiif/2/c04a376f-23fc-65da-bc10-6af4b77f120a/full/900,/0/default.jpg",
+          "post_id": 446
+        }
+      ]
+    },
+    {
       "name": "Gustav Klimt",
       "painting_count": 2,
       "paintings": [
@@ -597,27 +633,6 @@
           "published": "2026-09-24T21:31:04.654042",
           "original_url": "https://images.metmuseum.org/CRDImages/is/original/DP240367.jpg",
           "post_id": 267
-        }
-      ]
-    },
-    {
-      "name": "David Hockney",
-      "painting_count": 1,
-      "paintings": [
-        {
-          "id": "artic_121211",
-          "title": "Telephone Pole, Los Angeles, California",
-          "artist": "David Hockney",
-          "year": "September 1982",
-          "museum": "Art Institute of Chicago",
-          "movement": "Contemporary Art",
-          "medium": "Photocollage (chromogenic prints)",
-          "art_form": "عکاسی",
-          "country": "United Kingdom",
-          "image_url": "https://lh3.googleusercontent.com/d/1-WKMxQxTsu-DS813oIA0nrODoTzpbWXw",
-          "published": "2026-10-09T21:30:58.884929",
-          "original_url": "https://www.artic.edu/iiif/2/ce749b07-e0fd-70cb-f24e-ca4ab40e93dd/full/900,/0/default.jpg",
-          "post_id": 360
         }
       ]
     },
