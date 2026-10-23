@@ -850,6 +850,25 @@
       ]
     },
     {
+      "name": "Boris Pasternak",
+      "name_fa": "شاعر و رمان‌نویس روس (۱۸۹۰–۱۹۶۰)؛ با تصاویری سرشار از سرزندگی کیهانی، پیوند ژرف جان آدمی با طبیعت و مواجههٔ وجدان فردی با تندباد تاریخ را ترسیم می‌کند.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-066",
+          "title": "Winter Night",
+          "title_original": "Winter Night",
+          "original_language": "Russian",
+          "epoch": "",
+          "book": "Doctor Zhivago (Poems of Yuri Zhivago, 1957)",
+          "translator": "[Various Translators / Unknown]",
+          "published": "2026-10-23T18:00:56.151797+03:30",
+          "telegraph_url": "https://telegra.ph/شب-زمستانی-10-23",
+          "post_id": 445
+        }
+      ]
+    },
+    {
       "name": "E. E. Cummings",
       "name_fa": "شاعر نوآور آمریکایی (۱۸۹۴–۱۹۶۲)؛ با هنجارگریزی در نحو، رسم‌الخط و ساختار بصری صفحه، ستایش‌گر فردیت رها، شورمندی عشق و شگفتی‌های بدوی جهان است.",
       "poem_count": 1,
