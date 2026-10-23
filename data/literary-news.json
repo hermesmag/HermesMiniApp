@@ -6,6 +6,24 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "روایتی عریان از اسکاتلندِ حاشیه‌ای در رمان «فقط اینجا، فقط حالا»",
+          "title": "روایتی عریان از اسکاتلندِ حاشیه‌ای در رمان «فقط اینجا، فقط حالا»",
+          "source": "World Literature Today",
+          "published": "2026-10-23T10:31:42.270586+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/book-reviews/not-your-neurotypical-scotland-tom-newlandss-only-here-only-now-chris-arthur",
+          "subcategory": "world_lit",
+          "post_id": 444
+        },
+        {
+          "id": "ویژه‌نامهٔ شعر اکتبر ۲۰۲۶: بازخوانی آثاری از دیوید باربر و دیوید لمان",
+          "title": "ویژه‌نامهٔ شعر اکتبر ۲۰۲۶: بازخوانی آثاری از دیوید باربر و دیوید لمان",
+          "source": "The Common",
+          "published": "2026-10-23T10:31:40.386553+03:30",
+          "original_url": "https://www.thecommononline.org/october-2026-poetry-feature/",
+          "subcategory": "essay",
+          "post_id": 443
+        },
+        {
           "id": "«فراز»؛ انتشار سروده‌ای تازه از لیندزی ترنر از دفترِ پیشِ‌روی «شیب میانی»",
           "title": "«فراز»؛ انتشار سروده‌ای تازه از لیندزی ترنر از دفترِ پیشِ‌روی «شیب میانی»",
           "source": "Literary Hub",
@@ -1644,7 +1662,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 182
+      "item_count": 184
     },
     {
       "id": "report",
@@ -2045,6 +2063,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "روایتی عریان از اسکاتلندِ حاشیه‌ای در رمان «فقط اینجا، فقط حالا»",
+          "title": "روایتی عریان از اسکاتلندِ حاشیه‌ای در رمان «فقط اینجا، فقط حالا»",
+          "source": "World Literature Today",
+          "published": "2026-10-23T10:31:42.270586+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/book-reviews/not-your-neurotypical-scotland-tom-newlandss-only-here-only-now-chris-arthur",
+          "subcategory": "world_lit",
+          "post_id": 444
+        },
+        {
           "id": "انتشار دو شعر تازه از دالیا طه؛ تاملی بر حیات، شعر و اشغال در رام‌الله",
           "title": "انتشار دو شعر تازه از دالیا طه؛ تاملی بر حیات، شعر و اشغال در رام‌الله",
           "source": "The Common",
@@ -2450,13 +2477,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 45
+      "item_count": 46
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "ویژه‌نامهٔ شعر اکتبر ۲۰۲۶: بازخوانی آثاری از دیوید باربر و دیوید لمان",
+          "title": "ویژه‌نامهٔ شعر اکتبر ۲۰۲۶: بازخوانی آثاری از دیوید باربر و دیوید لمان",
+          "source": "The Common",
+          "published": "2026-10-23T10:31:40.386553+03:30",
+          "original_url": "https://www.thecommononline.org/october-2026-poetry-feature/",
+          "subcategory": "essay",
+          "post_id": 443
+        },
         {
           "id": "معرفی نامزدهای نهایی جایزهٔ رمان اول «سنتر فور فیکشن» در سال ۲۰۲۶",
           "title": "معرفی نامزدهای نهایی جایزهٔ رمان اول «سنتر فور فیکشن» در سال ۲۰۲۶",
@@ -3322,8 +3358,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 96
+      "item_count": 97
     }
   ],
-  "total_items": 182
+  "total_items": 184
 }
