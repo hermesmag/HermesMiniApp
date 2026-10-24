@@ -125,7 +125,7 @@
     {
       "name": "Charles Baudelaire",
       "name_fa": "شاعر و نظریه‌پرداز فرانسوی (۱۸۲۱–۱۸۶۷)؛ در بستر قالب‌های استوار کلاسیک، ملال جان‌کاه مدرنیته، زوال شهری و زایش زیبایی از دل شر و تباهی را عیان می‌سازد.",
-      "poem_count": 2,
+      "poem_count": 3,
       "poems": [
         {
           "id": "WP-Y1-DAY-004",
@@ -150,6 +150,18 @@
           "published": "2026-09-22T18:01:35.847907+03:30",
           "telegraph_url": "https://telegra.ph/The-Beacons-09-22",
           "post_id": 253
+        },
+        {
+          "id": "WP-Y1-DAY-067",
+          "title": "The Sadness Of The Moon",
+          "title_original": "The Sadness Of The Moon",
+          "original_language": "French",
+          "epoch": "",
+          "book": "Les Fleurs du mal (1857)",
+          "translator": "F.P. Sturm",
+          "published": "2026-10-24T18:00:51.629557+03:30",
+          "telegraph_url": "https://telegra.ph/غم‌های-ماه-10-24",
+          "post_id": 451
         }
       ]
     },
