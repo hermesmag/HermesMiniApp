@@ -1120,6 +1120,27 @@
       ]
     },
     {
+      "name": "Salvator Rosa",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_437508",
+          "title": "Self-Portrait",
+          "artist": "Salvator Rosa",
+          "year": "ca. 1647",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Baroque",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Italy",
+          "image_url": "https://lh3.googleusercontent.com/d/1YaoDho8EGSXPRhEFViwWzypSR6cwfxO7",
+          "published": "2026-10-24T21:31:02.406279",
+          "original_url": "https://images.metmuseum.org/CRDImages/ep/original/DP323414.jpg",
+          "post_id": 452
+        }
+      ]
+    },
+    {
       "name": "Shunk-Kender",
       "painting_count": 1,
       "paintings": [
