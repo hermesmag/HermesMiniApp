@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "تاریخ ادبی ناخواستهٔ دیلدو: از توماس نش تا شیشه‌های مورانو",
+          "title": "تاریخ ادبی ناخواستهٔ دیلدو: از توماس نش تا شیشه‌های مورانو",
+          "source": "The Paris Review",
+          "published": "2026-10-24T10:35:58.830780+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/22/unexpected-literary-history-of-the-dildo/",
+          "subcategory": "essay",
+          "post_id": 450
+        },
+        {
+          "id": "«غاز قرمز»؛ انتشار نخستین دفتر شعر آلن گای ویلکاکس",
+          "title": "«غاز قرمز»؛ انتشار نخستین دفتر شعر آلن گای ویلکاکس",
+          "source": "Literary Hub",
+          "published": "2026-10-24T10:35:57.069352+03:30",
+          "original_url": "https://lithub.com/at-the-dinner-table-at-night-a-poem-by-allen-guy-wilcox/",
+          "subcategory": "review",
+          "post_id": 449
+        },
+        {
+          "id": "از نخستین داستان در پنج‌سالگی تا «دروس شیمی»: روایت بانی گارموس از سیر و سلوک ادبی‌اش",
+          "title": "از نخستین داستان در پنج‌سالگی تا «دروس شیمی»: روایت بانی گارموس از سیر و سلوک ادبی‌اش",
+          "source": "The Guardian Books",
+          "published": "2026-10-24T10:35:55.338697+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/23/lessons-in-chemistry-author-bonnie-garmus-i-wrote-my-first-novel-at-12-it-has-not-yet-found-a-publisher",
+          "subcategory": "essay",
+          "post_id": 448
+        },
+        {
           "id": "روایتی عریان از اسکاتلندِ حاشیه‌ای در رمان «فقط اینجا، فقط حالا»",
           "title": "روایتی عریان از اسکاتلندِ حاشیه‌ای در رمان «فقط اینجا، فقط حالا»",
           "source": "World Literature Today",
@@ -1662,7 +1689,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 184
+      "item_count": 187
     },
     {
       "id": "report",
@@ -1938,6 +1965,15 @@
       "title_fa": "✦ معرفی کتاب",
       "items": [
         {
+          "id": "«غاز قرمز»؛ انتشار نخستین دفتر شعر آلن گای ویلکاکس",
+          "title": "«غاز قرمز»؛ انتشار نخستین دفتر شعر آلن گای ویلکاکس",
+          "source": "Literary Hub",
+          "published": "2026-10-24T10:35:57.069352+03:30",
+          "original_url": "https://lithub.com/at-the-dinner-table-at-night-a-poem-by-allen-guy-wilcox/",
+          "subcategory": "review",
+          "post_id": 449
+        },
+        {
           "id": "«فراز»؛ انتشار سروده‌ای تازه از لیندزی ترنر از دفترِ پیشِ‌روی «شیب میانی»",
           "title": "«فراز»؛ انتشار سروده‌ای تازه از لیندزی ترنر از دفترِ پیشِ‌روی «شیب میانی»",
           "source": "Literary Hub",
@@ -2055,7 +2091,7 @@
           "post_id": 49
         }
       ],
-      "item_count": 13
+      "item_count": 14
     },
     {
       "id": "world_lit",
@@ -2485,6 +2521,24 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "تاریخ ادبی ناخواستهٔ دیلدو: از توماس نش تا شیشه‌های مورانو",
+          "title": "تاریخ ادبی ناخواستهٔ دیلدو: از توماس نش تا شیشه‌های مورانو",
+          "source": "The Paris Review",
+          "published": "2026-10-24T10:35:58.830780+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/22/unexpected-literary-history-of-the-dildo/",
+          "subcategory": "essay",
+          "post_id": 450
+        },
+        {
+          "id": "از نخستین داستان در پنج‌سالگی تا «دروس شیمی»: روایت بانی گارموس از سیر و سلوک ادبی‌اش",
+          "title": "از نخستین داستان در پنج‌سالگی تا «دروس شیمی»: روایت بانی گارموس از سیر و سلوک ادبی‌اش",
+          "source": "The Guardian Books",
+          "published": "2026-10-24T10:35:55.338697+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/23/lessons-in-chemistry-author-bonnie-garmus-i-wrote-my-first-novel-at-12-it-has-not-yet-found-a-publisher",
+          "subcategory": "essay",
+          "post_id": 448
+        },
+        {
           "id": "ویژه‌نامهٔ شعر اکتبر ۲۰۲۶: بازخوانی آثاری از دیوید باربر و دیوید لمان",
           "title": "ویژه‌نامهٔ شعر اکتبر ۲۰۲۶: بازخوانی آثاری از دیوید باربر و دیوید لمان",
           "source": "The Common",
@@ -3358,8 +3412,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 97
+      "item_count": 99
     }
   ],
-  "total_items": 184
+  "total_items": 187
 }
