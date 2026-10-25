@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "سحرِ کتاب‌شناختی: رثای جِی. ایچ. پرین و سودای میراثِ کاغذی",
+          "title": "سحرِ کتاب‌شناختی: رثای جِی. ایچ. پرین و سودای میراثِ کاغذی",
+          "source": "London Review of Books",
+          "published": "2026-10-25T10:36:13.428391+03:30",
+          "original_url": "https://www.lrb.co.uk/the-paper/v48/n19/iain-sinclair/biblio-voodoo",
+          "subcategory": "essay",
+          "post_id": 456
+        },
+        {
+          "id": "خاطرات فضایی یک معمار؛ روایت ترنر بروکس از پیوند روان انسان و معماری",
+          "title": "خاطرات فضایی یک معمار؛ روایت ترنر بروکس از پیوند روان انسان و معماری",
+          "source": "The Paris Review",
+          "published": "2026-10-25T10:36:11.511529+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/23/turner-brooks-spatial-memories/",
+          "subcategory": "essay",
+          "post_id": 455
+        },
+        {
+          "id": "فراتر از نگاه خریدار غربی؛ بازتعریف رمان مهاجرت در ادبیات جنوب آسیا",
+          "title": "فراتر از نگاه خریدار غربی؛ بازتعریف رمان مهاجرت در ادبیات جنوب آسیا",
+          "source": "Electric Literature",
+          "published": "2026-10-25T10:36:09.528573+03:30",
+          "original_url": "https://electricliterature.com/8-works-that-complicate-the-south-asian-diaspora-novel/",
+          "subcategory": "essay",
+          "post_id": 454
+        },
+        {
           "id": "تاریخ ادبی ناخواستهٔ دیلدو: از توماس نش تا شیشه‌های مورانو",
           "title": "تاریخ ادبی ناخواستهٔ دیلدو: از توماس نش تا شیشه‌های مورانو",
           "source": "The Paris Review",
@@ -1689,7 +1716,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 187
+      "item_count": 190
     },
     {
       "id": "report",
@@ -2521,6 +2548,33 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "سحرِ کتاب‌شناختی: رثای جِی. ایچ. پرین و سودای میراثِ کاغذی",
+          "title": "سحرِ کتاب‌شناختی: رثای جِی. ایچ. پرین و سودای میراثِ کاغذی",
+          "source": "London Review of Books",
+          "published": "2026-10-25T10:36:13.428391+03:30",
+          "original_url": "https://www.lrb.co.uk/the-paper/v48/n19/iain-sinclair/biblio-voodoo",
+          "subcategory": "essay",
+          "post_id": 456
+        },
+        {
+          "id": "خاطرات فضایی یک معمار؛ روایت ترنر بروکس از پیوند روان انسان و معماری",
+          "title": "خاطرات فضایی یک معمار؛ روایت ترنر بروکس از پیوند روان انسان و معماری",
+          "source": "The Paris Review",
+          "published": "2026-10-25T10:36:11.511529+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/23/turner-brooks-spatial-memories/",
+          "subcategory": "essay",
+          "post_id": 455
+        },
+        {
+          "id": "فراتر از نگاه خریدار غربی؛ بازتعریف رمان مهاجرت در ادبیات جنوب آسیا",
+          "title": "فراتر از نگاه خریدار غربی؛ بازتعریف رمان مهاجرت در ادبیات جنوب آسیا",
+          "source": "Electric Literature",
+          "published": "2026-10-25T10:36:09.528573+03:30",
+          "original_url": "https://electricliterature.com/8-works-that-complicate-the-south-asian-diaspora-novel/",
+          "subcategory": "essay",
+          "post_id": 454
+        },
+        {
           "id": "تاریخ ادبی ناخواستهٔ دیلدو: از توماس نش تا شیشه‌های مورانو",
           "title": "تاریخ ادبی ناخواستهٔ دیلدو: از توماس نش تا شیشه‌های مورانو",
           "source": "The Paris Review",
@@ -3412,8 +3466,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 99
+      "item_count": 102
     }
   ],
-  "total_items": 187
+  "total_items": 190
 }
