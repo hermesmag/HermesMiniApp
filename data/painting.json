@@ -1072,6 +1072,27 @@
       ]
     },
     {
+      "name": "Pablo Picasso",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_111060",
+          "title": "Daniel-Henry Kahnweiler",
+          "artist": "Pablo Picasso",
+          "year": "autumn 1910",
+          "museum": "Art Institute of Chicago",
+          "movement": "Cubism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Spain",
+          "image_url": "https://lh3.googleusercontent.com/d/1n93XBefk5AoFHzUbJ7attNpRXNapnjTV",
+          "published": "2026-10-26T21:31:02.019488",
+          "original_url": "https://www.artic.edu/iiif/2/aebda29e-16b8-4393-6edc-805cdb6ba459/full/900,/0/default.jpg",
+          "post_id": 464
+        }
+      ]
+    },
+    {
       "name": "Piet Mondrian",
       "painting_count": 1,
       "paintings": [
