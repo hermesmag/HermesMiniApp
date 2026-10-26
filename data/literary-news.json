@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "رقص بر سقف: پویاییِ معنا و هنرِ سقوط در دفتر شعر «چرخش» اثر وایت تاونلی",
+          "title": "رقص بر سقف: پویاییِ معنا و هنرِ سقوط در دفتر شعر «چرخش» اثر وایت تاونلی",
+          "source": "The Common",
+          "published": "2026-10-26T10:34:38.583627+03:30",
+          "original_url": "https://www.thecommononline.org/dancing-on-the-ceiling-meaning-movement-in-wyatt-townleys-making-the-turn/",
+          "subcategory": "essay",
+          "post_id": 462
+        },
+        {
+          "id": "هم‌زمانی دو نامزدی بزرگ؛ روایت زندگی مشترک مارلون جیمز و نیکلاس باگز در عرصهٔ ادبیات",
+          "title": "هم‌زمانی دو نامزدی بزرگ؛ روایت زندگی مشترک مارلون جیمز و نیکلاس باگز در عرصهٔ ادبیات",
+          "source": "The Guardian Books",
+          "published": "2026-10-26T10:34:36.143582+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/24/our-third-date-was-at-buckingham-palace-marlon-james-and-nicholas-boggs-on-life-as-a-literary-power-couple",
+          "subcategory": "essay",
+          "post_id": 461
+        },
+        {
+          "id": "از «خانهٔ هفت‌شیروانی» تا «ویلدوود»؛ چگونه سایه‌های تاریخ نخستین رمان اشلی وو را شکل داد",
+          "title": "از «خانهٔ هفت‌شیروانی» تا «ویلدوود»؛ چگونه سایه‌های تاریخ نخستین رمان اشلی وو را شکل داد",
+          "source": "Literary Hub",
+          "published": "2026-10-26T10:34:33.716460+03:30",
+          "original_url": "https://lithub.com/how-a-love-of-salem-and-the-house-of-seven-gables-inspired-my-debut-novel/",
+          "subcategory": "essay",
+          "post_id": 460
+        },
+        {
           "id": "سحرِ کتاب‌شناختی: رثای جِی. ایچ. پرین و سودای میراثِ کاغذی",
           "title": "سحرِ کتاب‌شناختی: رثای جِی. ایچ. پرین و سودای میراثِ کاغذی",
           "source": "London Review of Books",
@@ -1716,7 +1743,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 190
+      "item_count": 193
     },
     {
       "id": "report",
@@ -2548,6 +2575,33 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "رقص بر سقف: پویاییِ معنا و هنرِ سقوط در دفتر شعر «چرخش» اثر وایت تاونلی",
+          "title": "رقص بر سقف: پویاییِ معنا و هنرِ سقوط در دفتر شعر «چرخش» اثر وایت تاونلی",
+          "source": "The Common",
+          "published": "2026-10-26T10:34:38.583627+03:30",
+          "original_url": "https://www.thecommononline.org/dancing-on-the-ceiling-meaning-movement-in-wyatt-townleys-making-the-turn/",
+          "subcategory": "essay",
+          "post_id": 462
+        },
+        {
+          "id": "هم‌زمانی دو نامزدی بزرگ؛ روایت زندگی مشترک مارلون جیمز و نیکلاس باگز در عرصهٔ ادبیات",
+          "title": "هم‌زمانی دو نامزدی بزرگ؛ روایت زندگی مشترک مارلون جیمز و نیکلاس باگز در عرصهٔ ادبیات",
+          "source": "The Guardian Books",
+          "published": "2026-10-26T10:34:36.143582+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/24/our-third-date-was-at-buckingham-palace-marlon-james-and-nicholas-boggs-on-life-as-a-literary-power-couple",
+          "subcategory": "essay",
+          "post_id": 461
+        },
+        {
+          "id": "از «خانهٔ هفت‌شیروانی» تا «ویلدوود»؛ چگونه سایه‌های تاریخ نخستین رمان اشلی وو را شکل داد",
+          "title": "از «خانهٔ هفت‌شیروانی» تا «ویلدوود»؛ چگونه سایه‌های تاریخ نخستین رمان اشلی وو را شکل داد",
+          "source": "Literary Hub",
+          "published": "2026-10-26T10:34:33.716460+03:30",
+          "original_url": "https://lithub.com/how-a-love-of-salem-and-the-house-of-seven-gables-inspired-my-debut-novel/",
+          "subcategory": "essay",
+          "post_id": 460
+        },
+        {
           "id": "سحرِ کتاب‌شناختی: رثای جِی. ایچ. پرین و سودای میراثِ کاغذی",
           "title": "سحرِ کتاب‌شناختی: رثای جِی. ایچ. پرین و سودای میراثِ کاغذی",
           "source": "London Review of Books",
@@ -3466,8 +3520,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 102
+      "item_count": 105
     }
   ],
-  "total_items": 190
+  "total_items": 193
 }
