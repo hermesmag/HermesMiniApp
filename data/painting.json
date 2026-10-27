@@ -1030,6 +1030,27 @@
       ]
     },
     {
+      "name": "Natalia Goncharova",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_199083",
+          "title": "Worldbackwards (Mirskontsa)",
+          "artist": "Natalia Goncharova",
+          "year": "1912",
+          "museum": "Art Institute of Chicago",
+          "movement": "Russian Futurism",
+          "medium": "کتاب دست‌ساز، کلاژ کاغذ و لیتوگرافی بر کاغذ کرم (Handmade book with collage and lithography)",
+          "art_form": "طراحی و چاپ",
+          "country": "Russia",
+          "image_url": "https://lh3.googleusercontent.com/d/1VDK8A_BWicP-ja-iSWvnZEwT-KZw-rOT",
+          "published": "2026-10-27T21:31:03.585376",
+          "original_url": "https://www.artic.edu/iiif/2/8a2598b5-9034-5884-19b6-98cdbd299701/full/900,/0/default.jpg",
+          "post_id": 470
+        }
+      ]
+    },
+    {
       "name": "North Netherlandish (Bruges) Painter (ca. 1470)",
       "painting_count": 1,
       "paintings": [
