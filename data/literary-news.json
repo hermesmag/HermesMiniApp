@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "بازیابی به مثابه مقاومت: آرشیوِ ادبی و سیاستِ پایداری در روزگارِ فراموشی",
+          "title": "بازیابی به مثابه مقاومت: آرشیوِ ادبی و سیاستِ پایداری در روزگارِ فراموشی",
+          "source": "Ploughshares",
+          "published": "2026-10-27T10:35:57.668067+03:30",
+          "original_url": "https://pshares.org/ps/recovery-as-resistance/",
+          "subcategory": "essay",
+          "post_id": 468
+        },
+        {
+          "id": "صدمین سالگرد «خورشید همچنان می‌دمد»؛ پاریس ریویو گفت‌وگوی تاریخی با ارنست همینگوی را بازنشر کرد",
+          "title": "صدمین سالگرد «خورشید همچنان می‌دمد»؛ پاریس ریویو گفت‌وگوی تاریخی با ارنست همینگوی را بازنشر کرد",
+          "source": "The Paris Review",
+          "published": "2026-10-27T10:35:56.181481+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/26/ernest-hemingway-the-sun-also-rises/",
+          "subcategory": "essay",
+          "post_id": 467
+        },
+        {
+          "id": "گفت‌وگوی جایزهٔ ملی کتاب با محمد مبوگار سار و لارا ورنیو: بازآفرینیِ زبان و رنج در ترجمهٔ «مردانِ پاک»",
+          "title": "گفت‌وگوی جایزهٔ ملی کتاب با محمد مبوگار سار و لارا ورنیو: بازآفرینیِ زبان و رنج در ترجمهٔ «مردانِ پاک»",
+          "source": "Words Without Borders",
+          "published": "2026-10-27T10:35:54.595984+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-10/the-national-book-award-interviews-mohamed-mbougar-sarr-and-lara-vergnaud-pure-men/",
+          "subcategory": "interview",
+          "post_id": 466
+        },
+        {
           "id": "رقص بر سقف: پویاییِ معنا و هنرِ سقوط در دفتر شعر «چرخش» اثر وایت تاونلی",
           "title": "رقص بر سقف: پویاییِ معنا و هنرِ سقوط در دفتر شعر «چرخش» اثر وایت تاونلی",
           "source": "The Common",
@@ -1743,7 +1770,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 193
+      "item_count": 196
     },
     {
       "id": "report",
@@ -1875,6 +1902,15 @@
       "title_en": "Interviews",
       "title_fa": "✦ گفت‌وگو",
       "items": [
+        {
+          "id": "گفت‌وگوی جایزهٔ ملی کتاب با محمد مبوگار سار و لارا ورنیو: بازآفرینیِ زبان و رنج در ترجمهٔ «مردانِ پاک»",
+          "title": "گفت‌وگوی جایزهٔ ملی کتاب با محمد مبوگار سار و لارا ورنیو: بازآفرینیِ زبان و رنج در ترجمهٔ «مردانِ پاک»",
+          "source": "Words Without Borders",
+          "published": "2026-10-27T10:35:54.595984+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-10/the-national-book-award-interviews-mohamed-mbougar-sarr-and-lara-vergnaud-pure-men/",
+          "subcategory": "interview",
+          "post_id": 466
+        },
         {
           "id": "«عامدانه ناتمام»؛ گفتگو با خاویر تابوادا دربارهٔ آنتولوژی شعر قارهٔ آمریکا",
           "title": "«عامدانه ناتمام»؛ گفتگو با خاویر تابوادا دربارهٔ آنتولوژی شعر قارهٔ آمریکا",
@@ -2011,7 +2047,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 15
+      "item_count": 16
     },
     {
       "id": "review",
@@ -2575,6 +2611,24 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "بازیابی به مثابه مقاومت: آرشیوِ ادبی و سیاستِ پایداری در روزگارِ فراموشی",
+          "title": "بازیابی به مثابه مقاومت: آرشیوِ ادبی و سیاستِ پایداری در روزگارِ فراموشی",
+          "source": "Ploughshares",
+          "published": "2026-10-27T10:35:57.668067+03:30",
+          "original_url": "https://pshares.org/ps/recovery-as-resistance/",
+          "subcategory": "essay",
+          "post_id": 468
+        },
+        {
+          "id": "صدمین سالگرد «خورشید همچنان می‌دمد»؛ پاریس ریویو گفت‌وگوی تاریخی با ارنست همینگوی را بازنشر کرد",
+          "title": "صدمین سالگرد «خورشید همچنان می‌دمد»؛ پاریس ریویو گفت‌وگوی تاریخی با ارنست همینگوی را بازنشر کرد",
+          "source": "The Paris Review",
+          "published": "2026-10-27T10:35:56.181481+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/26/ernest-hemingway-the-sun-also-rises/",
+          "subcategory": "essay",
+          "post_id": 467
+        },
+        {
           "id": "رقص بر سقف: پویاییِ معنا و هنرِ سقوط در دفتر شعر «چرخش» اثر وایت تاونلی",
           "title": "رقص بر سقف: پویاییِ معنا و هنرِ سقوط در دفتر شعر «چرخش» اثر وایت تاونلی",
           "source": "The Common",
@@ -3520,8 +3574,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 105
+      "item_count": 107
     }
   ],
-  "total_items": 193
+  "total_items": 196
 }
