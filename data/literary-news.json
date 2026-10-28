@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "تماشاخانهٔ تجرد و سودای رستگاری: بازخوانیِ رمان «دوشیزه» اثر سینتیا بوکانان",
+          "title": "تماشاخانهٔ تجرد و سودای رستگاری: بازخوانیِ رمان «دوشیزه» اثر سینتیا بوکانان",
+          "source": "The Paris Review",
+          "published": "2026-10-28T10:34:41.610597+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/27/second-life-of-cynthia-buchanans-maiden/",
+          "subcategory": "essay",
+          "post_id": 474
+        },
+        {
+          "id": "اعطای جایزهٔ ادبی «اینساید» به بثینه العیسی برای رمان «کتابخانهٔ سانسورچی»",
+          "title": "اعطای جایزهٔ ادبی «اینساید» به بثینه العیسی برای رمان «کتابخانهٔ سانسورچی»",
+          "source": "World Literature Today",
+          "published": "2026-10-28T10:34:39.694164+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/news-and-events/continuous-work-inclusion-bothayna-al-essa",
+          "subcategory": "world_lit",
+          "post_id": 473
+        },
+        {
+          "id": "نقش شعر در بازخوانی موسیقی سده‌های میانین؛ از خوانیِ شفاهی تا شکل‌گیری نخستین نت‌ها",
+          "title": "نقش شعر در بازخوانی موسیقی سده‌های میانین؛ از خوانیِ شفاهی تا شکل‌گیری نخستین نت‌ها",
+          "source": "Literary Hub",
+          "published": "2026-10-28T10:34:37.980365+03:30",
+          "original_url": "https://lithub.com/how-poetry-can-explain-the-role-of-music-in-medieval-literature/",
+          "subcategory": "essay",
+          "post_id": 472
+        },
+        {
           "id": "بازیابی به مثابه مقاومت: آرشیوِ ادبی و سیاستِ پایداری در روزگارِ فراموشی",
           "title": "بازیابی به مثابه مقاومت: آرشیوِ ادبی و سیاستِ پایداری در روزگارِ فراموشی",
           "source": "Ploughshares",
@@ -1770,7 +1797,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 196
+      "item_count": 199
     },
     {
       "id": "report",
@@ -2189,6 +2216,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "اعطای جایزهٔ ادبی «اینساید» به بثینه العیسی برای رمان «کتابخانهٔ سانسورچی»",
+          "title": "اعطای جایزهٔ ادبی «اینساید» به بثینه العیسی برای رمان «کتابخانهٔ سانسورچی»",
+          "source": "World Literature Today",
+          "published": "2026-10-28T10:34:39.694164+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/news-and-events/continuous-work-inclusion-bothayna-al-essa",
+          "subcategory": "world_lit",
+          "post_id": 473
+        },
+        {
           "id": "روایتی عریان از اسکاتلندِ حاشیه‌ای در رمان «فقط اینجا، فقط حالا»",
           "title": "روایتی عریان از اسکاتلندِ حاشیه‌ای در رمان «فقط اینجا، فقط حالا»",
           "source": "World Literature Today",
@@ -2603,13 +2639,31 @@
           "post_id": 8
         }
       ],
-      "item_count": 46
+      "item_count": 47
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "تماشاخانهٔ تجرد و سودای رستگاری: بازخوانیِ رمان «دوشیزه» اثر سینتیا بوکانان",
+          "title": "تماشاخانهٔ تجرد و سودای رستگاری: بازخوانیِ رمان «دوشیزه» اثر سینتیا بوکانان",
+          "source": "The Paris Review",
+          "published": "2026-10-28T10:34:41.610597+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/10/27/second-life-of-cynthia-buchanans-maiden/",
+          "subcategory": "essay",
+          "post_id": 474
+        },
+        {
+          "id": "نقش شعر در بازخوانی موسیقی سده‌های میانین؛ از خوانیِ شفاهی تا شکل‌گیری نخستین نت‌ها",
+          "title": "نقش شعر در بازخوانی موسیقی سده‌های میانین؛ از خوانیِ شفاهی تا شکل‌گیری نخستین نت‌ها",
+          "source": "Literary Hub",
+          "published": "2026-10-28T10:34:37.980365+03:30",
+          "original_url": "https://lithub.com/how-poetry-can-explain-the-role-of-music-in-medieval-literature/",
+          "subcategory": "essay",
+          "post_id": 472
+        },
         {
           "id": "بازیابی به مثابه مقاومت: آرشیوِ ادبی و سیاستِ پایداری در روزگارِ فراموشی",
           "title": "بازیابی به مثابه مقاومت: آرشیوِ ادبی و سیاستِ پایداری در روزگارِ فراموشی",
@@ -3574,8 +3628,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 107
+      "item_count": 109
     }
   ],
-  "total_items": 196
+  "total_items": 199
 }
