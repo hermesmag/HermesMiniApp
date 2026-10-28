@@ -967,6 +967,27 @@
       ]
     },
     {
+      "name": "Lee Krasner",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_283605",
+          "title": "April",
+          "artist": "Lee Krasner",
+          "year": "1957",
+          "museum": "Art Institute of Chicago",
+          "movement": "Abstract Expressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1lia5_TMDZ1rtsMqgMkyQDIPgU_4IuimW",
+          "published": "2026-10-28T21:31:02.333204",
+          "original_url": "https://www.artic.edu/iiif/2/7fb4823a-399f-4124-7939-1fbdea56982f/full/900,/0/default.jpg",
+          "post_id": 480
+        }
+      ]
+    },
+    {
       "name": "Louise Lawler",
       "painting_count": 1,
       "paintings": [
