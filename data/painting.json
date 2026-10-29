@@ -1219,6 +1219,27 @@
       ]
     },
     {
+      "name": "Seljuq Artist (Iran)",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_450761",
+          "title": "Mold Fragment with Musicians",
+          "artist": "Seljuq Artist (Iran)",
+          "year": "late 11th–early 12th century",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Islamic Art",
+          "medium": "Terracotta mold",
+          "art_form": "مجسمه‌سازی",
+          "country": "Iran",
+          "image_url": "https://lh3.googleusercontent.com/d/1oldsy6Ad8vZkPYvL5tm5m36ZFyAgAH1z",
+          "published": "2026-10-29T21:30:58.822908",
+          "original_url": "https://images.metmuseum.org/CRDImages/is/original/DP367585.jpg",
+          "post_id": 487
+        }
+      ]
+    },
+    {
       "name": "Shunk-Kender",
       "painting_count": 1,
       "paintings": [
