@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "اقتصاد مرگ: الگوریتم‌های کشتار و منطقِ ریاضیاتیِ فاجعه در غزه",
+          "title": "اقتصاد مرگ: الگوریتم‌های کشتار و منطقِ ریاضیاتیِ فاجعه در غزه",
+          "source": "London Review of Books",
+          "published": "2026-10-29T10:37:19.043658+03:30",
+          "original_url": "https://www.lrb.co.uk/the-paper/v48/n20/eyal-weizman/necro-economics",
+          "subcategory": "essay",
+          "post_id": 484
+        },
+        {
+          "id": "«در لحظه‌ای کوتاه، تمامِ ابدیت»؛ مواجههٔ شجاعانهٔ الیف شافاک با فلوبر و مادام بوواری",
+          "title": "«در لحظه‌ای کوتاه، تمامِ ابدیت»؛ مواجههٔ شجاعانهٔ الیف شافاک با فلوبر و مادام بوواری",
+          "source": "The Guardian Books",
+          "published": "2026-10-29T10:37:17.227681+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/28/in-one-brief-moment-all-eternity-by-elif-shafak-review-what-madame-bovary-thought-of-flaubert",
+          "subcategory": "essay",
+          "post_id": 483
+        },
+        {
+          "id": "«کوهستان یاد می‌آورد»؛ روایت ساروه عزیز از زخم‌های پنهان جنگ و مین در کردستان",
+          "title": "«کوهستان یاد می‌آورد»؛ روایت ساروه عزیز از زخم‌های پنهان جنگ و مین در کردستان",
+          "source": "World Literature Today",
+          "published": "2026-10-29T10:37:15.476033+03:30",
+          "original_url": "https://worldliteraturetoday.org/2026/november/mountains-remember-sarwa-azeez",
+          "subcategory": "world_lit",
+          "post_id": 482
+        },
+        {
           "id": "تماشاخانهٔ تجرد و سودای رستگاری: بازخوانیِ رمان «دوشیزه» اثر سینتیا بوکانان",
           "title": "تماشاخانهٔ تجرد و سودای رستگاری: بازخوانیِ رمان «دوشیزه» اثر سینتیا بوکانان",
           "source": "The Paris Review",
@@ -1797,7 +1824,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 199
+      "item_count": 202
     },
     {
       "id": "report",
@@ -2216,6 +2243,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "«کوهستان یاد می‌آورد»؛ روایت ساروه عزیز از زخم‌های پنهان جنگ و مین در کردستان",
+          "title": "«کوهستان یاد می‌آورد»؛ روایت ساروه عزیز از زخم‌های پنهان جنگ و مین در کردستان",
+          "source": "World Literature Today",
+          "published": "2026-10-29T10:37:15.476033+03:30",
+          "original_url": "https://worldliteraturetoday.org/2026/november/mountains-remember-sarwa-azeez",
+          "subcategory": "world_lit",
+          "post_id": 482
+        },
+        {
           "id": "اعطای جایزهٔ ادبی «اینساید» به بثینه العیسی برای رمان «کتابخانهٔ سانسورچی»",
           "title": "اعطای جایزهٔ ادبی «اینساید» به بثینه العیسی برای رمان «کتابخانهٔ سانسورچی»",
           "source": "World Literature Today",
@@ -2639,13 +2675,31 @@
           "post_id": 8
         }
       ],
-      "item_count": 47
+      "item_count": 48
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "اقتصاد مرگ: الگوریتم‌های کشتار و منطقِ ریاضیاتیِ فاجعه در غزه",
+          "title": "اقتصاد مرگ: الگوریتم‌های کشتار و منطقِ ریاضیاتیِ فاجعه در غزه",
+          "source": "London Review of Books",
+          "published": "2026-10-29T10:37:19.043658+03:30",
+          "original_url": "https://www.lrb.co.uk/the-paper/v48/n20/eyal-weizman/necro-economics",
+          "subcategory": "essay",
+          "post_id": 484
+        },
+        {
+          "id": "«در لحظه‌ای کوتاه، تمامِ ابدیت»؛ مواجههٔ شجاعانهٔ الیف شافاک با فلوبر و مادام بوواری",
+          "title": "«در لحظه‌ای کوتاه، تمامِ ابدیت»؛ مواجههٔ شجاعانهٔ الیف شافاک با فلوبر و مادام بوواری",
+          "source": "The Guardian Books",
+          "published": "2026-10-29T10:37:17.227681+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/28/in-one-brief-moment-all-eternity-by-elif-shafak-review-what-madame-bovary-thought-of-flaubert",
+          "subcategory": "essay",
+          "post_id": 483
+        },
         {
           "id": "تماشاخانهٔ تجرد و سودای رستگاری: بازخوانیِ رمان «دوشیزه» اثر سینتیا بوکانان",
           "title": "تماشاخانهٔ تجرد و سودای رستگاری: بازخوانیِ رمان «دوشیزه» اثر سینتیا بوکانان",
@@ -3628,8 +3682,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 109
+      "item_count": 111
     }
   ],
-  "total_items": 199
+  "total_items": 202
 }
