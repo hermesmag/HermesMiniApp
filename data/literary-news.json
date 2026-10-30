@@ -6,6 +6,24 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "ساره هو برندهٔ جایزهٔ شعر «فوروارد» شد",
+          "title": "ساره هو برندهٔ جایزهٔ شعر «فوروارد» شد",
+          "source": "The Guardian Books",
+          "published": "2026-10-30T10:36:39.182294+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/29/sarah-howe-wins-forward-poetry-prize-for-best-collection",
+          "subcategory": "report",
+          "post_id": 490
+        },
+        {
+          "id": "ترجمه؛ کشف ابعاد تازهٔ شعر در گفت‌وگو با اییا کیوا، شاعر و مترجم اوکراینی",
+          "title": "ترجمه؛ کشف ابعاد تازهٔ شعر در گفت‌وگو با اییا کیوا، شاعر و مترجم اوکراینی",
+          "source": "World Literature Today",
+          "published": "2026-10-30T10:36:37.275609+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/interviews/translating-ukrainian-poetrys-pure-music-conversation-iya-kiva-daria-knurenko",
+          "subcategory": "interview",
+          "post_id": 489
+        },
+        {
           "id": "داستان‌نویسی مدرن: دربارۀ حیات، آگاهی و ساختار روایت",
           "title": "داستان‌نویسی مدرن: دربارۀ حیات، آگاهی و ساختار روایت",
           "source": "The Times Literary Supplement",
@@ -1824,13 +1842,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 202
+      "item_count": 204
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "ساره هو برندهٔ جایزهٔ شعر «فوروارد» شد",
+          "title": "ساره هو برندهٔ جایزهٔ شعر «فوروارد» شد",
+          "source": "The Guardian Books",
+          "published": "2026-10-30T10:36:39.182294+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/29/sarah-howe-wins-forward-poetry-prize-for-best-collection",
+          "subcategory": "report",
+          "post_id": 490
+        },
         {
           "id": "رمان «آدیشن» نوشتهٔ پیپ آدام برندهٔ جایزهٔ داستانی اورسولا کی. لو گویین شد",
           "title": "رمان «آدیشن» نوشتهٔ پیپ آدام برندهٔ جایزهٔ داستانی اورسولا کی. لو گویین شد",
@@ -1949,13 +1976,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 13
+      "item_count": 14
     },
     {
       "id": "interview",
       "title_en": "Interviews",
       "title_fa": "✦ گفت‌وگو",
       "items": [
+        {
+          "id": "ترجمه؛ کشف ابعاد تازهٔ شعر در گفت‌وگو با اییا کیوا، شاعر و مترجم اوکراینی",
+          "title": "ترجمه؛ کشف ابعاد تازهٔ شعر در گفت‌وگو با اییا کیوا، شاعر و مترجم اوکراینی",
+          "source": "World Literature Today",
+          "published": "2026-10-30T10:36:37.275609+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/interviews/translating-ukrainian-poetrys-pure-music-conversation-iya-kiva-daria-knurenko",
+          "subcategory": "interview",
+          "post_id": 489
+        },
         {
           "id": "گفت‌وگوی جایزهٔ ملی کتاب با محمد مبوگار سار و لارا ورنیو: بازآفرینیِ زبان و رنج در ترجمهٔ «مردانِ پاک»",
           "title": "گفت‌وگوی جایزهٔ ملی کتاب با محمد مبوگار سار و لارا ورنیو: بازآفرینیِ زبان و رنج در ترجمهٔ «مردانِ پاک»",
@@ -2101,7 +2137,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 16
+      "item_count": 17
     },
     {
       "id": "review",
@@ -3685,5 +3721,5 @@
       "item_count": 111
     }
   ],
-  "total_items": 202
+  "total_items": 204
 }
