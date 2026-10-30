@@ -1177,6 +1177,27 @@
       ]
     },
     {
+      "name": "Robert Rauschenberg",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_180108",
+          "title": "Calf Chow, from Chow Bags",
+          "artist": "Robert Rauschenberg",
+          "year": "1977",
+          "museum": "Art Institute of Chicago",
+          "movement": "Pop Art",
+          "medium": "Screenprint and collage with fabric and paper",
+          "art_form": "طراحی و چاپ",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1UBhXEBgWlS478R_4uLwaUqvr1UhwTkYD",
+          "published": "2026-10-30T21:31:03.795154",
+          "original_url": "https://www.artic.edu/iiif/2/d7750a6f-3b63-bae4-c7f8-13c40099fcf8/full/900,/0/default.jpg",
+          "post_id": 493
+        }
+      ]
+    },
+    {
       "name": "Saint-Cloud factory",
       "painting_count": 1,
       "paintings": [
