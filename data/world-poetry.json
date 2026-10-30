@@ -562,6 +562,37 @@
       ]
     },
     {
+      "name": "Percy Bysshe Shelley",
+      "name_fa": "شاعر انقلابی رمانتیک انگلستان (۱۷۹۲–۱۸۲۲)؛ با تخیلی آرمان‌گرا و اوج‌گیری‌های شتابان وزنی، به ستایش سرشت رهایی‌بخش آزادی، دگرگونی جهان و ناپایداری ستمگران می‌پردازد.",
+      "poem_count": 2,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-042",
+          "title": "The poet’s created forms",
+          "title_original": "The poet’s created forms",
+          "original_language": "English",
+          "epoch": "",
+          "book": "Prometheus Unbound (1820)",
+          "translator": "",
+          "published": "2026-09-29T18:00:52.871144+03:30",
+          "telegraph_url": null,
+          "post_id": 298
+        },
+        {
+          "id": "WP-Y1-DAY-073",
+          "title": "Love, Hope, Desire, and Fear",
+          "title_original": "Love's Philosophy",
+          "original_language": "English",
+          "epoch": "19th Century",
+          "book": "The Complete Poetical Works of Percy Bysshe Shelley",
+          "translator": null,
+          "published": "2026-10-30T18:00:54.369171+03:30",
+          "telegraph_url": null,
+          "post_id": 492
+        }
+      ]
+    },
+    {
       "name": "Rainer Maria Rilke",
       "name_fa": "شاعر آلمانی‌زبان متولد پراگ (۱۸۷۵–۱۹۲۶)؛ با شهودی عارفانه در لمس اشیا و هستی، به مکاشفه در استحالهٔ امر مادی به امر استعلایی، تنهایی ازلی و راز گشودگی به مرگ می‌نشیند.",
       "poem_count": 2,
@@ -1046,25 +1077,6 @@
           "published": "2026-10-17T18:00:50.689632+03:30",
           "telegraph_url": null,
           "post_id": 410
-        }
-      ]
-    },
-    {
-      "name": "Percy Bysshe Shelley",
-      "name_fa": "شاعر انقلابی رمانتیک انگلستان (۱۷۹۲–۱۸۲۲)؛ با تخیلی آرمان‌گرا و اوج‌گیری‌های شتابان وزنی، به ستایش سرشت رهایی‌بخش آزادی، دگرگونی جهان و ناپایداری ستمگران می‌پردازد.",
-      "poem_count": 1,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-042",
-          "title": "The poet’s created forms",
-          "title_original": "The poet’s created forms",
-          "original_language": "English",
-          "epoch": "",
-          "book": "Prometheus Unbound (1820)",
-          "translator": "",
-          "published": "2026-09-29T18:00:52.871144+03:30",
-          "telegraph_url": null,
-          "post_id": 298
         }
       ]
     },
