@@ -804,7 +804,7 @@
     },
     {
       "name": "منوچهری دامغانی",
-      "item_count": 3,
+      "item_count": 4,
       "items": [
         {
           "id": "local://manuchehri/6",
@@ -844,6 +844,19 @@
           "day_of_year": 60,
           "published": "2026-10-18T08:00:45.058332+03:30",
           "post_id": 412
+        },
+        {
+          "id": "local://manuchehri/67",
+          "title": "شمارهٔ ۶۷ - در شرح شکایت",
+          "author": "منوچهری دامغانی",
+          "book": "دیوان منوچهری",
+          "form": "qasida",
+          "century": 5,
+          "char_count": 1338,
+          "familiarity_tier": "Rediscovery Masterpiece",
+          "day_of_year": 72,
+          "published": "2026-10-30T08:00:47.379248+03:30",
+          "post_id": 488
         }
       ]
     },
