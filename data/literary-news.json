@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "هنر شعر: آن کارسون",
+          "title": "هنر شعر: آن کارسون",
+          "source": "The Paris Review",
+          "published": "2026-10-31T10:36:56.026237+03:30",
+          "original_url": "https://www.theparisreview.org/interviews/5420/the-art-of-poetry-no-88-anne-carson",
+          "subcategory": "interview",
+          "post_id": 497
+        },
+        {
+          "id": "«۱۹۵۸: عامی از وجد»؛ بازخوانی عشق، ایستادگی و انتخاب سرنوشت در خاطرات امل الخطیب",
+          "title": "«۱۹۵۸: عامی از وجد»؛ بازخوانی عشق، ایستادگی و انتخاب سرنوشت در خاطرات امل الخطیب",
+          "source": "World Literature Today",
+          "published": "2026-10-31T10:36:55.458422+03:30",
+          "original_url": "https://worldliteraturetoday.org/2026/november/1958-am-min-al-wajd-sirat-hubb-wa-ikhtiyar-masir-amal-ahmad-mustafa-al-khatib",
+          "subcategory": "world_lit",
+          "post_id": 496
+        },
+        {
+          "id": "روایت‌های هراس و تاریکی؛ گزیدهٔ نشریهٔ الکتریک‌لیترچر برای شب هالووین",
+          "title": "روایت‌های هراس و تاریکی؛ گزیدهٔ نشریهٔ الکتریک‌لیترچر برای شب هالووین",
+          "source": "Electric Literature",
+          "published": "2026-10-31T10:36:53.491253+03:30",
+          "original_url": "https://electricliterature.com/our-favorite-short-stories-flash-fiction-and-poetry-to-read-for-halloween/",
+          "subcategory": "essay",
+          "post_id": 495
+        },
+        {
           "id": "Tradition and the Individual Talent",
           "title": "سنت و قریحهٔ فردی: بازخوانیِ بوطیقای غیرشخصی و دیالکتیکِ حسّ تاریخی در اندیشهٔ تی. اس. الیوت",
           "source": "Poetry Foundation",
@@ -1851,7 +1878,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 205
+      "item_count": 208
     },
     {
       "id": "report",
@@ -1993,6 +2020,15 @@
       "title_fa": "✦ گفت‌وگو",
       "items": [
         {
+          "id": "هنر شعر: آن کارسون",
+          "title": "هنر شعر: آن کارسون",
+          "source": "The Paris Review",
+          "published": "2026-10-31T10:36:56.026237+03:30",
+          "original_url": "https://www.theparisreview.org/interviews/5420/the-art-of-poetry-no-88-anne-carson",
+          "subcategory": "interview",
+          "post_id": 497
+        },
+        {
           "id": "ترجمه؛ کشف ابعاد تازهٔ شعر در گفت‌وگو با اییا کیوا، شاعر و مترجم اوکراینی",
           "title": "ترجمه؛ کشف ابعاد تازهٔ شعر در گفت‌وگو با اییا کیوا، شاعر و مترجم اوکراینی",
           "source": "World Literature Today",
@@ -2146,7 +2182,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 17
+      "item_count": 18
     },
     {
       "id": "review",
@@ -2287,6 +2323,15 @@
       "title_en": "World Literature",
       "title_fa": "✦ ادبیات جهان",
       "items": [
+        {
+          "id": "«۱۹۵۸: عامی از وجد»؛ بازخوانی عشق، ایستادگی و انتخاب سرنوشت در خاطرات امل الخطیب",
+          "title": "«۱۹۵۸: عامی از وجد»؛ بازخوانی عشق، ایستادگی و انتخاب سرنوشت در خاطرات امل الخطیب",
+          "source": "World Literature Today",
+          "published": "2026-10-31T10:36:55.458422+03:30",
+          "original_url": "https://worldliteraturetoday.org/2026/november/1958-am-min-al-wajd-sirat-hubb-wa-ikhtiyar-masir-amal-ahmad-mustafa-al-khatib",
+          "subcategory": "world_lit",
+          "post_id": 496
+        },
         {
           "id": "«کوهستان یاد می‌آورد»؛ روایت ساروه عزیز از زخم‌های پنهان جنگ و مین در کردستان",
           "title": "«کوهستان یاد می‌آورد»؛ روایت ساروه عزیز از زخم‌های پنهان جنگ و مین در کردستان",
@@ -2720,13 +2765,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 48
+      "item_count": 49
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "روایت‌های هراس و تاریکی؛ گزیدهٔ نشریهٔ الکتریک‌لیترچر برای شب هالووین",
+          "title": "روایت‌های هراس و تاریکی؛ گزیدهٔ نشریهٔ الکتریک‌لیترچر برای شب هالووین",
+          "source": "Electric Literature",
+          "published": "2026-10-31T10:36:53.491253+03:30",
+          "original_url": "https://electricliterature.com/our-favorite-short-stories-flash-fiction-and-poetry-to-read-for-halloween/",
+          "subcategory": "essay",
+          "post_id": 495
+        },
         {
           "id": "Tradition and the Individual Talent",
           "title": "سنت و قریحهٔ فردی: بازخوانیِ بوطیقای غیرشخصی و دیالکتیکِ حسّ تاریخی در اندیشهٔ تی. اس. الیوت",
@@ -3736,8 +3790,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 112
+      "item_count": 113
     }
   ],
-  "total_items": 205
+  "total_items": 208
 }
