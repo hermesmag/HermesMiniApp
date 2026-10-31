@@ -1366,6 +1366,27 @@
       ]
     },
     {
+      "name": "Velázquez",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_437873",
+          "title": "Philip IV (1605–1665), King of Spain",
+          "artist": "Velázquez",
+          "year": "probably 1624",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Baroque",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Spain",
+          "image_url": "https://lh3.googleusercontent.com/d/1if8bBzhhmpOgRwgz1PPZ0udc4sL7Ssei",
+          "published": "2026-10-31T21:30:57.491077",
+          "original_url": "https://images.metmuseum.org/CRDImages/ep/original/DP239023.jpg",
+          "post_id": 500
+        }
+      ]
+    },
+    {
       "name": "Victorian Ephemera Workshop",
       "painting_count": 1,
       "paintings": [
