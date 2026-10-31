@@ -274,7 +274,7 @@
     },
     {
       "name": "حافظ شیرازی",
-      "item_count": 7,
+      "item_count": 8,
       "items": [
         {
           "id": "local://hafez/436",
@@ -366,6 +366,19 @@
           "day_of_year": 61,
           "published": "2026-10-19T08:00:49.708816+03:30",
           "post_id": 418
+        },
+        {
+          "id": "local://hafez/142",
+          "title": "غزل شمارهٔ ۱۴۲",
+          "author": "حافظ شیرازی",
+          "book": "دیوان حافظ",
+          "form": "ghazal",
+          "century": 8,
+          "char_count": 451,
+          "familiarity_tier": "Known Masterpiece",
+          "day_of_year": 73,
+          "published": "2026-10-31T08:00:51.475814+03:30",
+          "post_id": 494
         }
       ]
     },
