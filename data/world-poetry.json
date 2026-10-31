@@ -252,6 +252,49 @@
       ]
     },
     {
+      "name": "Rainer Maria Rilke",
+      "name_fa": "شاعر آلمانی‌زبان متولد پراگ (۱۸۷۵–۱۹۲۶)؛ با شهودی عارفانه در لمس اشیا و هستی، به مکاشفه در استحالهٔ امر مادی به امر استعلایی، تنهایی ازلی و راز گشودگی به مرگ می‌نشیند.",
+      "poem_count": 3,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-011",
+          "title": "Kings in Legends",
+          "title_original": "Kings in Legends",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "Jessie Lemont",
+          "published": "2026-08-29T20:34:56.988998",
+          "telegraph_url": "https://telegra.ph/Kings-in-Legends-08-29",
+          "post_id": 82
+        },
+        {
+          "id": "WP-Y1-DAY-041",
+          "title": "By day Thou art the Legend and the Dream",
+          "title_original": "Du bist der raunende Verrußte",
+          "original_language": "German",
+          "epoch": "",
+          "book": "Das Stunden-Buch (1905)",
+          "translator": "Babette Deutsch",
+          "published": "2026-09-28T18:00:56.346429+03:30",
+          "telegraph_url": "https://telegra.ph/تویی-آن-زمزمه‌گر-دوده‌اندود-09-28",
+          "post_id": 291
+        },
+        {
+          "id": "WP-Y1-DAY-074",
+          "title": "Mary Virgin",
+          "title_original": "Mary Virgin",
+          "original_language": "German",
+          "epoch": "",
+          "book": "Mir zur Feier (1899)",
+          "translator": "Jessie Lemont",
+          "published": "2026-10-31T18:00:49.710968+03:30",
+          "telegraph_url": "https://telegra.ph/مریم-باکره-10-31",
+          "post_id": 499
+        }
+      ]
+    },
+    {
       "name": "E. E. Cummings",
       "name_fa": "شاعر نوآور آمریکایی (۱۸۹۴–۱۹۶۲)؛ با هنجارگریزی در نحو، رسم‌الخط و ساختار بصری صفحه، ستایش‌گر فردیت رها، شورمندی عشق و شگفتی‌های بدوی جهان است.",
       "poem_count": 2,
@@ -589,37 +632,6 @@
           "published": "2026-10-30T18:00:54.369171+03:30",
           "telegraph_url": null,
           "post_id": 492
-        }
-      ]
-    },
-    {
-      "name": "Rainer Maria Rilke",
-      "name_fa": "شاعر آلمانی‌زبان متولد پراگ (۱۸۷۵–۱۹۲۶)؛ با شهودی عارفانه در لمس اشیا و هستی، به مکاشفه در استحالهٔ امر مادی به امر استعلایی، تنهایی ازلی و راز گشودگی به مرگ می‌نشیند.",
-      "poem_count": 2,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-011",
-          "title": "Kings in Legends",
-          "title_original": "Kings in Legends",
-          "original_language": "English",
-          "epoch": "",
-          "book": "",
-          "translator": "Jessie Lemont",
-          "published": "2026-08-29T20:34:56.988998",
-          "telegraph_url": "https://telegra.ph/Kings-in-Legends-08-29",
-          "post_id": 82
-        },
-        {
-          "id": "WP-Y1-DAY-041",
-          "title": "By day Thou art the Legend and the Dream",
-          "title_original": "Du bist der raunende Verrußte",
-          "original_language": "German",
-          "epoch": "",
-          "book": "Das Stunden-Buch (1905)",
-          "translator": "Babette Deutsch",
-          "published": "2026-09-28T18:00:56.346429+03:30",
-          "telegraph_url": "https://telegra.ph/تویی-آن-زمزمه‌گر-دوده‌اندود-09-28",
-          "post_id": 291
         }
       ]
     },
