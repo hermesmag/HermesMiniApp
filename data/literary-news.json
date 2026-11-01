@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "معماری نیستی و طنین زبان‌های کهن: گفت‌وگو با خورخه لوئیس بورخس",
+          "title": "معماری نیستی و طنین زبان‌های کهن: گفت‌وگو با خورخه لوئیس بورخس",
+          "source": "The Paris Review",
+          "published": "2026-11-01T10:32:38.276154+03:30",
+          "original_url": "https://www.theparisreview.org/interviews/4331/the-art-of-fiction-no-39-jorge-luis-borges",
+          "subcategory": "interview",
+          "post_id": 504
+        },
+        {
+          "id": "«تیلتون و گریس انتاکا»: روایتِ عشق و پایمردی سرخ‌پوستانِ اوستیج در اثر تازهٔ انتشارات دانشگاه نبراسکا",
+          "title": "«تیلتون و گریس انتاکا»: روایتِ عشق و پایمردی سرخ‌پوستانِ اوستیج در اثر تازهٔ انتشارات دانشگاه نبراسکا",
+          "source": "World Literature Today",
+          "published": "2026-11-01T10:32:37.604642+03:30",
+          "original_url": "https://worldliteraturetoday.org/2026/november/tilton-and-grace-entokah-osage-story-anthony-lookout",
+          "subcategory": "world_lit",
+          "post_id": 503
+        },
+        {
+          "id": "طنین هراس و تعلیق در شعر معاصر؛ ۱۰ اثر وهم‌آلود برای شب هالووین",
+          "title": "طنین هراس و تعلیق در شعر معاصر؛ ۱۰ اثر وهم‌آلود برای شب هالووین",
+          "source": "Literary Hub",
+          "published": "2026-11-01T10:32:35.622437+03:30",
+          "original_url": "https://lithub.com/something-wicked-this-way-comes-10-poems-to-read-this-halloween/",
+          "subcategory": "essay",
+          "post_id": 502
+        },
+        {
           "id": "The Art of Poetry: Anne Carson",
           "title": "هنر شعر: آن کارسون",
           "source": "The Paris Review",
@@ -1878,7 +1905,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 208
+      "item_count": 211
     },
     {
       "id": "report",
@@ -2020,6 +2047,15 @@
       "title_fa": "✦ گفت‌وگو",
       "items": [
         {
+          "id": "معماری نیستی و طنین زبان‌های کهن: گفت‌وگو با خورخه لوئیس بورخس",
+          "title": "معماری نیستی و طنین زبان‌های کهن: گفت‌وگو با خورخه لوئیس بورخس",
+          "source": "The Paris Review",
+          "published": "2026-11-01T10:32:38.276154+03:30",
+          "original_url": "https://www.theparisreview.org/interviews/4331/the-art-of-fiction-no-39-jorge-luis-borges",
+          "subcategory": "interview",
+          "post_id": 504
+        },
+        {
           "id": "The Art of Poetry: Anne Carson",
           "title": "هنر شعر: آن کارسون",
           "source": "The Paris Review",
@@ -2182,7 +2218,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 18
+      "item_count": 19
     },
     {
       "id": "review",
@@ -2323,6 +2359,15 @@
       "title_en": "World Literature",
       "title_fa": "✦ ادبیات جهان",
       "items": [
+        {
+          "id": "«تیلتون و گریس انتاکا»: روایتِ عشق و پایمردی سرخ‌پوستانِ اوستیج در اثر تازهٔ انتشارات دانشگاه نبراسکا",
+          "title": "«تیلتون و گریس انتاکا»: روایتِ عشق و پایمردی سرخ‌پوستانِ اوستیج در اثر تازهٔ انتشارات دانشگاه نبراسکا",
+          "source": "World Literature Today",
+          "published": "2026-11-01T10:32:37.604642+03:30",
+          "original_url": "https://worldliteraturetoday.org/2026/november/tilton-and-grace-entokah-osage-story-anthony-lookout",
+          "subcategory": "world_lit",
+          "post_id": 503
+        },
         {
           "id": "«۱۹۵۸: عامی از وجد»؛ بازخوانی عشق، ایستادگی و انتخاب سرنوشت در خاطرات امل الخطیب",
           "title": "«۱۹۵۸: عامی از وجد»؛ بازخوانی عشق، ایستادگی و انتخاب سرنوشت در خاطرات امل الخطیب",
@@ -2765,13 +2810,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 49
+      "item_count": 50
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "طنین هراس و تعلیق در شعر معاصر؛ ۱۰ اثر وهم‌آلود برای شب هالووین",
+          "title": "طنین هراس و تعلیق در شعر معاصر؛ ۱۰ اثر وهم‌آلود برای شب هالووین",
+          "source": "Literary Hub",
+          "published": "2026-11-01T10:32:35.622437+03:30",
+          "original_url": "https://lithub.com/something-wicked-this-way-comes-10-poems-to-read-this-halloween/",
+          "subcategory": "essay",
+          "post_id": 502
+        },
         {
           "id": "روایت‌های هراس و تاریکی؛ گزیدهٔ نشریهٔ الکتریک‌لیترچر برای شب هالووین",
           "title": "روایت‌های هراس و تاریکی؛ گزیدهٔ نشریهٔ الکتریک‌لیترچر برای شب هالووین",
@@ -3790,8 +3844,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 113
+      "item_count": 114
     }
   ],
-  "total_items": 208
+  "total_items": 211
 }
