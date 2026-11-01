@@ -673,6 +673,27 @@
       ]
     },
     {
+      "name": "Edgar Degas",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_18951",
+          "title": "Yellow Dancers (In the Wings)",
+          "artist": "Edgar Degas",
+          "year": "1874–76",
+          "museum": "Art Institute of Chicago",
+          "movement": "Impressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "France",
+          "image_url": "https://lh3.googleusercontent.com/d/1E9f_GRExGKRuc_acHM-g8c7SE85fsdyV",
+          "published": "2026-11-01T21:30:57.765115",
+          "original_url": "https://www.artic.edu/iiif/2/8fe022ba-e358-5cda-aa70-d96edd0b4f20/full/900,/0/default.jpg",
+          "post_id": 506
+        }
+      ]
+    },
+    {
       "name": "Egon Schiele",
       "painting_count": 1,
       "paintings": [

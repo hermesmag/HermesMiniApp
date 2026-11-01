@@ -295,6 +295,49 @@
       ]
     },
     {
+      "name": "William Butler Yeats",
+      "name_fa": "شاعر و نمایشنامه‌نویس جنبش احیای ادبی ایرلند (۱۸۶۵–۱۹۳۹)؛ با نظمی فاخر و نمادپردازی‌های ژرف اساطیری، روح تاریخی ایرلند، مواجهه با زوال پیری و جاودانگی هنر را تجسم می‌بخشد.",
+      "poem_count": 3,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-012",
+          "title": "Ego Dominus Tuus",
+          "title_original": "Ego Dominus Tuus",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-08-30T18:28:30.316975+03:30",
+          "telegraph_url": "https://telegra.ph/Ego-Dominus-Tuus-08-30",
+          "post_id": 90
+        },
+        {
+          "id": "WP-Y1-DAY-044",
+          "title": "The Circus Animals’ Desertion",
+          "title_original": "The Circus Animals’ Desertion",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-10-01T18:32:40.751121+03:30",
+          "telegraph_url": "https://telegra.ph/کوچ-حیوانات-سیرک-10-01",
+          "post_id": 311
+        },
+        {
+          "id": "WP-Y1-DAY-075",
+          "title": "The Second Coming",
+          "title_original": "Turning and turning in the widening gyre",
+          "original_language": "English",
+          "epoch": "",
+          "book": "Michael Robartes and the Dancer (1921)",
+          "translator": "",
+          "published": "2026-11-01T18:50:39.738905+03:30",
+          "telegraph_url": null,
+          "post_id": 505
+        }
+      ]
+    },
+    {
       "name": "E. E. Cummings",
       "name_fa": "شاعر نوآور آمریکایی (۱۸۹۴–۱۹۶۲)؛ با هنجارگریزی در نحو، رسم‌الخط و ساختار بصری صفحه، ستایش‌گر فردیت رها، شورمندی عشق و شگفتی‌های بدوی جهان است.",
       "poem_count": 2,
@@ -818,37 +861,6 @@
           "published": "2026-10-02T18:00:51.526216+03:30",
           "telegraph_url": null,
           "post_id": 317
-        }
-      ]
-    },
-    {
-      "name": "William Butler Yeats",
-      "name_fa": "شاعر و نمایشنامه‌نویس جنبش احیای ادبی ایرلند (۱۸۶۵–۱۹۳۹)؛ با نظمی فاخر و نمادپردازی‌های ژرف اساطیری، روح تاریخی ایرلند، مواجهه با زوال پیری و جاودانگی هنر را تجسم می‌بخشد.",
-      "poem_count": 2,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-012",
-          "title": "Ego Dominus Tuus",
-          "title_original": "Ego Dominus Tuus",
-          "original_language": "English",
-          "epoch": "",
-          "book": "",
-          "translator": "",
-          "published": "2026-08-30T18:28:30.316975+03:30",
-          "telegraph_url": "https://telegra.ph/Ego-Dominus-Tuus-08-30",
-          "post_id": 90
-        },
-        {
-          "id": "WP-Y1-DAY-044",
-          "title": "The Circus Animals’ Desertion",
-          "title_original": "The Circus Animals’ Desertion",
-          "original_language": "English",
-          "epoch": "",
-          "book": "",
-          "translator": "",
-          "published": "2026-10-01T18:32:40.751121+03:30",
-          "telegraph_url": "https://telegra.ph/کوچ-حیوانات-سیرک-10-01",
-          "post_id": 311
         }
       ]
     },
