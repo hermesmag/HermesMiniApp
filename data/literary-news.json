@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "هنرِ داستان: گفتگو با تونی موریسون؛ آیینِ روایت در تاریک‌روشنِ سحرگاه",
+          "title": "هنرِ داستان: گفتگو با تونی موریسون؛ آیینِ روایت در تاریک‌روشنِ سحرگاه",
+          "source": "The Paris Review",
+          "published": "2026-11-02T10:33:14.636961+03:30",
+          "original_url": "https://www.theparisreview.org/interviews/1888/the-art-of-fiction-no-134-toni-morrison",
+          "subcategory": "interview",
+          "post_id": 510
+        },
+        {
+          "id": "از شاگردی در مکتب رمان‌های قرن هجدهم تا کشف تاریخ‌های پنهان؛ سیر مطالعهٔ فیلیپا گرگوری",
+          "title": "از شاگردی در مکتب رمان‌های قرن هجدهم تا کشف تاریخ‌های پنهان؛ سیر مطالعهٔ فیلیپا گرگوری",
+          "source": "The Guardian Books",
+          "published": "2026-11-02T10:33:13.945889+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/30/philippa-gregory-i-read-100-of-the-best-18th-century-novels-the-perfect-authors-apprenticeship",
+          "subcategory": "essay",
+          "post_id": 509
+        },
+        {
+          "id": "«جهانی در میان»؛ رمان تازهٔ زیوا بوکای دربارهٔ حافظه، رنج و بقا",
+          "title": "«جهانی در میان»؛ رمان تازهٔ زیوا بوکای دربارهٔ حافظه، رنج و بقا",
+          "source": "World Literature Today",
+          "published": "2026-11-02T10:33:11.451809+03:30",
+          "original_url": "https://worldliteraturetoday.org/2026/november/world-between-zeeva-bukai",
+          "subcategory": "world_lit",
+          "post_id": 508
+        },
+        {
           "id": "معماری نیستی و طنین زبان‌های کهن: گفت‌وگو با خورخه لوئیس بورخس",
           "title": "معماری نیستی و طنین زبان‌های کهن: گفت‌وگو با خورخه لوئیس بورخس",
           "source": "The Paris Review",
@@ -1905,7 +1932,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 211
+      "item_count": 214
     },
     {
       "id": "report",
@@ -2047,6 +2074,15 @@
       "title_fa": "✦ گفت‌وگو",
       "items": [
         {
+          "id": "هنرِ داستان: گفتگو با تونی موریسون؛ آیینِ روایت در تاریک‌روشنِ سحرگاه",
+          "title": "هنرِ داستان: گفتگو با تونی موریسون؛ آیینِ روایت در تاریک‌روشنِ سحرگاه",
+          "source": "The Paris Review",
+          "published": "2026-11-02T10:33:14.636961+03:30",
+          "original_url": "https://www.theparisreview.org/interviews/1888/the-art-of-fiction-no-134-toni-morrison",
+          "subcategory": "interview",
+          "post_id": 510
+        },
+        {
           "id": "معماری نیستی و طنین زبان‌های کهن: گفت‌وگو با خورخه لوئیس بورخس",
           "title": "معماری نیستی و طنین زبان‌های کهن: گفت‌وگو با خورخه لوئیس بورخس",
           "source": "The Paris Review",
@@ -2218,7 +2254,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 19
+      "item_count": 20
     },
     {
       "id": "review",
@@ -2359,6 +2395,15 @@
       "title_en": "World Literature",
       "title_fa": "✦ ادبیات جهان",
       "items": [
+        {
+          "id": "«جهانی در میان»؛ رمان تازهٔ زیوا بوکای دربارهٔ حافظه، رنج و بقا",
+          "title": "«جهانی در میان»؛ رمان تازهٔ زیوا بوکای دربارهٔ حافظه، رنج و بقا",
+          "source": "World Literature Today",
+          "published": "2026-11-02T10:33:11.451809+03:30",
+          "original_url": "https://worldliteraturetoday.org/2026/november/world-between-zeeva-bukai",
+          "subcategory": "world_lit",
+          "post_id": 508
+        },
         {
           "id": "«تیلتون و گریس انتاکا»: روایتِ عشق و پایمردی سرخ‌پوستانِ اوستیج در اثر تازهٔ انتشارات دانشگاه نبراسکا",
           "title": "«تیلتون و گریس انتاکا»: روایتِ عشق و پایمردی سرخ‌پوستانِ اوستیج در اثر تازهٔ انتشارات دانشگاه نبراسکا",
@@ -2810,13 +2855,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 50
+      "item_count": 51
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "از شاگردی در مکتب رمان‌های قرن هجدهم تا کشف تاریخ‌های پنهان؛ سیر مطالعهٔ فیلیپا گرگوری",
+          "title": "از شاگردی در مکتب رمان‌های قرن هجدهم تا کشف تاریخ‌های پنهان؛ سیر مطالعهٔ فیلیپا گرگوری",
+          "source": "The Guardian Books",
+          "published": "2026-11-02T10:33:13.945889+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/oct/30/philippa-gregory-i-read-100-of-the-best-18th-century-novels-the-perfect-authors-apprenticeship",
+          "subcategory": "essay",
+          "post_id": 509
+        },
         {
           "id": "طنین هراس و تعلیق در شعر معاصر؛ ۱۰ اثر وهم‌آلود برای شب هالووین",
           "title": "طنین هراس و تعلیق در شعر معاصر؛ ۱۰ اثر وهم‌آلود برای شب هالووین",
@@ -3844,8 +3898,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 114
+      "item_count": 115
     }
   ],
-  "total_items": 211
+  "total_items": 214
 }
