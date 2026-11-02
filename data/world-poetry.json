@@ -1010,6 +1010,25 @@
       ]
     },
     {
+      "name": "Dylan Thomas",
+      "name_fa": "شاعر ولزی (۱۹۱۴–۱۹۵۳)؛ با زبانی آکنده از موسیقی کلام، استعاره‌های متراکم و ضرب‌آهنگی جادویی، چرخهٔ بی‌پایان زایش، زوال و پیوند ازلی انسان با خاک را سرود می‌کند.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-076",
+          "title": "Do Not Go Gentle Into That Good Night",
+          "title_original": "Do Not Go Gentle Into That Good Night",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-11-02T19:12:40.786189+03:30",
+          "telegraph_url": null,
+          "post_id": 512
+        }
+      ]
+    },
+    {
       "name": "Giosuè Carducci",
       "name_fa": "شاعر و استاد دانشگاه ایتالیایی (۱۸۳۵–۱۹۰۷)، نخستین نویسنده ایتالیایی برنده جایزه نوبل ادبیات ۱۹۰۶",
       "poem_count": 1,
