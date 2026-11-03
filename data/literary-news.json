@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "هنر داستان: روایتی از سرکشی‌های پوشالی و رویارویی با امر واقع",
+          "title": "هنر داستان: روایتی از سرکشی‌های پوشالی و رویارویی با امر واقع",
+          "source": "The Paris Review",
+          "published": "2026-11-03T10:32:32.757790+03:30",
+          "original_url": "https://www.theparisreview.org/interviews/3156/the-art-of-fiction-no-130-italo-calvino",
+          "subcategory": "interview",
+          "post_id": 517
+        },
+        {
+          "id": "جمجمه‌های شیشه‌ای و درخشش در تاریکی؛ تازه‌های شعر جهان در آستانهٔ زمستان",
+          "title": "جمجمه‌های شیشه‌ای و درخشش در تاریکی؛ تازه‌های شعر جهان در آستانهٔ زمستان",
+          "source": "Literary Hub",
+          "published": "2026-11-03T10:32:32.110802+03:30",
+          "original_url": "https://lithub.com/glass-skulls-luminosity-soup-and-other-miracles-new-poetry-to-read-this-november/",
+          "subcategory": "essay",
+          "post_id": 516
+        },
+        {
+          "id": "برندگان جوایز شعر فوروارد ۲۰۲۶ معرفی شدند / سارا هو برندهٔ جایزهٔ بهترین مجموعه",
+          "title": "برندگان جوایز شعر فوروارد ۲۰۲۶ معرفی شدند / سارا هو برندهٔ جایزهٔ بهترین مجموعه",
+          "source": "Poetry Society (UK)",
+          "published": "2026-11-03T10:32:30.087470+03:30",
+          "original_url": "https://poetrysociety.org.uk/uncategorized/winners-of-the-forward-prizes-for-poetry-2026/",
+          "subcategory": "report",
+          "post_id": 515
+        },
+        {
           "id": "هنرِ داستان: گفتگو با تونی موریسون؛ آیینِ روایت در تاریک‌روشنِ سحرگاه",
           "title": "هنرِ داستان: گفتگو با تونی موریسون؛ آیینِ روایت در تاریک‌روشنِ سحرگاه",
           "source": "The Paris Review",
@@ -1932,13 +1959,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 214
+      "item_count": 217
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "برندگان جوایز شعر فوروارد ۲۰۲۶ معرفی شدند / سارا هو برندهٔ جایزهٔ بهترین مجموعه",
+          "title": "برندگان جوایز شعر فوروارد ۲۰۲۶ معرفی شدند / سارا هو برندهٔ جایزهٔ بهترین مجموعه",
+          "source": "Poetry Society (UK)",
+          "published": "2026-11-03T10:32:30.087470+03:30",
+          "original_url": "https://poetrysociety.org.uk/uncategorized/winners-of-the-forward-prizes-for-poetry-2026/",
+          "subcategory": "report",
+          "post_id": 515
+        },
         {
           "id": "ساره هو برندهٔ جایزهٔ شعر «فوروارد» شد",
           "title": "ساره هو برندهٔ جایزهٔ شعر «فوروارد» شد",
@@ -2066,13 +2102,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 14
+      "item_count": 15
     },
     {
       "id": "interview",
       "title_en": "Interviews",
       "title_fa": "✦ گفت‌وگو",
       "items": [
+        {
+          "id": "هنر داستان: روایتی از سرکشی‌های پوشالی و رویارویی با امر واقع",
+          "title": "هنر داستان: روایتی از سرکشی‌های پوشالی و رویارویی با امر واقع",
+          "source": "The Paris Review",
+          "published": "2026-11-03T10:32:32.757790+03:30",
+          "original_url": "https://www.theparisreview.org/interviews/3156/the-art-of-fiction-no-130-italo-calvino",
+          "subcategory": "interview",
+          "post_id": 517
+        },
         {
           "id": "هنرِ داستان: گفتگو با تونی موریسون؛ آیینِ روایت در تاریک‌روشنِ سحرگاه",
           "title": "هنرِ داستان: گفتگو با تونی موریسون؛ آیینِ روایت در تاریک‌روشنِ سحرگاه",
@@ -2254,7 +2299,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 20
+      "item_count": 21
     },
     {
       "id": "review",
@@ -2863,6 +2908,15 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "جمجمه‌های شیشه‌ای و درخشش در تاریکی؛ تازه‌های شعر جهان در آستانهٔ زمستان",
+          "title": "جمجمه‌های شیشه‌ای و درخشش در تاریکی؛ تازه‌های شعر جهان در آستانهٔ زمستان",
+          "source": "Literary Hub",
+          "published": "2026-11-03T10:32:32.110802+03:30",
+          "original_url": "https://lithub.com/glass-skulls-luminosity-soup-and-other-miracles-new-poetry-to-read-this-november/",
+          "subcategory": "essay",
+          "post_id": 516
+        },
+        {
           "id": "از شاگردی در مکتب رمان‌های قرن هجدهم تا کشف تاریخ‌های پنهان؛ سیر مطالعهٔ فیلیپا گرگوری",
           "title": "از شاگردی در مکتب رمان‌های قرن هجدهم تا کشف تاریخ‌های پنهان؛ سیر مطالعهٔ فیلیپا گرگوری",
           "source": "The Guardian Books",
@@ -3898,8 +3952,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 115
+      "item_count": 116
     }
   ],
-  "total_items": 214
+  "total_items": 217
 }
