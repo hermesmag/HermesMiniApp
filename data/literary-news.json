@@ -6,15 +6,6 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
-          "id": "هنر داستان: روایتی از سرکشی‌های پوشالی و رویارویی با امر واقع",
-          "title": "هنر داستان: روایتی از سرکشی‌های پوشالی و رویارویی با امر واقع",
-          "source": "The Paris Review",
-          "published": "2026-11-03T10:32:32.757790+03:30",
-          "original_url": "https://www.theparisreview.org/interviews/3156/the-art-of-fiction-no-130-italo-calvino",
-          "subcategory": "interview",
-          "post_id": 517
-        },
-        {
           "id": "جمجمه‌های شیشه‌ای و درخشش در تاریکی؛ تازه‌های شعر جهان در آستانهٔ زمستان",
           "title": "جمجمه‌های شیشه‌ای و درخشش در تاریکی؛ تازه‌های شعر جهان در آستانهٔ زمستان",
           "source": "Literary Hub",
@@ -33,9 +24,9 @@
           "post_id": 515
         },
         {
-          "id": "هنرِ داستان: گفتگو با تونی موریسون؛ آیینِ روایت در تاریک‌روشنِ سحرگاه",
-          "title": "هنرِ داستان: گفتگو با تونی موریسون؛ آیینِ روایت در تاریک‌روشنِ سحرگاه",
-          "source": "The Paris Review",
+          "id": "گفتگوهای ادبی هرمس | تونی موریسون: زبان نباید عرق کند",
+          "title": "گفتگوهای ادبی هرمس | تونی موریسون: زبان نباید عرق کند",
+          "source": "The New Republic",
           "published": "2026-11-02T10:33:14.636961+03:30",
           "original_url": "https://www.theparisreview.org/interviews/1888/the-art-of-fiction-no-134-toni-morrison",
           "subcategory": "interview",
@@ -60,9 +51,9 @@
           "post_id": 508
         },
         {
-          "id": "معماری نیستی و طنین زبان‌های کهن: گفت‌وگو با خورخه لوئیس بورخس",
-          "title": "معماری نیستی و طنین زبان‌های کهن: گفت‌وگو با خورخه لوئیس بورخس",
-          "source": "The Paris Review",
+          "id": "کارگاه داستان‌نویسی خورخه لوئیس بورخس | بوطیقای ایجاز، نقد تعهد و فلسفهٔ زمان",
+          "title": "کارگاه داستان‌نویسی خورخه لوئیس بورخس | بوطیقای ایجاز، نقد تعهد و فلسفهٔ زمان",
+          "source": "Borges on Writing",
           "published": "2026-11-01T10:32:38.276154+03:30",
           "original_url": "https://www.theparisreview.org/interviews/4331/the-art-of-fiction-no-39-jorge-luis-borges",
           "subcategory": "interview",
@@ -1959,7 +1950,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 217
+      "item_count": 216
     },
     {
       "id": "report",
@@ -2110,27 +2101,18 @@
       "title_fa": "✦ گفت‌وگو",
       "items": [
         {
-          "id": "هنر داستان: روایتی از سرکشی‌های پوشالی و رویارویی با امر واقع",
-          "title": "هنر داستان: روایتی از سرکشی‌های پوشالی و رویارویی با امر واقع",
-          "source": "The Paris Review",
-          "published": "2026-11-03T10:32:32.757790+03:30",
-          "original_url": "https://www.theparisreview.org/interviews/3156/the-art-of-fiction-no-130-italo-calvino",
-          "subcategory": "interview",
-          "post_id": 517
-        },
-        {
-          "id": "هنرِ داستان: گفتگو با تونی موریسون؛ آیینِ روایت در تاریک‌روشنِ سحرگاه",
-          "title": "هنرِ داستان: گفتگو با تونی موریسون؛ آیینِ روایت در تاریک‌روشنِ سحرگاه",
-          "source": "The Paris Review",
+          "id": "گفتگوهای ادبی هرمس | تونی موریسون: زبان نباید عرق کند",
+          "title": "گفتگوهای ادبی هرمس | تونی موریسون: زبان نباید عرق کند",
+          "source": "The New Republic",
           "published": "2026-11-02T10:33:14.636961+03:30",
           "original_url": "https://www.theparisreview.org/interviews/1888/the-art-of-fiction-no-134-toni-morrison",
           "subcategory": "interview",
           "post_id": 510
         },
         {
-          "id": "معماری نیستی و طنین زبان‌های کهن: گفت‌وگو با خورخه لوئیس بورخس",
-          "title": "معماری نیستی و طنین زبان‌های کهن: گفت‌وگو با خورخه لوئیس بورخس",
-          "source": "The Paris Review",
+          "id": "کارگاه داستان‌نویسی خورخه لوئیس بورخس | بوطیقای ایجاز، نقد تعهد و فلسفهٔ زمان",
+          "title": "کارگاه داستان‌نویسی خورخه لوئیس بورخس | بوطیقای ایجاز، نقد تعهد و فلسفهٔ زمان",
+          "source": "Borges on Writing",
           "published": "2026-11-01T10:32:38.276154+03:30",
           "original_url": "https://www.theparisreview.org/interviews/4331/the-art-of-fiction-no-39-jorge-luis-borges",
           "subcategory": "interview",
@@ -2299,7 +2281,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 21
+      "item_count": 20
     },
     {
       "id": "review",
@@ -3955,5 +3937,5 @@
       "item_count": 116
     }
   ],
-  "total_items": 217
+  "total_items": 216
 }
