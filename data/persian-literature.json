@@ -1058,6 +1058,25 @@
           "post_id": 436
         }
       ]
+    },
+    {
+      "name": "تاریخ بیهقی",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "local://tarikh_beyhaghi/34",
+          "title": "بخش ۲ - ادامهٔ خطبهٔ آغاز تاریخ",
+          "author": "تاریخ بیهقی",
+          "book": "",
+          "form": "",
+          "century": null,
+          "char_count": 11877,
+          "familiarity_tier": "",
+          "day_of_year": null,
+          "published": "2026-11-03T08:00:56.210686+03:30",
+          "post_id": 514
+        }
+      ]
     }
   ]
 }
