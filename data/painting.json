@@ -1087,6 +1087,27 @@
       ]
     },
     {
+      "name": "Max Ernst",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_136121",
+          "title": "Dada Gauguin",
+          "artist": "Max Ernst",
+          "year": "1920",
+          "museum": "Art Institute of Chicago",
+          "movement": "Dada",
+          "medium": "Gouache, pencil, and printed paper collage on paper",
+          "art_form": "طراحی و چاپ",
+          "country": "Germany",
+          "image_url": "https://lh3.googleusercontent.com/d/16PCr_ujjXH_OXsixZ_1U08Mh76fb58hK",
+          "published": "2026-11-03T21:31:05.282680",
+          "original_url": "https://www.artic.edu/iiif/2/3f2e7bce-a8f2-562a-5f8f-90932bdc6af8/full/900,/0/default.jpg",
+          "post_id": 523
+        }
+      ]
+    },
+    {
       "name": "Nancy Lee Katz",
       "painting_count": 1,
       "paintings": [
