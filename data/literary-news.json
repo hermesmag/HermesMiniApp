@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "گفت‌وگو با سمر یزبک و لری پرایس دربارهٔ کتاب جدید و چالش‌های ترجمهٔ آن",
+          "title": "گفت‌وگو با سمر یزبک و لری پرایس دربارهٔ کتاب جدید و چالش‌های ترجمهٔ آن",
+          "source": "Words Without Borders",
+          "published": "2026-11-04T10:34:30.065111+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-11/the-national-book-award-interviews-samar-yazbek-and-leri-price-your-presence-is-a-danger-to-your-life/",
+          "subcategory": "interview",
+          "post_id": 526
+        },
+        {
+          "id": "از روستاهای ایرلند تا نیویورک؛ ماری بث کین از ریشه‌های خانوادگی رمان «ویل هاربر» می‌گوید",
+          "title": "از روستاهای ایرلند تا نیویورک؛ ماری بث کین از ریشه‌های خانوادگی رمان «ویل هاربر» می‌گوید",
+          "source": "Literary Hub",
+          "published": "2026-11-04T10:34:28.202832+03:30",
+          "original_url": "https://lithub.com/mary-beth-keane-on-writing-a-novel-of-the-irish-diaspora/",
+          "subcategory": "essay",
+          "post_id": 525
+        },
+        {
+          "id": "اضطرابِ آزادی و دغدغه‌های هستی‌شناختی در دو شعر از سلاوه جورجو دیموسکی",
+          "title": "اضطرابِ آزادی و دغدغه‌های هستی‌شناختی در دو شعر از سلاوه جورجو دیموسکی",
+          "source": "Asymptote Journal",
+          "published": "2026-11-04T10:34:26.140162+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/11/03/translation-tuesday-two-poems-by-sllave-gjorgjo-dimoski/",
+          "subcategory": "world_lit",
+          "post_id": 524
+        },
+        {
           "id": "جمجمه‌های شیشه‌ای و درخشش در تاریکی؛ تازه‌های شعر جهان در آستانهٔ زمستان",
           "title": "جمجمه‌های شیشه‌ای و درخشش در تاریکی؛ تازه‌های شعر جهان در آستانهٔ زمستان",
           "source": "Literary Hub",
@@ -1950,7 +1977,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 216
+      "item_count": 219
     },
     {
       "id": "report",
@@ -2101,6 +2128,15 @@
       "title_fa": "✦ گفت‌وگو",
       "items": [
         {
+          "id": "گفت‌وگو با سمر یزبک و لری پرایس دربارهٔ کتاب جدید و چالش‌های ترجمهٔ آن",
+          "title": "گفت‌وگو با سمر یزبک و لری پرایس دربارهٔ کتاب جدید و چالش‌های ترجمهٔ آن",
+          "source": "Words Without Borders",
+          "published": "2026-11-04T10:34:30.065111+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-11/the-national-book-award-interviews-samar-yazbek-and-leri-price-your-presence-is-a-danger-to-your-life/",
+          "subcategory": "interview",
+          "post_id": 526
+        },
+        {
           "id": "گفتگوهای ادبی هرمس | تونی موریسون: زبان نباید عرق کند",
           "title": "گفتگوهای ادبی هرمس | تونی موریسون: زبان نباید عرق کند",
           "source": "The New Republic",
@@ -2281,7 +2317,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 20
+      "item_count": 21
     },
     {
       "id": "review",
@@ -2422,6 +2458,15 @@
       "title_en": "World Literature",
       "title_fa": "✦ ادبیات جهان",
       "items": [
+        {
+          "id": "اضطرابِ آزادی و دغدغه‌های هستی‌شناختی در دو شعر از سلاوه جورجو دیموسکی",
+          "title": "اضطرابِ آزادی و دغدغه‌های هستی‌شناختی در دو شعر از سلاوه جورجو دیموسکی",
+          "source": "Asymptote Journal",
+          "published": "2026-11-04T10:34:26.140162+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/11/03/translation-tuesday-two-poems-by-sllave-gjorgjo-dimoski/",
+          "subcategory": "world_lit",
+          "post_id": 524
+        },
         {
           "id": "«جهانی در میان»؛ رمان تازهٔ زیوا بوکای دربارهٔ حافظه، رنج و بقا",
           "title": "«جهانی در میان»؛ رمان تازهٔ زیوا بوکای دربارهٔ حافظه، رنج و بقا",
@@ -2882,13 +2927,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 51
+      "item_count": 52
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "از روستاهای ایرلند تا نیویورک؛ ماری بث کین از ریشه‌های خانوادگی رمان «ویل هاربر» می‌گوید",
+          "title": "از روستاهای ایرلند تا نیویورک؛ ماری بث کین از ریشه‌های خانوادگی رمان «ویل هاربر» می‌گوید",
+          "source": "Literary Hub",
+          "published": "2026-11-04T10:34:28.202832+03:30",
+          "original_url": "https://lithub.com/mary-beth-keane-on-writing-a-novel-of-the-irish-diaspora/",
+          "subcategory": "essay",
+          "post_id": 525
+        },
         {
           "id": "جمجمه‌های شیشه‌ای و درخشش در تاریکی؛ تازه‌های شعر جهان در آستانهٔ زمستان",
           "title": "جمجمه‌های شیشه‌ای و درخشش در تاریکی؛ تازه‌های شعر جهان در آستانهٔ زمستان",
@@ -3934,8 +3988,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 116
+      "item_count": 117
     }
   ],
-  "total_items": 216
+  "total_items": 219
 }
