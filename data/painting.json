@@ -772,6 +772,27 @@
       ]
     },
     {
+      "name": "Ellsworth Kelly",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_185779",
+          "title": "Train Landscape",
+          "artist": "Ellsworth Kelly",
+          "year": "1953",
+          "museum": "Art Institute of Chicago",
+          "movement": "Hard-edge painting",
+          "medium": "Oil on canvas (three joined panels)",
+          "art_form": "نقاشی",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/15tNxhpqA3oB32Hu_5io5eAqLhUroipqB",
+          "published": "2026-11-04T21:31:02.349860",
+          "original_url": "https://www.artic.edu/iiif/2/0e4128b8-7ec7-11e7-5eed-4e9ebc9aa0a4/full/900,/0/default.jpg",
+          "post_id": 528
+        }
+      ]
+    },
+    {
       "name": "Fernand Léger",
       "painting_count": 1,
       "paintings": [
