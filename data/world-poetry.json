@@ -1041,6 +1041,25 @@
       ]
     },
     {
+      "name": "Fernando Pessoa",
+      "name_fa": "شاعر چندصدای پرتغالی (۱۸۸۸–۱۹۳۵)؛ با خلق هویت‌ها و نام‌های شعری مستقل، به کالبدشکافی چندپارگی هویت، اضطراب وجودی و هزارتوهای آگاهی مدرن می‌نشیند.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-079",
+          "title": "35 Sonnets: I",
+          "title_original": "35 Sonnets: I",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-11-04T18:00:52.004861+03:30",
+          "telegraph_url": null,
+          "post_id": 527
+        }
+      ]
+    },
+    {
       "name": "Giosuè Carducci",
       "name_fa": "شاعر و استاد دانشگاه ایتالیایی (۱۸۳۵–۱۹۰۷)، نخستین نویسنده ایتالیایی برنده جایزه نوبل ادبیات ۱۹۰۶",
       "poem_count": 1,
