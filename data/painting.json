@@ -1129,6 +1129,27 @@
       ]
     },
     {
+      "name": "Meissen Porcelain Manufactory",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_207157",
+          "title": "Dwarf (one of a pair)",
+          "artist": "Meissen Porcelain Manufactory",
+          "year": "ca. 1740–45",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Baroque (Applied Art)",
+          "medium": "Tin-glazed soft-paste porcelain decorated in polychrome enamels",
+          "art_form": "مجسمه‌سازی",
+          "country": "France",
+          "image_url": "https://lh3.googleusercontent.com/d/1T_D2mO_BuyUyWm9pVYC11sbMJJLwGIWh",
+          "published": "2026-11-05T21:31:12.935297",
+          "original_url": "https://images.metmuseum.org/CRDImages/es/original/DP223292.jpg",
+          "post_id": 538
+        }
+      ]
+    },
+    {
       "name": "Nancy Lee Katz",
       "painting_count": 1,
       "paintings": [
