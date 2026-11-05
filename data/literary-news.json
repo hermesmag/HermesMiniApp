@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "انتشار کتاب‌هایی که مرزها را درمی‌نوردند؛ گفت‌وگویی در هفتهٔ «کتاب‌خوانی آفریقا»",
+          "title": "انتشار کتاب‌هایی که مرزها را درمی‌نوردند؛ گفت‌وگویی در هفتهٔ «کتاب‌خوانی آفریقا»",
+          "source": "World Literature Today",
+          "published": "2026-11-05T10:33:58.330254+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/interviews/publishing-books-cross-boundaries-and-borders-conversation-readingafrica-week-joel",
+          "subcategory": "world_lit",
+          "post_id": 533
+        },
+        {
+          "id": "ادبیات و سیاست؛ پیشنهادهایی از آرشیو برای روز انتخابات",
+          "title": "ادبیات و سیاست؛ پیشنهادهایی از آرشیو برای روز انتخابات",
+          "source": "The Paris Review",
+          "published": "2026-11-05T10:33:55.986572+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/11/03/campaign-literature-election-day-midterms/",
+          "subcategory": "report",
+          "post_id": 532
+        },
+        {
+          "id": "«سکوت»؛ طنین خشونت ساختاری و رهایی در رمان تازهٔ کلیو مندوسا",
+          "title": "«سکوت»؛ طنین خشونت ساختاری و رهایی در رمان تازهٔ کلیو مندوسا",
+          "source": "Asymptote Journal",
+          "published": "2026-11-05T10:33:53.699123+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/11/04/memory-flame-sea-song-a-review-of-silencio-by-clyo-mendoza/",
+          "subcategory": "review",
+          "post_id": 531
+        },
+        {
           "id": "گفت‌وگو با سمر یزبک و لری پرایس دربارهٔ کتاب جدید و چالش‌های ترجمهٔ آن",
           "title": "گفت‌وگو با سمر یزبک و لری پرایس دربارهٔ کتاب جدید و چالش‌های ترجمهٔ آن",
           "source": "Words Without Borders",
@@ -1977,13 +2004,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 219
+      "item_count": 222
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "ادبیات و سیاست؛ پیشنهادهایی از آرشیو برای روز انتخابات",
+          "title": "ادبیات و سیاست؛ پیشنهادهایی از آرشیو برای روز انتخابات",
+          "source": "The Paris Review",
+          "published": "2026-11-05T10:33:55.986572+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/11/03/campaign-literature-election-day-midterms/",
+          "subcategory": "report",
+          "post_id": 532
+        },
         {
           "id": "برندگان جوایز شعر فوروارد ۲۰۲۶ معرفی شدند / سارا هو برندهٔ جایزهٔ بهترین مجموعه",
           "title": "برندگان جوایز شعر فوروارد ۲۰۲۶ معرفی شدند / سارا هو برندهٔ جایزهٔ بهترین مجموعه",
@@ -2120,7 +2156,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 15
+      "item_count": 16
     },
     {
       "id": "interview",
@@ -2325,6 +2361,15 @@
       "title_fa": "✦ معرفی کتاب",
       "items": [
         {
+          "id": "«سکوت»؛ طنین خشونت ساختاری و رهایی در رمان تازهٔ کلیو مندوسا",
+          "title": "«سکوت»؛ طنین خشونت ساختاری و رهایی در رمان تازهٔ کلیو مندوسا",
+          "source": "Asymptote Journal",
+          "published": "2026-11-05T10:33:53.699123+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/11/04/memory-flame-sea-song-a-review-of-silencio-by-clyo-mendoza/",
+          "subcategory": "review",
+          "post_id": 531
+        },
+        {
           "id": "«غاز قرمز»؛ انتشار نخستین دفتر شعر آلن گای ویلکاکس",
           "title": "«غاز قرمز»؛ انتشار نخستین دفتر شعر آلن گای ویلکاکس",
           "source": "Literary Hub",
@@ -2451,13 +2496,22 @@
           "post_id": 49
         }
       ],
-      "item_count": 14
+      "item_count": 15
     },
     {
       "id": "world_lit",
       "title_en": "World Literature",
       "title_fa": "✦ ادبیات جهان",
       "items": [
+        {
+          "id": "انتشار کتاب‌هایی که مرزها را درمی‌نوردند؛ گفت‌وگویی در هفتهٔ «کتاب‌خوانی آفریقا»",
+          "title": "انتشار کتاب‌هایی که مرزها را درمی‌نوردند؛ گفت‌وگویی در هفتهٔ «کتاب‌خوانی آفریقا»",
+          "source": "World Literature Today",
+          "published": "2026-11-05T10:33:58.330254+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/interviews/publishing-books-cross-boundaries-and-borders-conversation-readingafrica-week-joel",
+          "subcategory": "world_lit",
+          "post_id": 533
+        },
         {
           "id": "اضطرابِ آزادی و دغدغه‌های هستی‌شناختی در دو شعر از سلاوه جورجو دیموسکی",
           "title": "اضطرابِ آزادی و دغدغه‌های هستی‌شناختی در دو شعر از سلاوه جورجو دیموسکی",
@@ -2927,7 +2981,7 @@
           "post_id": 8
         }
       ],
-      "item_count": 52
+      "item_count": 53
     },
     {
       "id": "essay",
@@ -3991,5 +4045,5 @@
       "item_count": 117
     }
   ],
-  "total_items": 219
+  "total_items": 222
 }
