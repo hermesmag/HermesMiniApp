@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "بازآفرینی تاریخ در داستان معاصر عرب؛ روایت روجر آلن از ترجمهٔ آثار ریم بسیونی",
+          "title": "بازآفرینی تاریخ در داستان معاصر عرب؛ روایت روجر آلن از ترجمهٔ آثار ریم بسیونی",
+          "source": "Asymptote Journal",
+          "published": "2026-11-06T10:33:54.256831+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/11/05/translating-arabic-historical-fiction-roger-allen-on-translating-reem-bassiouney/",
+          "subcategory": "world_lit",
+          "post_id": 541
+        },
+        {
+          "id": "شاهکار فراموش‌شدهٔ روشنگری؛ نمایشگاهی تازه دربارهٔ «دست‌نوشتهٔ پیداشده در ساراگوسا»",
+          "title": "شاهکار فراموش‌شدهٔ روشنگری؛ نمایشگاهی تازه دربارهٔ «دست‌نوشتهٔ پیداشده در ساراگوسا»",
+          "source": "The Guardian Books",
+          "published": "2026-11-06T10:33:51.821265+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/nov/05/the-manuscript-found-in-saragossa-jan-potocki-exhibition-switzerland",
+          "subcategory": "essay",
+          "post_id": 540
+        },
+        {
+          "id": "روایت خلق «مدرسهٔ شب»؛ گفت‌وگوی کارل اووه کناسگور و مارتین ایتکن",
+          "title": "روایت خلق «مدرسهٔ شب»؛ گفت‌وگوی کارل اووه کناسگور و مارتین ایتکن",
+          "source": "Words Without Borders",
+          "published": "2026-11-06T10:33:49.051747+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-11/the-national-book-award-interviews-karl-ove-knausgaard-and-martin-aitken-the-school-of-night/",
+          "subcategory": "interview",
+          "post_id": 539
+        },
+        {
           "id": "انتشار کتاب‌هایی که مرزها را درمی‌نوردند؛ گفت‌وگویی در هفتهٔ «کتاب‌خوانی آفریقا»",
           "title": "انتشار کتاب‌هایی که مرزها را درمی‌نوردند؛ گفت‌وگویی در هفتهٔ «کتاب‌خوانی آفریقا»",
           "source": "World Literature Today",
@@ -2004,7 +2031,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 222
+      "item_count": 225
     },
     {
       "id": "report",
@@ -2164,6 +2191,15 @@
       "title_fa": "✦ گفت‌وگو",
       "items": [
         {
+          "id": "روایت خلق «مدرسهٔ شب»؛ گفت‌وگوی کارل اووه کناسگور و مارتین ایتکن",
+          "title": "روایت خلق «مدرسهٔ شب»؛ گفت‌وگوی کارل اووه کناسگور و مارتین ایتکن",
+          "source": "Words Without Borders",
+          "published": "2026-11-06T10:33:49.051747+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-11/the-national-book-award-interviews-karl-ove-knausgaard-and-martin-aitken-the-school-of-night/",
+          "subcategory": "interview",
+          "post_id": 539
+        },
+        {
           "id": "گفت‌وگو با سمر یزبک و لری پرایس دربارهٔ کتاب جدید و چالش‌های ترجمهٔ آن",
           "title": "گفت‌وگو با سمر یزبک و لری پرایس دربارهٔ کتاب جدید و چالش‌های ترجمهٔ آن",
           "source": "Words Without Borders",
@@ -2353,7 +2389,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 21
+      "item_count": 22
     },
     {
       "id": "review",
@@ -2503,6 +2539,15 @@
       "title_en": "World Literature",
       "title_fa": "✦ ادبیات جهان",
       "items": [
+        {
+          "id": "بازآفرینی تاریخ در داستان معاصر عرب؛ روایت روجر آلن از ترجمهٔ آثار ریم بسیونی",
+          "title": "بازآفرینی تاریخ در داستان معاصر عرب؛ روایت روجر آلن از ترجمهٔ آثار ریم بسیونی",
+          "source": "Asymptote Journal",
+          "published": "2026-11-06T10:33:54.256831+03:30",
+          "original_url": "https://www.asymptotejournal.com/blog/2026/11/05/translating-arabic-historical-fiction-roger-allen-on-translating-reem-bassiouney/",
+          "subcategory": "world_lit",
+          "post_id": 541
+        },
         {
           "id": "انتشار کتاب‌هایی که مرزها را درمی‌نوردند؛ گفت‌وگویی در هفتهٔ «کتاب‌خوانی آفریقا»",
           "title": "انتشار کتاب‌هایی که مرزها را درمی‌نوردند؛ گفت‌وگویی در هفتهٔ «کتاب‌خوانی آفریقا»",
@@ -2981,13 +3026,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 53
+      "item_count": 54
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "شاهکار فراموش‌شدهٔ روشنگری؛ نمایشگاهی تازه دربارهٔ «دست‌نوشتهٔ پیداشده در ساراگوسا»",
+          "title": "شاهکار فراموش‌شدهٔ روشنگری؛ نمایشگاهی تازه دربارهٔ «دست‌نوشتهٔ پیداشده در ساراگوسا»",
+          "source": "The Guardian Books",
+          "published": "2026-11-06T10:33:51.821265+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/nov/05/the-manuscript-found-in-saragossa-jan-potocki-exhibition-switzerland",
+          "subcategory": "essay",
+          "post_id": 540
+        },
         {
           "id": "از روستاهای ایرلند تا نیویورک؛ ماری بث کین از ریشه‌های خانوادگی رمان «ویل هاربر» می‌گوید",
           "title": "از روستاهای ایرلند تا نیویورک؛ ماری بث کین از ریشه‌های خانوادگی رمان «ویل هاربر» می‌گوید",
@@ -4042,8 +4096,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 117
+      "item_count": 118
     }
   ],
-  "total_items": 222
+  "total_items": 225
 }
