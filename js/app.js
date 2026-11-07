@@ -129,7 +129,7 @@
    * Data Loading
    * ------------------------------------------------------------------ */
 
-  const APP_VERSION = "1.0.1";
+  const APP_VERSION = "1.0.2";
   let manifestVersion = null;
 
   async function fetchJSON(path) {
