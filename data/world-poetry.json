@@ -1084,6 +1084,25 @@
       ]
     },
     {
+      "name": "Friedrich Schiller",
+      "name_fa": "شاعر، نمایشنامه‌نویس و متفکر آلمانی (۱۷۵۹–۱۸۰۵)؛ با زبانی خطابی و اندیشه‌ای فلسفی، آزادی اراده، والایی اخلاقی و رسالت رهایی‌بخش هنر را ترسیم می‌کند.",
+      "poem_count": 1,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-082",
+          "title": "Amalia",
+          "title_original": "Amalia",
+          "original_language": "German",
+          "epoch": "",
+          "book": "Die Räuber (1781)",
+          "translator": "[Various Translators / Unknown]",
+          "published": "2026-11-07T18:00:47.888034+03:30",
+          "telegraph_url": "https://telegra.ph/آمالیا-11-07",
+          "post_id": 548
+        }
+      ]
+    },
+    {
       "name": "Giosuè Carducci",
       "name_fa": "شاعر و استاد دانشگاه ایتالیایی (۱۸۳۵–۱۹۰۷)، نخستین نویسنده ایتالیایی برنده جایزه نوبل ادبیات ۱۹۰۶",
       "poem_count": 1,
