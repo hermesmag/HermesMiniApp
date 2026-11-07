@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "مایکل جی لندرمن از تاثیر هری کروز و جهان داستانی او می‌گوید",
+          "title": "مایکل جی لندرمن از تاثیر هری کروز و جهان داستانی او می‌گوید",
+          "source": "The Paris Review",
+          "published": "2026-11-07T10:36:39.958498+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/11/06/mj-lenderman-harry-crews-body/",
+          "subcategory": "essay",
+          "post_id": 547
+        },
+        {
+          "id": "نامزدهای نهایی جایزهٔ «کلمن برای ادبیات مهاجران» سال ۲۰۲۶ معرفی شدند",
+          "title": "نامزدهای نهایی جایزهٔ «کلمن برای ادبیات مهاجران» سال ۲۰۲۶ معرفی شدند",
+          "source": "The Common",
+          "published": "2026-11-07T10:36:38.203459+03:30",
+          "original_url": "https://www.thecommononline.org/read-excerpts-by-finalists-for-the-restless-books-prize-for-new-immigrant-writing-2026/",
+          "subcategory": "report",
+          "post_id": 546
+        },
+        {
+          "id": "بازخوانی شعری از محمود درویش؛ طنین تبعید و آوارگی در آثار شاعر ملی فلسطین",
+          "title": "بازخوانی شعری از محمود درویش؛ طنین تبعید و آوارگی در آثار شاعر ملی فلسطین",
+          "source": "Literary Hub",
+          "published": "2026-11-07T10:36:36.685852+03:30",
+          "original_url": "https://lithub.com/arabic-music-a-poem-by-mahmoud-darwish/",
+          "subcategory": "review",
+          "post_id": 545
+        },
+        {
           "id": "بازآفرینی تاریخ در داستان معاصر عرب؛ روایت روجر آلن از ترجمهٔ آثار ریم بسیونی",
           "title": "بازآفرینی تاریخ در داستان معاصر عرب؛ روایت روجر آلن از ترجمهٔ آثار ریم بسیونی",
           "source": "Asymptote Journal",
@@ -2031,13 +2058,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 225
+      "item_count": 228
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "نامزدهای نهایی جایزهٔ «کلمن برای ادبیات مهاجران» سال ۲۰۲۶ معرفی شدند",
+          "title": "نامزدهای نهایی جایزهٔ «کلمن برای ادبیات مهاجران» سال ۲۰۲۶ معرفی شدند",
+          "source": "The Common",
+          "published": "2026-11-07T10:36:38.203459+03:30",
+          "original_url": "https://www.thecommononline.org/read-excerpts-by-finalists-for-the-restless-books-prize-for-new-immigrant-writing-2026/",
+          "subcategory": "report",
+          "post_id": 546
+        },
         {
           "id": "ادبیات و سیاست؛ پیشنهادهایی از آرشیو برای روز انتخابات",
           "title": "ادبیات و سیاست؛ پیشنهادهایی از آرشیو برای روز انتخابات",
@@ -2183,7 +2219,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 16
+      "item_count": 17
     },
     {
       "id": "interview",
@@ -2397,6 +2433,15 @@
       "title_fa": "✦ معرفی کتاب",
       "items": [
         {
+          "id": "بازخوانی شعری از محمود درویش؛ طنین تبعید و آوارگی در آثار شاعر ملی فلسطین",
+          "title": "بازخوانی شعری از محمود درویش؛ طنین تبعید و آوارگی در آثار شاعر ملی فلسطین",
+          "source": "Literary Hub",
+          "published": "2026-11-07T10:36:36.685852+03:30",
+          "original_url": "https://lithub.com/arabic-music-a-poem-by-mahmoud-darwish/",
+          "subcategory": "review",
+          "post_id": 545
+        },
+        {
           "id": "«سکوت»؛ طنین خشونت ساختاری و رهایی در رمان تازهٔ کلیو مندوسا",
           "title": "«سکوت»؛ طنین خشونت ساختاری و رهایی در رمان تازهٔ کلیو مندوسا",
           "source": "Asymptote Journal",
@@ -2532,7 +2577,7 @@
           "post_id": 49
         }
       ],
-      "item_count": 15
+      "item_count": 16
     },
     {
       "id": "world_lit",
@@ -3034,6 +3079,15 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "مایکل جی لندرمن از تاثیر هری کروز و جهان داستانی او می‌گوید",
+          "title": "مایکل جی لندرمن از تاثیر هری کروز و جهان داستانی او می‌گوید",
+          "source": "The Paris Review",
+          "published": "2026-11-07T10:36:39.958498+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/11/06/mj-lenderman-harry-crews-body/",
+          "subcategory": "essay",
+          "post_id": 547
+        },
+        {
           "id": "شاهکار فراموش‌شدهٔ روشنگری؛ نمایشگاهی تازه دربارهٔ «دست‌نوشتهٔ پیداشده در ساراگوسا»",
           "title": "شاهکار فراموش‌شدهٔ روشنگری؛ نمایشگاهی تازه دربارهٔ «دست‌نوشتهٔ پیداشده در ساراگوسا»",
           "source": "The Guardian Books",
@@ -4096,8 +4150,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 118
+      "item_count": 119
     }
   ],
-  "total_items": 225
+  "total_items": 228
 }
