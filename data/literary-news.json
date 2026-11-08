@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "اعطای جایزهٔ «پیشگامان» انجمن سلطنتی ادبیات بریتانیا به گریس نیکولز",
+          "title": "اعطای جایزهٔ «پیشگامان» انجمن سلطنتی ادبیات بریتانیا به گریس نیکولز",
+          "source": "Poetry Society (UK)",
+          "published": "2026-11-08T10:31:51.441201+03:30",
+          "original_url": "https://poetrysociety.org.uk/news/grace-nichols-wins-the-rsl-pioneer-prize/",
+          "subcategory": "report",
+          "post_id": 552
+        },
+        {
+          "id": "اعتراف برندهٔ جایزهٔ گنکور به استفاده از هوش مصنوعی در نگارش رمان",
+          "title": "اعتراف برندهٔ جایزهٔ گنکور به استفاده از هوش مصنوعی در نگارش رمان",
+          "source": "The Guardian Books",
+          "published": "2026-11-08T10:31:49.388642+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada",
+          "subcategory": "report",
+          "post_id": 551
+        },
+        {
+          "id": "شب انتخابات در تگزاس؛ روایتی از امید به یک چرخش تاریخی",
+          "title": "شب انتخابات در تگزاس؛ روایتی از امید به یک چرخش تاریخی",
+          "source": "The Paris Review",
+          "published": "2026-11-08T10:31:46.940016+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/11/06/election-night-texas-james-talarico/",
+          "subcategory": "essay",
+          "post_id": 550
+        },
+        {
           "id": "مایکل جی لندرمن از تاثیر هری کروز و جهان داستانی او می‌گوید",
           "title": "مایکل جی لندرمن از تاثیر هری کروز و جهان داستانی او می‌گوید",
           "source": "The Paris Review",
@@ -2058,13 +2085,31 @@
           "post_id": 7
         }
       ],
-      "item_count": 228
+      "item_count": 231
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "اعطای جایزهٔ «پیشگامان» انجمن سلطنتی ادبیات بریتانیا به گریس نیکولز",
+          "title": "اعطای جایزهٔ «پیشگامان» انجمن سلطنتی ادبیات بریتانیا به گریس نیکولز",
+          "source": "Poetry Society (UK)",
+          "published": "2026-11-08T10:31:51.441201+03:30",
+          "original_url": "https://poetrysociety.org.uk/news/grace-nichols-wins-the-rsl-pioneer-prize/",
+          "subcategory": "report",
+          "post_id": 552
+        },
+        {
+          "id": "اعتراف برندهٔ جایزهٔ گنکور به استفاده از هوش مصنوعی در نگارش رمان",
+          "title": "اعتراف برندهٔ جایزهٔ گنکور به استفاده از هوش مصنوعی در نگارش رمان",
+          "source": "The Guardian Books",
+          "published": "2026-11-08T10:31:49.388642+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada",
+          "subcategory": "report",
+          "post_id": 551
+        },
         {
           "id": "نامزدهای نهایی جایزهٔ «کلمن برای ادبیات مهاجران» سال ۲۰۲۶ معرفی شدند",
           "title": "نامزدهای نهایی جایزهٔ «کلمن برای ادبیات مهاجران» سال ۲۰۲۶ معرفی شدند",
@@ -2219,7 +2264,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 17
+      "item_count": 19
     },
     {
       "id": "interview",
@@ -3079,6 +3124,15 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "شب انتخابات در تگزاس؛ روایتی از امید به یک چرخش تاریخی",
+          "title": "شب انتخابات در تگزاس؛ روایتی از امید به یک چرخش تاریخی",
+          "source": "The Paris Review",
+          "published": "2026-11-08T10:31:46.940016+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/11/06/election-night-texas-james-talarico/",
+          "subcategory": "essay",
+          "post_id": 550
+        },
+        {
           "id": "مایکل جی لندرمن از تاثیر هری کروز و جهان داستانی او می‌گوید",
           "title": "مایکل جی لندرمن از تاثیر هری کروز و جهان داستانی او می‌گوید",
           "source": "The Paris Review",
@@ -4150,8 +4204,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 119
+      "item_count": 120
     }
   ],
-  "total_items": 228
+  "total_items": 231
 }
