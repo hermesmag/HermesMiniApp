@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated": "2026-11-08T10:31:51.441201+03:30",
+  "updated": "2026-11-08T18:00:47.766357+03:30",
   "stats": {
-    "world_poetry": 89,
+    "world_poetry": 90,
     "painting": 79,
     "persian_literature": 76,
     "literary_news": 231
@@ -12,7 +12,7 @@
       "slug": "world-poetry",
       "title_en": "World Poetry",
       "title_fa": "شعر جهان",
-      "count": 89,
+      "count": 90,
       "source": "data/world-poetry.json"
     },
     {

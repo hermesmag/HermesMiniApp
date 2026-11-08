@@ -338,6 +338,49 @@
       ]
     },
     {
+      "name": "Robert Frost",
+      "name_fa": "شاعر آمریکایی (۱۸۷۴–۱۹۶۳)؛ با تلفیق لحن صمیمی گفتار با وزن‌های استوار کهن، دوراهی‌های دشوار تصمیم، تنهایی وجودی و مواجههٔ تأمل‌برانگیز انسان با طبیعت نیوانگلند را می‌کاود.",
+      "poem_count": 3,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-018",
+          "title": "A Brook In The City",
+          "title_original": "A Brook In The City",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-09-05T18:01:04.912158+03:30",
+          "telegraph_url": "https://telegra.ph/A-Brook-In-The-City-09-05",
+          "post_id": 128
+        },
+        {
+          "id": "WP-Y1-DAY-049",
+          "title": "Design",
+          "title_original": "Design",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-10-06T18:00:54.116996+03:30",
+          "telegraph_url": null,
+          "post_id": 341
+        },
+        {
+          "id": "WP-Y1-DAY-083",
+          "title": "Not to Keep",
+          "title_original": "Not to Keep",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-11-08T18:00:47.766357+03:30",
+          "telegraph_url": null,
+          "post_id": 553
+        }
+      ]
+    },
+    {
       "name": "T. S. Eliot",
       "name_fa": "شاعر و منتقد برجستهٔ مدرنیست (۱۸۸۸–۱۹۶۵)؛ با بهره‌گیری از ساختار چندصدایی و تلفیق کلاژگونهٔ متون باستانی با زبان روزمره، روایتی ژرف از سترونی تمدن غرب و تمنای رستگاری روحی خلق می‌کند.",
       "poem_count": 3,
@@ -773,37 +816,6 @@
           "published": "2026-10-30T18:00:54.369171+03:30",
           "telegraph_url": null,
           "post_id": 492
-        }
-      ]
-    },
-    {
-      "name": "Robert Frost",
-      "name_fa": "شاعر آمریکایی (۱۸۷۴–۱۹۶۳)؛ با تلفیق لحن صمیمی گفتار با وزن‌های استوار کهن، دوراهی‌های دشوار تصمیم، تنهایی وجودی و مواجههٔ تأمل‌برانگیز انسان با طبیعت نیوانگلند را می‌کاود.",
-      "poem_count": 2,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-018",
-          "title": "A Brook In The City",
-          "title_original": "A Brook In The City",
-          "original_language": "English",
-          "epoch": "",
-          "book": "",
-          "translator": "",
-          "published": "2026-09-05T18:01:04.912158+03:30",
-          "telegraph_url": "https://telegra.ph/A-Brook-In-The-City-09-05",
-          "post_id": 128
-        },
-        {
-          "id": "WP-Y1-DAY-049",
-          "title": "Design",
-          "title_original": "Design",
-          "original_language": "English",
-          "epoch": "",
-          "book": "",
-          "translator": "",
-          "published": "2026-10-06T18:00:54.116996+03:30",
-          "telegraph_url": null,
-          "post_id": 341
         }
       ]
     },
