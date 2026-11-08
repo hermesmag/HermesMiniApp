@@ -169,6 +169,42 @@
       ]
     },
     {
+      "name": "Claude Monet",
+      "painting_count": 2,
+      "paintings": [
+        {
+          "id": "artic_14620",
+          "title": "Cliff Walk at Pourville",
+          "artist": "Claude Monet",
+          "year": "1882",
+          "museum": "Art Institute of Chicago",
+          "movement": "Impressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "France",
+          "image_url": "https://lh3.googleusercontent.com/d/10HeqS7BGGq-SN96aLV1bGulfTUyk1DEj",
+          "published": "2026-09-13T21:30:58.910103",
+          "original_url": "https://www.artic.edu/iiif/2/b0effb1c-ff23-bbaa-f809-9fd94e31c1a0/full/900,/0/default.jpg",
+          "post_id": 184
+        },
+        {
+          "id": "artic_16571",
+          "title": "Arrival of the Normandy Train, Gare Saint-Lazare",
+          "artist": "Claude Monet",
+          "year": "1877",
+          "museum": "Art Institute of Chicago",
+          "movement": "Impressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "France",
+          "image_url": "https://lh3.googleusercontent.com/d/1CcnXGyfguirXs_-zuOTy8_zqOCoTB99a",
+          "published": "2026-11-08T21:31:00.517554",
+          "original_url": "https://www.artic.edu/iiif/2/0f1cc0e0-e42e-be16-3f71-2022da38cb93/full/900,/0/default.jpg",
+          "post_id": 554
+        }
+      ]
+    },
+    {
       "name": "David Hockney",
       "painting_count": 2,
       "paintings": [
@@ -678,27 +714,6 @@
           "published": "2026-08-28T02:26:09.762155",
           "original_url": "https://www.artic.edu/iiif/2/c674a67b-6c66-3c31-771b-b74cc0025128/full/900,/0/default.jpg",
           "post_id": 66
-        }
-      ]
-    },
-    {
-      "name": "Claude Monet",
-      "painting_count": 1,
-      "paintings": [
-        {
-          "id": "artic_14620",
-          "title": "Cliff Walk at Pourville",
-          "artist": "Claude Monet",
-          "year": "1882",
-          "museum": "Art Institute of Chicago",
-          "movement": "Impressionism",
-          "medium": "Oil on canvas",
-          "art_form": "نقاشی",
-          "country": "France",
-          "image_url": "https://lh3.googleusercontent.com/d/10HeqS7BGGq-SN96aLV1bGulfTUyk1DEj",
-          "published": "2026-09-13T21:30:58.910103",
-          "original_url": "https://www.artic.edu/iiif/2/b0effb1c-ff23-bbaa-f809-9fd94e31c1a0/full/900,/0/default.jpg",
-          "post_id": 184
         }
       ]
     },
