@@ -252,6 +252,49 @@
       ]
     },
     {
+      "name": "Pablo Neruda",
+      "name_fa": "شاعر پرشور شیلیایی (۱۹۰۴–۱۹۷۳)؛ با تصاویری فراخ از جغرافیای آمریکای لاتین و بیانی زلال، حماسهٔ همبستگی کارگران، ستایش اشیای ساده و جاذبهٔ پرشور عشق را می‌سراید.",
+      "poem_count": 3,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-019",
+          "title": "If You Forget Me",
+          "title_original": "Si tú me olvidas",
+          "original_language": "Spanish",
+          "epoch": "",
+          "book": "",
+          "translator": "Donald D. Walsh",
+          "published": "2026-09-06T18:01:28.669556+03:30",
+          "telegraph_url": "https://telegra.ph/Read-Poem-09-06",
+          "post_id": 134
+        },
+        {
+          "id": "WP-Y1-DAY-050",
+          "title": "I Do Not Love You Except Because I Love You",
+          "title_original": "No te amo sino porque te amo",
+          "original_language": "Spanish",
+          "epoch": "",
+          "book": "Cien sonetos de amor (1959)",
+          "translator": "Stephen Tapscott",
+          "published": "2026-10-07T18:00:51.375817+03:30",
+          "telegraph_url": "https://telegra.ph/غزل-۶۶-دوستت-ندارم-مگر-از-آن‌رو-که-دوستت-دارم-10-07",
+          "post_id": 347
+        },
+        {
+          "id": "WP-Y1-DAY-084",
+          "title": "Don't Go Far Off",
+          "title_original": "Don'T Go Far Off",
+          "original_language": "Spanish",
+          "epoch": "",
+          "book": "Cien sonetos de amor (1959)",
+          "translator": "[Various Translators / Unknown]",
+          "published": "2026-11-09T18:00:58.201411+03:30",
+          "telegraph_url": "https://telegra.ph/یک-روز-هم-از-من-دور-نباش-11-09",
+          "post_id": 557
+        }
+      ]
+    },
+    {
       "name": "Paul Verlaine",
       "name_fa": "شاعر نمادگرای فرانسوی (۱۸۴۴–۱۸۹۶)؛ با برتری بخشیدن به موسیقی ناب کلام و بازی با سایه‌روشن‌های حسی، اندوه سیال روان، حسرت‌های ناپایدار و تردیدهای وجودی را زمزمه می‌کند.",
       "poem_count": 3,
@@ -723,37 +766,6 @@
           "published": "2026-10-08T18:00:51.791277+03:30",
           "telegraph_url": "https://telegra.ph/میان-رفتن-و-ماندن-10-08",
           "post_id": 353
-        }
-      ]
-    },
-    {
-      "name": "Pablo Neruda",
-      "name_fa": "شاعر پرشور شیلیایی (۱۹۰۴–۱۹۷۳)؛ با تصاویری فراخ از جغرافیای آمریکای لاتین و بیانی زلال، حماسهٔ همبستگی کارگران، ستایش اشیای ساده و جاذبهٔ پرشور عشق را می‌سراید.",
-      "poem_count": 2,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-019",
-          "title": "If You Forget Me",
-          "title_original": "Si tú me olvidas",
-          "original_language": "Spanish",
-          "epoch": "",
-          "book": "",
-          "translator": "Donald D. Walsh",
-          "published": "2026-09-06T18:01:28.669556+03:30",
-          "telegraph_url": "https://telegra.ph/Read-Poem-09-06",
-          "post_id": 134
-        },
-        {
-          "id": "WP-Y1-DAY-050",
-          "title": "I Do Not Love You Except Because I Love You",
-          "title_original": "No te amo sino porque te amo",
-          "original_language": "Spanish",
-          "epoch": "",
-          "book": "Cien sonetos de amor (1959)",
-          "translator": "Stephen Tapscott",
-          "published": "2026-10-07T18:00:51.375817+03:30",
-          "telegraph_url": "https://telegra.ph/غزل-۶۶-دوستت-ندارم-مگر-از-آن‌رو-که-دوستت-دارم-10-07",
-          "post_id": 347
         }
       ]
     },
