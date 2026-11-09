@@ -42,15 +42,6 @@
           "post_id": 551
         },
         {
-          "id": "شب انتخابات در تگزاس؛ روایتی از امید به یک چرخش تاریخی",
-          "title": "شب انتخابات در تگزاس؛ روایتی از امید به یک چرخش تاریخی",
-          "source": "The Paris Review",
-          "published": "2026-11-08T10:31:46.940016+03:30",
-          "original_url": "https://www.theparisreview.org/blog/2026/11/06/election-night-texas-james-talarico/",
-          "subcategory": "essay",
-          "post_id": 550
-        },
-        {
           "id": "مایکل جی لندرمن از تاثیر هری کروز و جهان داستانی او می‌گوید",
           "title": "مایکل جی لندرمن از تاثیر هری کروز و جهان داستانی او می‌گوید",
           "source": "The Paris Review",
@@ -2103,7 +2094,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 233
+      "item_count": 232
     },
     {
       "id": "report",
@@ -3160,15 +3151,6 @@
           "post_id": 556
         },
         {
-          "id": "شب انتخابات در تگزاس؛ روایتی از امید به یک چرخش تاریخی",
-          "title": "شب انتخابات در تگزاس؛ روایتی از امید به یک چرخش تاریخی",
-          "source": "The Paris Review",
-          "published": "2026-11-08T10:31:46.940016+03:30",
-          "original_url": "https://www.theparisreview.org/blog/2026/11/06/election-night-texas-james-talarico/",
-          "subcategory": "essay",
-          "post_id": 550
-        },
-        {
           "id": "مایکل جی لندرمن از تاثیر هری کروز و جهان داستانی او می‌گوید",
           "title": "مایکل جی لندرمن از تاثیر هری کروز و جهان داستانی او می‌گوید",
           "source": "The Paris Review",
@@ -4240,8 +4222,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 121
+      "item_count": 120
     }
   ],
-  "total_items": 233
+  "total_items": 232
 }
