@@ -6,6 +6,24 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "راز ماندگاری «تام گیتس» در پانزده‌سالگی؛ گفتگو با لیز پیشون به مناسبت انتشار بیست‌وپنجمین جلد",
+          "title": "راز ماندگاری «تام گیتس» در پانزده‌سالگی؛ گفتگو با لیز پیشون به مناسبت انتشار بیست‌وپنجمین جلد",
+          "source": "The Guardian Books",
+          "published": "2026-11-09T10:31:34.178261+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/nov/08/no-tech-no-texts-just-childhood-author-liz-pichon-on-the-secrets-behind-her-multi-million-selling-tom-gates-series",
+          "subcategory": "essay",
+          "post_id": 556
+        },
+        {
+          "id": "بازآفرینی جهان یاسوشی اینوئه؛ گفتگو با جی. مارتین هولمن دربارهٔ ترجمهٔ داستان‌های ژاپنی",
+          "title": "بازآفرینی جهان یاسوشی اینوئه؛ گفتگو با جی. مارتین هولمن دربارهٔ ترجمهٔ داستان‌های ژاپنی",
+          "source": "The New Yorker",
+          "published": "2026-11-09T10:31:32.279591+03:30",
+          "original_url": "https://www.newyorker.com/books/this-week-in-fiction/yasushi-inoue-11-16-26",
+          "subcategory": "world_lit",
+          "post_id": 555
+        },
+        {
           "id": "اعطای جایزهٔ «پیشگامان» انجمن سلطنتی ادبیات بریتانیا به گریس نیکولز",
           "title": "اعطای جایزهٔ «پیشگامان» انجمن سلطنتی ادبیات بریتانیا به گریس نیکولز",
           "source": "Poetry Society (UK)",
@@ -2085,7 +2103,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 231
+      "item_count": 233
     },
     {
       "id": "report",
@@ -2630,6 +2648,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "بازآفرینی جهان یاسوشی اینوئه؛ گفتگو با جی. مارتین هولمن دربارهٔ ترجمهٔ داستان‌های ژاپنی",
+          "title": "بازآفرینی جهان یاسوشی اینوئه؛ گفتگو با جی. مارتین هولمن دربارهٔ ترجمهٔ داستان‌های ژاپنی",
+          "source": "The New Yorker",
+          "published": "2026-11-09T10:31:32.279591+03:30",
+          "original_url": "https://www.newyorker.com/books/this-week-in-fiction/yasushi-inoue-11-16-26",
+          "subcategory": "world_lit",
+          "post_id": 555
+        },
+        {
           "id": "بازآفرینی تاریخ در داستان معاصر عرب؛ روایت روجر آلن از ترجمهٔ آثار ریم بسیونی",
           "title": "بازآفرینی تاریخ در داستان معاصر عرب؛ روایت روجر آلن از ترجمهٔ آثار ریم بسیونی",
           "source": "Asymptote Journal",
@@ -3116,13 +3143,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 54
+      "item_count": 55
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "راز ماندگاری «تام گیتس» در پانزده‌سالگی؛ گفتگو با لیز پیشون به مناسبت انتشار بیست‌وپنجمین جلد",
+          "title": "راز ماندگاری «تام گیتس» در پانزده‌سالگی؛ گفتگو با لیز پیشون به مناسبت انتشار بیست‌وپنجمین جلد",
+          "source": "The Guardian Books",
+          "published": "2026-11-09T10:31:34.178261+03:30",
+          "original_url": "https://www.theguardian.com/books/2026/nov/08/no-tech-no-texts-just-childhood-author-liz-pichon-on-the-secrets-behind-her-multi-million-selling-tom-gates-series",
+          "subcategory": "essay",
+          "post_id": 556
+        },
         {
           "id": "شب انتخابات در تگزاس؛ روایتی از امید به یک چرخش تاریخی",
           "title": "شب انتخابات در تگزاس؛ روایتی از امید به یک چرخش تاریخی",
@@ -4204,8 +4240,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 120
+      "item_count": 121
     }
   ],
-  "total_items": 231
+  "total_items": 233
 }
