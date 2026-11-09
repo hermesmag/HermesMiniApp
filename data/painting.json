@@ -1033,6 +1033,27 @@
       ]
     },
     {
+      "name": "Henri Matisse",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_100226",
+          "title": "Daisies",
+          "artist": "Henri Matisse",
+          "year": "1939",
+          "museum": "Art Institute of Chicago",
+          "movement": "Modernism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "France",
+          "image_url": "https://lh3.googleusercontent.com/d/1UeuhNN29hy9bR2mAMKYPaM6ytksiU6wU",
+          "published": "2026-11-09T21:31:08.530640",
+          "original_url": "https://www.artic.edu/iiif/2/1693f1ff-40a4-e0e2-16cd-3d8d055dc266/full/900,/0/default.jpg",
+          "post_id": 558
+        }
+      ]
+    },
+    {
       "name": "Jasper Johns",
       "painting_count": 1,
       "paintings": [

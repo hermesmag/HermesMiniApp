@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
-  "updated": "2026-11-09T18:00:58.201411+03:30",
+  "updated": "2026-11-09T21:31:08.533556+03:30",
   "stats": {
     "world_poetry": 91,
-    "painting": 80,
+    "painting": 81,
     "persian_literature": 76,
     "literary_news": 232
   },
@@ -26,7 +26,7 @@
       "slug": "painting",
       "title_en": "Visual Arts",
       "title_fa": "هنرهای تجسمی",
-      "count": 80,
+      "count": 81,
       "source": "data/painting.json"
     },
     {
