@@ -1411,6 +1411,27 @@
       ]
     },
     {
+      "name": "Sam Francis",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_19019",
+          "title": "Another Disappearance",
+          "artist": "Sam Francis",
+          "year": "1963",
+          "museum": "Art Institute of Chicago",
+          "movement": "Abstract Expressionism",
+          "medium": "Color lithograph on paper",
+          "art_form": "طراحی و چاپ",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/173ndjzgttU_NxVb_aWwpGrDnOU6p0Ds9",
+          "published": "2026-11-10T21:31:00.874240",
+          "original_url": "https://www.artic.edu/iiif/2/0caafe02-3a3d-224d-863b-1fd430ea15e3/full/900,/0/default.jpg",
+          "post_id": 563
+        }
+      ]
+    },
+    {
       "name": "Seljuq Artist (Iran)",
       "painting_count": 1,
       "paintings": [
