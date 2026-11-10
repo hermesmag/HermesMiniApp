@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "«همه‌چیز باید درست کار کند»؛ گفت‌وگوی مایکل کوستاریس با سیگرید نونز دربارهٔ نخستین مجموعه داستانش",
+          "title": "«همه‌چیز باید درست کار کند»؛ گفت‌وگوی مایکل کوستاریس با سیگرید نونز دربارهٔ نخستین مجموعه داستانش",
+          "source": "The Common",
+          "published": "2026-11-10T10:33:20.429754+03:30",
+          "original_url": "https://www.thecommononline.org/everything-has-to-work-michael-costaris-interviews-sigrid-nunez/",
+          "subcategory": "interview",
+          "post_id": 561
+        },
+        {
+          "id": "روایت کیرمن اوریبه از هویت و مقاومت: زیستن در پناه زبان باسکی",
+          "title": "روایت کیرمن اوریبه از هویت و مقاومت: زیستن در پناه زبان باسکی",
+          "source": "Literary Hub",
+          "published": "2026-11-10T10:33:18.677769+03:30",
+          "original_url": "https://lithub.com/what-it-means-to-be-a-basque-writer/",
+          "subcategory": "essay",
+          "post_id": 560
+        },
+        {
+          "id": "فراوانی در جزئیات: انتشار دو شعر تازه از لوئیس مونیوز",
+          "title": "فراوانی در جزئیات: انتشار دو شعر تازه از لوئیس مونیوز",
+          "source": "Words Without Borders",
+          "published": "2026-11-10T10:33:16.774961+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-11/a-bounty-in-minuteness-two-poems-munoz-greenwell-novey/",
+          "subcategory": "world_lit",
+          "post_id": 559
+        },
+        {
           "id": "راز ماندگاری «تام گیتس» در پانزده‌سالگی؛ گفتگو با لیز پیشون به مناسبت انتشار بیست‌وپنجمین جلد",
           "title": "راز ماندگاری «تام گیتس» در پانزده‌سالگی؛ گفتگو با لیز پیشون به مناسبت انتشار بیست‌وپنجمین جلد",
           "source": "The Guardian Books",
@@ -2094,7 +2121,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 232
+      "item_count": 235
     },
     {
       "id": "report",
@@ -2281,6 +2308,15 @@
       "title_fa": "✦ گفت‌وگو",
       "items": [
         {
+          "id": "«همه‌چیز باید درست کار کند»؛ گفت‌وگوی مایکل کوستاریس با سیگرید نونز دربارهٔ نخستین مجموعه داستانش",
+          "title": "«همه‌چیز باید درست کار کند»؛ گفت‌وگوی مایکل کوستاریس با سیگرید نونز دربارهٔ نخستین مجموعه داستانش",
+          "source": "The Common",
+          "published": "2026-11-10T10:33:20.429754+03:30",
+          "original_url": "https://www.thecommononline.org/everything-has-to-work-michael-costaris-interviews-sigrid-nunez/",
+          "subcategory": "interview",
+          "post_id": 561
+        },
+        {
           "id": "روایت خلق «مدرسهٔ شب»؛ گفت‌وگوی کارل اووه کناسگور و مارتین ایتکن",
           "title": "روایت خلق «مدرسهٔ شب»؛ گفت‌وگوی کارل اووه کناسگور و مارتین ایتکن",
           "source": "Words Without Borders",
@@ -2479,7 +2515,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 22
+      "item_count": 23
     },
     {
       "id": "review",
@@ -2638,6 +2674,15 @@
       "title_en": "World Literature",
       "title_fa": "✦ ادبیات جهان",
       "items": [
+        {
+          "id": "فراوانی در جزئیات: انتشار دو شعر تازه از لوئیس مونیوز",
+          "title": "فراوانی در جزئیات: انتشار دو شعر تازه از لوئیس مونیوز",
+          "source": "Words Without Borders",
+          "published": "2026-11-10T10:33:16.774961+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-11/a-bounty-in-minuteness-two-poems-munoz-greenwell-novey/",
+          "subcategory": "world_lit",
+          "post_id": 559
+        },
         {
           "id": "بازآفرینی جهان یاسوشی اینوئه؛ گفتگو با جی. مارتین هولمن دربارهٔ ترجمهٔ داستان‌های ژاپنی",
           "title": "بازآفرینی جهان یاسوشی اینوئه؛ گفتگو با جی. مارتین هولمن دربارهٔ ترجمهٔ داستان‌های ژاپنی",
@@ -3134,13 +3179,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 55
+      "item_count": 56
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "روایت کیرمن اوریبه از هویت و مقاومت: زیستن در پناه زبان باسکی",
+          "title": "روایت کیرمن اوریبه از هویت و مقاومت: زیستن در پناه زبان باسکی",
+          "source": "Literary Hub",
+          "published": "2026-11-10T10:33:18.677769+03:30",
+          "original_url": "https://lithub.com/what-it-means-to-be-a-basque-writer/",
+          "subcategory": "essay",
+          "post_id": 560
+        },
         {
           "id": "راز ماندگاری «تام گیتس» در پانزده‌سالگی؛ گفتگو با لیز پیشون به مناسبت انتشار بیست‌وپنجمین جلد",
           "title": "راز ماندگاری «تام گیتس» در پانزده‌سالگی؛ گفتگو با لیز پیشون به مناسبت انتشار بیست‌وپنجمین جلد",
@@ -4222,8 +4276,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 120
+      "item_count": 121
     }
   ],
-  "total_items": 232
+  "total_items": 235
 }
