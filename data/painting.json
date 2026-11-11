@@ -493,6 +493,42 @@
       ]
     },
     {
+      "name": "Robert Motherwell",
+      "painting_count": 2,
+      "paintings": [
+        {
+          "id": "artic_131456",
+          "title": "Collage With News from Zürich and Black Table",
+          "artist": "Robert Motherwell",
+          "year": "1956",
+          "museum": "Art Institute of Chicago",
+          "movement": "Abstract Expressionism",
+          "medium": "Collage of cut-and-torn papers, oil paint, and graphite on paper",
+          "art_form": "طراحی و چاپ",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1azVhb-Tx8J8jxRmbdUL9-apA_5OmLq61",
+          "published": "2026-09-22T21:31:03.252000",
+          "original_url": "https://www.artic.edu/iiif/2/bc1a4781-2a0f-7fba-80fc-bee08d95e2b8/full/900,/0/default.jpg",
+          "post_id": 254
+        },
+        {
+          "id": "artic_119156",
+          "title": "Untitled",
+          "artist": "Robert Motherwell",
+          "year": "1944",
+          "museum": "Art Institute of Chicago",
+          "movement": "Abstract Expressionism",
+          "medium": "Drawing: pen, black ink, and watercolor on ivory wove paper",
+          "art_form": "نقاشی",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/18l2O4RxjGh0s8B9B_6Eh0IS4F_QL4tq1",
+          "published": "2026-11-11T21:31:09.213163",
+          "original_url": "https://www.artic.edu/iiif/2/e77a7319-bb09-471f-d146-b684fff4efb9/full/900,/0/default.jpg",
+          "post_id": 568
+        }
+      ]
+    },
+    {
       "name": "Willem de Kooning",
       "painting_count": 2,
       "paintings": [
@@ -1323,27 +1359,6 @@
           "published": "2026-10-26T21:31:02.019488",
           "original_url": "https://www.artic.edu/iiif/2/aebda29e-16b8-4393-6edc-805cdb6ba459/full/900,/0/default.jpg",
           "post_id": 464
-        }
-      ]
-    },
-    {
-      "name": "Robert Motherwell",
-      "painting_count": 1,
-      "paintings": [
-        {
-          "id": "artic_131456",
-          "title": "Collage With News from Zürich and Black Table",
-          "artist": "Robert Motherwell",
-          "year": "1956",
-          "museum": "Art Institute of Chicago",
-          "movement": "Abstract Expressionism",
-          "medium": "Collage of cut-and-torn papers, oil paint, and graphite on paper",
-          "art_form": "طراحی و چاپ",
-          "country": "United States",
-          "image_url": "https://lh3.googleusercontent.com/d/1azVhb-Tx8J8jxRmbdUL9-apA_5OmLq61",
-          "published": "2026-09-22T21:31:03.252000",
-          "original_url": "https://www.artic.edu/iiif/2/bc1a4781-2a0f-7fba-80fc-bee08d95e2b8/full/900,/0/default.jpg",
-          "post_id": 254
         }
       ]
     },
