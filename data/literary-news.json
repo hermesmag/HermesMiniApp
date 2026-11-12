@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "به‌روزرسانی کیهان؛ جستجوی خیال و بازخوانی متون کهن در روایتی تازه",
+          "title": "به‌روزرسانی کیهان؛ جستجوی خیال و بازخوانی متون کهن در روایتی تازه",
+          "source": "Electric Literature",
+          "published": "2026-11-12T10:33:48.074874+03:30",
+          "original_url": "https://electricliterature.com/two-poems-by-kenton-k-yee/",
+          "subcategory": "essay",
+          "post_id": 571
+        },
+        {
+          "id": "رودخانه‌های جاریِ سوگ و حافظه؛ نگاهی به نخستین مجموعه شعر انگلیسی «تریین پایا»",
+          "title": "رودخانه‌های جاریِ سوگ و حافظه؛ نگاهی به نخستین مجموعه شعر انگلیسی «تریین پایا»",
+          "source": "The Common",
+          "published": "2026-11-12T10:33:45.552394+03:30",
+          "original_url": "https://www.thecommononline.org/a-river-sings-near-your-grave-a-review-of-rivers-rivers-rivers-by-triin-paja/",
+          "subcategory": "review",
+          "post_id": 570
+        },
+        {
+          "id": "بازخوانی رمان برجستهٔ باربارا تراپیدو پس از چهار دهه",
+          "title": "بازخوانی رمان برجستهٔ باربارا تراپیدو پس از چهار دهه",
+          "source": "The Paris Review",
+          "published": "2026-11-12T10:33:42.774073+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/11/11/barbara-trapido-brother-more-famous-jack-rosa-lyster/",
+          "subcategory": "essay",
+          "post_id": 569
+        },
+        {
           "id": "«جشنوارهٔ آمریکا» در فرانسه؛ طنین صدای نویسندگان آمریکایی در ونسان",
           "title": "«جشنوارهٔ آمریکا» در فرانسه؛ طنین صدای نویسندگان آمریکایی در ونسان",
           "source": "The Paris Review",
@@ -2148,7 +2175,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 238
+      "item_count": 241
     },
     {
       "id": "report",
@@ -2559,6 +2586,15 @@
       "title_fa": "✦ معرفی کتاب",
       "items": [
         {
+          "id": "رودخانه‌های جاریِ سوگ و حافظه؛ نگاهی به نخستین مجموعه شعر انگلیسی «تریین پایا»",
+          "title": "رودخانه‌های جاریِ سوگ و حافظه؛ نگاهی به نخستین مجموعه شعر انگلیسی «تریین پایا»",
+          "source": "The Common",
+          "published": "2026-11-12T10:33:45.552394+03:30",
+          "original_url": "https://www.thecommononline.org/a-river-sings-near-your-grave-a-review-of-rivers-rivers-rivers-by-triin-paja/",
+          "subcategory": "review",
+          "post_id": 570
+        },
+        {
           "id": "بازخوانی شعری از محمود درویش؛ طنین تبعید و آوارگی در آثار شاعر ملی فلسطین",
           "title": "بازخوانی شعری از محمود درویش؛ طنین تبعید و آوارگی در آثار شاعر ملی فلسطین",
           "source": "Literary Hub",
@@ -2703,7 +2739,7 @@
           "post_id": 49
         }
       ],
-      "item_count": 16
+      "item_count": 17
     },
     {
       "id": "world_lit",
@@ -3232,6 +3268,24 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "به‌روزرسانی کیهان؛ جستجوی خیال و بازخوانی متون کهن در روایتی تازه",
+          "title": "به‌روزرسانی کیهان؛ جستجوی خیال و بازخوانی متون کهن در روایتی تازه",
+          "source": "Electric Literature",
+          "published": "2026-11-12T10:33:48.074874+03:30",
+          "original_url": "https://electricliterature.com/two-poems-by-kenton-k-yee/",
+          "subcategory": "essay",
+          "post_id": 571
+        },
+        {
+          "id": "بازخوانی رمان برجستهٔ باربارا تراپیدو پس از چهار دهه",
+          "title": "بازخوانی رمان برجستهٔ باربارا تراپیدو پس از چهار دهه",
+          "source": "The Paris Review",
+          "published": "2026-11-12T10:33:42.774073+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/11/11/barbara-trapido-brother-more-famous-jack-rosa-lyster/",
+          "subcategory": "essay",
+          "post_id": 569
+        },
+        {
           "id": "«دو زن» اثر ژاکلین رز؛ سوگ‌نامه‌ای داستانی برای اِدیت اشتاین و گیلیان رز",
           "title": "«دو زن» اثر ژاکلین رز؛ سوگ‌نامه‌ای داستانی برای اِدیت اشتاین و گیلیان رز",
           "source": "The Guardian Books",
@@ -4330,8 +4384,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 122
+      "item_count": 124
     }
   ],
-  "total_items": 238
+  "total_items": 241
 }
