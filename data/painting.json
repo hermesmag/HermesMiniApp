@@ -691,6 +691,27 @@
       ]
     },
     {
+      "name": "Byzantine Enameler (Constantinople)",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_472562",
+          "title": "The Fieschi Morgan Staurotheke",
+          "artist": "Byzantine Enameler (Constantinople)",
+          "year": "early 9th century",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Byzantine Art",
+          "medium": "Gilded silver, gold, cloisonné enamel, and niello",
+          "art_form": "هنرهای تجسمی",
+          "country": "Turkey",
+          "image_url": "https://lh3.googleusercontent.com/d/10bhjxznnX7JVMidgQuBYan1uX80I4VCh",
+          "published": "2026-11-12T21:31:10.627348",
+          "original_url": "https://images.metmuseum.org/CRDImages/md/original/DT119.jpg",
+          "post_id": 573
+        }
+      ]
+    },
+    {
       "name": "Caravaggio",
       "painting_count": 1,
       "paintings": [
