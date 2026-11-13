@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "کفش ورزشی جامانده در میدان اعتراض؛ روایتی ادبی از انقلاب فلامینگوها در تیرانا",
+          "title": "کفش ورزشی جامانده در میدان اعتراض؛ روایتی ادبی از انقلاب فلامینگوها در تیرانا",
+          "source": "Words Without Borders",
+          "published": "2026-11-13T10:36:41.301177+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-11/i-am-a-sneaker-left-behind-in-the-protest-square-arlinda-guma/",
+          "subcategory": "world_lit",
+          "post_id": 576
+        },
+        {
+          "id": "فهرست ماریس کرایزمن از رمان‌های اول برجسته اما مهجور در سال ۲۰۲۰",
+          "title": "فهرست ماریس کرایزمن از رمان‌های اول برجسته اما مهجور در سال ۲۰۲۰",
+          "source": "Literary Hub",
+          "published": "2026-11-13T10:36:39.392960+03:30",
+          "original_url": "https://lithub.com/10-great-debut-novels-you-might-have-missed-in-2026/",
+          "subcategory": "essay",
+          "post_id": 575
+        },
+        {
+          "id": "توبی اوگوندیران و تکاپو برای کشف شگفتی؛ گفتگو با نویسندهٔ نیجریه‌ای دربارهٔ جهان‌وطنی و روایت‌گری",
+          "title": "توبی اوگوندیران و تکاپو برای کشف شگفتی؛ گفتگو با نویسندهٔ نیجریه‌ای دربارهٔ جهان‌وطنی و روایت‌گری",
+          "source": "World Literature Today",
+          "published": "2026-11-13T10:36:37.380207+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/interviews/im-always-striving-sense-wonder-conversation-nigerian-writer-tobi-ogundiran-graison",
+          "subcategory": "interview",
+          "post_id": 574
+        },
+        {
           "id": "به‌روزرسانی کیهان؛ جستجوی خیال و بازخوانی متون کهن در روایتی تازه",
           "title": "به‌روزرسانی کیهان؛ جستجوی خیال و بازخوانی متون کهن در روایتی تازه",
           "source": "Electric Literature",
@@ -2175,7 +2202,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 241
+      "item_count": 244
     },
     {
       "id": "report",
@@ -2371,6 +2398,15 @@
       "title_fa": "✦ گفت‌وگو",
       "items": [
         {
+          "id": "توبی اوگوندیران و تکاپو برای کشف شگفتی؛ گفتگو با نویسندهٔ نیجریه‌ای دربارهٔ جهان‌وطنی و روایت‌گری",
+          "title": "توبی اوگوندیران و تکاپو برای کشف شگفتی؛ گفتگو با نویسندهٔ نیجریه‌ای دربارهٔ جهان‌وطنی و روایت‌گری",
+          "source": "World Literature Today",
+          "published": "2026-11-13T10:36:37.380207+03:30",
+          "original_url": "https://worldliteraturetoday.org/blog/interviews/im-always-striving-sense-wonder-conversation-nigerian-writer-tobi-ogundiran-graison",
+          "subcategory": "interview",
+          "post_id": 574
+        },
+        {
           "id": "«همه‌چیز باید درست کار کند»؛ گفت‌وگوی مایکل کوستاریس با سیگرید نونز دربارهٔ نخستین مجموعه داستانش",
           "title": "«همه‌چیز باید درست کار کند»؛ گفت‌وگوی مایکل کوستاریس با سیگرید نونز دربارهٔ نخستین مجموعه داستانش",
           "source": "The Common",
@@ -2578,7 +2614,7 @@
           "post_id": 15
         }
       ],
-      "item_count": 23
+      "item_count": 24
     },
     {
       "id": "review",
@@ -2746,6 +2782,15 @@
       "title_en": "World Literature",
       "title_fa": "✦ ادبیات جهان",
       "items": [
+        {
+          "id": "کفش ورزشی جامانده در میدان اعتراض؛ روایتی ادبی از انقلاب فلامینگوها در تیرانا",
+          "title": "کفش ورزشی جامانده در میدان اعتراض؛ روایتی ادبی از انقلاب فلامینگوها در تیرانا",
+          "source": "Words Without Borders",
+          "published": "2026-11-13T10:36:41.301177+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-11/i-am-a-sneaker-left-behind-in-the-protest-square-arlinda-guma/",
+          "subcategory": "world_lit",
+          "post_id": 576
+        },
         {
           "id": "آشنایی با ریگان میز، همکار تحریریهٔ جدید نشریهٔ «واژگان بدون مرز»",
           "title": "آشنایی با ریگان میز، همکار تحریریهٔ جدید نشریهٔ «واژگان بدون مرز»",
@@ -3260,13 +3305,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 57
+      "item_count": 58
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "فهرست ماریس کرایزمن از رمان‌های اول برجسته اما مهجور در سال ۲۰۲۰",
+          "title": "فهرست ماریس کرایزمن از رمان‌های اول برجسته اما مهجور در سال ۲۰۲۰",
+          "source": "Literary Hub",
+          "published": "2026-11-13T10:36:39.392960+03:30",
+          "original_url": "https://lithub.com/10-great-debut-novels-you-might-have-missed-in-2026/",
+          "subcategory": "essay",
+          "post_id": 575
+        },
         {
           "id": "به‌روزرسانی کیهان؛ جستجوی خیال و بازخوانی متون کهن در روایتی تازه",
           "title": "به‌روزرسانی کیهان؛ جستجوی خیال و بازخوانی متون کهن در روایتی تازه",
@@ -4384,8 +4438,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 124
+      "item_count": 125
     }
   ],
-  "total_items": 241
+  "total_items": 244
 }
