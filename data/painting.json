@@ -607,6 +607,27 @@
       ]
     },
     {
+      "name": "Andy Warhol",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_69013",
+          "title": "The Kiss (Bela Lugosi)",
+          "artist": "Andy Warhol",
+          "year": "1963",
+          "museum": "Art Institute of Chicago",
+          "movement": "Pop Art",
+          "medium": "Screenprint on paper",
+          "art_form": "طراحی و چاپ",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1MciiIj-f81YjlmnncPEGHmA_1wk2G-9y",
+          "published": "2026-11-13T21:30:59.320385",
+          "original_url": "https://www.artic.edu/iiif/2/23bb6125-d75b-1648-dc91-8c2a45ed3d88/full/900,/0/default.jpg",
+          "post_id": 578
+        }
+      ]
+    },
+    {
       "name": "Anselm Kiefer",
       "painting_count": 1,
       "paintings": [
