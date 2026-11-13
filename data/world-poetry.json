@@ -80,6 +80,61 @@
       ]
     },
     {
+      "name": "Eugenio Montale",
+      "name_fa": "شاعر هرمتیست ایتالیایی (۱۸۹۶–۱۹۸۱)؛ با زبانی تراش‌خورده، عینی و استخوانی، ملال هستی‌شناختی و تمنای یافتن روزنه‌ای از رهایی در جهانی تکه‌تکه‌شده را به تصویر می‌کشد.",
+      "poem_count": 4,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-022",
+          "title": "The Lemon Trees",
+          "title_original": "The Lemon Trees",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "[Various Translators / Unknown]",
+          "published": "2026-09-10T18:01:13.976121+03:30",
+          "telegraph_url": "https://telegra.ph/The-Lemon-Trees-09-10",
+          "post_id": 166
+        },
+        {
+          "id": "WP-Y1-DAY-053",
+          "title": "At the Threshold",
+          "title_original": "In limine",
+          "original_language": "Italian",
+          "epoch": "",
+          "book": "Ossi di seppia (1925)",
+          "translator": "Jonathan Galassi",
+          "published": "2026-10-10T18:00:45.246086+03:30",
+          "telegraph_url": "https://telegra.ph/بر-آستانه-10-10",
+          "post_id": 365
+        },
+        {
+          "id": "WP-Y1-DAY-087",
+          "title": "Lay of Plourez, Dames",
+          "title_original": "Spesso il male di vivere ho incontrato",
+          "original_language": "Italian",
+          "epoch": "20th Century & Modern",
+          "book": "Ossi di seppia",
+          "translator": "Literary Hermes Editorial",
+          "published": "2026-11-12T18:00:52.670976+03:30",
+          "telegraph_url": "https://telegra.ph/درد-زیستن-را-دیده‌ام-بارها-11-12",
+          "post_id": 572
+        },
+        {
+          "id": "WP-Y1-DAY-088",
+          "title": "Non chiederci la parola",
+          "title_original": "Again and Again I Have Seen Life's Evil",
+          "original_language": "Italian",
+          "epoch": "",
+          "book": "Ossi di seppia (1925)",
+          "translator": "[Various Translators / Unknown]",
+          "published": "2026-11-13T18:00:50.732110+03:30",
+          "telegraph_url": "https://telegra.ph/از-ما-مخواه-کلامی-11-13",
+          "post_id": 577
+        }
+      ]
+    },
+    {
       "name": "Arthur Rimbaud",
       "name_fa": "شاعر عصیانگر فرانسوی (۱۸۵۴–۱۸۹۱)؛ با زبانی سرکش و تصاویری هذیانی-اشراقی، سامان قراردادی حواس را برهم می‌زند و از مرزهای عقلانیت مستقر فراتر می‌رود.",
       "poem_count": 3,
@@ -248,49 +303,6 @@
           "published": "2026-10-28T18:00:50.447172+03:30",
           "telegraph_url": null,
           "post_id": 479
-        }
-      ]
-    },
-    {
-      "name": "Eugenio Montale",
-      "name_fa": "شاعر هرمتیست ایتالیایی (۱۸۹۶–۱۹۸۱)؛ با زبانی تراش‌خورده، عینی و استخوانی، ملال هستی‌شناختی و تمنای یافتن روزنه‌ای از رهایی در جهانی تکه‌تکه‌شده را به تصویر می‌کشد.",
-      "poem_count": 3,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-022",
-          "title": "The Lemon Trees",
-          "title_original": "The Lemon Trees",
-          "original_language": "English",
-          "epoch": "",
-          "book": "",
-          "translator": "[Various Translators / Unknown]",
-          "published": "2026-09-10T18:01:13.976121+03:30",
-          "telegraph_url": "https://telegra.ph/The-Lemon-Trees-09-10",
-          "post_id": 166
-        },
-        {
-          "id": "WP-Y1-DAY-053",
-          "title": "At the Threshold",
-          "title_original": "In limine",
-          "original_language": "Italian",
-          "epoch": "",
-          "book": "Ossi di seppia (1925)",
-          "translator": "Jonathan Galassi",
-          "published": "2026-10-10T18:00:45.246086+03:30",
-          "telegraph_url": "https://telegra.ph/بر-آستانه-10-10",
-          "post_id": 365
-        },
-        {
-          "id": "WP-Y1-DAY-087",
-          "title": "Lay of Plourez, Dames",
-          "title_original": "Spesso il male di vivere ho incontrato",
-          "original_language": "Italian",
-          "epoch": "20th Century & Modern",
-          "book": "Ossi di seppia",
-          "translator": "Literary Hermes Editorial",
-          "published": "2026-11-12T18:00:52.670976+03:30",
-          "telegraph_url": "https://telegra.ph/درد-زیستن-را-دیده‌ام-بارها-11-12",
-          "post_id": 572
         }
       ]
     },
