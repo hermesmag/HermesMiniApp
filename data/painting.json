@@ -691,6 +691,27 @@
       ]
     },
     {
+      "name": "Bartolomé Estebán Murillo",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "met_437173",
+          "title": "Don Andrés de Andrade y la Cal",
+          "artist": "Bartolomé Estebán Murillo",
+          "year": "ca. 1665–72",
+          "museum": "The Metropolitan Museum of Art",
+          "movement": "Baroque",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Spain",
+          "image_url": "https://lh3.googleusercontent.com/d/1OSQxfnJS6fnYuOthqc3NXzq3CdLgSu3d",
+          "published": "2026-11-14T21:30:57.464434",
+          "original_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-16333-001.jpg",
+          "post_id": 582
+        }
+      ]
+    },
+    {
       "name": "Bohemian Painter",
       "painting_count": 1,
       "paintings": [
