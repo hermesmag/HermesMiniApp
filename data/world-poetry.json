@@ -307,6 +307,49 @@
       ]
     },
     {
+      "name": "Guillaume Apollinaire",
+      "name_fa": "شاعر آوانگارد فرانسوی (۱۸۸۰–۱۹۱۸)؛ با حذف نشانه‌گذاری و ابداع شعر دیداری (کالیگرام)، پیشگام ستایش زیبایی‌شناسی نو، مدرنیتهٔ شهری و پویایی زمانه شد.",
+      "poem_count": 3,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-023",
+          "title": "Autumn Crocuses",
+          "title_original": "Les Colchiques",
+          "original_language": "French",
+          "epoch": "",
+          "book": "",
+          "translator": "[Various Translators / Unknown]",
+          "published": "2026-09-08T20:25:16.917694+03:30",
+          "telegraph_url": "https://telegra.ph/Autumn-Crocuses-09-08",
+          "post_id": 153
+        },
+        {
+          "id": "WP-Y1-DAY-054",
+          "title": "Marizibill",
+          "title_original": "Marizibill",
+          "original_language": "French",
+          "epoch": "",
+          "book": "",
+          "translator": "Anne Hyde Greet",
+          "published": "2026-10-11T18:00:52.093311+03:30",
+          "telegraph_url": "https://telegra.ph/ماریزیبیل-10-11",
+          "post_id": 371
+        },
+        {
+          "id": "WP-Y1-DAY-089",
+          "title": "Autumn Ill",
+          "title_original": "Autumn Ill",
+          "original_language": "French",
+          "epoch": "",
+          "book": "Alcools (1913)",
+          "translator": "[Various Translators / Unknown]",
+          "published": "2026-11-14T18:00:56.704212+03:30",
+          "telegraph_url": "https://telegra.ph/پاییز-بیمار-11-14",
+          "post_id": 581
+        }
+      ]
+    },
+    {
       "name": "Octavio Paz",
       "name_fa": "شاعر و متفکر برجستهٔ مکزیکی (۱۹۱۴–۱۹۹۸)؛ با پیوند زدن اساطیر بومی به بوطیقای سوررئالیستی، به تبارشناسی هویت تاریخی، دیالکتیک تنهایی و رازآمیزی زمان و کلمه می‌پردازد.",
       "poem_count": 3,
@@ -783,37 +826,6 @@
           "published": "2026-10-16T18:00:58.968865+03:30",
           "telegraph_url": "https://telegra.ph/زن-شوهردار-بی‌وفا-گزیده-10-16",
           "post_id": 403
-        }
-      ]
-    },
-    {
-      "name": "Guillaume Apollinaire",
-      "name_fa": "شاعر آوانگارد فرانسوی (۱۸۸۰–۱۹۱۸)؛ با حذف نشانه‌گذاری و ابداع شعر دیداری (کالیگرام)، پیشگام ستایش زیبایی‌شناسی نو، مدرنیتهٔ شهری و پویایی زمانه شد.",
-      "poem_count": 2,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-023",
-          "title": "Autumn Crocuses",
-          "title_original": "Les Colchiques",
-          "original_language": "French",
-          "epoch": "",
-          "book": "",
-          "translator": "[Various Translators / Unknown]",
-          "published": "2026-09-08T20:25:16.917694+03:30",
-          "telegraph_url": "https://telegra.ph/Autumn-Crocuses-09-08",
-          "post_id": 153
-        },
-        {
-          "id": "WP-Y1-DAY-054",
-          "title": "Marizibill",
-          "title_original": "Marizibill",
-          "original_language": "French",
-          "epoch": "",
-          "book": "",
-          "translator": "Anne Hyde Greet",
-          "published": "2026-10-11T18:00:52.093311+03:30",
-          "telegraph_url": "https://telegra.ph/ماریزیبیل-10-11",
-          "post_id": 371
         }
       ]
     },
