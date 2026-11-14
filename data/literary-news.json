@@ -6,33 +6,6 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
-          "id": "مروری بر تازه‌ترین کتاب‌های ماه؛ از خاطرات جنیفر کرافت تا تاریخچهٔ قلم",
-          "title": "مروری بر تازه‌ترین کتاب‌های ماه؛ از خاطرات جنیفر کرافت تا تاریخچهٔ قلم",
-          "source": "The Paris Review",
-          "published": "2026-11-14T10:36:50.153358+03:30",
-          "original_url": "https://www.theparisreview.org/blog/2026/11/13/november-bookmarks-emma-eaton-new-releases/",
-          "subcategory": "essay",
-          "post_id": 580
-        },
-        {
-          "id": "چگونه می‌توان مجموعه‌شعری نوشت که خواننده را زمین نگذارد؟",
-          "title": "چگونه می‌توان مجموعه‌شعری نوشت که خواننده را زمین نگذارد؟",
-          "source": "Literary Hub",
-          "published": "2026-11-14T10:36:48.675899+03:30",
-          "original_url": "https://lithub.com/can-you-write-a-poetry-collection-thats-a-page-turner/",
-          "subcategory": "essay",
-          "post_id": 579
-        },
-        {
-          "id": "کفش ورزشی جامانده در میدان اعتراض؛ روایتی ادبی از انقلاب فلامینگوها در تیرانا",
-          "title": "کفش ورزشی جامانده در میدان اعتراض؛ روایتی ادبی از انقلاب فلامینگوها در تیرانا",
-          "source": "Words Without Borders",
-          "published": "2026-11-13T10:36:41.301177+03:30",
-          "original_url": "https://wordswithoutborders.org/read/article/2026-11/i-am-a-sneaker-left-behind-in-the-protest-square-arlinda-guma/",
-          "subcategory": "world_lit",
-          "post_id": 576
-        },
-        {
           "id": "فهرست ماریس کرایزمن از رمان‌های اول برجسته اما مهجور در سال ۲۰۲۰",
           "title": "فهرست ماریس کرایزمن از رمان‌های اول برجسته اما مهجور در سال ۲۰۲۰",
           "source": "Literary Hub",
@@ -49,15 +22,6 @@
           "original_url": "https://worldliteraturetoday.org/blog/interviews/im-always-striving-sense-wonder-conversation-nigerian-writer-tobi-ogundiran-graison",
           "subcategory": "interview",
           "post_id": 574
-        },
-        {
-          "id": "به‌روزرسانی کیهان؛ جستجوی خیال و بازخوانی متون کهن در روایتی تازه",
-          "title": "به‌روزرسانی کیهان؛ جستجوی خیال و بازخوانی متون کهن در روایتی تازه",
-          "source": "Electric Literature",
-          "published": "2026-11-12T10:33:48.074874+03:30",
-          "original_url": "https://electricliterature.com/two-poems-by-kenton-k-yee/",
-          "subcategory": "essay",
-          "post_id": 571
         },
         {
           "id": "رودخانه‌های جاریِ سوگ و حافظه؛ نگاهی به نخستین مجموعه شعر انگلیسی «تریین پایا»",
@@ -2220,7 +2184,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 246
+      "item_count": 242
     },
     {
       "id": "report",
@@ -2801,15 +2765,6 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
-          "id": "کفش ورزشی جامانده در میدان اعتراض؛ روایتی ادبی از انقلاب فلامینگوها در تیرانا",
-          "title": "کفش ورزشی جامانده در میدان اعتراض؛ روایتی ادبی از انقلاب فلامینگوها در تیرانا",
-          "source": "Words Without Borders",
-          "published": "2026-11-13T10:36:41.301177+03:30",
-          "original_url": "https://wordswithoutborders.org/read/article/2026-11/i-am-a-sneaker-left-behind-in-the-protest-square-arlinda-guma/",
-          "subcategory": "world_lit",
-          "post_id": 576
-        },
-        {
           "id": "آشنایی با ریگان میز، همکار تحریریهٔ جدید نشریهٔ «واژگان بدون مرز»",
           "title": "آشنایی با ریگان میز، همکار تحریریهٔ جدید نشریهٔ «واژگان بدون مرز»",
           "source": "Words Without Borders",
@@ -3323,31 +3278,13 @@
           "post_id": 8
         }
       ],
-      "item_count": 58
+      "item_count": 57
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
-        {
-          "id": "مروری بر تازه‌ترین کتاب‌های ماه؛ از خاطرات جنیفر کرافت تا تاریخچهٔ قلم",
-          "title": "مروری بر تازه‌ترین کتاب‌های ماه؛ از خاطرات جنیفر کرافت تا تاریخچهٔ قلم",
-          "source": "The Paris Review",
-          "published": "2026-11-14T10:36:50.153358+03:30",
-          "original_url": "https://www.theparisreview.org/blog/2026/11/13/november-bookmarks-emma-eaton-new-releases/",
-          "subcategory": "essay",
-          "post_id": 580
-        },
-        {
-          "id": "چگونه می‌توان مجموعه‌شعری نوشت که خواننده را زمین نگذارد؟",
-          "title": "چگونه می‌توان مجموعه‌شعری نوشت که خواننده را زمین نگذارد؟",
-          "source": "Literary Hub",
-          "published": "2026-11-14T10:36:48.675899+03:30",
-          "original_url": "https://lithub.com/can-you-write-a-poetry-collection-thats-a-page-turner/",
-          "subcategory": "essay",
-          "post_id": 579
-        },
         {
           "id": "فهرست ماریس کرایزمن از رمان‌های اول برجسته اما مهجور در سال ۲۰۲۰",
           "title": "فهرست ماریس کرایزمن از رمان‌های اول برجسته اما مهجور در سال ۲۰۲۰",
@@ -3356,15 +3293,6 @@
           "original_url": "https://lithub.com/10-great-debut-novels-you-might-have-missed-in-2026/",
           "subcategory": "essay",
           "post_id": 575
-        },
-        {
-          "id": "به‌روزرسانی کیهان؛ جستجوی خیال و بازخوانی متون کهن در روایتی تازه",
-          "title": "به‌روزرسانی کیهان؛ جستجوی خیال و بازخوانی متون کهن در روایتی تازه",
-          "source": "Electric Literature",
-          "published": "2026-11-12T10:33:48.074874+03:30",
-          "original_url": "https://electricliterature.com/two-poems-by-kenton-k-yee/",
-          "subcategory": "essay",
-          "post_id": 571
         },
         {
           "id": "بازخوانی رمان برجستهٔ باربارا تراپیدو پس از چهار دهه",
@@ -4474,8 +4402,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 127
+      "item_count": 124
     }
   ],
-  "total_items": 246
+  "total_items": 242
 }
