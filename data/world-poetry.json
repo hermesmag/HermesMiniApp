@@ -307,6 +307,49 @@
       ]
     },
     {
+      "name": "Ezra Pound",
+      "name_fa": "شاعر پیشرو و نظریه‌پرداز آمریکایی (۱۸۸۵–۱۹۷۲)؛ با درهم‌تنیدن اسناد تاریخی، تلمیحات چندزبانه و فرم فشردهٔ کلاژگونه، در پی احیای بوطیقای مدرن و آسیب‌شناسی انحطاط تمدن است.",
+      "poem_count": 3,
+      "poems": [
+        {
+          "id": "WP-Y1-DAY-024",
+          "title": "The Return",
+          "title_original": "The Return",
+          "original_language": "English",
+          "epoch": "",
+          "book": "",
+          "translator": "",
+          "published": "2026-09-11T18:01:03.836166+03:30",
+          "telegraph_url": null,
+          "post_id": 172
+        },
+        {
+          "id": "WP-Y1-DAY-055",
+          "title": "The Tree",
+          "title_original": "The Tree",
+          "original_language": "English",
+          "epoch": "",
+          "book": "Provença (1910)",
+          "translator": null,
+          "published": "2026-10-12T18:01:36.210209+03:30",
+          "telegraph_url": null,
+          "post_id": 377
+        },
+        {
+          "id": "WP-Y1-DAY-090",
+          "title": "Doria",
+          "title_original": "Hugh Selwyn Mauberley: V",
+          "original_language": "English",
+          "epoch": "",
+          "book": "Ripostes (1912)",
+          "translator": "",
+          "published": "2026-11-15T18:00:42.783115+03:30",
+          "telegraph_url": null,
+          "post_id": 586
+        }
+      ]
+    },
+    {
       "name": "Guillaume Apollinaire",
       "name_fa": "شاعر آوانگارد فرانسوی (۱۸۸۰–۱۹۱۸)؛ با حذف نشانه‌گذاری و ابداع شعر دیداری (کالیگرام)، پیشگام ستایش زیبایی‌شناسی نو، مدرنیتهٔ شهری و پویایی زمانه شد.",
       "poem_count": 3,
@@ -764,37 +807,6 @@
           "published": "2026-10-27T18:00:51.025102+03:30",
           "telegraph_url": null,
           "post_id": 469
-        }
-      ]
-    },
-    {
-      "name": "Ezra Pound",
-      "name_fa": "شاعر پیشرو و نظریه‌پرداز آمریکایی (۱۸۸۵–۱۹۷۲)؛ با درهم‌تنیدن اسناد تاریخی، تلمیحات چندزبانه و فرم فشردهٔ کلاژگونه، در پی احیای بوطیقای مدرن و آسیب‌شناسی انحطاط تمدن است.",
-      "poem_count": 2,
-      "poems": [
-        {
-          "id": "WP-Y1-DAY-024",
-          "title": "The Return",
-          "title_original": "The Return",
-          "original_language": "English",
-          "epoch": "",
-          "book": "",
-          "translator": "",
-          "published": "2026-09-11T18:01:03.836166+03:30",
-          "telegraph_url": null,
-          "post_id": 172
-        },
-        {
-          "id": "WP-Y1-DAY-055",
-          "title": "The Tree",
-          "title_original": "The Tree",
-          "original_language": "English",
-          "epoch": "",
-          "book": "Provença (1910)",
-          "translator": null,
-          "published": "2026-10-12T18:01:36.210209+03:30",
-          "telegraph_url": null,
-          "post_id": 377
         }
       ]
     },
