@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "آموزه‌های ام. اف. کی. فیشر برای خاطره‌نویسان معاصر؛ پیوند هوشمندی و لذت در جستارنویسی",
+          "title": "آموزه‌های ام. اف. کی. فیشر برای خاطره‌نویسان معاصر؛ پیوند هوشمندی و لذت در جستارنویسی",
+          "source": "The Atlantic Books",
+          "published": "2026-11-15T10:31:58.708566+03:30",
+          "original_url": "https://www.theatlantic.com/books/2026/11/m-f-k-fisher-made-food-writing-pleasurable-book-review/689398/?utm_source=feed",
+          "subcategory": "essay",
+          "post_id": 585
+        },
+        {
+          "id": "چرخش تاریخی در جایزهٔ بوکر؛ «پایان همه‌چیزِ» ام. جان هریسون برنده شد",
+          "title": "چرخش تاریخی در جایزهٔ بوکر؛ «پایان همه‌چیزِ» ام. جان هریسون برنده شد",
+          "source": "NPR Books",
+          "published": "2026-11-15T10:31:58.077054+03:30",
+          "original_url": "https://www.npr.org/2026/11/14/nx-s1-6037700/m-john-harrison-makes-history-as-first-sci-fi-author-to-win-the-booker-prize",
+          "subcategory": "report",
+          "post_id": 584
+        },
+        {
+          "id": "زیر و رو شدن جهان ادبیات با هوش مصنوعی؛ از رمان‌نویسی انبوه تا جنجال‌های حقوقی",
+          "title": "زیر و رو شدن جهان ادبیات با هوش مصنوعی؛ از رمان‌نویسی انبوه تا جنجال‌های حقوقی",
+          "source": "The Guardian Books",
+          "published": "2026-11-15T10:31:56.208378+03:30",
+          "original_url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+          "subcategory": "essay",
+          "post_id": 583
+        },
+        {
           "id": "مروری بر تازه‌ترین کتاب‌های ماه؛ از خاطرات جنیفر کرافت تا تاریخچهٔ قلم",
           "title": "مروری بر تازه‌ترین کتاب‌های ماه؛ از خاطرات جنیفر کرافت تا تاریخچهٔ قلم",
           "source": "The Paris Review",
@@ -2202,13 +2229,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 244
+      "item_count": 247
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "چرخش تاریخی در جایزهٔ بوکر؛ «پایان همه‌چیزِ» ام. جان هریسون برنده شد",
+          "title": "چرخش تاریخی در جایزهٔ بوکر؛ «پایان همه‌چیزِ» ام. جان هریسون برنده شد",
+          "source": "NPR Books",
+          "published": "2026-11-15T10:31:58.077054+03:30",
+          "original_url": "https://www.npr.org/2026/11/14/nx-s1-6037700/m-john-harrison-makes-history-as-first-sci-fi-author-to-win-the-booker-prize",
+          "subcategory": "report",
+          "post_id": 584
+        },
         {
           "id": "«جشنوارهٔ آمریکا» در فرانسه؛ طنین صدای نویسندگان آمریکایی در ونسان",
           "title": "«جشنوارهٔ آمریکا» در فرانسه؛ طنین صدای نویسندگان آمریکایی در ونسان",
@@ -2390,7 +2426,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 20
+      "item_count": 21
     },
     {
       "id": "interview",
@@ -3304,6 +3340,24 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "آموزه‌های ام. اف. کی. فیشر برای خاطره‌نویسان معاصر؛ پیوند هوشمندی و لذت در جستارنویسی",
+          "title": "آموزه‌های ام. اف. کی. فیشر برای خاطره‌نویسان معاصر؛ پیوند هوشمندی و لذت در جستارنویسی",
+          "source": "The Atlantic Books",
+          "published": "2026-11-15T10:31:58.708566+03:30",
+          "original_url": "https://www.theatlantic.com/books/2026/11/m-f-k-fisher-made-food-writing-pleasurable-book-review/689398/?utm_source=feed",
+          "subcategory": "essay",
+          "post_id": 585
+        },
+        {
+          "id": "زیر و رو شدن جهان ادبیات با هوش مصنوعی؛ از رمان‌نویسی انبوه تا جنجال‌های حقوقی",
+          "title": "زیر و رو شدن جهان ادبیات با هوش مصنوعی؛ از رمان‌نویسی انبوه تا جنجال‌های حقوقی",
+          "source": "The Guardian Books",
+          "published": "2026-11-15T10:31:56.208378+03:30",
+          "original_url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+          "subcategory": "essay",
+          "post_id": 583
+        },
+        {
           "id": "مروری بر تازه‌ترین کتاب‌های ماه؛ از خاطرات جنیفر کرافت تا تاریخچهٔ قلم",
           "title": "مروری بر تازه‌ترین کتاب‌های ماه؛ از خاطرات جنیفر کرافت تا تاریخچهٔ قلم",
           "source": "The Paris Review",
@@ -4438,8 +4492,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 126
+      "item_count": 128
     }
   ],
-  "total_items": 244
+  "total_items": 247
 }
