@@ -1279,6 +1279,27 @@
       ]
     },
     {
+      "name": "Mary Cassatt",
+      "painting_count": 1,
+      "paintings": [
+        {
+          "id": "artic_26650",
+          "title": "On a Balcony",
+          "artist": "Mary Cassatt",
+          "year": "1878–79",
+          "museum": "Art Institute of Chicago",
+          "movement": "Impressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "United States",
+          "image_url": "https://lh3.googleusercontent.com/d/1XGZri7hDXBAS0QQH5W9aCjYH1pchkxVw",
+          "published": "2026-11-15T21:31:02.814386",
+          "original_url": "https://www.artic.edu/iiif/2/f0150d21-33ab-f6ea-0d4d-32d459f091fe/full/900,/0/default.jpg",
+          "post_id": 587
+        }
+      ]
+    },
+    {
       "name": "Max Ernst",
       "painting_count": 1,
       "paintings": [
