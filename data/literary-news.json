@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "کیت مک‌کین و تشبیه هنر داستان‌نویسی به بافندگی: پیش‌نویس اول هیچ‌کس بی‌نقص نیست",
+          "title": "کیت مک‌کین و تشبیه هنر داستان‌نویسی به بافندگی: پیش‌نویس اول هیچ‌کس بی‌نقص نیست",
+          "source": "Literary Hub",
+          "published": "2026-11-16T10:32:11.936806+03:30",
+          "original_url": "https://lithub.com/everybodys-first-drafts-are-bad/",
+          "subcategory": "essay",
+          "post_id": 590
+        },
+        {
+          "id": "قدرت کلمه و هراس حکومت‌ها؛ گرامیداشت روز جهانی نویسندگان زندانی",
+          "title": "قدرت کلمه و هراس حکومت‌ها؛ گرامیداشت روز جهانی نویسندگان زندانی",
+          "source": "PEN America",
+          "published": "2026-11-16T10:32:09.441628+03:30",
+          "original_url": "https://pen.org/why-governments-try-to-silence-writers/",
+          "subcategory": "essay",
+          "post_id": 589
+        },
+        {
+          "id": "ژوشوا کوئن و بازآفرینیِ سرنوشتِ تراژیکِ فرزندانِ تئودور هرتسل در رمانی تازه",
+          "title": "ژوشوا کوئن و بازآفرینیِ سرنوشتِ تراژیکِ فرزندانِ تئودور هرتسل در رمانی تازه",
+          "source": "The New Yorker",
+          "published": "2026-11-16T10:32:08.693650+03:30",
+          "original_url": "https://www.newyorker.com/books/this-week-in-fiction/joshua-cohen-11-23-2026",
+          "subcategory": "essay",
+          "post_id": 588
+        },
+        {
           "id": "آموزه‌های ام. اف. کی. فیشر برای خاطره‌نویسان معاصر؛ پیوند هوشمندی و لذت در جستارنویسی",
           "title": "آموزه‌های ام. اف. کی. فیشر برای خاطره‌نویسان معاصر؛ پیوند هوشمندی و لذت در جستارنویسی",
           "source": "The Atlantic Books",
@@ -2229,7 +2256,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 247
+      "item_count": 250
     },
     {
       "id": "report",
@@ -3340,6 +3367,33 @@
       "title_fa": "✦ نقد و جستار",
       "items": [
         {
+          "id": "کیت مک‌کین و تشبیه هنر داستان‌نویسی به بافندگی: پیش‌نویس اول هیچ‌کس بی‌نقص نیست",
+          "title": "کیت مک‌کین و تشبیه هنر داستان‌نویسی به بافندگی: پیش‌نویس اول هیچ‌کس بی‌نقص نیست",
+          "source": "Literary Hub",
+          "published": "2026-11-16T10:32:11.936806+03:30",
+          "original_url": "https://lithub.com/everybodys-first-drafts-are-bad/",
+          "subcategory": "essay",
+          "post_id": 590
+        },
+        {
+          "id": "قدرت کلمه و هراس حکومت‌ها؛ گرامیداشت روز جهانی نویسندگان زندانی",
+          "title": "قدرت کلمه و هراس حکومت‌ها؛ گرامیداشت روز جهانی نویسندگان زندانی",
+          "source": "PEN America",
+          "published": "2026-11-16T10:32:09.441628+03:30",
+          "original_url": "https://pen.org/why-governments-try-to-silence-writers/",
+          "subcategory": "essay",
+          "post_id": 589
+        },
+        {
+          "id": "ژوشوا کوئن و بازآفرینیِ سرنوشتِ تراژیکِ فرزندانِ تئودور هرتسل در رمانی تازه",
+          "title": "ژوشوا کوئن و بازآفرینیِ سرنوشتِ تراژیکِ فرزندانِ تئودور هرتسل در رمانی تازه",
+          "source": "The New Yorker",
+          "published": "2026-11-16T10:32:08.693650+03:30",
+          "original_url": "https://www.newyorker.com/books/this-week-in-fiction/joshua-cohen-11-23-2026",
+          "subcategory": "essay",
+          "post_id": 588
+        },
+        {
           "id": "آموزه‌های ام. اف. کی. فیشر برای خاطره‌نویسان معاصر؛ پیوند هوشمندی و لذت در جستارنویسی",
           "title": "آموزه‌های ام. اف. کی. فیشر برای خاطره‌نویسان معاصر؛ پیوند هوشمندی و لذت در جستارنویسی",
           "source": "The Atlantic Books",
@@ -4492,8 +4546,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 128
+      "item_count": 131
     }
   ],
-  "total_items": 247
+  "total_items": 250
 }
