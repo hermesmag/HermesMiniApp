@@ -169,6 +169,42 @@
       ]
     },
     {
+      "name": "Amedeo Modigliani",
+      "painting_count": 2,
+      "paintings": [
+        {
+          "id": "artic_27987",
+          "title": "Jacques and Berthe Lipchitz",
+          "artist": "Amedeo Modigliani",
+          "year": "1916",
+          "museum": "Art Institute of Chicago",
+          "movement": "Expressionism",
+          "medium": "Oil on canvas",
+          "art_form": "نقاشی",
+          "country": "Italy",
+          "image_url": "https://lh3.googleusercontent.com/d/1QyDt8jpeRd6MortlFbbIenYS3eEAv9tP",
+          "published": "2026-09-14T21:31:02.656662",
+          "original_url": "https://www.artic.edu/iiif/2/7e649536-b186-c3f5-3e6d-0d22d5d798ef/full/900,/0/default.jpg",
+          "post_id": 190
+        },
+        {
+          "id": "artic_45254",
+          "title": "Caryatid",
+          "artist": "Amedeo Modigliani",
+          "year": "c. 1913",
+          "museum": "Art Institute of Chicago",
+          "movement": "Modernism",
+          "medium": "Watercolor, over graphite on buff wove paper",
+          "art_form": "طراحی و چاپ",
+          "country": "Italy",
+          "image_url": "https://lh3.googleusercontent.com/d/1Gy3lrEbGcQMAcZFVKZxXQA3x5BTum0d5",
+          "published": "2026-11-16T21:31:00.725429",
+          "original_url": "https://www.artic.edu/iiif/2/4f7bebb2-8eb2-5e1e-e5e3-370e83b99db2/full/900,/0/default.jpg",
+          "post_id": 592
+        }
+      ]
+    },
+    {
       "name": "Claude Monet",
       "painting_count": 2,
       "paintings": [
@@ -582,27 +618,6 @@
           "published": "2026-09-10T21:30:58.246306",
           "original_url": "https://images.metmuseum.org/CRDImages/an/original/DP-23662-001.jpg",
           "post_id": 167
-        }
-      ]
-    },
-    {
-      "name": "Amedeo Modigliani",
-      "painting_count": 1,
-      "paintings": [
-        {
-          "id": "artic_27987",
-          "title": "Jacques and Berthe Lipchitz",
-          "artist": "Amedeo Modigliani",
-          "year": "1916",
-          "museum": "Art Institute of Chicago",
-          "movement": "Expressionism",
-          "medium": "Oil on canvas",
-          "art_form": "نقاشی",
-          "country": "Italy",
-          "image_url": "https://lh3.googleusercontent.com/d/1QyDt8jpeRd6MortlFbbIenYS3eEAv9tP",
-          "published": "2026-09-14T21:31:02.656662",
-          "original_url": "https://www.artic.edu/iiif/2/7e649536-b186-c3f5-3e6d-0d22d5d798ef/full/900,/0/default.jpg",
-          "post_id": 190
         }
       ]
     },
