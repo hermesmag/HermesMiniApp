@@ -6,6 +6,33 @@
       "title_fa": "آخرین مطالب",
       "items": [
         {
+          "id": "دروازه‌بانان؛ روایتی از محاصره و ایستادگی در روستای ام‌الخیر کرانه باختری",
+          "title": "دروازه‌بانان؛ روایتی از محاصره و ایستادگی در روستای ام‌الخیر کرانه باختری",
+          "source": "The Paris Review",
+          "published": "2026-11-17T10:35:09.090962+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/11/16/gatekeepers-israeli-detention-palestine-jasper-nathaniel/",
+          "subcategory": "essay",
+          "post_id": 595
+        },
+        {
+          "id": "در گذشت زندانی نقاب‌پوش؛ روایتی تاریخی که الهام‌بخش دوما و ولتر شد",
+          "title": "در گذشت زندانی نقاب‌پوش؛ روایتی تاریخی که الهام‌بخش دوما و ولتر شد",
+          "source": "Literary Hub",
+          "published": "2026-11-17T10:35:06.908434+03:30",
+          "original_url": "https://lithub.com/this-week-in-literary-history-the-man-in-the-iron-mask-dies-in-the-bastille/",
+          "subcategory": "report",
+          "post_id": 594
+        },
+        {
+          "id": "بازخوانی داستان‌های کوئیر ویسایایی؛ روایت‌هایی از پایدارسازی یک سنت ادبی در فیلیپین",
+          "title": "بازخوانی داستان‌های کوئیر ویسایایی؛ روایت‌هایی از پایدارسازی یک سنت ادبی در فیلیپین",
+          "source": "Words Without Borders",
+          "published": "2026-11-17T10:35:04.759948+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-11/knots-and-answers-three-queer-bisayan-stories-in-translation-john-bengan/",
+          "subcategory": "world_lit",
+          "post_id": 593
+        },
+        {
           "id": "کیت مک‌کین و تشبیه هنر داستان‌نویسی به بافندگی: پیش‌نویس اول هیچ‌کس بی‌نقص نیست",
           "title": "کیت مک‌کین و تشبیه هنر داستان‌نویسی به بافندگی: پیش‌نویس اول هیچ‌کس بی‌نقص نیست",
           "source": "Literary Hub",
@@ -2256,13 +2283,22 @@
           "post_id": 7
         }
       ],
-      "item_count": 250
+      "item_count": 253
     },
     {
       "id": "report",
       "title_en": "Literary Reports",
       "title_fa": "✦ گزارش ادبی",
       "items": [
+        {
+          "id": "در گذشت زندانی نقاب‌پوش؛ روایتی تاریخی که الهام‌بخش دوما و ولتر شد",
+          "title": "در گذشت زندانی نقاب‌پوش؛ روایتی تاریخی که الهام‌بخش دوما و ولتر شد",
+          "source": "Literary Hub",
+          "published": "2026-11-17T10:35:06.908434+03:30",
+          "original_url": "https://lithub.com/this-week-in-literary-history-the-man-in-the-iron-mask-dies-in-the-bastille/",
+          "subcategory": "report",
+          "post_id": 594
+        },
         {
           "id": "چرخش تاریخی در جایزهٔ بوکر؛ «پایان همه‌چیزِ» ام. جان هریسون برنده شد",
           "title": "چرخش تاریخی در جایزهٔ بوکر؛ «پایان همه‌چیزِ» ام. جان هریسون برنده شد",
@@ -2453,7 +2489,7 @@
           "post_id": 7
         }
       ],
-      "item_count": 21
+      "item_count": 22
     },
     {
       "id": "interview",
@@ -2846,6 +2882,15 @@
       "title_fa": "✦ ادبیات جهان",
       "items": [
         {
+          "id": "بازخوانی داستان‌های کوئیر ویسایایی؛ روایت‌هایی از پایدارسازی یک سنت ادبی در فیلیپین",
+          "title": "بازخوانی داستان‌های کوئیر ویسایایی؛ روایت‌هایی از پایدارسازی یک سنت ادبی در فیلیپین",
+          "source": "Words Without Borders",
+          "published": "2026-11-17T10:35:04.759948+03:30",
+          "original_url": "https://wordswithoutborders.org/read/article/2026-11/knots-and-answers-three-queer-bisayan-stories-in-translation-john-bengan/",
+          "subcategory": "world_lit",
+          "post_id": 593
+        },
+        {
           "id": "آشنایی با ریگان میز، همکار تحریریهٔ جدید نشریهٔ «واژگان بدون مرز»",
           "title": "آشنایی با ریگان میز، همکار تحریریهٔ جدید نشریهٔ «واژگان بدون مرز»",
           "source": "Words Without Borders",
@@ -3359,13 +3404,22 @@
           "post_id": 8
         }
       ],
-      "item_count": 57
+      "item_count": 58
     },
     {
       "id": "essay",
       "title_en": "Essays & Criticism",
       "title_fa": "✦ نقد و جستار",
       "items": [
+        {
+          "id": "دروازه‌بانان؛ روایتی از محاصره و ایستادگی در روستای ام‌الخیر کرانه باختری",
+          "title": "دروازه‌بانان؛ روایتی از محاصره و ایستادگی در روستای ام‌الخیر کرانه باختری",
+          "source": "The Paris Review",
+          "published": "2026-11-17T10:35:09.090962+03:30",
+          "original_url": "https://www.theparisreview.org/blog/2026/11/16/gatekeepers-israeli-detention-palestine-jasper-nathaniel/",
+          "subcategory": "essay",
+          "post_id": 595
+        },
         {
           "id": "کیت مک‌کین و تشبیه هنر داستان‌نویسی به بافندگی: پیش‌نویس اول هیچ‌کس بی‌نقص نیست",
           "title": "کیت مک‌کین و تشبیه هنر داستان‌نویسی به بافندگی: پیش‌نویس اول هیچ‌کس بی‌نقص نیست",
@@ -4546,8 +4600,8 @@
           "post_id": 9
         }
       ],
-      "item_count": 131
+      "item_count": 132
     }
   ],
-  "total_items": 250
+  "total_items": 253
 }
